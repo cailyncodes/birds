@@ -1,5 +1,5 @@
-import { component$, useSignal, useVisibleTask$ } from "@builder.io/qwik";
-import type { DocumentHead } from "@builder.io/qwik-city";
+import { component$ } from "@builder.io/qwik";
+import { routeLoader$, type DocumentHead } from "@builder.io/qwik-city";
 
 interface Bird {
   id: number;
@@ -8,40 +8,37 @@ interface Bird {
   color: string;
 }
 
-export default component$(() => {
-  const birds = useSignal<Bird[]>([]);
-  const loading = useSignal(true);
-  const error = useSignal("");
+export const useBirds = routeLoader$(async () => {
+  try {
+    const response = await fetch("http://localhost:8000/api/birds");
+    const data = await response.json();
+    return { birds: data.birds as Bird[], error: null };
+  } catch (err) {
+    return { 
+      birds: [], 
+      error: err instanceof Error ? err.message : "Failed to fetch birds" 
+    };
+  }
+});
 
-  useVisibleTask$(async () => {
-    try {
-      const response = await fetch("/api/birds");
-      const data = await response.json();
-      birds.value = data.birds;
-      loading.value = false;
-    } catch (err) {
-      error.value = err instanceof Error ? err.message : "Failed to fetch birds";
-      loading.value = false;
-    }
-  });
+export default component$(() => {
+  const birdsData = useBirds();
 
   return (
     <>
       <h1>Birds API 🐦</h1>
       
-      {loading.value && <p>Loading birds...</p>}
-      
-      {error.value && (
+      {birdsData.value.error && (
         <div style="color: red; padding: 10px; background: #fee;">
-          Error: {error.value}
+          Error: {birdsData.value.error}
         </div>
       )}
       
-      {!loading.value && !error.value && (
+      {!birdsData.value.error && (
         <div style="margin-top: 20px;">
-          <h2>Bird List ({birds.value.length} birds)</h2>
+          <h2>Bird List ({birdsData.value.birds.length} birds)</h2>
           <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
-            {birds.value.map((bird) => (
+            {birdsData.value.birds.map((bird) => (
               <div 
                 key={bird.id}
                 style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; background: #f9f9f9; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
