@@ -38,7 +38,7 @@ export default component$(({ onListAdd$ }: ListManagerProps) => {
                         <input id="list-add-name" name="name" onInput$={(e) => newList.name = (e.target as HTMLInputElement).value}></input>
                         <label for="list-add-type">List Type: </label>
                         <input id="list-add-type" name="type" placeholder="World, ABA, NY, etc." onInput$={(e) => newList.type = (e.target as HTMLInputElement).value}></input>
-                        <FileUpload onFileSelect={handleFileUpload} />
+                        <FileUpload onFileSelect$={handleFileUpload} />
                         <p style={{ margin: "0.4rem" }}></p>
                         <button type="button" onClick$={$(() => {
                             onListAdd$(newList as List);

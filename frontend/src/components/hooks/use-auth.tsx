@@ -1,3 +1,3 @@
 import useLocalstorage from "./use-localstorage";
 
-export default () => useLocalstorage<string>({ key: "ebird-api-token" });
+export default function useAuth() { return  useLocalstorage<string>({ key: "ebird-api-token" }) }

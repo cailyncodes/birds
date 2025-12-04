@@ -1,12 +1,12 @@
-import { $, Signal, useOnWindow, useSignal, useVisibleTask$ } from "@builder.io/qwik";
+import { $, QRL, Signal, useOnWindow, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 
 
 interface UseLocalStorageArguments<T> {
     key: string;
-    transform$?: (data?: string) => Promise<T | undefined>
+    transform$?: QRL<(data?: string) => T | undefined>
 }
 
-export default function <T>({ key, transform$ = $((data?: string) => data as T) }: UseLocalStorageArguments<T>): Signal<T | undefined> {
+export default function useLocalStorage<T>({ key, transform$ = $((data?: string) => data as T) as QRL<(data?: string) => T | undefined> }: UseLocalStorageArguments<T>): Signal<T | undefined> {
     const signal = useSignal<T>();
     useOnWindow("localstorageupdate", $(async (e: CustomEvent) => {
         if (e.detail?.key != key) { return; }

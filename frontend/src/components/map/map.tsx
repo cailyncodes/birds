@@ -1,9 +1,9 @@
-import { component$, useSignal, useStore, useVisibleTask$ } from "@builder.io/qwik";
-import mapboxgl, { Marker, SourceSpecification } from 'mapbox-gl'
+import { component$, QRL, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder';
+import mapboxgl, { GeoJSONSourceSpecification, RasterArraySourceSpecification, SourceSpecification } from 'mapbox-gl';
 
-import 'mapbox-gl/dist/mapbox-gl.css';
 import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
+import 'mapbox-gl/dist/mapbox-gl.css';
 import "./map.css";
 
 const BIRDSPOT_DEFAULT = "mapbox://styles/cailyncodes/cmig9prkg008s01qthpjt4y1g";
@@ -30,15 +30,15 @@ const extractRegionInfoFromSearchResult = (result: MapboxGeocoder.Result) => {
     }, undefined);
 }
 
-export interface Source  {
+export interface Source {
     id: string;
-    specification: SourceSpecification;
+    specification: Modify<Exclude<SourceSpecification, RasterArraySourceSpecification>, Modify<GeoJSONSourceSpecification, { filter?: any[] }>>
 }
 
 interface MapProps {
     sources: Array<Source>;
     layers: Array<any>;
-    onLocationChange$: (location?: string) => void;
+    onLocationChange$: QRL<(location?: string) => void>;
 }
 
 export default component$(({ sources, layers, onLocationChange$ }: MapProps) => {

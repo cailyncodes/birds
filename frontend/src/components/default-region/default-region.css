@@ -146,14 +146,12 @@ button {
     background-color: var(--color-light);
 }
 
-.wrapper {
-    &-column {
-        max-width: 40rem;
-        width: 100%;
-        margin: 0 auto;
-        padding: 5rem 3rem;
-        border-radius: 0.25rem;
-        background-color: var(--color-white);
-        box-shadow: var(--shadow-medium);
-    }
+.wrapper-column {
+    max-width: 40rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 5rem 3rem;
+    border-radius: 0.25rem;
+    background-color: var(--color-white);
+    box-shadow: var(--shadow-medium);
 }

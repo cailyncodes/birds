@@ -1,4 +1,4 @@
-import { component$, useSignal, useVisibleTask$ } from "@builder.io/qwik";
+import { $, component$, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 import { DocumentHead } from "@builder.io/qwik-city";
 import Map, { type Source } from "~/components/map/map";
 
@@ -68,7 +68,7 @@ export default component$(() => {
             <Map
                 sources={sources.value}
                 layers={layers.value}
-                onLocationChange$={(location) => searchText.value = location ?? ''}
+                onLocationChange$={$((location?: string) => searchText.value = location ?? '')}
             />
         </div>
     )

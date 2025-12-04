@@ -1,10 +1,6 @@
-import { component$, useSignal, useStore, useVisibleTask$ } from "@builder.io/qwik";
+import { component$ } from "@builder.io/qwik";
 
-interface DashboardOverviewProps {
-
-}
-
-export default component$(({  }: DashboardOverviewProps) => {
+export default component$(() => {
     return (
         <div class='dashboard-overview-wrapper'>
             <p>TODO</p>
