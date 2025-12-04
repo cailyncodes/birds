@@ -1,0 +1,92 @@
+[
+    {
+        "code": "SD-NB",
+        "name": "Blue Nile, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-GD",
+        "name": "Gedaref, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-GZ",
+        "name": "Gezira, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-KA",
+        "name": "Kassala, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-KH",
+        "name": "Khartoum, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-DN",
+        "name": "North Darfur, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-KN",
+        "name": "North Kordofan, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-NO",
+        "name": "Northern, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-RS",
+        "name": "Red Sea, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-NR",
+        "name": "River Nile, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-SI",
+        "name": "Sennar, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-DS",
+        "name": "South Darfur, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-KS",
+        "name": "South Kordofan, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-DW",
+        "name": "West Darfur, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    },
+    {
+        "code": "SD-NW",
+        "name": "White Nile, Sudan",
+        "parent_code": "SD",
+        "parent_name": "Sudan"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "KW-AH",
+        "name": "Al Ahmadi, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    },
+    {
+        "code": "KW-FA",
+        "name": "Al Farwaniyah, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    },
+    {
+        "code": "KW-JA",
+        "name": "Al Jahrah, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    },
+    {
+        "code": "KW-KU",
+        "name": "Al Kuwayt, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    },
+    {
+        "code": "KW-HA",
+        "name": "Hawalli, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    },
+    {
+        "code": "KW-MU",
+        "name": "Mubarak al Kabir, Kuwait",
+        "parent_code": "KW",
+        "parent_name": "Kuwait"
+    }
+]

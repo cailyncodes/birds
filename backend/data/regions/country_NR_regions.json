@@ -1,0 +1,86 @@
+[
+    {
+        "code": "NR-01",
+        "name": "Aiwo, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-02",
+        "name": "Anabar, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-03",
+        "name": "Anetan, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-04",
+        "name": "Anibare, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-05",
+        "name": "Baiti, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-06",
+        "name": "Boe, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-07",
+        "name": "Buada, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-08",
+        "name": "Denigomodu, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-09",
+        "name": "Ewa, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-10",
+        "name": "Ijuw, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-11",
+        "name": "Meneng, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-12",
+        "name": "Nibok, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-13",
+        "name": "Uaboe, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    },
+    {
+        "code": "NR-14",
+        "name": "Yaren, Nauru",
+        "parent_code": "NR",
+        "parent_name": "Nauru"
+    }
+]

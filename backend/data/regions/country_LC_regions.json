@@ -1,0 +1,62 @@
+[
+    {
+        "code": "LC-01",
+        "name": "Anse la Raye, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-12",
+        "name": "Canaries, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-02",
+        "name": "Castries, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-03",
+        "name": "Choiseul, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-05",
+        "name": "Dennery, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-06",
+        "name": "Gros Islet, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-07",
+        "name": "Laborie, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-08",
+        "name": "Micoud, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-10",
+        "name": "Soufri\u00e8re, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    },
+    {
+        "code": "LC-11",
+        "name": "Vieux Fort, Saint Lucia",
+        "parent_code": "LC",
+        "parent_name": "Saint Lucia"
+    }
+]

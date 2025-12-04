@@ -1,0 +1,56 @@
+[
+    {
+        "code": "ZM-02",
+        "name": "Central, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-08",
+        "name": "Copperbelt, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-03",
+        "name": "Eastern, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-04",
+        "name": "Luapula, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-09",
+        "name": "Lusaka, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-06",
+        "name": "North-Western, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-05",
+        "name": "Northern, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-07",
+        "name": "Southern, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    },
+    {
+        "code": "ZM-01",
+        "name": "Western, Zambia",
+        "parent_code": "ZM",
+        "parent_name": "Zambia"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "code": "SM-01",
+        "name": "Acquaviva, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-06",
+        "name": "Borgo Maggiore, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-02",
+        "name": "Chiesanuova, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-03",
+        "name": "Domagnano, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-04",
+        "name": "Faetano, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-05",
+        "name": "Fiorentino, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-08",
+        "name": "Montegiardino, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-07",
+        "name": "San Marino, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    },
+    {
+        "code": "SM-09",
+        "name": "Serravalle, San Marino",
+        "parent_code": "SM",
+        "parent_name": "San Marino"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "code": "ID-JW-BT",
+        "name": "Banten, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-JW-JK",
+        "name": "Jakarta Raya, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-JW-JB",
+        "name": "Jawa Barat, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-JW-JT",
+        "name": "Jawa Tengah, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-JW-JI",
+        "name": "Jawa Timur, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-JW-YO",
+        "name": "Yogyakarta, Jawa, Indonesia",
+        "parent_code": "ID-JW",
+        "parent_name": "Jawa"
+    },
+    {
+        "code": "ID-KA-KB",
+        "name": "Kalimantan Barat, Kalimantan, Indonesia",
+        "parent_code": "ID-KA",
+        "parent_name": "Kalimantan"
+    },
+    {
+        "code": "ID-KA-KS",
+        "name": "Kalimantan Selatan, Kalimantan, Indonesia",
+        "parent_code": "ID-KA",
+        "parent_name": "Kalimantan"
+    },
+    {
+        "code": "ID-KA-KT",
+        "name": "Kalimantan Tengah, Kalimantan, Indonesia",
+        "parent_code": "ID-KA",
+        "parent_name": "Kalimantan"
+    },
+    {
+        "code": "ID-KA-KI",
+        "name": "Kalimantan Timur, Kalimantan, Indonesia",
+        "parent_code": "ID-KA",
+        "parent_name": "Kalimantan"
+    },
+    {
+        "code": "ID-MA-MA",
+        "name": "Maluku, Maluku, Indonesia",
+        "parent_code": "ID-MA",
+        "parent_name": "Maluku"
+    },
+    {
+        "code": "ID-MA-MU",
+        "name": "Maluku Utara, Maluku, Indonesia",
+        "parent_code": "ID-MA",
+        "parent_name": "Maluku"
+    },
+    {
+        "code": "ID-NU-BA",
+        "name": "Bali, Nusa Tenggara, Indonesia",
+        "parent_code": "ID-NU",
+        "parent_name": "Nusa Tenggara"
+    },
+    {
+        "code": "ID-NU-NB",
+        "name": "Nusa Tenggara Barat, Nusa Tenggara, Indonesia",
+        "parent_code": "ID-NU",
+        "parent_name": "Nusa Tenggara"
+    },
+    {
+        "code": "ID-NU-NT",
+        "name": "Nusa Tenggara Timur, Nusa Tenggara, Indonesia",
+        "parent_code": "ID-NU",
+        "parent_name": "Nusa Tenggara"
+    },
+    {
+        "code": "ID-IJ-PA",
+        "name": "Papua, Papua, Indonesia",
+        "parent_code": "ID-IJ",
+        "parent_name": "Papua"
+    },
+    {
+        "code": "ID-IJ-PB",
+        "name": "Papua Barat, Papua, Indonesia",
+        "parent_code": "ID-IJ",
+        "parent_name": "Papua"
+    },
+    {
+        "code": "ID-SL-GO",
+        "name": "Gorontalo, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SL-SR",
+        "name": "Sulawesi Barat, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SL-SN",
+        "name": "Sulawesi Selatan, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SL-ST",
+        "name": "Sulawesi Tengah, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SL-SG",
+        "name": "Sulawesi Tenggara, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SL-SA",
+        "name": "Sulawesi Utara, Sulawesi, Indonesia",
+        "parent_code": "ID-SL",
+        "parent_name": "Sulawesi"
+    },
+    {
+        "code": "ID-SM-AC",
+        "name": "Aceh, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-BB",
+        "name": "Bangka Belitung, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-BE",
+        "name": "Bengkulu, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-JA",
+        "name": "Jambi, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-KR",
+        "name": "Kepulauan Riau, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-LA",
+        "name": "Lampung, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-RI",
+        "name": "Riau, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-SB",
+        "name": "Sumatera Barat, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-SS",
+        "name": "Sumatera Selatan, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    },
+    {
+        "code": "ID-SM-SU",
+        "name": "Sumatera Utara, Sumatera, Indonesia",
+        "parent_code": "ID-SM",
+        "parent_name": "Sumatera"
+    }
+]

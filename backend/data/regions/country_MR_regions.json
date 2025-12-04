@@ -1,0 +1,80 @@
+[
+    {
+        "code": "MR-07",
+        "name": "Adrar, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-03",
+        "name": "Assaba, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-05",
+        "name": "Brakna, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-08",
+        "name": "Dakhlet Nou\u00e2dhibou, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-04",
+        "name": "Gorgol, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-10",
+        "name": "Guidimaka, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-01",
+        "name": "Hodh ech Chargui, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-02",
+        "name": "Hodh el Gharbi, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-12",
+        "name": "Inchiri, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-NKC",
+        "name": "Nouakchott, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-09",
+        "name": "Tagant, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-11",
+        "name": "Tiris Zemmour, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    },
+    {
+        "code": "MR-06",
+        "name": "Trarza, Mauritania",
+        "parent_code": "MR",
+        "parent_name": "Mauritania"
+    }
+]

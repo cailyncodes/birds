@@ -1,0 +1,122 @@
+[
+    {
+        "code": "PG-CPM",
+        "name": "Central, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-CPK",
+        "name": "Chimbu, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-EBR",
+        "name": "East New Britain, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-ESW",
+        "name": "East Sepik, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-EHG",
+        "name": "Eastern Highlands, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-EPW",
+        "name": "Enga, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-GPK",
+        "name": "Gulf, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-MPM",
+        "name": "Madang, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-MRL",
+        "name": "Manus, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-MBA",
+        "name": "Milne Bay, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-MPL",
+        "name": "Morobe, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-NCD",
+        "name": "National Capital District (Port Moresby), Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-NIK",
+        "name": "New Ireland, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-NSA",
+        "name": "North Solomons (Bougainville), Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-NPP",
+        "name": "Northern, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-SAN",
+        "name": "Sandaun (West Sepik), Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-SHM",
+        "name": "Southern Highlands, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-WBK",
+        "name": "West New Britain, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-WPD",
+        "name": "Western, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    },
+    {
+        "code": "PG-WHM",
+        "name": "Western Highlands, Papua New Guinea",
+        "parent_code": "PG",
+        "parent_name": "Papua New Guinea"
+    }
+]

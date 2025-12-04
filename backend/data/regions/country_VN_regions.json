@@ -1,0 +1,386 @@
+[
+    {
+        "code": "VN-44",
+        "name": "An Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-43",
+        "name": "Ba Ria-Vung Tau, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-54",
+        "name": "Bac Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-53",
+        "name": "Bac Kan, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-55",
+        "name": "Bac Lieu, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-56",
+        "name": "Bac Ninh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-50",
+        "name": "Ben Tre, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-31",
+        "name": "Binh Dinh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-57",
+        "name": "Binh Duong, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-58",
+        "name": "Binh Phuoc, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-40",
+        "name": "Binh Thuan, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-59",
+        "name": "Ca Mau, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-48",
+        "name": "Can Tho, thanh pho, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-04",
+        "name": "Cao Bang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-60",
+        "name": "Da Nang, thanh pho, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-33",
+        "name": "Dak Lak, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-72",
+        "name": "Dak Nong, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-71",
+        "name": "Dien Bien, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-39",
+        "name": "Dong Nai, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-45",
+        "name": "Dong Thap, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-30",
+        "name": "Gia Lai, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-03",
+        "name": "Ha Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-63",
+        "name": "Ha Nam, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-64",
+        "name": "Ha Noi, thanh pho, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-15",
+        "name": "Ha Tay, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-23",
+        "name": "Ha Tinh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-61",
+        "name": "Hai Duong, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-62",
+        "name": "Hai Phong, thanh pho, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-73",
+        "name": "Hau Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-14",
+        "name": "Hoa Binh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-66",
+        "name": "Hung Yen, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-34",
+        "name": "Khanh Hoa, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-47",
+        "name": "Kien Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-28",
+        "name": "Kon Tum, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-01",
+        "name": "Lai Chau, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-35",
+        "name": "Lam Dong, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-09",
+        "name": "Lang Son, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-02",
+        "name": "Lao Cai, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-41",
+        "name": "Long An, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-67",
+        "name": "Nam Dinh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-22",
+        "name": "Nghe An, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-18",
+        "name": "Ninh Binh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-36",
+        "name": "Ninh Thuan, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-68",
+        "name": "Phu Tho, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-32",
+        "name": "Phu Yen, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-24",
+        "name": "Quang Binh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-27",
+        "name": "Quang Nam, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-29",
+        "name": "Quang Ngai, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-13",
+        "name": "Quang Ninh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-25",
+        "name": "Quang Tri, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-65",
+        "name": "Sai Gon, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-52",
+        "name": "Soc Trang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-05",
+        "name": "Son La, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-37",
+        "name": "Tay Ninh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-20",
+        "name": "Thai Binh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-69",
+        "name": "Thai Nguyen, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-21",
+        "name": "Thanh Hoa, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-26",
+        "name": "Thua Thien-Hue, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-46",
+        "name": "Tien Giang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-51",
+        "name": "Tra Vinh, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-07",
+        "name": "Tuyen Quang, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-49",
+        "name": "Vinh Long, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-70",
+        "name": "Vinh Phuc, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    },
+    {
+        "code": "VN-06",
+        "name": "Yen Bai, Vietnam",
+        "parent_code": "VN",
+        "parent_name": "Vietnam"
+    }
+]

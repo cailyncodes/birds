@@ -1,0 +1,50 @@
+[
+    {
+        "code": "PK-JK",
+        "name": "Azad Kashmir, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-BA",
+        "name": "Baluchistan, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-TA",
+        "name": "Federally Administered Tribal Areas, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-IS",
+        "name": "Islamabad, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-NW",
+        "name": "North-West Frontier, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-NA",
+        "name": "Northern Areas, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-PB",
+        "name": "Punjab, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    },
+    {
+        "code": "PK-SD",
+        "name": "Sind, Pakistan",
+        "parent_code": "PK",
+        "parent_name": "Pakistan"
+    }
+]

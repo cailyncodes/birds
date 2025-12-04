@@ -1,0 +1,2414 @@
+[
+    {
+        "code": "DE-BW-UL2",
+        "name": "Alb-Donau-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-BAD",
+        "name": "Baden-Baden (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-BC",
+        "name": "Biberach, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-FN",
+        "name": "Bodenseekreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-FR2",
+        "name": "Breisgau-Hochschwarzwald, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-BB",
+        "name": "B\u00f6blingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-CW",
+        "name": "Calw, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-EM",
+        "name": "Emmendingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-PF2",
+        "name": "Enzkreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-ES",
+        "name": "Esslingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-FR1",
+        "name": "Freiburg im Breisgau (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-FDS",
+        "name": "Freudenstadt, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-GP",
+        "name": "G\u00f6ppingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-HD1",
+        "name": "Heidelberg (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-HDH",
+        "name": "Heidenheim, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-HN2",
+        "name": "Heilbronn, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-HN1",
+        "name": "Heilbronn (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-KUN",
+        "name": "Hohenlohekreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-KA2",
+        "name": "Karlsruhe, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-KA1",
+        "name": "Karlsruhe (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-KN",
+        "name": "Konstanz, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-LB",
+        "name": "Ludwigsburg, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-LO",
+        "name": "L\u00f6rrach, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-TBB",
+        "name": "Main-Tauber-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-MA",
+        "name": "Mannheim (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-MOS",
+        "name": "Neckar-Odenwald-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-OG",
+        "name": "Ortenaukreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-AA",
+        "name": "Ostalbkreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-PF1",
+        "name": "Pforzheim (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-RA",
+        "name": "Rastatt, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-RV",
+        "name": "Ravensburg, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-WN",
+        "name": "Rems-Murr-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-RT",
+        "name": "Reutlingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-HD2",
+        "name": "Rhein-Neckar-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-RW",
+        "name": "Rottweil, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-VS",
+        "name": "Schwarzwald-Baar-Kreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-SHA",
+        "name": "Schw\u00e4bisch Hall, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-SIG",
+        "name": "Sigmaringen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-S1",
+        "name": "Stuttgart (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-TUT",
+        "name": "Tuttlingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-TU",
+        "name": "T\u00fcbingen, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-UL1",
+        "name": "Ulm (Stadtkreis), Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-WT",
+        "name": "Waldshut, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BW-BL",
+        "name": "Zollernalbkreis, Baden-W\u00fcrttemberg, Germany",
+        "parent_code": "DE-BW",
+        "parent_name": "Baden-W\u00fcrttemberg"
+    },
+    {
+        "code": "DE-BY-AIC",
+        "name": "Aichach-Friedberg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AO",
+        "name": "Alt\u00f6tting, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AM",
+        "name": "Amberg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AS",
+        "name": "Amberg-Sulzbach, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AN2",
+        "name": "Ansbach, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AN1",
+        "name": "Ansbach (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AB2",
+        "name": "Aschaffenburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-AB1",
+        "name": "Aschaffenburg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-A2",
+        "name": "Augsburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-A1",
+        "name": "Augsburg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KG",
+        "name": "Bad Kissingen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-TOL",
+        "name": "Bad T\u00f6lz-Wolfratshausen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-BA2",
+        "name": "Bamberg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-BA1",
+        "name": "Bamberg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-BT2",
+        "name": "Bayreuth, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-BT1",
+        "name": "Bayreuth (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-BGL",
+        "name": "Berchtesgadener Land, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-CHA",
+        "name": "Cham, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-CO2",
+        "name": "Coburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-CO1",
+        "name": "Coburg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-DAH",
+        "name": "Dachau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-DEG",
+        "name": "Deggendorf, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-DLG",
+        "name": "Dillingen an der Donau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-DGF",
+        "name": "Dingolfing-Landau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-DON",
+        "name": "Donau-Ries, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-EBE",
+        "name": "Ebersberg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-EI",
+        "name": "Eichst\u00e4tt, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-ED",
+        "name": "Erding, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-ER",
+        "name": "Erlangen (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-ERH",
+        "name": "Erlangen-H\u00f6chstadt, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FO",
+        "name": "Forchheim, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FS",
+        "name": "Freising, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FRG",
+        "name": "Freyung-Grafenau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FFB",
+        "name": "F\u00fcrstenfeldbruck, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FU2",
+        "name": "F\u00fcrth, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-FU1",
+        "name": "F\u00fcrth (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-GAP",
+        "name": "Garmisch-Partenkirchen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-GZ",
+        "name": "G\u00fcnzburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-HAS",
+        "name": "Ha\u00dfberge, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-HO2",
+        "name": "Hof, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-HO1",
+        "name": "Hof (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-IN",
+        "name": "Ingolstadt (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KF",
+        "name": "Kaufbeuren (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KEH",
+        "name": "Kelheim, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KE",
+        "name": "Kempten (Allg\u00e4u), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KT",
+        "name": "Kitzingen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KC",
+        "name": "Kronach, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-KU",
+        "name": "Kulmbach, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LL",
+        "name": "Landsberg am Lech, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LA2",
+        "name": "Landshut, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LA1",
+        "name": "Landshut (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LIF",
+        "name": "Lichtenfels, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LI",
+        "name": "Lindau (Bodensee), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MSP",
+        "name": "Main-Spessart, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MM",
+        "name": "Memmingen (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MB",
+        "name": "Miesbach, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MIL",
+        "name": "Miltenberg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MU",
+        "name": "M\u00fchldorf am Inn, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-M2",
+        "name": "M\u00fcnchen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-M1",
+        "name": "M\u00fcnchen (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-NU",
+        "name": "Neu-Ulm, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-ND",
+        "name": "Neuburg-Schrobenhausen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-NM",
+        "name": "Neumarkt in der Oberpfalz, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-NEA",
+        "name": "Neustadt an der Aisch-Bad Windsheim (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-NEW",
+        "name": "Neustadt an der Waldnaab, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-N1",
+        "name": "N\u00fcrnberg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-LAU",
+        "name": "N\u00fcrnberger Land, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-OA",
+        "name": "Oberallg\u00e4u, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-OAL",
+        "name": "Ostallg\u00e4u, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-PA2",
+        "name": "Passau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-PA1",
+        "name": "Passau (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-PAF",
+        "name": "Pfaffenhofen an der Ilm, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-REG",
+        "name": "Regen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-R2",
+        "name": "Regensburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-R1",
+        "name": "Regensburg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-NES",
+        "name": "Rh\u00f6n-Grabfeld, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-RO2",
+        "name": "Rosenheim, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-RO1",
+        "name": "Rosenheim (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-RH",
+        "name": "Roth, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-PAN",
+        "name": "Rottal-Inn, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SC",
+        "name": "Schwabach (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SAD",
+        "name": "Schwandorf, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SW2",
+        "name": "Schweinfurt, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SW1",
+        "name": "Schweinfurt (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-STA",
+        "name": "Starnberg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SR1",
+        "name": "Straubing (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-SR2",
+        "name": "Straubing-Bogen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-TIR",
+        "name": "Tirschenreuth, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-TS",
+        "name": "Traunstein, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-MN",
+        "name": "Unterallg\u00e4u, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WEN",
+        "name": "Weiden in der Oberpfalz (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WM",
+        "name": "Weilheim-Schongau, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WUG",
+        "name": "Wei\u00dfenburg-Gunzenhausen, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WUN",
+        "name": "Wunsiedel im Fichtelgebirge, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WU2",
+        "name": "W\u00fcrzburg, Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BY-WU1",
+        "name": "W\u00fcrzburg (Kreisfreie Stadt), Bayern, Germany",
+        "parent_code": "DE-BY",
+        "parent_name": "Bayern"
+    },
+    {
+        "code": "DE-BE-B1",
+        "name": "Berlin (Kreisfreie Stadt), Berlin, Germany",
+        "parent_code": "DE-BE",
+        "parent_name": "Berlin"
+    },
+    {
+        "code": "DE-BB-BAR",
+        "name": "Barnim, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-BRB",
+        "name": "Brandenburg an der Havel (Kreisfreie Stadt), Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-CB",
+        "name": "Cottbus (Kreisfreie Stadt), Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-LDS",
+        "name": "Dahme-Spreewald, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-EE",
+        "name": "Elbe-Elster, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-FF",
+        "name": "Frankfurt (Oder) (Kreisfreie Stadt), Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-HVL",
+        "name": "Havelland, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-MOL",
+        "name": "M\u00e4rkisch-Oderland, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-OHV",
+        "name": "Oberhavel, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-OSL",
+        "name": "Oberspreewald-Lausitz, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-LOS",
+        "name": "Oder-Spree, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-OPR",
+        "name": "Ostprignitz-Ruppin, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-P1",
+        "name": "Potsdam (Kreisfreie Stadt), Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-PM",
+        "name": "Potsdam-Mittelmark, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-PR",
+        "name": "Prignitz, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-SPN",
+        "name": "Spree-Nei\u00dfe, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-TF",
+        "name": "Teltow-Fl\u00e4ming, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-BB-UM",
+        "name": "Uckermark, Brandenburg, Germany",
+        "parent_code": "DE-BB",
+        "parent_name": "Brandenburg"
+    },
+    {
+        "code": "DE-HB-HB",
+        "name": "Bremen (Freie Hansestadt), Bremen, Germany",
+        "parent_code": "DE-HB",
+        "parent_name": "Bremen"
+    },
+    {
+        "code": "DE-HB-HBH",
+        "name": "Bremerhaven (Kreisfreie Stadt), Bremen, Germany",
+        "parent_code": "DE-HB",
+        "parent_name": "Bremen"
+    },
+    {
+        "code": "DE-HH-HH",
+        "name": "Hamburg (Kreisfreie Stadt), Hamburg, Germany",
+        "parent_code": "DE-HH",
+        "parent_name": "Hamburg"
+    },
+    {
+        "code": "DE-HH-NW",
+        "name": "Neuwerk, Hamburg, Germany",
+        "parent_code": "DE-HH",
+        "parent_name": "Hamburg"
+    },
+    {
+        "code": "DE-HE-HP",
+        "name": "Bergstra\u00dfe, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-DA1",
+        "name": "Darmstadt (Kreisfreie Stadt), Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-DA2",
+        "name": "Darmstadt-Dieburg, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-F1",
+        "name": "Frankfurt am Main (Kreisfreie Stadt), Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-FD",
+        "name": "Fulda, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-GI",
+        "name": "Gie\u00dfen, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-GG",
+        "name": "Gro\u00df-Gerau, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-HEF",
+        "name": "Hersfeld-Rotenburg, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-HG",
+        "name": "Hochtaunuskreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-KS2",
+        "name": "Kassel, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-KS1",
+        "name": "Kassel (Kreisfreie Stadt), Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-LDK",
+        "name": "Lahn-Dill-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-LM",
+        "name": "Limburg-Weilburg, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-MKK",
+        "name": "Main-Kinzig-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-MTK",
+        "name": "Main-Taunus-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-MR",
+        "name": "Marburg-Biedenkopf, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-OK",
+        "name": "Odenwaldkreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-OF2",
+        "name": "Offenbach, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-OF1",
+        "name": "Offenbach am Main, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-RUD",
+        "name": "Rheingau-Taunus-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-HR",
+        "name": "Schwalm-Eder-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-VB",
+        "name": "Vogelsbergkreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-KB",
+        "name": "Waldeck-Frankenberg, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-ESW",
+        "name": "Werra-Mei\u00dfner-Kreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-FB",
+        "name": "Wetteraukreis, Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-HE-WI",
+        "name": "Wiesbaden (Kreisfreie Stadt), Hessen, Germany",
+        "parent_code": "DE-HE",
+        "parent_name": "Hessen"
+    },
+    {
+        "code": "DE-MV-LUP",
+        "name": "Ludwigslust-Parchim, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-MSE",
+        "name": "Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-NWM",
+        "name": "Nordwestmecklenburg, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-LRO",
+        "name": "Rostock, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-HRO",
+        "name": "Rostock (Kreisfreie Stadt), Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-SN",
+        "name": "Schwerin (Kreisfreie Stadt), Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-VG",
+        "name": "Vorpommern-Greifswald, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-MV-VR",
+        "name": "Vorpommern-R\u00fcgen, Mecklenburg-Vorpommern, Germany",
+        "parent_code": "DE-MV",
+        "parent_name": "Mecklenburg-Vorpommern"
+    },
+    {
+        "code": "DE-NI-WST",
+        "name": "Ammerland, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-AUR",
+        "name": "Aurich, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-BS",
+        "name": "Braunschweig (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-CE",
+        "name": "Celle, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-CLP",
+        "name": "Cloppenburg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-CUX",
+        "name": "Cuxhaven, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-DEL",
+        "name": "Delmenhorst (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-DH",
+        "name": "Diepholz, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-EMD",
+        "name": "Emden (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-EL",
+        "name": "Emsland, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-FRI",
+        "name": "Friesland, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-GF",
+        "name": "Gifhorn, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-GS",
+        "name": "Goslar, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-NOH",
+        "name": "Grafschaft Bentheim, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-GO",
+        "name": "G\u00f6ttingen, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-HM",
+        "name": "Hameln-Pyrmont, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-WL",
+        "name": "Harburg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-HK",
+        "name": "Heidekreis, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-HE",
+        "name": "Helmstedt, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-HI",
+        "name": "Hildesheim, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-HOL",
+        "name": "Holzminden, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-LER",
+        "name": "Leer, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-DAN",
+        "name": "L\u00fcchow-Dannenberg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-LG",
+        "name": "L\u00fcneburg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-NI",
+        "name": "Nienburg (Weser), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-NOM",
+        "name": "Northeim, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-OL2",
+        "name": "Oldenburg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-OL1",
+        "name": "Oldenburg (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-OS2",
+        "name": "Osnabr\u00fcck, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-OS1",
+        "name": "Osnabr\u00fcck (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-OHZ",
+        "name": "Osterholz, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-PE",
+        "name": "Peine, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-H1",
+        "name": "Region Hannover, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-ROW",
+        "name": "Rotenburg (W\u00fcmme), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-SZ",
+        "name": "Salzgitter (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-SHG",
+        "name": "Schaumburg, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-STD",
+        "name": "Stade, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-UE",
+        "name": "Uelzen, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-VEC",
+        "name": "Vechta, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-VER",
+        "name": "Verden, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-BRA",
+        "name": "Wesermarsch, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-WHV",
+        "name": "Wilhelmshaven (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-WTM",
+        "name": "Wittmund, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-WF",
+        "name": "Wolfenb\u00fcttel, Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NI-WOB",
+        "name": "Wolfsburg (Kreisfreie Stadt), Niedersachsen, Germany",
+        "parent_code": "DE-NI",
+        "parent_name": "Niedersachsen"
+    },
+    {
+        "code": "DE-NW-BI",
+        "name": "Bielefeld (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-BO",
+        "name": "Bochum (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-BN",
+        "name": "Bonn (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-BOR",
+        "name": "Borken, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-BOT",
+        "name": "Bottrop (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-COE",
+        "name": "Coesfeld, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-DO",
+        "name": "Dortmund (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-DU",
+        "name": "Duisburg (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-DN",
+        "name": "D\u00fcren, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-D1",
+        "name": "D\u00fcsseldorf (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-EN",
+        "name": "Ennepe-Ruhr-Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-E1",
+        "name": "Essen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-EU",
+        "name": "Euskirchen, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-GE",
+        "name": "Gelsenkirchen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-GT",
+        "name": "G\u00fctersloh, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HA",
+        "name": "Hagen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HAM",
+        "name": "Hamm (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HS",
+        "name": "Heinsberg, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HF",
+        "name": "Herford, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HER",
+        "name": "Herne (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HSK",
+        "name": "Hochsauerlandkreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-HX",
+        "name": "H\u00f6xter, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-KLE",
+        "name": "Kleve, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-KR",
+        "name": "Krefeld (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-K1",
+        "name": "K\u00f6ln (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-LEV",
+        "name": "Leverkusen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-LIP",
+        "name": "Lippe, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-ME",
+        "name": "Mettmann, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-MI",
+        "name": "Minden-L\u00fcbbecke, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-MK",
+        "name": "M\u00e4rkischer Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-MG",
+        "name": "M\u00f6nchengladbach (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-MH",
+        "name": "M\u00fclheim an der Ruhr (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-MS",
+        "name": "M\u00fcnster (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-GM",
+        "name": "Oberbergischer Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-OB",
+        "name": "Oberhausen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-OE",
+        "name": "Olpe, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-PB",
+        "name": "Paderborn, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-RE",
+        "name": "Recklinghausen, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-RS",
+        "name": "Remscheid (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-BM",
+        "name": "Rhein-Erft-Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-NE",
+        "name": "Rhein-Kreis Neuss, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-SU",
+        "name": "Rhein-Sieg-Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-GL",
+        "name": "Rheinisch-Bergischer Kreis, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-SI",
+        "name": "Siegen-Wittgenstein, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-SO",
+        "name": "Soest, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-SG",
+        "name": "Solingen (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-ST",
+        "name": "Steinfurt, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-AC",
+        "name": "St\u00e4dteregion Aachen, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-UN",
+        "name": "Unna, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-VIE",
+        "name": "Viersen, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-WAF",
+        "name": "Warendorf, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-WES",
+        "name": "Wesel, Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-NW-W1",
+        "name": "Wuppertal (Kreisfreie Stadt), Nordrhein-Westfalen, Germany",
+        "parent_code": "DE-NW",
+        "parent_name": "Nordrhein-Westfalen"
+    },
+    {
+        "code": "DE-RP-AW",
+        "name": "Ahrweiler, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-AK",
+        "name": "Altenkirchen (Westerwald), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-AZ",
+        "name": "Alzey-Worms, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-DUW",
+        "name": "Bad D\u00fcrkheim, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KH",
+        "name": "Bad Kreuznach, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-WIL",
+        "name": "Bernkastel-Wittlich, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-BIR",
+        "name": "Birkenfeld, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-COC",
+        "name": "Cochem-Zell, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KIB",
+        "name": "Donnersbergkreis, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-BIT",
+        "name": "Eifelkreis Bitburg-Pr\u00fcm, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-FT",
+        "name": "Frankenthal (Pfalz) (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-GER",
+        "name": "Germersheim, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KL2",
+        "name": "Kaiserslautern, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KL1",
+        "name": "Kaiserslautern (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KO",
+        "name": "Koblenz (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-KUS",
+        "name": "Kusel, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-LD",
+        "name": "Landau in der Pfalz (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-LU",
+        "name": "Ludwigshafen am Rhein (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-MZ1",
+        "name": "Mainz (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-MZ2",
+        "name": "Mainz-Bingen, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-MYK",
+        "name": "Mayen-Koblenz, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-NW",
+        "name": "Neustadt an der Weinstra\u00dfe (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-NR",
+        "name": "Neuwied, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-PS1",
+        "name": "Pirmasens (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-SIM",
+        "name": "Rhein-Hunsr\u00fcck-Kreis, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-EMS",
+        "name": "Rhein-Lahn-Kreis, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-RP",
+        "name": "Rhein-Pfalz-Kreis, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-SP",
+        "name": "Speyer (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-SUW",
+        "name": "S\u00fcdliche Weinstra\u00dfe, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-PS2",
+        "name": "S\u00fcdwestpfalz, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-TR1",
+        "name": "Trier (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-TR2",
+        "name": "Trier-Saarburg, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-DAU",
+        "name": "Vulkaneifel, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-WW",
+        "name": "Westerwaldkreis, Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-WO",
+        "name": "Worms (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-RP-ZW",
+        "name": "Zweibr\u00fccken (Kreisfreie Stadt), Rheinland-Pfalz, Germany",
+        "parent_code": "DE-RP",
+        "parent_name": "Rheinland-Pfalz"
+    },
+    {
+        "code": "DE-SL-MZG",
+        "name": "Merzig-Wadern, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SL-NK",
+        "name": "Neunkirchen, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SL-SB",
+        "name": "Regionalverband Saarbr\u00fccken, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SL-SLS",
+        "name": "Saarlouis, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SL-HOM",
+        "name": "Saarpfalz-Kreis, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SL-WND",
+        "name": "St. Wendel, Saarland, Germany",
+        "parent_code": "DE-SL",
+        "parent_name": "Saarland"
+    },
+    {
+        "code": "DE-SN-BZ",
+        "name": "Bautzen, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-C1",
+        "name": "Chemnitz (Kreisfreie Stadt), Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-DD",
+        "name": "Dresden (Kreisfreie Stadt), Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-ERZ",
+        "name": "Erzgebirgskreis, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-GR",
+        "name": "G\u00f6rlitz, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-L2",
+        "name": "Leipzig, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-L1",
+        "name": "Leipzig (Kreisfreie Stadt), Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-MEI",
+        "name": "Mei\u00dfen, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-FG",
+        "name": "Mittelsachsen, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-TDO",
+        "name": "Nordsachsen, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-PIR",
+        "name": "S\u00e4chsische Schweiz-Osterzgebirge, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-V1",
+        "name": "Vogtlandkreis, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-SN-Z1",
+        "name": "Zwickau, Sachsen, Germany",
+        "parent_code": "DE-SN",
+        "parent_name": "Sachsen"
+    },
+    {
+        "code": "DE-ST-SAW",
+        "name": "Altmarkkreis Salzwedel, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-ABI",
+        "name": "Anhalt-Bitterfeld, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-BLK",
+        "name": "Burgenlandkreis, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-BK",
+        "name": "B\u00f6rde, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-DE",
+        "name": "Dessau-Ro\u00dflau (Kreisfreie Stadt), Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-HAL",
+        "name": "Halle (Saale) (Kreisfreie Stadt), Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-HZ",
+        "name": "Harz, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-JL",
+        "name": "Jerichower Land, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-MD",
+        "name": "Magdeburg (Kreisfreie Stadt), Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-MSH",
+        "name": "Mansfeld-S\u00fcdharz, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-SK",
+        "name": "Saalekreis, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-SLK",
+        "name": "Salzlandkreis, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-SDL",
+        "name": "Stendal, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-ST-WB",
+        "name": "Wittenberg, Sachsen-Anhalt, Germany",
+        "parent_code": "DE-ST",
+        "parent_name": "Sachsen-Anhalt"
+    },
+    {
+        "code": "DE-SH-HEI",
+        "name": "Dithmarschen, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-FL",
+        "name": "Flensburg (Kreisfreie Stadt), Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-HEL",
+        "name": "Helgoland, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-RZ",
+        "name": "Herzogtum Lauenburg, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-KI",
+        "name": "Kiel (Kreisfreie Stadt), Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-HL",
+        "name": "L\u00fcbeck (Kreisfreie Stadt), Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-NMS",
+        "name": "Neum\u00fcnster (Kreisfreie Stadt), Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-NF",
+        "name": "Nordfriesland, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-OH",
+        "name": "Ostholstein, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-PI",
+        "name": "Pinneberg, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-PLO",
+        "name": "Pl\u00f6n, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-RD",
+        "name": "Rendsburg-Eckernf\u00f6rde, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-SL",
+        "name": "Schleswig-Flensburg, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-SE",
+        "name": "Segeberg, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-IZ",
+        "name": "Steinburg, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-SH-OD",
+        "name": "Stormarn, Schleswig-Holstein, Germany",
+        "parent_code": "DE-SH",
+        "parent_name": "Schleswig-Holstein"
+    },
+    {
+        "code": "DE-TH-ABG",
+        "name": "Altenburger Land, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-EIC",
+        "name": "Eichsfeld, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-EF",
+        "name": "Erfurt (Kreisfreie Stadt), Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-G1",
+        "name": "Gera (Kreisfreie Stadt), Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-GTH",
+        "name": "Gotha, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-GRZ",
+        "name": "Greiz, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-HBN",
+        "name": "Hildburghausen, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-IK",
+        "name": "Ilm-Kreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-J1",
+        "name": "Jena, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-KYF",
+        "name": "Kyffh\u00e4userkreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-NDH",
+        "name": "Nordhausen, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SHK",
+        "name": "Saale-Holzland-Kreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SOK",
+        "name": "Saale-Orla-Kreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SLF",
+        "name": "Saalfeld-Rudolstadt, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SM",
+        "name": "Schmalkalden-Meiningen, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SON",
+        "name": "Sonneberg, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SHL",
+        "name": "Suhl (Kreisfreie Stadt), Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-SOM",
+        "name": "S\u00f6mmerda, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-UH",
+        "name": "Unstrut-Hainich-Kreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-WAK",
+        "name": "Wartburgkreis, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-WE",
+        "name": "Weimar (Kreisfreie Stadt), Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    },
+    {
+        "code": "DE-TH-AP",
+        "name": "Weimarer Land, Th\u00fcringen, Germany",
+        "parent_code": "DE-TH",
+        "parent_name": "Th\u00fcringen"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "code": "UA-71",
+        "name": "Cherkas'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-74",
+        "name": "Chernihivs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-77",
+        "name": "Chernivets'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-12",
+        "name": "Dnipropetrovs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-14",
+        "name": "Donets'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-26",
+        "name": "Ivano-Frankivs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-63",
+        "name": "Kharkivs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-65",
+        "name": "Khersons'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-68",
+        "name": "Khmel'nyts'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-35",
+        "name": "Kirovohrads'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-30",
+        "name": "Ky\u00efv, Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-32",
+        "name": "Ky\u00efvs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-46",
+        "name": "L'vivs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-09",
+        "name": "Luhans'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-48",
+        "name": "Mykola\u00efvs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-51",
+        "name": "Odes'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-53",
+        "name": "Poltavs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-43",
+        "name": "Respublika Krym, Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-56",
+        "name": "Rivnens'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-40",
+        "name": "Sevastopol', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-59",
+        "name": "Sums'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-61",
+        "name": "Ternopil's'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-05",
+        "name": "Vinnyts'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-07",
+        "name": "Volyns'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-21",
+        "name": "Zakarpats'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-23",
+        "name": "Zaporiz'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    },
+    {
+        "code": "UA-18",
+        "name": "Zhytomyrs'ka Oblast', Ukraine",
+        "parent_code": "UA",
+        "parent_name": "Ukraine"
+    }
+]

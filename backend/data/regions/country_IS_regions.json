@@ -1,0 +1,50 @@
+[
+    {
+        "code": "IS-7",
+        "name": "Austurland, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-1",
+        "name": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-6",
+        "name": "Nor\u00f0urland eystra, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-5",
+        "name": "Nor\u00f0urland vestra, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-8",
+        "name": "Su\u00f0urland, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-2",
+        "name": "Su\u00f0urnes, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-4",
+        "name": "Vestfir\u00f0ir, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    },
+    {
+        "code": "IS-3",
+        "name": "Vesturland, Iceland",
+        "parent_code": "IS",
+        "parent_name": "Iceland"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "code": "TO-01",
+        "name": "'Eua, Tonga",
+        "parent_code": "TO",
+        "parent_name": "Tonga"
+    },
+    {
+        "code": "TO-02",
+        "name": "Ha'apai, Tonga",
+        "parent_code": "TO",
+        "parent_name": "Tonga"
+    },
+    {
+        "code": "TO-03",
+        "name": "Niuas, Tonga",
+        "parent_code": "TO",
+        "parent_name": "Tonga"
+    },
+    {
+        "code": "TO-04",
+        "name": "Tongatapu, Tonga",
+        "parent_code": "TO",
+        "parent_name": "Tonga"
+    },
+    {
+        "code": "TO-05",
+        "name": "Vava'u, Tonga",
+        "parent_code": "TO",
+        "parent_name": "Tonga"
+    }
+]

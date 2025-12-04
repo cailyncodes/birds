@@ -1,0 +1,74 @@
+[
+    {
+        "code": "JO-AJ",
+        "name": "Ajlun, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-AQ",
+        "name": "Al 'Aqaba, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-BA",
+        "name": "Al Balqa', Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-KA",
+        "name": "Al Karak, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-MA",
+        "name": "Al Mafraq, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-AM",
+        "name": "Amman, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-AT",
+        "name": "At Tafilah, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-AZ",
+        "name": "Az Zarqa', Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-IR",
+        "name": "Irbid, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-JA",
+        "name": "Jarash, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-MD",
+        "name": "Madabah, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    },
+    {
+        "code": "JO-MN",
+        "name": "Ma\u2018an, Jordan",
+        "parent_code": "JO",
+        "parent_name": "Jordan"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "code": "AO-BGO",
+        "name": "Bengo, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-BGU",
+        "name": "Benguela, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-BIE",
+        "name": "Bi\u00e9, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-CAB",
+        "name": "Cabinda, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-CCU",
+        "name": "Cuando-Cubango, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-CNO",
+        "name": "Cuanza Norte, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-CUS",
+        "name": "Cuanza Sul, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-CNN",
+        "name": "Cunene, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-HUA",
+        "name": "Huambo, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-HUI",
+        "name": "Hu\u00edla, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-LUA",
+        "name": "Luanda, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-LNO",
+        "name": "Lunda Norte, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-LSU",
+        "name": "Lunda Sul, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-MAL",
+        "name": "Malange, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-MOX",
+        "name": "Moxico, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-NAM",
+        "name": "Namibe, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-UIG",
+        "name": "U\u00edge, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    },
+    {
+        "code": "AO-ZAI",
+        "name": "Zaire, Angola",
+        "parent_code": "AO",
+        "parent_name": "Angola"
+    }
+]

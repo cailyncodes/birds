@@ -1,0 +1,158 @@
+[
+    {
+        "code": "CH-AG",
+        "name": "Aargau, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-AR",
+        "name": "Appenzell Ausserrhoden, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-AI",
+        "name": "Appenzell Innerrhoden, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-BL",
+        "name": "Basel-Landschaft, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-BS",
+        "name": "Basel-Stadt, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-BE",
+        "name": "Bern, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-FR",
+        "name": "Freiburg, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-GE",
+        "name": "Gen\u00e8ve, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-GL",
+        "name": "Glarus, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-GR",
+        "name": "Graub\u00fcnden, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-JU",
+        "name": "Jura, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-LU",
+        "name": "Luzern, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-NE",
+        "name": "Neuch\u00e2tel, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-NW",
+        "name": "Nidwalden, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-OW",
+        "name": "Obwalden, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-SG",
+        "name": "Sankt Gallen, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-SH",
+        "name": "Schaffhausen, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-SZ",
+        "name": "Schwyz, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-SO",
+        "name": "Solothurn, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-TG",
+        "name": "Thurgau, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-TI",
+        "name": "Ticino, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-UR",
+        "name": "Uri, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-VD",
+        "name": "Vaud, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-VS",
+        "name": "Wallis, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-ZG",
+        "name": "Zug, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    },
+    {
+        "code": "CH-ZH",
+        "name": "Z\u00fcrich, Switzerland",
+        "parent_code": "CH",
+        "parent_name": "Switzerland"
+    }
+]

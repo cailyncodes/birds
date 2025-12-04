@@ -1,0 +1,68 @@
+[
+    {
+        "code": "ET-AA",
+        "name": "Addis Ababa, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-AF",
+        "name": "Afar, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-AM",
+        "name": "Amara, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-BE",
+        "name": "Benshangul-Gumaz, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-DD",
+        "name": "Dire Dawa, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-GA",
+        "name": "Gambela Peoples, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-HA",
+        "name": "Harari People, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-OR",
+        "name": "Oromia, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-SO",
+        "name": "Somali, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-SN",
+        "name": "Southern Nations, Nationalities and Peoples, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    },
+    {
+        "code": "ET-TI",
+        "name": "Tigrai, Ethiopia",
+        "parent_code": "ET",
+        "parent_name": "Ethiopia"
+    }
+]

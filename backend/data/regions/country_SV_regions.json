@@ -1,0 +1,86 @@
+[
+    {
+        "code": "SV-AH",
+        "name": "Ahuachap\u00e1n, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-CA",
+        "name": "Caba\u00f1as, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-CH",
+        "name": "Chalatenango, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-CU",
+        "name": "Cuscatl\u00e1n, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-LI",
+        "name": "La Libertad, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-PA",
+        "name": "La Paz, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-UN",
+        "name": "La Uni\u00f3n, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-MO",
+        "name": "Moraz\u00e1n, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-SM",
+        "name": "San Miguel, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-SS",
+        "name": "San Salvador, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-SV",
+        "name": "San Vicente, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-SA",
+        "name": "Santa Ana, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-SO",
+        "name": "Sonsonate, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    },
+    {
+        "code": "SV-US",
+        "name": "Usulut\u00e1n, El Salvador",
+        "parent_code": "SV",
+        "parent_name": "El Salvador"
+    }
+]

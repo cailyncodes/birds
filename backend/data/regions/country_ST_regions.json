@@ -1,0 +1,14 @@
+[
+    {
+        "code": "ST-P",
+        "name": "Pr\u00edncipe, S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "parent_code": "ST",
+        "parent_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    },
+    {
+        "code": "ST-S",
+        "name": "S\u00e3o Tom\u00e9, S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "parent_code": "ST",
+        "parent_name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    }
+]

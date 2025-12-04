@@ -1,0 +1,20 @@
+[
+    {
+        "code": "VI-SC",
+        "name": "Saint Croix, Virgin Islands (U.S.)",
+        "parent_code": "VI",
+        "parent_name": "Virgin Islands (U.S.)"
+    },
+    {
+        "code": "VI-SJ",
+        "name": "Saint John, Virgin Islands (U.S.)",
+        "parent_code": "VI",
+        "parent_name": "Virgin Islands (U.S.)"
+    },
+    {
+        "code": "VI-ST",
+        "name": "Saint Thomas, Virgin Islands (U.S.)",
+        "parent_code": "VI",
+        "parent_name": "Virgin Islands (U.S.)"
+    }
+]

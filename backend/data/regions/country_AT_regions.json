@@ -1,0 +1,56 @@
+[
+    {
+        "code": "AT-1",
+        "name": "Burgenland, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-2",
+        "name": "K\u00e4rnten, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-3",
+        "name": "Nieder\u00f6sterreich, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-4",
+        "name": "Ober\u00f6sterreich, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-5",
+        "name": "Salzburg, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-6",
+        "name": "Steiermark, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-7",
+        "name": "Tirol, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-8",
+        "name": "Vorarlberg, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    },
+    {
+        "code": "AT-9",
+        "name": "Wien, Austria",
+        "parent_code": "AT",
+        "parent_name": "Austria"
+    }
+]

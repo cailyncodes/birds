@@ -1,0 +1,50 @@
+[
+    {
+        "code": "AG-10",
+        "name": "Barbuda, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-11",
+        "name": "Redonda, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-03",
+        "name": "Saint George, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-04",
+        "name": "Saint John\u2019s, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-05",
+        "name": "Saint Mary, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-06",
+        "name": "Saint Paul, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-07",
+        "name": "Saint Peter, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    },
+    {
+        "code": "AG-08",
+        "name": "Saint Philip, Antigua and Barbuda",
+        "parent_code": "AG",
+        "parent_name": "Antigua and Barbuda"
+    }
+]

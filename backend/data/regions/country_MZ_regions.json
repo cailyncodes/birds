@@ -1,0 +1,62 @@
+[
+    {
+        "code": "MZ-P",
+        "name": "Cabo Delgado, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-G",
+        "name": "Gaza, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-I",
+        "name": "Inhambane, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-B",
+        "name": "Manica, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-L",
+        "name": "Maputo, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-N",
+        "name": "Nampula, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-A",
+        "name": "Niassa, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-S",
+        "name": "Sofala, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-T",
+        "name": "Tete, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    },
+    {
+        "code": "MZ-Q",
+        "name": "Zamb\u00e9zia, Mozambique",
+        "parent_code": "MZ",
+        "parent_name": "Mozambique"
+    }
+]

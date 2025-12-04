@@ -1,0 +1,32 @@
+[
+    {
+        "code": "TG-C",
+        "name": "Centre, Togo",
+        "parent_code": "TG",
+        "parent_name": "Togo"
+    },
+    {
+        "code": "TG-K",
+        "name": "Kara, Togo",
+        "parent_code": "TG",
+        "parent_name": "Togo"
+    },
+    {
+        "code": "TG-M",
+        "name": "Maritime (R\u00e9gion), Togo",
+        "parent_code": "TG",
+        "parent_name": "Togo"
+    },
+    {
+        "code": "TG-P",
+        "name": "Plateaux, Togo",
+        "parent_code": "TG",
+        "parent_name": "Togo"
+    },
+    {
+        "code": "TG-S",
+        "name": "Savannes, Togo",
+        "parent_code": "TG",
+        "parent_name": "Togo"
+    }
+]

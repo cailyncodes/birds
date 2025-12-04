@@ -1,0 +1,62 @@
+[
+    {
+        "code": "ZW-BU",
+        "name": "Bulawayo, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-HA",
+        "name": "Harare, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MA",
+        "name": "Manicaland, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MC",
+        "name": "Mashonaland Central, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-ME",
+        "name": "Mashonaland East, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MW",
+        "name": "Mashonaland West, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MV",
+        "name": "Masvingo, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MN",
+        "name": "Matabeleland North, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MS",
+        "name": "Matabeleland South, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    },
+    {
+        "code": "ZW-MI",
+        "name": "Midlands, Zimbabwe",
+        "parent_code": "ZW",
+        "parent_name": "Zimbabwe"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "code": "SS-EC",
+        "name": "Central Equatoria, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-EE",
+        "name": "Eastern Equatoria, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-JG",
+        "name": "Jonglei, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-LK",
+        "name": "Lakes, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-BN",
+        "name": "Northern Bahr el Ghazal, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-UY",
+        "name": "Unity, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-NU",
+        "name": "Upper Nile, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-WR",
+        "name": "Warrap, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-BW",
+        "name": "Western Bahr el Ghazal, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    },
+    {
+        "code": "SS-EW",
+        "name": "Western Equatoria, South Sudan",
+        "parent_code": "SS",
+        "parent_name": "South Sudan"
+    }
+]

@@ -1,0 +1,1022 @@
+[
+    {
+        "code": "TZ-01-AR",
+        "name": "Arusha, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-AU",
+        "name": "Arusha Urban, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-KA",
+        "name": "Karatu, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-LO",
+        "name": "Longido, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-ME",
+        "name": "Meru, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-MO",
+        "name": "Monduli, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-01-NG",
+        "name": "Ngorongoro, Arusha, Tanzania",
+        "parent_code": "TZ-01",
+        "parent_name": "Arusha"
+    },
+    {
+        "code": "TZ-19-BA",
+        "name": "Bagamoyo, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-KI",
+        "name": "Kibaha, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-KU",
+        "name": "Kibaha Urban, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-KS",
+        "name": "Kisarawe, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-MA",
+        "name": "Mafia, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-MK",
+        "name": "Mkuranga, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-19-RU",
+        "name": "Rufiji, Coast, Tanzania",
+        "parent_code": "TZ-19",
+        "parent_name": "Coast"
+    },
+    {
+        "code": "TZ-02-IL",
+        "name": "Ilala, Dar es Salaam, Tanzania",
+        "parent_code": "TZ-02",
+        "parent_name": "Dar es Salaam"
+    },
+    {
+        "code": "TZ-02-KI",
+        "name": "Kinondoni, Dar es Salaam, Tanzania",
+        "parent_code": "TZ-02",
+        "parent_name": "Dar es Salaam"
+    },
+    {
+        "code": "TZ-02-TE",
+        "name": "Temeke, Dar es Salaam, Tanzania",
+        "parent_code": "TZ-02",
+        "parent_name": "Dar es Salaam"
+    },
+    {
+        "code": "TZ-03-BA",
+        "name": "Bahi, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-CH",
+        "name": "Chamwino, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-CM",
+        "name": "Chemba, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-DO",
+        "name": "Dodoma Urban, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-KO",
+        "name": "Kondoa, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-KW",
+        "name": "Kongwa, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-03-MP",
+        "name": "Mpwapwa, Dodoma, Tanzania",
+        "parent_code": "TZ-03",
+        "parent_name": "Dodoma"
+    },
+    {
+        "code": "TZ-27-BU",
+        "name": "Bukombe, Geita, Tanzania",
+        "parent_code": "TZ-27",
+        "parent_name": "Geita"
+    },
+    {
+        "code": "TZ-27-CH",
+        "name": "Chato, Geita, Tanzania",
+        "parent_code": "TZ-27",
+        "parent_name": "Geita"
+    },
+    {
+        "code": "TZ-27-GE",
+        "name": "Geita, Geita, Tanzania",
+        "parent_code": "TZ-27",
+        "parent_name": "Geita"
+    },
+    {
+        "code": "TZ-27-MB",
+        "name": "Mbogwe, Geita, Tanzania",
+        "parent_code": "TZ-27",
+        "parent_name": "Geita"
+    },
+    {
+        "code": "TZ-27-NY",
+        "name": "Nyang'hwale, Geita, Tanzania",
+        "parent_code": "TZ-27",
+        "parent_name": "Geita"
+    },
+    {
+        "code": "TZ-04-IR",
+        "name": "Iringa Rural, Iringa, Tanzania",
+        "parent_code": "TZ-04",
+        "parent_name": "Iringa"
+    },
+    {
+        "code": "TZ-04-IU",
+        "name": "Iringa Urban, Iringa, Tanzania",
+        "parent_code": "TZ-04",
+        "parent_name": "Iringa"
+    },
+    {
+        "code": "TZ-04-KI",
+        "name": "Kilolo, Iringa, Tanzania",
+        "parent_code": "TZ-04",
+        "parent_name": "Iringa"
+    },
+    {
+        "code": "TZ-04-MA",
+        "name": "Mafinga Town, Iringa, Tanzania",
+        "parent_code": "TZ-04",
+        "parent_name": "Iringa"
+    },
+    {
+        "code": "TZ-04-MU",
+        "name": "Mufindi, Iringa, Tanzania",
+        "parent_code": "TZ-04",
+        "parent_name": "Iringa"
+    },
+    {
+        "code": "TZ-05-BI",
+        "name": "Biharamulo, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-BR",
+        "name": "Bukoba Rural, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-BU",
+        "name": "Bukoba Urban, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-KA",
+        "name": "Karagwe, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-KY",
+        "name": "Kyerwa, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-MI",
+        "name": "Missenyi, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-MU",
+        "name": "Muleba, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-05-NG",
+        "name": "Ngara, Kagera, Tanzania",
+        "parent_code": "TZ-05",
+        "parent_name": "Kagera"
+    },
+    {
+        "code": "TZ-29-ML",
+        "name": "Mlele, Katavi, Tanzania",
+        "parent_code": "TZ-29",
+        "parent_name": "Katavi"
+    },
+    {
+        "code": "TZ-29-MP",
+        "name": "Mpanda Rural, Katavi, Tanzania",
+        "parent_code": "TZ-29",
+        "parent_name": "Katavi"
+    },
+    {
+        "code": "TZ-29-MU",
+        "name": "Mpanda Urban, Katavi, Tanzania",
+        "parent_code": "TZ-29",
+        "parent_name": "Katavi"
+    },
+    {
+        "code": "TZ-08-BU",
+        "name": "Buhigwe, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KO",
+        "name": "Kakonko, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KA",
+        "name": "Kasulu, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KT",
+        "name": "Kasulu Town, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KI",
+        "name": "Kibondo, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KR",
+        "name": "Kigoma Rural, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-KU",
+        "name": "Kigoma Urban, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-08-UV",
+        "name": "Uvinza, Kigoma, Tanzania",
+        "parent_code": "TZ-08",
+        "parent_name": "Kigoma"
+    },
+    {
+        "code": "TZ-09-HA",
+        "name": "Hai, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-MR",
+        "name": "Moshi Rural, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-MO",
+        "name": "Moshi Urban, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-MW",
+        "name": "Mwanga, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-RO",
+        "name": "Rombo, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-SA",
+        "name": "Same, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-09-SI",
+        "name": "Siha, Kilimanjaro, Tanzania",
+        "parent_code": "TZ-09",
+        "parent_name": "Kilimanjaro"
+    },
+    {
+        "code": "TZ-12-KI",
+        "name": "Kilwa, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-12-LI",
+        "name": "Lindi Rural, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-12-LU",
+        "name": "Lindi Urban, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-12-LW",
+        "name": "Liwale, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-12-NA",
+        "name": "Nachingwea, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-12-RU",
+        "name": "Ruangwa, Lindi, Tanzania",
+        "parent_code": "TZ-12",
+        "parent_name": "Lindi"
+    },
+    {
+        "code": "TZ-26-BA",
+        "name": "Babati, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-26-BU",
+        "name": "Babati Urban, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-26-HA",
+        "name": "Hanang, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-26-KI",
+        "name": "Kiteto, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-26-MB",
+        "name": "Mbulu, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-26-SI",
+        "name": "Simanjiro, Manyara, Tanzania",
+        "parent_code": "TZ-26",
+        "parent_name": "Manyara"
+    },
+    {
+        "code": "TZ-13-BU",
+        "name": "Bunda, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-BM",
+        "name": "Butiama, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-MR",
+        "name": "Musoma Rural, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-MU",
+        "name": "Musoma Urban, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-RO",
+        "name": "Rorya, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-SE",
+        "name": "Serengeti, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-13-TA",
+        "name": "Tarime, Mara, Tanzania",
+        "parent_code": "TZ-13",
+        "parent_name": "Mara"
+    },
+    {
+        "code": "TZ-14-CH",
+        "name": "Chunya, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-14-KY",
+        "name": "Kyela, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-14-MI",
+        "name": "Mbarali, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-14-MR",
+        "name": "Mbeya Rural, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-14-MB",
+        "name": "Mbeya Urban, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-14-RU",
+        "name": "Rungwe, Mbeya, Tanzania",
+        "parent_code": "TZ-14",
+        "parent_name": "Mbeya"
+    },
+    {
+        "code": "TZ-16-GA",
+        "name": "Gairo, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-KO",
+        "name": "Kilombero, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-KI",
+        "name": "Kilosa, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-MO",
+        "name": "Morogoro Rural, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-MU",
+        "name": "Morogoro Urban, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-MV",
+        "name": "Mvomero, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-16-UL",
+        "name": "Ulanga, Morogoro, Tanzania",
+        "parent_code": "TZ-16",
+        "parent_name": "Morogoro"
+    },
+    {
+        "code": "TZ-17-MI",
+        "name": "Masasi, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-MA",
+        "name": "Masasi Town, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-MT",
+        "name": "Mtwara Rural, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-MR",
+        "name": "Mtwara Urban, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-NA",
+        "name": "Nanyumbu, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-NE",
+        "name": "Newala, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-17-TA",
+        "name": "Tandahimba, Mtwara, Tanzania",
+        "parent_code": "TZ-17",
+        "parent_name": "Mtwara"
+    },
+    {
+        "code": "TZ-18-IL",
+        "name": "Ilemela, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-KW",
+        "name": "Kwimba, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-MA",
+        "name": "Magu, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-MI",
+        "name": "Misungwi, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-NY",
+        "name": "Nyamagana, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-SE",
+        "name": "Sengerema, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-18-UK",
+        "name": "Ukerewe, Mwanza, Tanzania",
+        "parent_code": "TZ-18",
+        "parent_name": "Mwanza"
+    },
+    {
+        "code": "TZ-31-LU",
+        "name": "Ludewa, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-31-MT",
+        "name": "Makambako Town, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-31-MA",
+        "name": "Makete, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-31-NJ",
+        "name": "Njombe Rural, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-31-NU",
+        "name": "Njombe Urban, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-31-WA",
+        "name": "Wanging'ombe, Njombe, Tanzania",
+        "parent_code": "TZ-31",
+        "parent_name": "Njombe"
+    },
+    {
+        "code": "TZ-06-MI",
+        "name": "Micheweni, Pemba North, Tanzania",
+        "parent_code": "TZ-06",
+        "parent_name": "Pemba North"
+    },
+    {
+        "code": "TZ-06-WE",
+        "name": "Wete, Pemba North, Tanzania",
+        "parent_code": "TZ-06",
+        "parent_name": "Pemba North"
+    },
+    {
+        "code": "TZ-10-CH",
+        "name": "Chake, Pemba South, Tanzania",
+        "parent_code": "TZ-10",
+        "parent_name": "Pemba South"
+    },
+    {
+        "code": "TZ-10-MK",
+        "name": "Mkoani, Pemba South, Tanzania",
+        "parent_code": "TZ-10",
+        "parent_name": "Pemba South"
+    },
+    {
+        "code": "TZ-20-KA",
+        "name": "Kalambo, Rukwa, Tanzania",
+        "parent_code": "TZ-20",
+        "parent_name": "Rukwa"
+    },
+    {
+        "code": "TZ-20-NK",
+        "name": "Nkasi, Rukwa, Tanzania",
+        "parent_code": "TZ-20",
+        "parent_name": "Rukwa"
+    },
+    {
+        "code": "TZ-20-SR",
+        "name": "Sumbawanga Rural, Rukwa, Tanzania",
+        "parent_code": "TZ-20",
+        "parent_name": "Rukwa"
+    },
+    {
+        "code": "TZ-20-SU",
+        "name": "Sumbawanga Urban, Rukwa, Tanzania",
+        "parent_code": "TZ-20",
+        "parent_name": "Rukwa"
+    },
+    {
+        "code": "TZ-21-MB",
+        "name": "Mbinga, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-21-NA",
+        "name": "Namtumbo, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-21-NY",
+        "name": "Nyasa, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-21-SO",
+        "name": "Songea Rural, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-21-SU",
+        "name": "Songea Urban, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-21-TU",
+        "name": "Tunduru, Ruvuma, Tanzania",
+        "parent_code": "TZ-21",
+        "parent_name": "Ruvuma"
+    },
+    {
+        "code": "TZ-22-KA",
+        "name": "Kahama, Shinyanga, Tanzania",
+        "parent_code": "TZ-22",
+        "parent_name": "Shinyanga"
+    },
+    {
+        "code": "TZ-22-KT",
+        "name": "Kahama Town, Shinyanga, Tanzania",
+        "parent_code": "TZ-22",
+        "parent_name": "Shinyanga"
+    },
+    {
+        "code": "TZ-22-KI",
+        "name": "Kishapu, Shinyanga, Tanzania",
+        "parent_code": "TZ-22",
+        "parent_name": "Shinyanga"
+    },
+    {
+        "code": "TZ-22-SR",
+        "name": "Shinyanga Rural, Shinyanga, Tanzania",
+        "parent_code": "TZ-22",
+        "parent_name": "Shinyanga"
+    },
+    {
+        "code": "TZ-22-SH",
+        "name": "Shinyanga Urban, Shinyanga, Tanzania",
+        "parent_code": "TZ-22",
+        "parent_name": "Shinyanga"
+    },
+    {
+        "code": "TZ-28-BA",
+        "name": "Bariadi, Simiyu, Tanzania",
+        "parent_code": "TZ-28",
+        "parent_name": "Simiyu"
+    },
+    {
+        "code": "TZ-28-BU",
+        "name": "Busega, Simiyu, Tanzania",
+        "parent_code": "TZ-28",
+        "parent_name": "Simiyu"
+    },
+    {
+        "code": "TZ-28-IT",
+        "name": "Itilima, Simiyu, Tanzania",
+        "parent_code": "TZ-28",
+        "parent_name": "Simiyu"
+    },
+    {
+        "code": "TZ-28-MA",
+        "name": "Maswa, Simiyu, Tanzania",
+        "parent_code": "TZ-28",
+        "parent_name": "Simiyu"
+    },
+    {
+        "code": "TZ-28-ME",
+        "name": "Meatu, Simiyu, Tanzania",
+        "parent_code": "TZ-28",
+        "parent_name": "Simiyu"
+    },
+    {
+        "code": "TZ-23-IK",
+        "name": "Ikungi, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-23-IR",
+        "name": "Iramba, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-23-MA",
+        "name": "Manyoni, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-23-MK",
+        "name": "Mkalama, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-23-SI",
+        "name": "Singida Rural, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-23-SU",
+        "name": "Singida Urban, Singida, Tanzania",
+        "parent_code": "TZ-23",
+        "parent_name": "Singida"
+    },
+    {
+        "code": "TZ-30-IL",
+        "name": "Ileje, Songwe, Tanzania",
+        "parent_code": "TZ-30",
+        "parent_name": "Songwe"
+    },
+    {
+        "code": "TZ-30-MB",
+        "name": "Mbozi, Songwe, Tanzania",
+        "parent_code": "TZ-30",
+        "parent_name": "Songwe"
+    },
+    {
+        "code": "TZ-30-MO",
+        "name": "Momba, Songwe, Tanzania",
+        "parent_code": "TZ-30",
+        "parent_name": "Songwe"
+    },
+    {
+        "code": "TZ-30-SO",
+        "name": "Songwe, Songwe, Tanzania",
+        "parent_code": "TZ-30",
+        "parent_name": "Songwe"
+    },
+    {
+        "code": "TZ-30-TU",
+        "name": "Tunduma, Songwe, Tanzania",
+        "parent_code": "TZ-30",
+        "parent_name": "Songwe"
+    },
+    {
+        "code": "TZ-24-IG",
+        "name": "Igunga, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-KA",
+        "name": "Kaliua, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-NZ",
+        "name": "Nzega, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-SI",
+        "name": "Sikonge, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-TA",
+        "name": "Tabora, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-UR",
+        "name": "Urambo, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-24-UY",
+        "name": "Uyui, Tabora, Tanzania",
+        "parent_code": "TZ-24",
+        "parent_name": "Tabora"
+    },
+    {
+        "code": "TZ-25-HA",
+        "name": "Handeni, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-HT",
+        "name": "Handeni Town, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-KI",
+        "name": "Kilindi, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-KO",
+        "name": "Korogwe, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-KT",
+        "name": "Korogwe Town, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-LU",
+        "name": "Lushoto, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-MK",
+        "name": "Mkinga, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-MU",
+        "name": "Muheza, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-PA",
+        "name": "Pangani, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-25-TA",
+        "name": "Tanga, Tanga, Tanzania",
+        "parent_code": "TZ-25",
+        "parent_name": "Tanga"
+    },
+    {
+        "code": "TZ-07-KA",
+        "name": "Kaskazini 'A', Zanzibar North, Tanzania",
+        "parent_code": "TZ-07",
+        "parent_name": "Zanzibar North"
+    },
+    {
+        "code": "TZ-07-KB",
+        "name": "Kaskazini 'B', Zanzibar North, Tanzania",
+        "parent_code": "TZ-07",
+        "parent_name": "Zanzibar North"
+    },
+    {
+        "code": "TZ-11-KA",
+        "name": "Kati, Zanzibar South, Tanzania",
+        "parent_code": "TZ-11",
+        "parent_name": "Zanzibar South"
+    },
+    {
+        "code": "TZ-11-KU",
+        "name": "Kusini, Zanzibar South, Tanzania",
+        "parent_code": "TZ-11",
+        "parent_name": "Zanzibar South"
+    },
+    {
+        "code": "TZ-15-MA",
+        "name": "Magharibi, Zanzibar West, Tanzania",
+        "parent_code": "TZ-15",
+        "parent_name": "Zanzibar West"
+    },
+    {
+        "code": "TZ-15-MJ",
+        "name": "Mjini, Zanzibar West, Tanzania",
+        "parent_code": "TZ-15",
+        "parent_name": "Zanzibar West"
+    }
+]

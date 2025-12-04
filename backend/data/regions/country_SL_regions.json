@@ -1,0 +1,26 @@
+[
+    {
+        "code": "SL-E",
+        "name": "Eastern, Sierra Leone",
+        "parent_code": "SL",
+        "parent_name": "Sierra Leone"
+    },
+    {
+        "code": "SL-N",
+        "name": "Northern, Sierra Leone",
+        "parent_code": "SL",
+        "parent_name": "Sierra Leone"
+    },
+    {
+        "code": "SL-S",
+        "name": "Southern, Sierra Leone",
+        "parent_code": "SL",
+        "parent_name": "Sierra Leone"
+    },
+    {
+        "code": "SL-W",
+        "name": "Western Area (Freetown), Sierra Leone",
+        "parent_code": "SL",
+        "parent_name": "Sierra Leone"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "code": "PA-1",
+        "name": "Bocas del Toro, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-4",
+        "name": "Chiriqu\u00ed, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-2",
+        "name": "Cocl\u00e9, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-3",
+        "name": "Col\u00f3n, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-5",
+        "name": "Dari\u00e9n, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-EM",
+        "name": "Ember\u00e1, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-6",
+        "name": "Herrera, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-KY",
+        "name": "Kuna Yala, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-7",
+        "name": "Los Santos, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-NB",
+        "name": "Ng\u00e4be-Bugl\u00e9, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-8",
+        "name": "Panam\u00e1, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    },
+    {
+        "code": "PA-9",
+        "name": "Veraguas, Panama",
+        "parent_code": "PA",
+        "parent_name": "Panama"
+    }
+]

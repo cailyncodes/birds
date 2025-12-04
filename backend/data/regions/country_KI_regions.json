@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KI-G",
+        "name": "Gilbert Islands, Kiribati",
+        "parent_code": "KI",
+        "parent_name": "Kiribati"
+    },
+    {
+        "code": "KI-L",
+        "name": "Line Islands, Kiribati",
+        "parent_code": "KI",
+        "parent_name": "Kiribati"
+    },
+    {
+        "code": "KI-P",
+        "name": "Phoenix Islands, Kiribati",
+        "parent_code": "KI",
+        "parent_name": "Kiribati"
+    }
+]

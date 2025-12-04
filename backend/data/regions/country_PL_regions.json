@@ -1,0 +1,98 @@
+[
+    {
+        "code": "PL-DS",
+        "name": "Dolnoslaskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-KP",
+        "name": "Kujawsko-pomorskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-LU",
+        "name": "Lubelskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-LB",
+        "name": "Lubuskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-LD",
+        "name": "L\u00f3dzkie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-MA",
+        "name": "Malopolskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-MZ",
+        "name": "Mazowieckie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-OP",
+        "name": "Opolskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-PK",
+        "name": "Podkarpackie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-PD",
+        "name": "Podlaskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-PM",
+        "name": "Pomorskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-SL",
+        "name": "Slaskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-SK",
+        "name": "Swietokrzyskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-WN",
+        "name": "Warminsko-mazurskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-WP",
+        "name": "Wielkopolskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    },
+    {
+        "code": "PL-ZP",
+        "name": "Zachodniopomorskie, Poland",
+        "parent_code": "PL",
+        "parent_name": "Poland"
+    }
+]

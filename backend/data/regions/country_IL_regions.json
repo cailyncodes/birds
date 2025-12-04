@@ -1,0 +1,38 @@
+[
+    {
+        "code": "IL-D",
+        "name": "HaDarom, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    },
+    {
+        "code": "IL-M",
+        "name": "HaMerkaz, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    },
+    {
+        "code": "IL-Z",
+        "name": "HaZafon, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    },
+    {
+        "code": "IL-HA",
+        "name": "Haifa, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    },
+    {
+        "code": "IL-TA",
+        "name": "Tel-Aviv, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    },
+    {
+        "code": "IL-JM",
+        "name": "Yerushalayim, Israel",
+        "parent_code": "IL",
+        "parent_name": "Israel"
+    }
+]

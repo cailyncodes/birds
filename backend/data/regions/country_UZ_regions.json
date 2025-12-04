@@ -1,0 +1,86 @@
+[
+    {
+        "code": "UZ-AN",
+        "name": "Andijon, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-BU",
+        "name": "Buxoro, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-FA",
+        "name": "Farg\u2018ona, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-JI",
+        "name": "Jizzax, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-NG",
+        "name": "Namangan, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-NW",
+        "name": "Navoiy, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-QA",
+        "name": "Qashqadaryo, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-QR",
+        "name": "Qoraqalpog\u2018iston Respublikasi, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-SA",
+        "name": "Samarqand, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-SI",
+        "name": "Sirdaryo, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-SU",
+        "name": "Surxondaryo, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-TO",
+        "name": "Toshkent, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-TK",
+        "name": "Toshkent City, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    },
+    {
+        "code": "UZ-XO",
+        "name": "Xorazm, Uzbekistan",
+        "parent_code": "UZ",
+        "parent_name": "Uzbekistan"
+    }
+]

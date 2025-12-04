@@ -1,0 +1,104 @@
+[
+    {
+        "code": "MU-AG",
+        "name": "Agalega Islands, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-BR",
+        "name": "Beau Bassin-Rose Hill, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-BL",
+        "name": "Black River, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-CC",
+        "name": "Cargados Carajos Shoals, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-CU",
+        "name": "Curepipe, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-FL",
+        "name": "Flacq, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-GP",
+        "name": "Grand Port, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-MO",
+        "name": "Moka, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-PA",
+        "name": "Pamplemousses, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-PW",
+        "name": "Plaines Wilhems, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-PL",
+        "name": "Port Louis, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-PU",
+        "name": "Port Louis City, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-QB",
+        "name": "Quatre Bornes, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-RR",
+        "name": "Rivi\u00e8re du Rempart, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-RO",
+        "name": "Rodrigues Island, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-SA",
+        "name": "Savanne, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    },
+    {
+        "code": "MU-VP",
+        "name": "Vacoas-Phoenix, Mauritius",
+        "parent_code": "MU",
+        "parent_name": "Mauritius"
+    }
+]

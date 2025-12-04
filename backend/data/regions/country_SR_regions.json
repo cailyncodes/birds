@@ -1,0 +1,62 @@
+[
+    {
+        "code": "SR-BR",
+        "name": "Brokopondo, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-CM",
+        "name": "Commewijne, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-CR",
+        "name": "Coronie, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-MA",
+        "name": "Marowijne, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-NI",
+        "name": "Nickerie, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-PR",
+        "name": "Para, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-PM",
+        "name": "Paramaribo, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-SA",
+        "name": "Saramacca, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-SI",
+        "name": "Sipaliwini, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    },
+    {
+        "code": "SR-WA",
+        "name": "Wanica, Suriname",
+        "parent_code": "SR",
+        "parent_name": "Suriname"
+    }
+]

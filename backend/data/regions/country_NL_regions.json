@@ -1,0 +1,74 @@
+[
+    {
+        "code": "NL-DR",
+        "name": "Drenthe, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-FL",
+        "name": "Flevoland, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-FR",
+        "name": "Frysl\u00e2n, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-GE",
+        "name": "Gelderland, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-GR",
+        "name": "Groningen, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-LI",
+        "name": "Limburg, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-NB",
+        "name": "Noord-Brabant, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-NH",
+        "name": "Noord-Holland, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-OV",
+        "name": "Overijssel, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-UT",
+        "name": "Utrecht, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-ZE",
+        "name": "Zeeland, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    },
+    {
+        "code": "NL-ZH",
+        "name": "Zuid-Holland, Netherlands",
+        "parent_code": "NL",
+        "parent_name": "Netherlands"
+    }
+]

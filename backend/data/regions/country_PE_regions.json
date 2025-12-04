@@ -1,0 +1,152 @@
+[
+    {
+        "code": "PE-AMA",
+        "name": "Amazonas, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-ANC",
+        "name": "Ancash, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-APU",
+        "name": "Apur\u00edmac, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-ARE",
+        "name": "Arequipa, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-AYA",
+        "name": "Ayacucho, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-CAJ",
+        "name": "Cajamarca, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-CUS",
+        "name": "Cuzco [Cusco], Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-CAL",
+        "name": "El Callao, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-HUV",
+        "name": "Huancavelica, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-HUC",
+        "name": "Hu\u00e1nuco, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-ICA",
+        "name": "Ica, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-JUN",
+        "name": "Jun\u00edn, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-LAL",
+        "name": "La Libertad, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-LAM",
+        "name": "Lambayeque, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-LIM",
+        "name": "Lima, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-LOR",
+        "name": "Loreto, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-MDD",
+        "name": "Madre de Dios, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-MOQ",
+        "name": "Moquegua, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-PAS",
+        "name": "Pasco, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-PIU",
+        "name": "Piura, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-PUN",
+        "name": "Puno, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-SAM",
+        "name": "San Mart\u00edn, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-TAC",
+        "name": "Tacna, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-TUM",
+        "name": "Tumbes, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    },
+    {
+        "code": "PE-UCA",
+        "name": "Ucayali, Peru",
+        "parent_code": "PE",
+        "parent_name": "Peru"
+    }
+]

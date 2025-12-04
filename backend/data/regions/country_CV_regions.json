@@ -1,0 +1,14 @@
+[
+    {
+        "code": "CV-B",
+        "name": "Ilhas de Barlavento, Cape Verde",
+        "parent_code": "CV",
+        "parent_name": "Cape Verde"
+    },
+    {
+        "code": "CV-S",
+        "name": "Ilhas de Sotavento, Cape Verde",
+        "parent_code": "CV",
+        "parent_name": "Cape Verde"
+    }
+]

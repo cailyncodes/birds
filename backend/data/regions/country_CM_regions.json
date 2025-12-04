@@ -1,0 +1,62 @@
+[
+    {
+        "code": "CM-AD",
+        "name": "Adamaoua, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-CE",
+        "name": "Centre, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-ES",
+        "name": "East, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-EN",
+        "name": "Far North, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-LT",
+        "name": "Littoral, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-NO",
+        "name": "North, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-NW",
+        "name": "North-West, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-SU",
+        "name": "South, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-SW",
+        "name": "South-West, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    },
+    {
+        "code": "CM-OU",
+        "name": "West, Cameroon",
+        "parent_code": "CM",
+        "parent_name": "Cameroon"
+    }
+]

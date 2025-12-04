@@ -1,0 +1,206 @@
+[
+    {
+        "code": "AF-BDS",
+        "name": "Badakhshan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-BDG",
+        "name": "Badghis, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-BGL",
+        "name": "Baghlan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-BAL",
+        "name": "Balkh, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-BAM",
+        "name": "Bamian, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-DAY",
+        "name": "Daykondi, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-FRA",
+        "name": "Farah, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-FYB",
+        "name": "Faryab, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-GHA",
+        "name": "Ghazni, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-GHO",
+        "name": "Ghowr, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-HEL",
+        "name": "Helmand, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-HER",
+        "name": "Herat, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-JOW",
+        "name": "Jowzjan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KAB",
+        "name": "Kabol, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KAN",
+        "name": "Kandahar, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KAP",
+        "name": "Kapisa, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KHO",
+        "name": "Khowst, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KNR",
+        "name": "Konar, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-KDZ",
+        "name": "Kondoz, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-LAG",
+        "name": "Laghman, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-LOW",
+        "name": "Lowgar, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-NAN",
+        "name": "Nangarhar, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-NIM",
+        "name": "Nimruz, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-NUR",
+        "name": "Nurestan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-ORU",
+        "name": "Oruzgan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-PIA",
+        "name": "Paktia, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-PKA",
+        "name": "Paktika, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-PAN",
+        "name": "Panjshir, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-PAR",
+        "name": "Parwan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-SAM",
+        "name": "Samangan, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-SAR",
+        "name": "Sar-e Pol, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-TAK",
+        "name": "Takhar, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-WAR",
+        "name": "Wardak, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    },
+    {
+        "code": "AF-ZAB",
+        "name": "Zabol, Afghanistan",
+        "parent_code": "AF",
+        "parent_name": "Afghanistan"
+    }
+]

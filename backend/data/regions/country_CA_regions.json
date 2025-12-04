@@ -1,0 +1,1766 @@
+[
+    {
+        "code": "CA-AB-TN",
+        "name": "Athabasca, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-FN",
+        "name": "Banff, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-SI",
+        "name": "Calgary, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-TE",
+        "name": "Camrose-Lloydminister, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-FI",
+        "name": "Drumheller, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-EL",
+        "name": "Edmonton, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-FT",
+        "name": "Edson, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-TR",
+        "name": "Fort MacLeod, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-ST",
+        "name": "Fort McMurray, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-ET",
+        "name": "Grande Cache, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-NT",
+        "name": "Grande Prairie, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-FO",
+        "name": "Hanna, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-TW",
+        "name": "Lethbridge, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-ON",
+        "name": "Medicine Hat, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-EI",
+        "name": "Red Deer, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-NI",
+        "name": "Rocky Mountain House, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-SN",
+        "name": "Slave Lake, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-TV",
+        "name": "St. Paul, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-AB-SE",
+        "name": "Stettler, Alberta, Canada",
+        "parent_code": "CA-AB",
+        "parent_name": "Alberta"
+    },
+    {
+        "code": "CA-BC-AC",
+        "name": "Alberni-Clayoquot, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-BN",
+        "name": "Bulkley-Nechako, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CP",
+        "name": "Capital, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CR",
+        "name": "Cariboo, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CC",
+        "name": "Central Coast, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CK",
+        "name": "Central Kootenay, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CO",
+        "name": "Central Okanagan, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CS",
+        "name": "Columbia-Shuswap, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CX",
+        "name": "Comox-Strathcona, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-CV",
+        "name": "Cowichan Valley, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-EK",
+        "name": "East Kootenay, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-FV",
+        "name": "Fraser Valley, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-FF",
+        "name": "Fraser-Fort George, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-KS",
+        "name": "Kitimat-Stikine, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-KB",
+        "name": "Kootenay Boundary, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-GV",
+        "name": "Metro Vancouver, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-MW",
+        "name": "Mount Waddington, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-NA",
+        "name": "Nanaimo, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-NO",
+        "name": "North Okanagan, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-NR",
+        "name": "Northern Rockies, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-OS",
+        "name": "Okanagan-Similkameen, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-PC",
+        "name": "Peace River, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-PW",
+        "name": "Powell River, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-SQ",
+        "name": "Skeena-Queen Charlotte, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-SL",
+        "name": "Squamish-Lillooet, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-ST",
+        "name": "Stikine, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-SC",
+        "name": "Sunshine Coast, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-BC-TN",
+        "name": "Thompson-Nicola, British Columbia, Canada",
+        "parent_code": "CA-BC",
+        "parent_name": "British Columbia"
+    },
+    {
+        "code": "CA-MB-TV",
+        "name": "Beausejour Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-SE",
+        "name": "Brandon Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-EI",
+        "name": "Central Manitoba - Central Plains, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-EE",
+        "name": "Churchill and Northern Manitoba, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-SN",
+        "name": "Dauphin, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-ON",
+        "name": "Eastern Manitoba - Eastman, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TO",
+        "name": "Flin Flon and North West, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-NT",
+        "name": "North East Northern Region, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-ET",
+        "name": "North Interlake Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TR",
+        "name": "Pembina Valley, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-FO",
+        "name": "Pilot Mound Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-NI",
+        "name": "Portage la Prairie Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-ST",
+        "name": "Roblin - Russell - Rossburn Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TN",
+        "name": "Selkirk Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-FT",
+        "name": "South Interlake, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-FI",
+        "name": "South West Westman, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TW",
+        "name": "Steinbach Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TT",
+        "name": "Swan River, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TY",
+        "name": "Thompson and North Central, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-SI",
+        "name": "Virden Area, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-FN",
+        "name": "Western Manitoba Westman, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-TE",
+        "name": "Whitehorse Plains, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-MB-EL",
+        "name": "Winnipeg, Manitoba, Canada",
+        "parent_code": "CA-MB",
+        "parent_name": "Manitoba"
+    },
+    {
+        "code": "CA-NB-AL",
+        "name": "Albert, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-CA",
+        "name": "Carleton, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-CH",
+        "name": "Charlotte, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-GL",
+        "name": "Gloucester, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-KE",
+        "name": "Kent, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-KI",
+        "name": "Kings, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-MA",
+        "name": "Madawaska, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-NO",
+        "name": "Northumberland, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-QU",
+        "name": "Queens, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-RE",
+        "name": "Restigouche, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-SJ",
+        "name": "Saint John, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-SU",
+        "name": "Sunbury, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-VI",
+        "name": "Victoria, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-WE",
+        "name": "Westmorland, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NB-YO",
+        "name": "York, New Brunswick, Canada",
+        "parent_code": "CA-NB",
+        "parent_name": "New Brunswick"
+    },
+    {
+        "code": "CA-NL-ON",
+        "name": "Avalon Peninsula-St. John's, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-SE",
+        "name": "Bonavista/Trinity-Clarenville, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-TW",
+        "name": "Burin Peninsula-Marystown, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-SI",
+        "name": "Central Newfoundland-Grand Falls-Windsor, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-FI",
+        "name": "Humber District-Corner Brook, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-TE",
+        "name": "Labrador-Happy Valley-Goose Bay, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-NI",
+        "name": "Northern Peninsula-St. Anthony, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-EI",
+        "name": "Notre Dame Bay-Lewisporte, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-EL",
+        "name": "Nunatsiavut-Nain, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-TR",
+        "name": "South Coast-Channel-Port aux Basques, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NL-FO",
+        "name": "St. George's-Stephenville, Newfoundland and Labrador, Canada",
+        "parent_code": "CA-NL",
+        "parent_name": "Newfoundland and Labrador"
+    },
+    {
+        "code": "CA-NT-FS",
+        "name": "Fort Smith, Northwest Territories, Canada",
+        "parent_code": "CA-NT",
+        "parent_name": "Northwest Territories"
+    },
+    {
+        "code": "CA-NT-IN",
+        "name": "Inuvik, Northwest Territories, Canada",
+        "parent_code": "CA-NT",
+        "parent_name": "Northwest Territories"
+    },
+    {
+        "code": "CA-NS-AP",
+        "name": "Annapolis, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-AG",
+        "name": "Antigonish, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-CB",
+        "name": "Cape Breton, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-CO",
+        "name": "Colchester, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-CU",
+        "name": "Cumberland, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-DI",
+        "name": "Digby, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-GU",
+        "name": "Guysborough, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-HL",
+        "name": "Halifax, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-HN",
+        "name": "Hants, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-IN",
+        "name": "Inverness, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-KI",
+        "name": "Kings, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-LU",
+        "name": "Lunenburg, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-PI",
+        "name": "Pictou, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-QU",
+        "name": "Queens, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-RI",
+        "name": "Richmond, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-SH",
+        "name": "Shelburne, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-VI",
+        "name": "Victoria, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NS-YA",
+        "name": "Yarmouth, Nova Scotia, Canada",
+        "parent_code": "CA-NS",
+        "parent_name": "Nova Scotia"
+    },
+    {
+        "code": "CA-NU-QK",
+        "name": "Baffin, Nunavut, Canada",
+        "parent_code": "CA-NU",
+        "parent_name": "Nunavut"
+    },
+    {
+        "code": "CA-NU-KV",
+        "name": "Keewatin, Nunavut, Canada",
+        "parent_code": "CA-NU",
+        "parent_name": "Nunavut"
+    },
+    {
+        "code": "CA-NU-KT",
+        "name": "Kitikmeot, Nunavut, Canada",
+        "parent_code": "CA-NU",
+        "parent_name": "Nunavut"
+    },
+    {
+        "code": "CA-ON-AL",
+        "name": "Algoma, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-BN",
+        "name": "Brant, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-BC",
+        "name": "Bruce, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-KT",
+        "name": "Chatham-Kent, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-CO",
+        "name": "Cochrane, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-DF",
+        "name": "Dufferin, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-DR",
+        "name": "Durham, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-EL",
+        "name": "Elgin, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-ES",
+        "name": "Essex, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-FR",
+        "name": "Frontenac, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-SU",
+        "name": "Greater Sudbury, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-GR",
+        "name": "Grey, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HD",
+        "name": "Haldimand, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HB",
+        "name": "Haliburton, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HT",
+        "name": "Halton, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HA",
+        "name": "Hamilton, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HS",
+        "name": "Hastings, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-HU",
+        "name": "Huron, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-VI",
+        "name": "Kawartha Lakes, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-KR",
+        "name": "Kenora, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-LM",
+        "name": "Lambton, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-LN",
+        "name": "Lanark, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-LG",
+        "name": "Leeds and Grenville, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-LA",
+        "name": "Lennox and Addington, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-MA",
+        "name": "Manitoulin, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-MI",
+        "name": "Middlesex, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-MU",
+        "name": "Muskoka, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-NG",
+        "name": "Niagara, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-NP",
+        "name": "Nipissing, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-NF",
+        "name": "Norfolk, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-NU",
+        "name": "Northumberland, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-OT",
+        "name": "Ottawa, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-OX",
+        "name": "Oxford, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PS",
+        "name": "Parry Sound, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PL",
+        "name": "Peel, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PT",
+        "name": "Perth, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PB",
+        "name": "Peterborough, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PR",
+        "name": "Prescott and Russell, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-PE",
+        "name": "Prince Edward, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-RR",
+        "name": "Rainy River, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-RE",
+        "name": "Renfrew, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-SC",
+        "name": "Simcoe, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-SD",
+        "name": "Stormont, Dundas and Glengarry, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-SB",
+        "name": "Sudbury, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-TB",
+        "name": "Thunder Bay, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-TI",
+        "name": "Timiskaming, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-TO",
+        "name": "Toronto, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-WT",
+        "name": "Waterloo, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-WL",
+        "name": "Wellington, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-ON-YO",
+        "name": "York, Ontario, Canada",
+        "parent_code": "CA-ON",
+        "parent_name": "Ontario"
+    },
+    {
+        "code": "CA-PE-KI",
+        "name": "Kings, Prince Edward Island, Canada",
+        "parent_code": "CA-PE",
+        "parent_name": "Prince Edward Island"
+    },
+    {
+        "code": "CA-PE-PR",
+        "name": "Prince, Prince Edward Island, Canada",
+        "parent_code": "CA-PE",
+        "parent_name": "Prince Edward Island"
+    },
+    {
+        "code": "CA-PE-QU",
+        "name": "Queens, Prince Edward Island, Canada",
+        "parent_code": "CA-PE",
+        "parent_name": "Prince Edward Island"
+    },
+    {
+        "code": "CA-QC-AB",
+        "name": "Abitibi, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AO",
+        "name": "Abitibi-Ouest, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AC",
+        "name": "Acton, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AL",
+        "name": "Antoine-Labelle, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AG",
+        "name": "Argenteuil, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AT",
+        "name": "Arthabaska, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AV",
+        "name": "Avignon, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RC",
+        "name": "Beauce-Centre, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BS",
+        "name": "Beauce-Sartigan, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BH",
+        "name": "Beauharnois-Salaberry, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BL",
+        "name": "Bellechasse, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BO",
+        "name": "Bonaventure, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BM",
+        "name": "Brome-Missisquoi, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BC",
+        "name": "B\u00e9cancour, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CAN",
+        "name": "Caniapiscau, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CV",
+        "name": "Charlevoix, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CE",
+        "name": "Charlevoix-Est, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CT",
+        "name": "Coaticook, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DA",
+        "name": "D'Autray, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DM",
+        "name": "Deux-Montagnes, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DU",
+        "name": "Drummond, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-OU",
+        "name": "Gatineau, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-JAM",
+        "name": "Jam\u00e9sie, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-JO",
+        "name": "Joliette, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-KA",
+        "name": "Kamouraska, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-NQ",
+        "name": "Kativik, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AN",
+        "name": "L'Assomption, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-IS",
+        "name": "L'Islet, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-ER",
+        "name": "L'\u00c9rable, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-IO",
+        "name": "L'\u00cele-d'Orl\u00e9ans, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CB",
+        "name": "La C\u00f4te-de-Beaupr\u00e9, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CG",
+        "name": "La C\u00f4te-de-Gasp\u00e9, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HC",
+        "name": "La Haute-C\u00f4te-Nord, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DR",
+        "name": "La Haute-Gasp\u00e9sie, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HY",
+        "name": "La Haute-Yamaska, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-JC",
+        "name": "La Jacques-Cartier, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MT",
+        "name": "La Matanie, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MP",
+        "name": "La Matap\u00e9dia, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MI",
+        "name": "La Mitis, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-NB",
+        "name": "La Nouvelle-Beauce, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RD",
+        "name": "La Rivi\u00e8re-du-Nord, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HM",
+        "name": "La Tuque, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-VO",
+        "name": "La Vall\u00e9e-de-l'Or, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-VG",
+        "name": "La Vall\u00e9e-de-la-Gatineau, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-VR",
+        "name": "La Vall\u00e9e-du-Richelieu, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LS",
+        "name": "Lac-Saint-Jean-Est, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LV",
+        "name": "Laval, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DD",
+        "name": "Le Domaine-du-Roy, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-FS",
+        "name": "Le Fjord-du-Saguenay, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-GSL",
+        "name": "Le Golfe-du-Saint-Laurent, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-GR",
+        "name": "Le Granit, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HR",
+        "name": "Le Haut-Richelieu, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HF",
+        "name": "Le Haut-Saint-Fran\u00e7ois, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-HL",
+        "name": "Le Haut-Saint-Laurent, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-PB",
+        "name": "Le Rocher-Perc\u00e9, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-VF",
+        "name": "Le Val-Saint-Fran\u00e7ois, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-APP",
+        "name": "Les Appalaches, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BA",
+        "name": "Les Basques, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LCH",
+        "name": "Les Chenaux, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CO",
+        "name": "Les Collines-de-l'Outaouais, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-ET",
+        "name": "Les Etchemins, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-JN",
+        "name": "Les Jardins-de-Napierville, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LL",
+        "name": "Les Laurentides, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MK",
+        "name": "Les Maskoutains, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MU",
+        "name": "Les Moulins, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-PH",
+        "name": "Les Pays-d'en-Haut, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-AS",
+        "name": "Les Sources, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-IM",
+        "name": "Les \u00celes-de-la-Madeleine, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CP",
+        "name": "Longueuil, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LO",
+        "name": "Lotbini\u00e8re, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-DE",
+        "name": "L\u00e9vis, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MN",
+        "name": "Manicouagan, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-LJ",
+        "name": "Marguerite-D'Youville, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MC",
+        "name": "Maria-Chapdelaine, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MS",
+        "name": "Maskinong\u00e9, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MW",
+        "name": "Matawinie, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MG",
+        "name": "Memphr\u00e9magog, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MB",
+        "name": "Minganie, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-ML",
+        "name": "Mirabel, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MO",
+        "name": "Montcalm, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MM",
+        "name": "Montmagny, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-MR",
+        "name": "Montr\u00e9al, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-ME",
+        "name": "M\u00e9kinac, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-NY",
+        "name": "Nicolet-Yamaska, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-PP",
+        "name": "Papineau, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-BR",
+        "name": "Pierre-De Saurel, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-PN",
+        "name": "Pontiac, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-PR",
+        "name": "Portneuf, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-QU",
+        "name": "Qu\u00e9bec, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RM",
+        "name": "Rimouski-Neigette, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RL",
+        "name": "Rivi\u00e8re-du-Loup, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RS",
+        "name": "Roussillon, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RV",
+        "name": "Rouville, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-RN",
+        "name": "Rouyn-Noranda, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-SAG",
+        "name": "Saguenay, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-SR",
+        "name": "Sept-Rivi\u00e8res, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-CM",
+        "name": "Shawinigan, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-SH",
+        "name": "Sherbrooke, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-TB",
+        "name": "Th\u00e9r\u00e8se-De Blainville, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-FR",
+        "name": "Trois-Rivi\u00e8res, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-TM",
+        "name": "T\u00e9miscamingue, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-TT",
+        "name": "T\u00e9miscouata, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-QC-VS",
+        "name": "Vaudreuil-Soulanges, Quebec, Canada",
+        "parent_code": "CA-QC",
+        "parent_name": "Quebec"
+    },
+    {
+        "code": "CA-SK-TR",
+        "name": "Assiniboia, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-TV",
+        "name": "Battleford, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-ON",
+        "name": "Estevan, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-TN",
+        "name": "Kindersley, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-ET",
+        "name": "La Ronge, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-SN",
+        "name": "Lloydminster, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-FO",
+        "name": "Maple Creek, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-FT",
+        "name": "Melfort, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-FI",
+        "name": "Melville, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-SE",
+        "name": "Moose Jaw, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-ST",
+        "name": "North Battleford, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-FN",
+        "name": "Prince Albert, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-SI",
+        "name": "Regina, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-EL",
+        "name": "Saskatoon, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-EI",
+        "name": "Swift Current, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-TW",
+        "name": "Weyburn, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-TE",
+        "name": "Wynyard, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-SK-NI",
+        "name": "Yorkton, Saskatchewan, Canada",
+        "parent_code": "CA-SK",
+        "parent_name": "Saskatchewan"
+    },
+    {
+        "code": "CA-YT-YT",
+        "name": "Yukon, Yukon Territory, Canada",
+        "parent_code": "CA-YT",
+        "parent_name": "Yukon Territory"
+    }
+]

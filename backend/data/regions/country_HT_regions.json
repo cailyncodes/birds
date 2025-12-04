@@ -1,0 +1,62 @@
+[
+    {
+        "code": "HT-AR",
+        "name": "Artibonite, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-CE",
+        "name": "Centre, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-GA",
+        "name": "Grande-Anse, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-NI",
+        "name": "Nippes, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-ND",
+        "name": "Nord, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-NE",
+        "name": "Nord-Est, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-NO",
+        "name": "Nord-Ouest, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-OU",
+        "name": "Ouest, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-SD",
+        "name": "Sud, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    },
+    {
+        "code": "HT-SE",
+        "name": "Sud-Est, Haiti",
+        "parent_code": "HT",
+        "parent_name": "Haiti"
+    }
+]

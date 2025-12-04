@@ -1,0 +1,290 @@
+[
+    {
+        "code": "DZ-01",
+        "name": "Adrar, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-16",
+        "name": "Alger, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-23",
+        "name": "Annaba, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-44",
+        "name": "A\u00efn Defla, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-46",
+        "name": "A\u00efn T\u00e9mouchent, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-05",
+        "name": "Batna, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-07",
+        "name": "Biskra, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-09",
+        "name": "Blida, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-34",
+        "name": "Bordj Bou Arr\u00e9ridj, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-10",
+        "name": "Bouira, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-35",
+        "name": "Boumerd\u00e8s, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-08",
+        "name": "B\u00e9char, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-06",
+        "name": "B\u00e9ja\u00efa, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-02",
+        "name": "Chlef, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-25",
+        "name": "Constantine, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-17",
+        "name": "Djelfa, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-32",
+        "name": "El Bayadh, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-39",
+        "name": "El Oued, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-36",
+        "name": "El Tarf, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-47",
+        "name": "Gharda\u00efa, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-24",
+        "name": "Guelma, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-33",
+        "name": "Illizi, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-18",
+        "name": "Jijel, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-40",
+        "name": "Khenchela, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-03",
+        "name": "Laghouat, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-29",
+        "name": "Mascara, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-43",
+        "name": "Mila, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-27",
+        "name": "Mostaganem, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-28",
+        "name": "Msila, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-26",
+        "name": "M\u00e9d\u00e9a, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-45",
+        "name": "Naama, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-31",
+        "name": "Oran, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-30",
+        "name": "Ouargla, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-04",
+        "name": "Oum el Bouaghi, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-48",
+        "name": "Relizane, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-20",
+        "name": "Sa\u00efda, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-22",
+        "name": "Sidi Bel Abb\u00e8s, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-21",
+        "name": "Skikda, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-41",
+        "name": "Souk Ahras, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-19",
+        "name": "S\u00e9tif, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-11",
+        "name": "Tamanghasset, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-14",
+        "name": "Tiaret, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-37",
+        "name": "Tindouf, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-42",
+        "name": "Tipaza, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-38",
+        "name": "Tissemsilt, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-15",
+        "name": "Tizi Ouzou, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-13",
+        "name": "Tlemcen, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    },
+    {
+        "code": "DZ-12",
+        "name": "T\u00e9bessa, Algeria",
+        "parent_code": "DZ",
+        "parent_name": "Algeria"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "code": "CZ-PR",
+        "name": "Hlavn\u00ed m\u011bsto Praha, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-JM",
+        "name": "Jihomoravsk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-JC",
+        "name": "Jiho\u010desk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-KA",
+        "name": "Karlovarsk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-VY",
+        "name": "Kraj Vyso\u010dina, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-KR",
+        "name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-LI",
+        "name": "Libereck\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-MO",
+        "name": "Moravskoslezsk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-OL",
+        "name": "Olomouck\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-PA",
+        "name": "Pardubick\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-PL",
+        "name": "Plze\u0148sk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-ST",
+        "name": "St\u0159edo\u010desk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-ZL",
+        "name": "Zl\u00ednsk\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    },
+    {
+        "code": "CZ-US",
+        "name": "\u00dasteck\u00fd kraj, Czech Republic",
+        "parent_code": "CZ",
+        "parent_name": "Czech Republic"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "code": "UM-81",
+        "name": "Baker Island, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-84",
+        "name": "Howland Island, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-86",
+        "name": "Jarvis Island, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-67",
+        "name": "Johnston Atoll, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-89",
+        "name": "Kingman Reef, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-71",
+        "name": "Midway Islands, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-76",
+        "name": "Navassa Island, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-95",
+        "name": "Palmyra Atoll, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "UM-79",
+        "name": "Wake Island, United States Minor Outlying Islands",
+        "parent_code": "UM",
+        "parent_name": "United States Minor Outlying Islands"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "code": "KY-BT",
+        "name": "Bodden Town, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-CB",
+        "name": "Cayman Brac, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-EE",
+        "name": "East End, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-GT",
+        "name": "George Town, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-SO",
+        "name": "Little Cayman, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-NS",
+        "name": "North Side, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    },
+    {
+        "code": "KY-WB",
+        "name": "West Bay, Cayman Islands",
+        "parent_code": "KY",
+        "parent_name": "Cayman Islands"
+    }
+]

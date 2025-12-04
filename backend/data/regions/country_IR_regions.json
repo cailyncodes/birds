@@ -1,0 +1,182 @@
+[
+    {
+        "code": "IR-03",
+        "name": "Ardabil, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-02",
+        "name": "Az\u00afarbayjan-e Gharbi, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-01",
+        "name": "Az\u00afarbayjan-e Sharqi, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-06",
+        "name": "Bushehr, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-08",
+        "name": "Chahar Mah\u00b8all va Bakhtiari, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-04",
+        "name": "Esfahan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-14",
+        "name": "Fars, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-19",
+        "name": "Gilan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-27",
+        "name": "Golestan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-24",
+        "name": "Hamadan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-23",
+        "name": "Hormozgan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-05",
+        "name": "Ilam, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-15",
+        "name": "Kerman, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-17",
+        "name": "Kermanshah, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-29",
+        "name": "Khorasan-e Janubi, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-30",
+        "name": "Khorasan-e Razavi, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-31",
+        "name": "Khorasan-e Shemali, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-10",
+        "name": "Khuzestan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-18",
+        "name": "Kohkiluyeh va Buyer Ahmad, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-16",
+        "name": "Kordestan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-20",
+        "name": "Lorestan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-22",
+        "name": "Markazi, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-21",
+        "name": "Mazandaran, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-28",
+        "name": "Qazvin, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-26",
+        "name": "Qom, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-12",
+        "name": "Semnan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-13",
+        "name": "Sistan va Baluchestan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-07",
+        "name": "Tehran, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-25",
+        "name": "Yazd, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    },
+    {
+        "code": "IR-11",
+        "name": "Zanjan, Iran",
+        "parent_code": "IR",
+        "parent_name": "Iran"
+    }
+]

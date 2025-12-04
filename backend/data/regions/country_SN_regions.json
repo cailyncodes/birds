@@ -1,0 +1,68 @@
+[
+    {
+        "code": "SN-DK",
+        "name": "Dakar, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-DB",
+        "name": "Diourbel, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-FK",
+        "name": "Fatick, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-KL",
+        "name": "Kaolack, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-KD",
+        "name": "Kolda, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-LG",
+        "name": "Louga, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-MT",
+        "name": "Matam, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-SL",
+        "name": "Saint-Louis, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-TC",
+        "name": "Tambacounda, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-TH",
+        "name": "Thi\u00e8s, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    },
+    {
+        "code": "SN-ZG",
+        "name": "Ziguinchor, Senegal",
+        "parent_code": "SN",
+        "parent_name": "Senegal"
+    }
+]

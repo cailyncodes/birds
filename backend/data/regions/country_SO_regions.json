@@ -1,0 +1,110 @@
+[
+    {
+        "code": "SO-AW",
+        "name": "Awdal, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-BK",
+        "name": "Bakool, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-BN",
+        "name": "Banaadir, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-BR",
+        "name": "Bari, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-BY",
+        "name": "Bay, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-GA",
+        "name": "Galguduud, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-GE",
+        "name": "Gedo, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-HI",
+        "name": "Hiiraan, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-JD",
+        "name": "Jubbada Dhexe, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-JH",
+        "name": "Jubbada Hoose, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-MU",
+        "name": "Mudug, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-NU",
+        "name": "Nugaal, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-SA",
+        "name": "Sanaag, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-SD",
+        "name": "Shabeellaha Dhexe, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-SH",
+        "name": "Shabeellaha Hoose, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-SO",
+        "name": "Sool, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-TO",
+        "name": "Togdheer, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    },
+    {
+        "code": "SO-WO",
+        "name": "Woqooyi Galbeed, Somalia",
+        "parent_code": "SO",
+        "parent_name": "Somalia"
+    }
+]

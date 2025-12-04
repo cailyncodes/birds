@@ -1,0 +1,452 @@
+[
+    {
+        "code": "GR-I-45",
+        "name": "Central Athens, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-49",
+        "name": "East Attica, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-52",
+        "name": "Islands, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-46",
+        "name": "North Athens, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-51",
+        "name": "Piraeus, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-48",
+        "name": "South Athens, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-47",
+        "name": "West Athens, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-I-50",
+        "name": "West Attica, Attica, Greece",
+        "parent_code": "GR-I",
+        "parent_name": "Attica"
+    },
+    {
+        "code": "GR-H-30",
+        "name": "Evrytania, Central Greece, Greece",
+        "parent_code": "GR-H",
+        "parent_name": "Central Greece"
+    },
+    {
+        "code": "GR-H-29",
+        "name": "Evvoia, Central Greece, Greece",
+        "parent_code": "GR-H",
+        "parent_name": "Central Greece"
+    },
+    {
+        "code": "GR-H-31",
+        "name": "Fokida, Central Greece, Greece",
+        "parent_code": "GR-H",
+        "parent_name": "Central Greece"
+    },
+    {
+        "code": "GR-H-27",
+        "name": "Fthiotida, Central Greece, Greece",
+        "parent_code": "GR-H",
+        "parent_name": "Central Greece"
+    },
+    {
+        "code": "GR-H-28",
+        "name": "Viotia, Central Greece, Greece",
+        "parent_code": "GR-H",
+        "parent_name": "Central Greece"
+    },
+    {
+        "code": "GR-B-13",
+        "name": "Chalkidiki, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-08",
+        "name": "Imathia, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-09",
+        "name": "Kilkis, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-10",
+        "name": "Pella, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-11",
+        "name": "Pieria, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-12",
+        "name": "Serres, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-B-07",
+        "name": "Thessaloniki, Central Macedonia, Greece",
+        "parent_code": "GR-B",
+        "parent_name": "Central Macedonia"
+    },
+    {
+        "code": "GR-M-74",
+        "name": "Chania, Crete, Greece",
+        "parent_code": "GR-M",
+        "parent_name": "Crete"
+    },
+    {
+        "code": "GR-M-71",
+        "name": "Heraklion, Crete, Greece",
+        "parent_code": "GR-M",
+        "parent_name": "Crete"
+    },
+    {
+        "code": "GR-M-72",
+        "name": "Lasithi, Crete, Greece",
+        "parent_code": "GR-M",
+        "parent_name": "Crete"
+    },
+    {
+        "code": "GR-M-73",
+        "name": "Rethymno, Crete, Greece",
+        "parent_code": "GR-M",
+        "parent_name": "Crete"
+    },
+    {
+        "code": "GR-A-02",
+        "name": "Drama, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-A-03",
+        "name": "Evros, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-A-05",
+        "name": "Kavala, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-A-01",
+        "name": "Rodopi, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-A-04",
+        "name": "Thasos, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-A-06",
+        "name": "Xanthi, Eastern Macedonia and Thrace, Greece",
+        "parent_code": "GR-A",
+        "parent_name": "Eastern Macedonia and Thrace"
+    },
+    {
+        "code": "GR-D-19",
+        "name": "Arta, Epirus, Greece",
+        "parent_code": "GR-D",
+        "parent_name": "Epirus"
+    },
+    {
+        "code": "GR-D-18",
+        "name": "Ioannina, Epirus, Greece",
+        "parent_code": "GR-D",
+        "parent_name": "Epirus"
+    },
+    {
+        "code": "GR-D-21",
+        "name": "Preveza, Epirus, Greece",
+        "parent_code": "GR-D",
+        "parent_name": "Epirus"
+    },
+    {
+        "code": "GR-D-20",
+        "name": "Thesprotia, Epirus, Greece",
+        "parent_code": "GR-D",
+        "parent_name": "Epirus"
+    },
+    {
+        "code": "GR-F-35",
+        "name": "Cephalonia, Ionian Islands, Greece",
+        "parent_code": "GR-F",
+        "parent_name": "Ionian Islands"
+    },
+    {
+        "code": "GR-F-32",
+        "name": "Corfu, Ionian Islands, Greece",
+        "parent_code": "GR-F",
+        "parent_name": "Ionian Islands"
+    },
+    {
+        "code": "GR-F-34",
+        "name": "Ithaca, Ionian Islands, Greece",
+        "parent_code": "GR-F",
+        "parent_name": "Ionian Islands"
+    },
+    {
+        "code": "GR-F-36",
+        "name": "Lefkada, Ionian Islands, Greece",
+        "parent_code": "GR-F",
+        "parent_name": "Ionian Islands"
+    },
+    {
+        "code": "GR-F-33",
+        "name": "Zakynthos, Ionian Islands, Greece",
+        "parent_code": "GR-F",
+        "parent_name": "Ionian Islands"
+    },
+    {
+        "code": "GR-69-99",
+        "name": "Mount Athos Autonomous Region, Mount Athos Autonomous Region, Greece",
+        "parent_code": "GR-69",
+        "parent_name": "Mount Athos Autonomous Region"
+    },
+    {
+        "code": "GR-K-57",
+        "name": "Chios, Northern Aegean, Greece",
+        "parent_code": "GR-K",
+        "parent_name": "Northern Aegean"
+    },
+    {
+        "code": "GR-K-54",
+        "name": "Ikaria, Northern Aegean, Greece",
+        "parent_code": "GR-K",
+        "parent_name": "Northern Aegean"
+    },
+    {
+        "code": "GR-K-55",
+        "name": "Lemnos, Northern Aegean, Greece",
+        "parent_code": "GR-K",
+        "parent_name": "Northern Aegean"
+    },
+    {
+        "code": "GR-K-53",
+        "name": "Lesvos, Northern Aegean, Greece",
+        "parent_code": "GR-K",
+        "parent_name": "Northern Aegean"
+    },
+    {
+        "code": "GR-K-56",
+        "name": "Samos, Northern Aegean, Greece",
+        "parent_code": "GR-K",
+        "parent_name": "Northern Aegean"
+    },
+    {
+        "code": "GR-J-40",
+        "name": "Arcadia, Peloponnese, Greece",
+        "parent_code": "GR-J",
+        "parent_name": "Peloponnese"
+    },
+    {
+        "code": "GR-J-41",
+        "name": "Argolida, Peloponnese, Greece",
+        "parent_code": "GR-J",
+        "parent_name": "Peloponnese"
+    },
+    {
+        "code": "GR-J-42",
+        "name": "Corinth, Peloponnese, Greece",
+        "parent_code": "GR-J",
+        "parent_name": "Peloponnese"
+    },
+    {
+        "code": "GR-J-43",
+        "name": "Lakonia, Peloponnese, Greece",
+        "parent_code": "GR-J",
+        "parent_name": "Peloponnese"
+    },
+    {
+        "code": "GR-J-44",
+        "name": "Messinia, Peloponnese, Greece",
+        "parent_code": "GR-J",
+        "parent_name": "Peloponnese"
+    },
+    {
+        "code": "GR-L-59",
+        "name": "Andros, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-61",
+        "name": "Kalymnos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-62",
+        "name": "Karpathos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-63",
+        "name": "Kea-Kythnos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-64",
+        "name": "Kos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-65",
+        "name": "Milos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-66",
+        "name": "Mykonos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-67",
+        "name": "Naxos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-68",
+        "name": "Paros, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-69",
+        "name": "Rhodes, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-60",
+        "name": "Santorini, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-58",
+        "name": "Syros, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-L-70",
+        "name": "Tinos, Southern Aegean, Greece",
+        "parent_code": "GR-L",
+        "parent_name": "Southern Aegean"
+    },
+    {
+        "code": "GR-E-23",
+        "name": "Karditsa, Thessaly, Greece",
+        "parent_code": "GR-E",
+        "parent_name": "Thessaly"
+    },
+    {
+        "code": "GR-E-22",
+        "name": "Larisa, Thessaly, Greece",
+        "parent_code": "GR-E",
+        "parent_name": "Thessaly"
+    },
+    {
+        "code": "GR-E-24",
+        "name": "Magnisia, Thessaly, Greece",
+        "parent_code": "GR-E",
+        "parent_name": "Thessaly"
+    },
+    {
+        "code": "GR-E-25",
+        "name": "Northern Sporades, Thessaly, Greece",
+        "parent_code": "GR-E",
+        "parent_name": "Thessaly"
+    },
+    {
+        "code": "GR-E-26",
+        "name": "Trikala, Thessaly, Greece",
+        "parent_code": "GR-E",
+        "parent_name": "Thessaly"
+    },
+    {
+        "code": "GR-G-37",
+        "name": "Achaia, Western Greece, Greece",
+        "parent_code": "GR-G",
+        "parent_name": "Western Greece"
+    },
+    {
+        "code": "GR-G-38",
+        "name": "Aitoloakarnania, Western Greece, Greece",
+        "parent_code": "GR-G",
+        "parent_name": "Western Greece"
+    },
+    {
+        "code": "GR-G-39",
+        "name": "Ileia, Western Greece, Greece",
+        "parent_code": "GR-G",
+        "parent_name": "Western Greece"
+    },
+    {
+        "code": "GR-C-17",
+        "name": "Florina, Western Macedonia, Greece",
+        "parent_code": "GR-C",
+        "parent_name": "Western Macedonia"
+    },
+    {
+        "code": "GR-C-15",
+        "name": "Grevena, Western Macedonia, Greece",
+        "parent_code": "GR-C",
+        "parent_name": "Western Macedonia"
+    },
+    {
+        "code": "GR-C-16",
+        "name": "Kastoria, Western Macedonia, Greece",
+        "parent_code": "GR-C",
+        "parent_name": "Western Macedonia"
+    },
+    {
+        "code": "GR-C-14",
+        "name": "Kozani, Western Macedonia, Greece",
+        "parent_code": "GR-C",
+        "parent_name": "Western Macedonia"
+    }
+]

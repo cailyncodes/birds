@@ -1,0 +1,20 @@
+[
+    {
+        "code": "KM-A",
+        "name": "Anjouan, Comoros",
+        "parent_code": "KM",
+        "parent_name": "Comoros"
+    },
+    {
+        "code": "KM-G",
+        "name": "Grande Comore, Comoros",
+        "parent_code": "KM",
+        "parent_name": "Comoros"
+    },
+    {
+        "code": "KM-M",
+        "name": "Moh\u00e9li, Comoros",
+        "parent_code": "KM",
+        "parent_name": "Comoros"
+    }
+]

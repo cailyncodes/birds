@@ -1,0 +1,98 @@
+[
+    {
+        "code": "CU-15",
+        "name": "Artemisa, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-09",
+        "name": "Camag\u00fcey, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-08",
+        "name": "Ciego de \u00c1vila, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-06",
+        "name": "Cienfuegos, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-12",
+        "name": "Granma, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-14",
+        "name": "Guant\u00e1namo, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-11",
+        "name": "Holgu\u00edn, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-99",
+        "name": "Isla de la Juventud, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-03",
+        "name": "La Habana, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-10",
+        "name": "Las Tunas, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-04",
+        "name": "Matanzas, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-16",
+        "name": "Mayabeque, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-01",
+        "name": "Pinar del R\u00edo, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-07",
+        "name": "Sancti Sp\u00edritus, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-13",
+        "name": "Santiago de Cuba, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    },
+    {
+        "code": "CU-05",
+        "name": "Villa Clara, Cuba",
+        "parent_code": "CU",
+        "parent_name": "Cuba"
+    }
+]

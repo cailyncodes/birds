@@ -1,0 +1,38 @@
+[
+    {
+        "code": "BD-1",
+        "name": "Barisal bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    },
+    {
+        "code": "BD-2",
+        "name": "Chittagong bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    },
+    {
+        "code": "BD-3",
+        "name": "Dhaka bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    },
+    {
+        "code": "BD-4",
+        "name": "Khulna bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    },
+    {
+        "code": "BD-5",
+        "name": "Rajshahi bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    },
+    {
+        "code": "BD-6",
+        "name": "Sylhet bibhag, Bangladesh",
+        "parent_code": "BD",
+        "parent_name": "Bangladesh"
+    }
+]

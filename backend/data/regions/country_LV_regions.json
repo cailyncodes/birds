@@ -1,0 +1,716 @@
+[
+    {
+        "code": "LV-011",
+        "name": "Ada\u017ei, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-001",
+        "name": "Aglona, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-002",
+        "name": "Aizkraukle, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-003",
+        "name": "Aizpute, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-004",
+        "name": "Akniste, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-005",
+        "name": "Aloja, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-006",
+        "name": "Alsunga, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-007",
+        "name": "Aluksne, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-008",
+        "name": "Amata, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-009",
+        "name": "Ape, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-010",
+        "name": "Auce, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-012",
+        "name": "Babite, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-013",
+        "name": "Baldone, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-014",
+        "name": "Baltinava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-015",
+        "name": "Balvi, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-016",
+        "name": "Bauska, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-017",
+        "name": "Beverina, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-018",
+        "name": "Broceni, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-019",
+        "name": "Burtnieki, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-020",
+        "name": "Carnikava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-022",
+        "name": "Cesis, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-021",
+        "name": "Cesvaine, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-023",
+        "name": "Cibla, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-024",
+        "name": "Dagda, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-025",
+        "name": "Daugavpils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-DGV",
+        "name": "Daugavpils City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-026",
+        "name": "Dobele, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-027",
+        "name": "Dundaga, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-028",
+        "name": "Durbe, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-029",
+        "name": "Engure, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-030",
+        "name": "Ergli, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-031",
+        "name": "Garkalne, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-032",
+        "name": "Grobina, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-033",
+        "name": "Gulbene, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-034",
+        "name": "Iecava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-035",
+        "name": "Ik\u0161kile, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-036",
+        "name": "Ilukste, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-037",
+        "name": "Incukalns, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-038",
+        "name": "Jaunjelgava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-039",
+        "name": "Jaunpiebalga, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-040",
+        "name": "Jaunpils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-042",
+        "name": "Jekabpils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-JKB",
+        "name": "Jekabpils City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-041",
+        "name": "Jelgava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-JEL",
+        "name": "Jelgava City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-JUR",
+        "name": "Jurmala City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-043",
+        "name": "Kandava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-044",
+        "name": "Karsava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-051",
+        "name": "Kegums, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-052",
+        "name": "Kekava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-045",
+        "name": "Koceni, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-046",
+        "name": "Koknese, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-047",
+        "name": "Kraslava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-048",
+        "name": "Krimulda, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-049",
+        "name": "Krustpils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-050",
+        "name": "Kuldiga, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-053",
+        "name": "Lielvarde, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-LPX",
+        "name": "Liepaja City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-055",
+        "name": "Ligatne, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-054",
+        "name": "Limba\u017ei, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-056",
+        "name": "Livani, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-057",
+        "name": "Lubana, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-058",
+        "name": "Ludza, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-059",
+        "name": "Madona, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-061",
+        "name": "Malpils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-062",
+        "name": "Marupe, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-060",
+        "name": "Mazsalaca, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-063",
+        "name": "Mersrags, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-064",
+        "name": "Nauk\u0161eni, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-065",
+        "name": "Nereta, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-066",
+        "name": "Nica, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-067",
+        "name": "Ogre, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-068",
+        "name": "Olaine, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-069",
+        "name": "Ozolnieki, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-070",
+        "name": "Pargauja, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-071",
+        "name": "Pavilosta, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-072",
+        "name": "Plavinas, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-073",
+        "name": "Preili, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-074",
+        "name": "Priekule, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-075",
+        "name": "Priekuli, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-076",
+        "name": "Rauna, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-077",
+        "name": "Rezekne, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-REZ",
+        "name": "Rezekne City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-078",
+        "name": "Riebini, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-RIX",
+        "name": "Riga City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-079",
+        "name": "Roja, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-080",
+        "name": "Ropa\u017ei, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-081",
+        "name": "Rucava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-082",
+        "name": "Rugaji, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-084",
+        "name": "Rujiena, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-083",
+        "name": "Rundale, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-085",
+        "name": "Sala, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-086",
+        "name": "Salacgriva, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-087",
+        "name": "Salaspils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-088",
+        "name": "Saldus, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-089",
+        "name": "Saulkrasti, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-090",
+        "name": "Seja, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-091",
+        "name": "Sigulda, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-092",
+        "name": "Skriveri, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-093",
+        "name": "Skrunda, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-094",
+        "name": "Smiltene, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-095",
+        "name": "Stopini, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-096",
+        "name": "Strenci, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-097",
+        "name": "Talsi, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-098",
+        "name": "Tervete, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-099",
+        "name": "Tukums, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-100",
+        "name": "Vainode, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-101",
+        "name": "Valka, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-VMR",
+        "name": "Valmiera City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-102",
+        "name": "Varaklani, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-103",
+        "name": "Varkava, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-104",
+        "name": "Vecpiebalga, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-105",
+        "name": "Vecumnieki, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-106",
+        "name": "Ventspils, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-VEN",
+        "name": "Ventspils City, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-107",
+        "name": "Viesite, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-108",
+        "name": "Vilaka, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-109",
+        "name": "Vilani, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    },
+    {
+        "code": "LV-110",
+        "name": "Zilupe, Latvia",
+        "parent_code": "LV",
+        "parent_name": "Latvia"
+    }
+]

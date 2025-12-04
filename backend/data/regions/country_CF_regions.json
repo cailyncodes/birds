@@ -1,0 +1,104 @@
+[
+    {
+        "code": "CF-BB",
+        "name": "Bamingui-Bangoran, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-BGF",
+        "name": "Bangui, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-BK",
+        "name": "Basse-Kotto, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-HM",
+        "name": "Haut-Mbomou, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-HK",
+        "name": "Haute-Kotto, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-KG",
+        "name": "K\u00e9mo, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-LB",
+        "name": "Lobaye, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-HS",
+        "name": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-MB",
+        "name": "Mbomou, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-KB",
+        "name": "Nana-Gr\u00e9bizi, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-NM",
+        "name": "Nana-Mamb\u00e9r\u00e9, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-MP",
+        "name": "Ombella-Mpoko, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-UK",
+        "name": "Ouaka, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-AC",
+        "name": "Ouham, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-OP",
+        "name": "Ouham-Pend\u00e9, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-SE",
+        "name": "Sangha-Mba\u00e9r\u00e9, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    },
+    {
+        "code": "CF-VK",
+        "name": "Vakaga, Central African Republic",
+        "parent_code": "CF",
+        "parent_name": "Central African Republic"
+    }
+]

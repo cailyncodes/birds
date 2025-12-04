@@ -1,0 +1,116 @@
+[
+    {
+        "code": "FI-08",
+        "name": "Central Finland, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-07",
+        "name": "Central Ostrobothnia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-05",
+        "name": "Kainuu, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-09",
+        "name": "Kymenlaakso, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-10",
+        "name": "Lapland, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-13",
+        "name": "North Karelia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-14",
+        "name": "Northern Ostrobothnia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-15",
+        "name": "Northern Savonia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-12",
+        "name": "Ostrobothnia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-11",
+        "name": "Pirkanmaa, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-16",
+        "name": "P\u00e4ij\u00e4nne Tavastia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-17",
+        "name": "Satakunta, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-02",
+        "name": "South Karelia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-03",
+        "name": "Southern Ostrobothnia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-04",
+        "name": "Southern Savonia, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-19",
+        "name": "Southwest Finland, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-06",
+        "name": "Tavastia Proper, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-18",
+        "name": "Uusimaa, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    },
+    {
+        "code": "FI-01",
+        "name": "\u00c5land, Finland",
+        "parent_code": "FI",
+        "parent_name": "Finland"
+    }
+]

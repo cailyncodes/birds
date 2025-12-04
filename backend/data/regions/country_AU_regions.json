@@ -1,0 +1,3452 @@
+[
+    {
+        "code": "AU-ACT",
+        "name": "Australian Capital Territory, Australia",
+        "parent_code": "AU",
+        "parent_name": "Australia"
+    },
+    {
+        "code": "AU-NSW-ALB",
+        "name": "Albury, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-ARM",
+        "name": "Armidale Dumaresq, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-ASH",
+        "name": "Ashfield, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-AUB",
+        "name": "Auburn, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLL",
+        "name": "Ballina, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLR",
+        "name": "Balranald, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BAN",
+        "name": "Bankstown, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BAT",
+        "name": "Bathurst Regional, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BEG",
+        "name": "Bega Valley, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BEL",
+        "name": "Bellingen, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BER",
+        "name": "Berrigan, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLK",
+        "name": "Blacktown, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLA",
+        "name": "Bland, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLY",
+        "name": "Blayney, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BLU",
+        "name": "Blue Mountains, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BOG",
+        "name": "Bogan, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BOM",
+        "name": "Bombala, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BOO",
+        "name": "Boorowa, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BOT",
+        "name": "Botany Bay, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BOU",
+        "name": "Bourke, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BRE",
+        "name": "Brewarrina, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BRO",
+        "name": "Broken Hill, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BUR",
+        "name": "Burwood, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-BYR",
+        "name": "Byron, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CAB",
+        "name": "Cabonne, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CMD",
+        "name": "Camden, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CAM",
+        "name": "Campbelltown, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CBY",
+        "name": "Canada Bay, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CAN",
+        "name": "Canterbury, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CAR",
+        "name": "Carrathool, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CEN",
+        "name": "Central Darling, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CES",
+        "name": "Cessnock, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CLA",
+        "name": "Clarence Valley, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-COB",
+        "name": "Cobar, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-COF",
+        "name": "Coffs Harbour, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CON",
+        "name": "Conargo, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CLM",
+        "name": "Coolamon, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CMO",
+        "name": "Cooma-Monaro, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-COO",
+        "name": "Coonamble, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-CTM",
+        "name": "Cootamundra, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-COR",
+        "name": "Corowa Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-COW",
+        "name": "Cowra, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-DEN",
+        "name": "Deniliquin, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-DUB",
+        "name": "Dubbo, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-DUN",
+        "name": "Dungog, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-EUR",
+        "name": "Eurobodalla, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-FAI",
+        "name": "Fairfield, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-FOR",
+        "name": "Forbes, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GIL",
+        "name": "Gilgandra, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GLE",
+        "name": "Glen Innes Severn, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GLO",
+        "name": "Gloucester, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GOS",
+        "name": "Gosford, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GOU",
+        "name": "Goulburn Mulwaree, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GLA",
+        "name": "Great Lakes, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GHS",
+        "name": "Greater Hume Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GRT",
+        "name": "Greater Taree, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GRI",
+        "name": "Griffith, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GDG",
+        "name": "Gundagai, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GUN",
+        "name": "Gunnedah, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GUY",
+        "name": "Guyra, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-GWY",
+        "name": "Gwydir, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HAR",
+        "name": "Harden, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HAW",
+        "name": "Hawkesbury, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HAY",
+        "name": "Hay, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HOL",
+        "name": "Holroyd, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HOR",
+        "name": "Hornsby, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HUN",
+        "name": "Hunters Hill, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-HUR",
+        "name": "Hurstville, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-INV",
+        "name": "Inverell, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-JER",
+        "name": "Jerilderie, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-JUN",
+        "name": "Junee, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-KEM",
+        "name": "Kempsey, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-KIA",
+        "name": "Kiama, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-KOG",
+        "name": "Kogarah, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-KRG",
+        "name": "Ku-ring-gai, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-KYO",
+        "name": "Kyogle, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LAC",
+        "name": "Lachlan, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LAK",
+        "name": "Lake Macquarie, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LAN",
+        "name": "Lane Cove, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LEE",
+        "name": "Leeton, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LEI",
+        "name": "Leichhardt, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LIS",
+        "name": "Lismore, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LIT",
+        "name": "Lithgow, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LIV",
+        "name": "Liverpool, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LIP",
+        "name": "Liverpool Plains, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LOC",
+        "name": "Lockhart, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-LHI",
+        "name": "Lord Howe Island, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MAI",
+        "name": "Maitland, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MAN",
+        "name": "Manly, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MAR",
+        "name": "Marrickville, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MID",
+        "name": "Mid-Western Regional, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MOR",
+        "name": "Moree Plains, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MOS",
+        "name": "Mosman, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MUR",
+        "name": "Murray, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MRM",
+        "name": "Murrumbidgee, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-MUS",
+        "name": "Muswellbrook, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NAM",
+        "name": "Nambucca, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NRB",
+        "name": "Narrabri, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NRN",
+        "name": "Narrandera, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NRM",
+        "name": "Narromine, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NEW",
+        "name": "Newcastle, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NOR",
+        "name": "North Sydney, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-NWN",
+        "name": "Northwestern NSW, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-OBE",
+        "name": "Oberon, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-ORA",
+        "name": "Orange, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PAL",
+        "name": "Palerang, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PAR",
+        "name": "Parkes, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PRM",
+        "name": "Parramatta, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PEN",
+        "name": "Penrith, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PIT",
+        "name": "Pittwater, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PMH",
+        "name": "Port Macquarie-Hastings, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-PST",
+        "name": "Port Stephens, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-QUE",
+        "name": "Queanbeyan, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-RAN",
+        "name": "Randwick, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-RIC",
+        "name": "Richmond Valley, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-ROC",
+        "name": "Rockdale, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-RYD",
+        "name": "Ryde, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SHE",
+        "name": "Shellharbour, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SHO",
+        "name": "Shoalhaven, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SIN",
+        "name": "Singleton, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SNO",
+        "name": "Snowy River, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-STR",
+        "name": "Strathfield, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SUT",
+        "name": "Sutherland Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-SYD",
+        "name": "Sydney, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TAM",
+        "name": "Tamworth Regional, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TEM",
+        "name": "Temora, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TEN",
+        "name": "Tenterfield, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-THE",
+        "name": "The Hills Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TMB",
+        "name": "Tumbarumba, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TMT",
+        "name": "Tumut Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-TWE",
+        "name": "Tweed, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-UPH",
+        "name": "Upper Hunter Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-UPL",
+        "name": "Upper Lachlan Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-URL",
+        "name": "Uralla, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-URN",
+        "name": "Urana, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WAG",
+        "name": "Wagga Wagga, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WAK",
+        "name": "Wakool, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WLC",
+        "name": "Walcha, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WAL",
+        "name": "Walgett, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WRR",
+        "name": "Warren, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WRG",
+        "name": "Warringah, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WRM",
+        "name": "Warrumbungle Shire, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WAV",
+        "name": "Waverley, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WED",
+        "name": "Weddin, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WEL",
+        "name": "Wellington, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WEN",
+        "name": "Wentworth, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WIL",
+        "name": "Willoughby, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WIN",
+        "name": "Wingecarribee, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WOL",
+        "name": "Wollondilly, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WLG",
+        "name": "Wollongong, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WOO",
+        "name": "Woollahra, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-WYO",
+        "name": "Wyong, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-YAS",
+        "name": "Yass Valley, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NSW-YOU",
+        "name": "Young, New South Wales, Australia",
+        "parent_code": "AU-NSW",
+        "parent_name": "New South Wales"
+    },
+    {
+        "code": "AU-NT-ALI",
+        "name": "Alice Springs, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-ALY",
+        "name": "Alyangula, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-BAR",
+        "name": "Barkly, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-BEL",
+        "name": "Belyuen, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-CEN",
+        "name": "Central Desert, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-COO",
+        "name": "Coomalie, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-DAR",
+        "name": "Darwin, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-EAS",
+        "name": "East Arnhem, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-KAT",
+        "name": "Katherine, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-LIT",
+        "name": "Litchfield, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-MAC",
+        "name": "MacDonnell, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-NHU",
+        "name": "Nhulunbuy, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-TOP",
+        "name": "Northeast Top End, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-PAL",
+        "name": "Palmerston, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-ROP",
+        "name": "Roper Gulf, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-TIW",
+        "name": "Tiwi Islands, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-VIC",
+        "name": "Victoria-Daly, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-WAG",
+        "name": "Wagait, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-WES",
+        "name": "West Arnhem, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-NT-YUL",
+        "name": "Yulara, Northern Territory, Australia",
+        "parent_code": "AU-NT",
+        "parent_name": "Northern Territory"
+    },
+    {
+        "code": "AU-QLD-AUR",
+        "name": "Aurukun, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BAL",
+        "name": "Balonne, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BAN",
+        "name": "Banana, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BCL",
+        "name": "Barcaldine, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BAR",
+        "name": "Barcoo, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BLA",
+        "name": "Blackall Tambo, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BOU",
+        "name": "Boulia, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BRI",
+        "name": "Brisbane, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BUL",
+        "name": "Bulloo, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BUN",
+        "name": "Bundaberg, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BDK",
+        "name": "Burdekin, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-BRK",
+        "name": "Burke, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CAI",
+        "name": "Cairns, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CAR",
+        "name": "Carpentaria, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CAS",
+        "name": "Cassowary Coast, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CEN",
+        "name": "Central Highlands, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CHA",
+        "name": "Charters Towers, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CHE",
+        "name": "Cherbourg, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CLO",
+        "name": "Cloncurry, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-COO",
+        "name": "Cook, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-CRO",
+        "name": "Croydon, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-DIA",
+        "name": "Diamantina, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-DOO",
+        "name": "Doomadgee, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-ETH",
+        "name": "Etheridge, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-FLI",
+        "name": "Flinders, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-FRA",
+        "name": "Fraser Coast, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-GLA",
+        "name": "Gladstone, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-GOL",
+        "name": "Gold Coast, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-GOO",
+        "name": "Goondiwindi, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-GYM",
+        "name": "Gympie, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-HIN",
+        "name": "Hinchinbrook, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-HOP",
+        "name": "Hope Vale, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-IPS",
+        "name": "Ipswich, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-ISA",
+        "name": "Isaac, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-KOW",
+        "name": "Kowanyama, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-LOR",
+        "name": "Lockhart River, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-LOV",
+        "name": "Lockyer Valley, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-LOG",
+        "name": "Logan, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-LON",
+        "name": "Longreach, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MAC",
+        "name": "Mackay, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MAP",
+        "name": "Mapoon, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MAR",
+        "name": "Maranoa, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MCK",
+        "name": "McKinlay, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MRB",
+        "name": "Moreton Bay, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MOR",
+        "name": "Mornington, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MOU",
+        "name": "Mount Isa, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-MUR",
+        "name": "Murweh, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-NAP",
+        "name": "Napranum, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-NBU",
+        "name": "North Burnett, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-NPA",
+        "name": "Northern Peninsula Area, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-PAL",
+        "name": "Palm Island, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-PAR",
+        "name": "Paroo, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-POR",
+        "name": "Pormpuraaw, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-QUI",
+        "name": "Quilpie, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-RED",
+        "name": "Redland, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-RIC",
+        "name": "Richmond, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-ROC",
+        "name": "Rockhampton, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-SCE",
+        "name": "Scenic Rim, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-SOM",
+        "name": "Somerset, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-SOB",
+        "name": "South Burnett, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-SOD",
+        "name": "Southern Downs, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-SUN",
+        "name": "Sunshine Coast, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-TAB",
+        "name": "Tablelands, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-TOO",
+        "name": "Toowoomba, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-TOR",
+        "name": "Torres, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-TSI",
+        "name": "Torres Strait Island, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-TOW",
+        "name": "Townsville, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WEI",
+        "name": "Weipa, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WES",
+        "name": "Western Downs, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WHI",
+        "name": "Whitsunday, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WIN",
+        "name": "Winton, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WOO",
+        "name": "Woorabinda, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-WUJ",
+        "name": "Wujal Wujal, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-QLD-YAR",
+        "name": "Yarrabah, Queensland, Australia",
+        "parent_code": "AU-QLD",
+        "parent_name": "Queensland"
+    },
+    {
+        "code": "AU-SA-ADL",
+        "name": "Adelaide, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ADH",
+        "name": "Adelaide Hills, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ALE",
+        "name": "Alexandrina, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ANA",
+        "name": "Anangu Pitjantjatjara, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-BAR",
+        "name": "Barossa, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-BRW",
+        "name": "Barunga West, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-BER",
+        "name": "Berri and Barmera, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-BUR",
+        "name": "Burnside, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-CAM",
+        "name": "Campbelltown, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-CED",
+        "name": "Ceduna, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-CHA",
+        "name": "Charles Sturt, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-CLA",
+        "name": "Clare and Gilbert Valleys, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-CLE",
+        "name": "Cleve, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-COO",
+        "name": "Coober Pedy, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-COP",
+        "name": "Copper Coast, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ELL",
+        "name": "Elliston, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-FLI",
+        "name": "Flinders Ranges, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-FRA",
+        "name": "Franklin Harbour, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-GAW",
+        "name": "Gawler, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-GOY",
+        "name": "Goyder, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-GRA",
+        "name": "Grant, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-HOL",
+        "name": "Holdfast Bay, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-KAN",
+        "name": "Kangaroo Island, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-KAR",
+        "name": "Karoonda East Murray, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-KIM",
+        "name": "Kimba, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-KIN",
+        "name": "Kingston, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-LIG",
+        "name": "Light, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-LOW",
+        "name": "Lower Eyre Peninsula, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-LOX",
+        "name": "Loxton Waikerie, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MAL",
+        "name": "Mallala, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MAT",
+        "name": "Maralinga Tjarutja, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MAR",
+        "name": "Marion, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MID",
+        "name": "Mid Murray, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MIT",
+        "name": "Mitcham, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MTB",
+        "name": "Mount Barker, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MTG",
+        "name": "Mount Gambier, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MTR",
+        "name": "Mount Remarkable, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-MUR",
+        "name": "Murray Bridge, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-NAR",
+        "name": "Naracoorte and Lucindale, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-NOR",
+        "name": "Northern Areas, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-NPS",
+        "name": "Norwood Payneham St Peters, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ONK",
+        "name": "Onkaparinga, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ORR",
+        "name": "Orroroo/Carrieton, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PET",
+        "name": "Peterborough, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PLA",
+        "name": "Playford, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PAD",
+        "name": "Port Adelaide Enfield, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PAU",
+        "name": "Port Augusta, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PLI",
+        "name": "Port Lincoln, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PPI",
+        "name": "Port Pirie City and Dists, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-PRO",
+        "name": "Prospect, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-REN",
+        "name": "Renmark Paringa, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ROB",
+        "name": "Robe, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-ROX",
+        "name": "Roxby Downs, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-SAL",
+        "name": "Salisbury, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-SOU",
+        "name": "Southern Mallee, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-STR",
+        "name": "Streaky Bay, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-TAT",
+        "name": "Tatiara, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-TEA",
+        "name": "Tea Tree Gully, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-THE",
+        "name": "The Coorong, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-TUM",
+        "name": "Tumby Bay, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-UNI",
+        "name": "Unincorporated SA, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-UNL",
+        "name": "Unley, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-VIC",
+        "name": "Victor Harbor, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WAK",
+        "name": "Wakefield, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WAL",
+        "name": "Walkerville, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WAT",
+        "name": "Wattle Range, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WES",
+        "name": "West Torrens, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WHY",
+        "name": "Whyalla, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-WUD",
+        "name": "Wudinna, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-YAN",
+        "name": "Yankalilla, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-SA-YOR",
+        "name": "Yorke Peninsula, South Australia, Australia",
+        "parent_code": "AU-SA",
+        "parent_name": "South Australia"
+    },
+    {
+        "code": "AU-TAS-BRE",
+        "name": "Break O'Day, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-BRI",
+        "name": "Brighton, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-BUR",
+        "name": "Burnie, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-CCO",
+        "name": "Central Coast, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-CHI",
+        "name": "Central Highlands, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-CIR",
+        "name": "Circular Head, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-CLA",
+        "name": "Clarence, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-DER",
+        "name": "Derwent Valley, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-DEV",
+        "name": "Devonport, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-DOR",
+        "name": "Dorset, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-FLI",
+        "name": "Flinders, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-GEO",
+        "name": "George Town, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-GLA",
+        "name": "Glamorgan/Spring Bay, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-GLE",
+        "name": "Glenorchy, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-HOB",
+        "name": "Hobart, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-HUO",
+        "name": "Huon Valley, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-KEN",
+        "name": "Kentish, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-KNS",
+        "name": "King Island, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-KIN",
+        "name": "Kingborough, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-LAT",
+        "name": "Latrobe, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-LAU",
+        "name": "Launceston, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-MEA",
+        "name": "Meander Valley, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-NOR",
+        "name": "Northern Midlands, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-SOR",
+        "name": "Sorell, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-SOU",
+        "name": "Southern Midlands, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-TAS",
+        "name": "Tasman, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-WAR",
+        "name": "Waratah/Wynyard, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-WEC",
+        "name": "West Coast, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-TAS-WET",
+        "name": "West Tamar, Tasmania, Australia",
+        "parent_code": "AU-TAS",
+        "parent_name": "Tasmania"
+    },
+    {
+        "code": "AU-VIC-ALP",
+        "name": "Alpine, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-ARA",
+        "name": "Ararat, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BAL",
+        "name": "Ballarat, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BAN",
+        "name": "Banyule, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BAS",
+        "name": "Bass Coast, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BAW",
+        "name": "Baw Baw, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BAY",
+        "name": "Bayside, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BEN",
+        "name": "Benalla, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BOR",
+        "name": "Boroondara, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BRI",
+        "name": "Brimbank, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-BUL",
+        "name": "Buloke, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-CAM",
+        "name": "Campaspe, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-CAR",
+        "name": "Cardinia, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-CAS",
+        "name": "Casey, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-CEN",
+        "name": "Central Goldfields, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-COL",
+        "name": "Colac-Otway, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-COR",
+        "name": "Corangamite, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-DAR",
+        "name": "Darebin, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-EAS",
+        "name": "East Gippsland, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-FAC",
+        "name": "Falls Creek, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-FRA",
+        "name": "Frankston, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-FRE",
+        "name": "French Island, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GAN",
+        "name": "Gannawarra, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GEI",
+        "name": "Glen Eira, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GLG",
+        "name": "Glenelg, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GOL",
+        "name": "Golden Plains, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GBE",
+        "name": "Greater Bendigo, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GDA",
+        "name": "Greater Dandenong, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GGE",
+        "name": "Greater Geelong, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-GSH",
+        "name": "Greater Shepparton, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HEP",
+        "name": "Hepburn, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HIN",
+        "name": "Hindmarsh, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HOB",
+        "name": "Hobsons Bay, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HOR",
+        "name": "Horsham, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HUM",
+        "name": "Hume, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-IND",
+        "name": "Indigo, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-KIN",
+        "name": "Kingston, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-KNO",
+        "name": "Knox, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-LJP",
+        "name": "Lady Julia Percy Island, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-LAK",
+        "name": "Lake Mountain, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-LAT",
+        "name": "Latrobe, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-LOD",
+        "name": "Loddon, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MAC",
+        "name": "Macedon Ranges, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MAN",
+        "name": "Manningham, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MNS",
+        "name": "Mansfield, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MBY",
+        "name": "Maribyrnong, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MAR",
+        "name": "Maroondah, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MEL",
+        "name": "Melbourne, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MLT",
+        "name": "Melton, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MOR",
+        "name": "Merri-bek, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MIL",
+        "name": "Mildura, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MIT",
+        "name": "Mitchell, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MOI",
+        "name": "Moira, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MON",
+        "name": "Monash, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MVA",
+        "name": "Moonee Valley, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MOO",
+        "name": "Moorabool, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MPE",
+        "name": "Mornington Peninsula, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MOU",
+        "name": "Mount Alexander, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MBU",
+        "name": "Mount Buller, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MOY",
+        "name": "Moyne, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MBB",
+        "name": "Mt Baw Baw, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-HOT",
+        "name": "Mt Hotham, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-MUR",
+        "name": "Murrindindi, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-NIL",
+        "name": "Nillumbik, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-NOR",
+        "name": "Northern Grampians, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-POR",
+        "name": "Port Phillip, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-PYR",
+        "name": "Pyrenees, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-QUE",
+        "name": "Queenscliffe, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-SGI",
+        "name": "South Gippsland, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-SGR",
+        "name": "Southern Grampians, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-STO",
+        "name": "Stonnington, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-STR",
+        "name": "Strathbogie, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-SUR",
+        "name": "Surf Coast, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-SWA",
+        "name": "Swan Hill, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-TOW",
+        "name": "Towong, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WAN",
+        "name": "Wangaratta, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WAR",
+        "name": "Warrnambool, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WEL",
+        "name": "Wellington, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WES",
+        "name": "West Wimmera, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WHO",
+        "name": "Whitehorse, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WHI",
+        "name": "Whittlesea, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WPI",
+        "name": "Wilsons Promontory Islands, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WOD",
+        "name": "Wodonga, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-WYN",
+        "name": "Wyndham, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-YAR",
+        "name": "Yarra, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-YRA",
+        "name": "Yarra Ranges, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-VIC-YMB",
+        "name": "Yarriambiack, Victoria, Australia",
+        "parent_code": "AU-VIC",
+        "parent_name": "Victoria"
+    },
+    {
+        "code": "AU-WA-ALB",
+        "name": "Albany, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-ARM",
+        "name": "Armadale, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-ASH",
+        "name": "Ashburton, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-AUG",
+        "name": "Augusta-Margaret River, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BAS",
+        "name": "Bassendean, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BAY",
+        "name": "Bayswater, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BEL",
+        "name": "Belmont, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BEV",
+        "name": "Beverley, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BOD",
+        "name": "Boddington, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BOY",
+        "name": "Boyup Brook, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BRI",
+        "name": "Bridgetown-Greenbushes, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BRK",
+        "name": "Brookton, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BRM",
+        "name": "Broome, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BRT",
+        "name": "Broomehill-Tambellup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BRU",
+        "name": "Bruce Rock, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BUN",
+        "name": "Bunbury, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-BUS",
+        "name": "Busselton, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CAM",
+        "name": "Cambridge, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CAN",
+        "name": "Canning, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CAP",
+        "name": "Capel, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CNM",
+        "name": "Carnamah, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CAR",
+        "name": "Carnarvon, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CHA",
+        "name": "Chapman Valley, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CHI",
+        "name": "Chittering, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CLA",
+        "name": "Claremont, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-COC",
+        "name": "Cockburn, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-COL",
+        "name": "Collie, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CLG",
+        "name": "Coolgardie, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-COO",
+        "name": "Coorow, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-COR",
+        "name": "Corrigin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-COT",
+        "name": "Cottesloe, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CRA",
+        "name": "Cranbrook, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CUB",
+        "name": "Cuballing, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CUE",
+        "name": "Cue, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-CUN",
+        "name": "Cunderdin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DAL",
+        "name": "Dalwallinu, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DAN",
+        "name": "Dandaragan, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DAR",
+        "name": "Dardanup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DEN",
+        "name": "Denmark, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DER",
+        "name": "Derby-West Kimberley, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DON",
+        "name": "Donnybrook-Balingup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DOW",
+        "name": "Dowerin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DUM",
+        "name": "Dumbleyung, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-DUN",
+        "name": "Dundas, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-EFR",
+        "name": "East Fremantle, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-EPI",
+        "name": "East Pilbara, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-ESP",
+        "name": "Esperance, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-EXM",
+        "name": "Exmouth, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-FRE",
+        "name": "Fremantle, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-GER",
+        "name": "Geraldton-Greenough, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-GIN",
+        "name": "Gingin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-GNO",
+        "name": "Gnowangerup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-GOO",
+        "name": "Goomalling, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-GOS",
+        "name": "Gosnells, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-HAL",
+        "name": "Halls Creek, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-HAR",
+        "name": "Harvey, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-IRW",
+        "name": "Irwin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-JER",
+        "name": "Jerramungup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-JPP",
+        "name": "Joondalup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KAL",
+        "name": "Kalamunda, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KAB",
+        "name": "Kalgoorlie/Boulder, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KAT",
+        "name": "Katanning, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KEL",
+        "name": "Kellerberrin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KEN",
+        "name": "Kent, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KOJ",
+        "name": "Kojonup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KON",
+        "name": "Kondinin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KOO",
+        "name": "Koorda, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KUL",
+        "name": "Kulin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-KWI",
+        "name": "Kwinana, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-LAK",
+        "name": "Lake Grace, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-LAV",
+        "name": "Laverton, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-LEO",
+        "name": "Leonora, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MND",
+        "name": "Mandurah, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MNJ",
+        "name": "Manjimup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MEE",
+        "name": "Meekatharra, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MEL",
+        "name": "Melville, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MEN",
+        "name": "Menzies, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MER",
+        "name": "Merredin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MIN",
+        "name": "Mingenew, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MOO",
+        "name": "Moora, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MOR",
+        "name": "Morawa, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MOS",
+        "name": "Mosman Park, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MMA",
+        "name": "Mount Magnet, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MOU",
+        "name": "Mount Marshall, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MUK",
+        "name": "Mukinbudin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MUL",
+        "name": "Mullewa, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MUN",
+        "name": "Mundaring, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MRC",
+        "name": "Murchison, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MUR",
+        "name": "Murray, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NAN",
+        "name": "Nannup, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NRM",
+        "name": "Narembeen, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NAS",
+        "name": "Narrogin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NAT",
+        "name": "Narrogin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-MED",
+        "name": "Nedlands, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NGA",
+        "name": "Ngaanyatjarraku, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NOR",
+        "name": "Northam, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NHP",
+        "name": "Northampton, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-NUN",
+        "name": "Nungarin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-PEP",
+        "name": "Peppermint Grove, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-PRJ",
+        "name": "Perenjori, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-PER",
+        "name": "Perth, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-PIN",
+        "name": "Pingelly, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-PLA",
+        "name": "Plantagenet, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-POR",
+        "name": "Port Hedland, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-QUA",
+        "name": "Quairading, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-RAV",
+        "name": "Ravensthorpe, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-ROC",
+        "name": "Rockingham, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-ROE",
+        "name": "Roebourne, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SAN",
+        "name": "Sandstone, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SER",
+        "name": "Serpentine-Jarrahdale, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SHA",
+        "name": "Shark Bay, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SOU",
+        "name": "South Perth, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-STI",
+        "name": "Stirling, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SUB",
+        "name": "Subiaco, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-SWA",
+        "name": "Swan, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-TAM",
+        "name": "Tammin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-THR",
+        "name": "Three Springs, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-TOO",
+        "name": "Toodyay, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-TRA",
+        "name": "Trayning, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-UPP",
+        "name": "Upper Gascoyne, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-VPA",
+        "name": "Victoria Park, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-VPL",
+        "name": "Victoria Plains, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-VIN",
+        "name": "Vincent, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WAG",
+        "name": "Wagin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WND",
+        "name": "Wandering, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WAN",
+        "name": "Wanneroo, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WAR",
+        "name": "Waroona, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WEA",
+        "name": "West Arthur, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WES",
+        "name": "Westonia, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WIC",
+        "name": "Wickepin, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WLL",
+        "name": "Williams, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WLN",
+        "name": "Wiluna, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WON",
+        "name": "Wongan-Ballidu, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WOO",
+        "name": "Woodanilling, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WYA",
+        "name": "Wyalkatchem, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-WYN",
+        "name": "Wyndham-East Kimberley, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-YAL",
+        "name": "Yalgoo, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-YIL",
+        "name": "Yilgarn, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    },
+    {
+        "code": "AU-WA-YOR",
+        "name": "York, Western Australia, Australia",
+        "parent_code": "AU-WA",
+        "parent_name": "Western Australia"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "code": "HR-07",
+        "name": "Bjelovarsko-bilogorska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-12",
+        "name": "Brodsko-posavska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-19",
+        "name": "Dubrovacko-neretvanska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-21",
+        "name": "Grad Zagreb, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-18",
+        "name": "Istarska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-04",
+        "name": "Karlovacka \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-06",
+        "name": "Koprivnicko-kri\u017eevacka \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-02",
+        "name": "Krapinsko-zagorska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-09",
+        "name": "Licko-senjska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-20",
+        "name": "Medimurska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-14",
+        "name": "Osjecko-baranjska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-11",
+        "name": "Po\u017ee\u0161ko-slavonska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-08",
+        "name": "Primorsko-goranska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-03",
+        "name": "Sisacko-moslavacka \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-17",
+        "name": "Splitsko-dalmatinska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-05",
+        "name": "Vara\u017edinska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-10",
+        "name": "Viroviticko-podravska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-16",
+        "name": "Vukovarsko-srijemska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-13",
+        "name": "Zadarska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-01",
+        "name": "Zagrebacka \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    },
+    {
+        "code": "HR-15",
+        "name": "\u0160ibensko-kninska \u017eupanija, Croatia",
+        "parent_code": "HR",
+        "parent_name": "Croatia"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "code": "NA-CA",
+        "name": "Caprivi, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-ER",
+        "name": "Erongo, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-HA",
+        "name": "Hardap, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-KA",
+        "name": "Karas, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-KH",
+        "name": "Khomas, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-KU",
+        "name": "Kunene, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OW",
+        "name": "Ohangwena, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OK",
+        "name": "Okavango, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OH",
+        "name": "Omaheke, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OS",
+        "name": "Omusati, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-ON",
+        "name": "Oshana, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OT",
+        "name": "Oshikoto, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    },
+    {
+        "code": "NA-OD",
+        "name": "Otjozondjupa, Namibia",
+        "parent_code": "NA",
+        "parent_name": "Namibia"
+    }
+]

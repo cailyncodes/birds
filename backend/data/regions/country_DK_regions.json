@@ -1,0 +1,596 @@
+[
+    {
+        "code": "DK-05-01",
+        "name": "Bornholm, Bornholm, Denmark",
+        "parent_code": "DK-05",
+        "parent_name": "Bornholm"
+    },
+    {
+        "code": "DK-05-02",
+        "name": "Christians\u00f8, Bornholm, Denmark",
+        "parent_code": "DK-05",
+        "parent_name": "Bornholm"
+    },
+    {
+        "code": "DK-06-02",
+        "name": "Assens, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-03",
+        "name": "Faaborg-Midtfyn, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-04",
+        "name": "Kerteminde, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-05",
+        "name": "Langeland, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-06",
+        "name": "Middelfart, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-07",
+        "name": "Nordfyns, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-08",
+        "name": "Nyborg, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-09",
+        "name": "Odense, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-10",
+        "name": "Svendborg, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-06-01",
+        "name": "\u00c6r\u00f8, Fyn, Denmark",
+        "parent_code": "DK-06",
+        "parent_name": "Fyn"
+    },
+    {
+        "code": "DK-01-01",
+        "name": "Albertslund, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-02",
+        "name": "Ballerup, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-03",
+        "name": "Br\u00f8ndby, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-04",
+        "name": "Drag\u00f8r, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-05",
+        "name": "Egedal, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-06",
+        "name": "Frederiksberg, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-07",
+        "name": "Fures\u00f8, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-08",
+        "name": "Gentofte, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-09",
+        "name": "Gladsaxe, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-10",
+        "name": "Glostrup, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-20",
+        "name": "Greve, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-11",
+        "name": "Herlev, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-13",
+        "name": "Hvidovre, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-12",
+        "name": "H\u00f8je Taastrup, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-14",
+        "name": "Ish\u00f8j, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-15",
+        "name": "K\u00f8benhavn, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-21",
+        "name": "K\u00f8ge, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-22",
+        "name": "Lejre, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-16",
+        "name": "Lyngby-Taarb\u00e6k, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-23",
+        "name": "Roskilde, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-17",
+        "name": "R\u00f8dovre, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-24",
+        "name": "Solr\u00f8d, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-25",
+        "name": "Stevns, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-18",
+        "name": "T\u00e5rnby, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-01-19",
+        "name": "Vallensb\u00e6k, K\u00f8benhavn, Denmark",
+        "parent_code": "DK-01",
+        "parent_name": "K\u00f8benhavn"
+    },
+    {
+        "code": "DK-13-01",
+        "name": "Aalborg, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-02",
+        "name": "Br\u00f8nderslev, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-03",
+        "name": "Frederikshavn, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-04",
+        "name": "Hj\u00f8rring, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-05",
+        "name": "Jammerbugt, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-06",
+        "name": "L\u00e6s\u00f8, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-07",
+        "name": "Mariagerfjord, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-08",
+        "name": "Rebild, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-13-09",
+        "name": "Vesthimmerland, Nordjylland, Denmark",
+        "parent_code": "DK-13",
+        "parent_name": "Nordjylland"
+    },
+    {
+        "code": "DK-02-01",
+        "name": "Aller\u00f8d, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-02",
+        "name": "Fredensborg, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-03",
+        "name": "Frederikssund, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-04",
+        "name": "Gribskov, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-05",
+        "name": "Halsn\u00e6s, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-06",
+        "name": "Helsing\u00f8r, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-07",
+        "name": "Hiller\u00f8d, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-08",
+        "name": "H\u00f8rsholm, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-02-09",
+        "name": "Rudersdal, Nordsj\u00e6lland, Denmark",
+        "parent_code": "DK-02",
+        "parent_name": "Nordsj\u00e6lland"
+    },
+    {
+        "code": "DK-12-01",
+        "name": "Mors\u00f8, Nordvestjylland, Denmark",
+        "parent_code": "DK-12",
+        "parent_name": "Nordvestjylland"
+    },
+    {
+        "code": "DK-12-02",
+        "name": "Skive, Nordvestjylland, Denmark",
+        "parent_code": "DK-12",
+        "parent_name": "Nordvestjylland"
+    },
+    {
+        "code": "DK-12-03",
+        "name": "Thisted, Nordvestjylland, Denmark",
+        "parent_code": "DK-12",
+        "parent_name": "Nordvestjylland"
+    },
+    {
+        "code": "DK-12-04",
+        "name": "Viborg, Nordvestjylland, Denmark",
+        "parent_code": "DK-12",
+        "parent_name": "Nordvestjylland"
+    },
+    {
+        "code": "DK-04-01",
+        "name": "Faxe, Storstr\u00f8m, Denmark",
+        "parent_code": "DK-04",
+        "parent_name": "Storstr\u00f8m"
+    },
+    {
+        "code": "DK-04-02",
+        "name": "Guldborgsund, Storstr\u00f8m, Denmark",
+        "parent_code": "DK-04",
+        "parent_name": "Storstr\u00f8m"
+    },
+    {
+        "code": "DK-04-03",
+        "name": "Lolland, Storstr\u00f8m, Denmark",
+        "parent_code": "DK-04",
+        "parent_name": "Storstr\u00f8m"
+    },
+    {
+        "code": "DK-04-04",
+        "name": "N\u00e6stved, Storstr\u00f8m, Denmark",
+        "parent_code": "DK-04",
+        "parent_name": "Storstr\u00f8m"
+    },
+    {
+        "code": "DK-04-05",
+        "name": "Vordingborg, Storstr\u00f8m, Denmark",
+        "parent_code": "DK-04",
+        "parent_name": "Storstr\u00f8m"
+    },
+    {
+        "code": "DK-08-01",
+        "name": "Billund, Sydvestjylland, Denmark",
+        "parent_code": "DK-08",
+        "parent_name": "Sydvestjylland"
+    },
+    {
+        "code": "DK-08-02",
+        "name": "Esbjerg, Sydvestjylland, Denmark",
+        "parent_code": "DK-08",
+        "parent_name": "Sydvestjylland"
+    },
+    {
+        "code": "DK-08-03",
+        "name": "Fan\u00f8, Sydvestjylland, Denmark",
+        "parent_code": "DK-08",
+        "parent_name": "Sydvestjylland"
+    },
+    {
+        "code": "DK-08-04",
+        "name": "Varde, Sydvestjylland, Denmark",
+        "parent_code": "DK-08",
+        "parent_name": "Sydvestjylland"
+    },
+    {
+        "code": "DK-08-05",
+        "name": "Vejen, Sydvestjylland, Denmark",
+        "parent_code": "DK-08",
+        "parent_name": "Sydvestjylland"
+    },
+    {
+        "code": "DK-09-01",
+        "name": "Fredericia, Syd\u00f8stjylland, Denmark",
+        "parent_code": "DK-09",
+        "parent_name": "Syd\u00f8stjylland"
+    },
+    {
+        "code": "DK-09-02",
+        "name": "Hedensted, Syd\u00f8stjylland, Denmark",
+        "parent_code": "DK-09",
+        "parent_name": "Syd\u00f8stjylland"
+    },
+    {
+        "code": "DK-09-03",
+        "name": "Horsens, Syd\u00f8stjylland, Denmark",
+        "parent_code": "DK-09",
+        "parent_name": "Syd\u00f8stjylland"
+    },
+    {
+        "code": "DK-09-04",
+        "name": "Kolding, Syd\u00f8stjylland, Denmark",
+        "parent_code": "DK-09",
+        "parent_name": "Syd\u00f8stjylland"
+    },
+    {
+        "code": "DK-09-05",
+        "name": "Vejle, Syd\u00f8stjylland, Denmark",
+        "parent_code": "DK-09",
+        "parent_name": "Syd\u00f8stjylland"
+    },
+    {
+        "code": "DK-07-01",
+        "name": "Aabenraa, S\u00f8nderjylland, Denmark",
+        "parent_code": "DK-07",
+        "parent_name": "S\u00f8nderjylland"
+    },
+    {
+        "code": "DK-07-02",
+        "name": "Haderslev, S\u00f8nderjylland, Denmark",
+        "parent_code": "DK-07",
+        "parent_name": "S\u00f8nderjylland"
+    },
+    {
+        "code": "DK-07-03",
+        "name": "S\u00f8nderborg, S\u00f8nderjylland, Denmark",
+        "parent_code": "DK-07",
+        "parent_name": "S\u00f8nderjylland"
+    },
+    {
+        "code": "DK-07-04",
+        "name": "T\u00f8nder, S\u00f8nderjylland, Denmark",
+        "parent_code": "DK-07",
+        "parent_name": "S\u00f8nderjylland"
+    },
+    {
+        "code": "DK-10-01",
+        "name": "Herning, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-10-02",
+        "name": "Holstebro, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-10-03",
+        "name": "Ikast-Brande, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-10-04",
+        "name": "Lemvig, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-10-05",
+        "name": "Ringk\u00f8bing-Skjern, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-10-06",
+        "name": "Struer, Vestjylland, Denmark",
+        "parent_code": "DK-10",
+        "parent_name": "Vestjylland"
+    },
+    {
+        "code": "DK-03-01",
+        "name": "Holb\u00e6k, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-03-02",
+        "name": "Kalundborg, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-03-04",
+        "name": "Odsherred, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-03-05",
+        "name": "Ringsted, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-03-06",
+        "name": "Slagelse, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-03-03",
+        "name": "Sor\u00f8, Vestsj\u00e6lland, Denmark",
+        "parent_code": "DK-03",
+        "parent_name": "Vestsj\u00e6lland"
+    },
+    {
+        "code": "DK-11-02",
+        "name": "Favrskov, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-03",
+        "name": "Norddjurs, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-04",
+        "name": "Odder, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-05",
+        "name": "Randers, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-06",
+        "name": "Sams\u00f8, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-07",
+        "name": "Silkeborg, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-08",
+        "name": "Skanderborg, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-09",
+        "name": "Syddjurs, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    },
+    {
+        "code": "DK-11-01",
+        "name": "\u00c5rhus, \u00d8stjylland, Denmark",
+        "parent_code": "DK-11",
+        "parent_name": "\u00d8stjylland"
+    }
+]

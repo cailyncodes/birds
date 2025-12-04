@@ -1,0 +1,62 @@
+[
+    {
+        "code": "LS-D",
+        "name": "Berea, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-B",
+        "name": "Butha-Buthe, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-C",
+        "name": "Leribe, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-E",
+        "name": "Mafeteng, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-A",
+        "name": "Maseru, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-F",
+        "name": "Mohale's Hoek, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-J",
+        "name": "Mokhotlong, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-H",
+        "name": "Qacha's Nek, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-G",
+        "name": "Quthing, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    },
+    {
+        "code": "LS-K",
+        "name": "Thaba-Tseka, Lesotho",
+        "parent_code": "LS",
+        "parent_name": "Lesotho"
+    }
+]

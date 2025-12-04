@@ -1,0 +1,68 @@
+[
+    {
+        "code": "AM-AG",
+        "name": "Aragatsotn, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-AR",
+        "name": "Ararat, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-AV",
+        "name": "Armavir, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-ER",
+        "name": "Erevan, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-GR",
+        "name": "Gegark'unik', Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-KT",
+        "name": "Kotayk', Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-LO",
+        "name": "Lorri, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-SU",
+        "name": "Syunik', Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-TV",
+        "name": "Tavu\u0161, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-VD",
+        "name": "Vayoc Jor, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    },
+    {
+        "code": "AM-SH",
+        "name": "\u0160irak, Armenia",
+        "parent_code": "AM",
+        "parent_name": "Armenia"
+    }
+]

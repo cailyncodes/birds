@@ -1,0 +1,32 @@
+[
+    {
+        "code": "RW-02",
+        "name": "Est, Rwanda",
+        "parent_code": "RW",
+        "parent_name": "Rwanda"
+    },
+    {
+        "code": "RW-03",
+        "name": "Nord, Rwanda",
+        "parent_code": "RW",
+        "parent_name": "Rwanda"
+    },
+    {
+        "code": "RW-04",
+        "name": "Ouest, Rwanda",
+        "parent_code": "RW",
+        "parent_name": "Rwanda"
+    },
+    {
+        "code": "RW-05",
+        "name": "Sud, Rwanda",
+        "parent_code": "RW",
+        "parent_name": "Rwanda"
+    },
+    {
+        "code": "RW-01",
+        "name": "Ville de Kigali, Rwanda",
+        "parent_code": "RW",
+        "parent_name": "Rwanda"
+    }
+]

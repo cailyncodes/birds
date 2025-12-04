@@ -1,0 +1,26 @@
+[
+    {
+        "code": "TJ-DU",
+        "name": "Dushanbe, Tajikistan",
+        "parent_code": "TJ",
+        "parent_name": "Tajikistan"
+    },
+    {
+        "code": "TJ-KT",
+        "name": "Khatlon, Tajikistan",
+        "parent_code": "TJ",
+        "parent_name": "Tajikistan"
+    },
+    {
+        "code": "TJ-GB",
+        "name": "K\u016dhistoni Badakhshon, Tajikistan",
+        "parent_code": "TJ",
+        "parent_name": "Tajikistan"
+    },
+    {
+        "code": "TJ-SU",
+        "name": "Sughd, Tajikistan",
+        "parent_code": "TJ",
+        "parent_name": "Tajikistan"
+    }
+]

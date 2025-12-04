@@ -1,0 +1,32 @@
+[
+    {
+        "code": "BH-14",
+        "name": "Al Janubiyah, Bahrain",
+        "parent_code": "BH",
+        "parent_name": "Bahrain"
+    },
+    {
+        "code": "BH-13",
+        "name": "Al Manamah, Bahrain",
+        "parent_code": "BH",
+        "parent_name": "Bahrain"
+    },
+    {
+        "code": "BH-15",
+        "name": "Al Muharraq, Bahrain",
+        "parent_code": "BH",
+        "parent_name": "Bahrain"
+    },
+    {
+        "code": "BH-16",
+        "name": "Al Wust\u00e1, Bahrain",
+        "parent_code": "BH",
+        "parent_name": "Bahrain"
+    },
+    {
+        "code": "BH-17",
+        "name": "Ash Shamaliyah, Bahrain",
+        "parent_code": "BH",
+        "parent_name": "Bahrain"
+    }
+]

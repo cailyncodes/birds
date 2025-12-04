@@ -1,0 +1,68 @@
+[
+    {
+        "code": "BB-01",
+        "name": "Christ Church, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-02",
+        "name": "Saint Andrew, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-03",
+        "name": "Saint George, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-04",
+        "name": "Saint James, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-05",
+        "name": "Saint John, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-06",
+        "name": "Saint Joseph, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-07",
+        "name": "Saint Lucy, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-08",
+        "name": "Saint Michael, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-09",
+        "name": "Saint Peter, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-10",
+        "name": "Saint Philip, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    },
+    {
+        "code": "BB-11",
+        "name": "Saint Thomas, Barbados",
+        "parent_code": "BB",
+        "parent_name": "Barbados"
+    }
+]

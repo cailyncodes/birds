@@ -1,0 +1,44 @@
+[
+    {
+        "code": "AE-AZ",
+        "name": "Abu Dhabi, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-AJ",
+        "name": "Ajman, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-DU",
+        "name": "Dubai, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-FU",
+        "name": "Fujairah, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-RK",
+        "name": "Ra's al-Khaimah, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-SH",
+        "name": "Sharjah, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    },
+    {
+        "code": "AE-UQ",
+        "name": "Umm al-Qaiwain, United Arab Emirates",
+        "parent_code": "AE",
+        "parent_name": "United Arab Emirates"
+    }
+]

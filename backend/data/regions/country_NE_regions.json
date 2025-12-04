@@ -1,0 +1,50 @@
+[
+    {
+        "code": "NE-1",
+        "name": "Agadez, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-2",
+        "name": "Diffa, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-3",
+        "name": "Dosso, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-4",
+        "name": "Maradi, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-8",
+        "name": "Niamey, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-5",
+        "name": "Tahoua, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-6",
+        "name": "Tillab\u00e9ri, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    },
+    {
+        "code": "NE-7",
+        "name": "Zinder, Niger",
+        "parent_code": "NE",
+        "parent_name": "Niger"
+    }
+]

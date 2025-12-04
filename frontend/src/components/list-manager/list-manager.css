@@ -1,0 +1,13 @@
+.list-add label {
+    display: block;
+    margin: 0.5rem 0 0.2rem 0;
+}
+
+.list-add label:first-of-type {
+    margin-top: 1rem;
+}
+
+.list-add input {
+    display: block;
+    margin-bottom: 0.5rem;
+}

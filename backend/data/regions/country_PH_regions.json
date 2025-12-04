@@ -1,0 +1,494 @@
+[
+    {
+        "code": "PH-ABR",
+        "name": "Abra, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-AGN",
+        "name": "Agusan del Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-AGS",
+        "name": "Agusan del Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-AKL",
+        "name": "Aklan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ALB",
+        "name": "Albay, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ANT",
+        "name": "Antique, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-APA",
+        "name": "Apayao, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-AUR",
+        "name": "Aurora, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BAS",
+        "name": "Basilan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BAN",
+        "name": "Bataan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BTN",
+        "name": "Batanes, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BTG",
+        "name": "Batangas, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BEN",
+        "name": "Benguet, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BIL",
+        "name": "Biliran, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BOH",
+        "name": "Bohol, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BUK",
+        "name": "Bukidnon, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-BUL",
+        "name": "Bulacan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAG",
+        "name": "Cagayan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAN",
+        "name": "Camarines Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAS",
+        "name": "Camarines Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAM",
+        "name": "Camiguin, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAP",
+        "name": "Capiz, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAT",
+        "name": "Catanduanes, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CAV",
+        "name": "Cavite, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-CEB",
+        "name": "Cebu, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-COM",
+        "name": "Compostela Valley, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NCO",
+        "name": "Cotabato, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-DAC",
+        "name": "Davao Occidental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-DAO",
+        "name": "Davao Oriental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-DAV",
+        "name": "Davao del Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-DAS",
+        "name": "Davao del Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-DIN",
+        "name": "Dinagat Islands, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-EAS",
+        "name": "Eastern Samar, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-GUI",
+        "name": "Guimaras, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-IFU",
+        "name": "Ifugao, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ILN",
+        "name": "Ilocos Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ILS",
+        "name": "Ilocos Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ILI",
+        "name": "Iloilo, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ISA",
+        "name": "Isabela, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-KAL",
+        "name": "Kalinga, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-LUN",
+        "name": "La Union, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-LAG",
+        "name": "Laguna, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-LAN",
+        "name": "Lanao del Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-LAS",
+        "name": "Lanao del Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-LEY",
+        "name": "Leyte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MAG",
+        "name": "Maguindanao, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MAD",
+        "name": "Marinduque, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MAS",
+        "name": "Masbate, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MSC",
+        "name": "Misamis Occidental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MSR",
+        "name": "Misamis Oriental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MOU",
+        "name": "Mountain Province, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-00",
+        "name": "National Capital Region (Manila), Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NEC",
+        "name": "Negros Occidental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NER",
+        "name": "Negros Oriental, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NSA",
+        "name": "Northern Samar, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NUE",
+        "name": "Nueva Ecija, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-NUV",
+        "name": "Nueva Vizcaya, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MDC",
+        "name": "Occidental Mindoro, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-MDR",
+        "name": "Oriental Mindoro, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-PLW",
+        "name": "Palawan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-PAM",
+        "name": "Pampanga, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-PAN",
+        "name": "Pangasinan, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-QUE",
+        "name": "Quezon, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-QUI",
+        "name": "Quirino, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-RIZ",
+        "name": "Rizal, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ROM",
+        "name": "Romblon, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-WSA",
+        "name": "Samar, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SAR",
+        "name": "Sarangani, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SIG",
+        "name": "Siquijor, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SOR",
+        "name": "Sorsogon, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SCO",
+        "name": "South Cotabato, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SLE",
+        "name": "Southern Leyte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SUK",
+        "name": "Sultan Kudarat, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SLU",
+        "name": "Sulu, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SUN",
+        "name": "Surigao del Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-SUR",
+        "name": "Surigao del Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-TAR",
+        "name": "Tarlac, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-TAW",
+        "name": "Tawi-Tawi, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ZMB",
+        "name": "Zambales, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ZSI",
+        "name": "Zamboanga Sibugay, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ZAN",
+        "name": "Zamboanga del Norte, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    },
+    {
+        "code": "PH-ZAS",
+        "name": "Zamboanga del Sur, Philippines",
+        "parent_code": "PH",
+        "parent_name": "Philippines"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "code": "MW-C",
+        "name": "Central, Malawi",
+        "parent_code": "MW",
+        "parent_name": "Malawi"
+    },
+    {
+        "code": "MW-N",
+        "name": "Northern, Malawi",
+        "parent_code": "MW",
+        "parent_name": "Malawi"
+    },
+    {
+        "code": "MW-S",
+        "name": "Southern, Malawi",
+        "parent_code": "MW",
+        "parent_name": "Malawi"
+    }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "code": "NZ-AUK-007",
+        "name": "Auckland City, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-010",
+        "name": "Franklin District, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-008",
+        "name": "Manukau City, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-005",
+        "name": "North Shore City, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-009",
+        "name": "Papakura District, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-004",
+        "name": "Rodney District, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-AUK-006",
+        "name": "Waitakere City, Auckland, New Zealand",
+        "parent_code": "NZ-AUK",
+        "parent_name": "Auckland"
+    },
+    {
+        "code": "NZ-BOP-026",
+        "name": "Kawerau District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-027",
+        "name": "Opotiki District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-024",
+        "name": "Rotorua District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-021",
+        "name": "Taupo District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-023",
+        "name": "Tauranga City, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-022",
+        "name": "Western Bay of Plenty District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-BOP-025",
+        "name": "Whakatane District, Bay of Plenty, New Zealand",
+        "parent_code": "NZ-BOP",
+        "parent_name": "Bay of Plenty"
+    },
+    {
+        "code": "NZ-CAN-063",
+        "name": "Ashburton District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-060",
+        "name": "Christchurch City, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-058",
+        "name": "Hurunui District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-054",
+        "name": "Kaikoura District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-065",
+        "name": "Mackenzie District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-062",
+        "name": "Selwyn District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-064",
+        "name": "Timaru District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-059",
+        "name": "Waimakariri District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-066",
+        "name": "Waimate District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CAN-068",
+        "name": "Waitaki District, Canterbury, New Zealand",
+        "parent_code": "NZ-CAN",
+        "parent_name": "Canterbury"
+    },
+    {
+        "code": "NZ-CI",
+        "name": "Chatham Islands, New Zealand",
+        "parent_code": "NZ",
+        "parent_name": "New Zealand"
+    },
+    {
+        "code": "NZ-GIS-028",
+        "name": "Gisborne District, Gisborne, New Zealand",
+        "parent_code": "NZ-GIS",
+        "parent_name": "Gisborne"
+    },
+    {
+        "code": "NZ-HKB-032",
+        "name": "Central Hawke's Bay District, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-HKB-030",
+        "name": "Hastings District, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-HKB-031",
+        "name": "Napier City, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-HKB-038",
+        "name": "Rangitikei District, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-HKB-021",
+        "name": "Taupo District, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-HKB-029",
+        "name": "Wairoa District, Hawke's Bay, New Zealand",
+        "parent_code": "NZ-HKB",
+        "parent_name": "Hawke's Bay"
+    },
+    {
+        "code": "NZ-MWT-042",
+        "name": "Horowhenua District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-039",
+        "name": "Manawatu District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-040",
+        "name": "Palmerston North City, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-038",
+        "name": "Rangitikei District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-036",
+        "name": "Ruapehu District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-034",
+        "name": "Stratford District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-041",
+        "name": "Tararua District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-021",
+        "name": "Taupo District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-020",
+        "name": "Waitomo District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MWT-037",
+        "name": "Wanganui District, Manawatu-Wanganui, New Zealand",
+        "parent_code": "NZ-MWT",
+        "parent_name": "Manawatu-Wanganui"
+    },
+    {
+        "code": "NZ-MBH-053",
+        "name": "Marlborough District, Marlborough, New Zealand",
+        "parent_code": "NZ-MBH",
+        "parent_name": "Marlborough"
+    },
+    {
+        "code": "NZ-NSN-052",
+        "name": "Nelson City, Nelson, New Zealand",
+        "parent_code": "NZ-NSN",
+        "parent_name": "Nelson"
+    },
+    {
+        "code": "NZ-NTL-001",
+        "name": "Far North District, Northland, New Zealand",
+        "parent_code": "NZ-NTL",
+        "parent_name": "Northland"
+    },
+    {
+        "code": "NZ-NTL-003",
+        "name": "Kaipara District, Northland, New Zealand",
+        "parent_code": "NZ-NTL",
+        "parent_name": "Northland"
+    },
+    {
+        "code": "NZ-NTL-002",
+        "name": "Whangarei District, Northland, New Zealand",
+        "parent_code": "NZ-NTL",
+        "parent_name": "Northland"
+    },
+    {
+        "code": "NZ-OTA-069",
+        "name": "Central Otago District, Otago, New Zealand",
+        "parent_code": "NZ-OTA",
+        "parent_name": "Otago"
+    },
+    {
+        "code": "NZ-OTA-072",
+        "name": "Clutha District, Otago, New Zealand",
+        "parent_code": "NZ-OTA",
+        "parent_name": "Otago"
+    },
+    {
+        "code": "NZ-OTA-071",
+        "name": "Dunedin City, Otago, New Zealand",
+        "parent_code": "NZ-OTA",
+        "parent_name": "Otago"
+    },
+    {
+        "code": "NZ-OTA-070",
+        "name": "Queenstown-Lakes District, Otago, New Zealand",
+        "parent_code": "NZ-OTA",
+        "parent_name": "Otago"
+    },
+    {
+        "code": "NZ-OTA-068",
+        "name": "Waitaki District, Otago, New Zealand",
+        "parent_code": "NZ-OTA",
+        "parent_name": "Otago"
+    },
+    {
+        "code": "NZ-STL-074",
+        "name": "Gore District, Southland, New Zealand",
+        "parent_code": "NZ-STL",
+        "parent_name": "Southland"
+    },
+    {
+        "code": "NZ-STL-075",
+        "name": "Invercargill City, Southland, New Zealand",
+        "parent_code": "NZ-STL",
+        "parent_name": "Southland"
+    },
+    {
+        "code": "NZ-STL-073",
+        "name": "Southland District, Southland, New Zealand",
+        "parent_code": "NZ-STL",
+        "parent_name": "Southland"
+    },
+    {
+        "code": "NZ-TKI-033",
+        "name": "New Plymouth District, Taranaki, New Zealand",
+        "parent_code": "NZ-TKI",
+        "parent_name": "Taranaki"
+    },
+    {
+        "code": "NZ-TKI-035",
+        "name": "South Taranaki District, Taranaki, New Zealand",
+        "parent_code": "NZ-TKI",
+        "parent_name": "Taranaki"
+    },
+    {
+        "code": "NZ-TKI-034",
+        "name": "Stratford District, Taranaki, New Zealand",
+        "parent_code": "NZ-TKI",
+        "parent_name": "Taranaki"
+    },
+    {
+        "code": "NZ-TAS-051",
+        "name": "Tasman District, Tasman, New Zealand",
+        "parent_code": "NZ-TAS",
+        "parent_name": "Tasman"
+    },
+    {
+        "code": "NZ-WKO-010",
+        "name": "Franklin District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-016",
+        "name": "Hamilton City, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-012",
+        "name": "Hauraki District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-015",
+        "name": "Matamata-Piako District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-018",
+        "name": "Otorohanga District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-024",
+        "name": "Rotorua District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-019",
+        "name": "South Waikato District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-021",
+        "name": "Taupo District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-011",
+        "name": "Thames-Coromandel District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-013",
+        "name": "Waikato District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-017",
+        "name": "Waipa District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WKO-020",
+        "name": "Waitomo District, Waikato, New Zealand",
+        "parent_code": "NZ-WKO",
+        "parent_name": "Waikato"
+    },
+    {
+        "code": "NZ-WGN-049",
+        "name": "Carterton District, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-043",
+        "name": "Kapiti Coast District, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-046",
+        "name": "Lower Hutt City, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-048",
+        "name": "Masterton District, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-044",
+        "name": "Porirua City, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-050",
+        "name": "South Wairarapa District, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-041",
+        "name": "Tararua District, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-045",
+        "name": "Upper Hutt City, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WGN-047",
+        "name": "Wellington City, Wellington, New Zealand",
+        "parent_code": "NZ-WGN",
+        "parent_name": "Wellington"
+    },
+    {
+        "code": "NZ-WTC-055",
+        "name": "Buller District, West Coast, New Zealand",
+        "parent_code": "NZ-WTC",
+        "parent_name": "West Coast"
+    },
+    {
+        "code": "NZ-WTC-056",
+        "name": "Grey District, West Coast, New Zealand",
+        "parent_code": "NZ-WTC",
+        "parent_name": "West Coast"
+    },
+    {
+        "code": "NZ-WTC-057",
+        "name": "Westland District, West Coast, New Zealand",
+        "parent_code": "NZ-WTC",
+        "parent_name": "West Coast"
+    }
+]

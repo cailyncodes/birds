@@ -1,0 +1,80 @@
+[
+    {
+        "code": "TL-AL",
+        "name": "Aileu, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-AN",
+        "name": "Ainaro, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-BA",
+        "name": "Baucau, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-BO",
+        "name": "Bobonaro, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-CO",
+        "name": "Cova Lima, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-DI",
+        "name": "Dili, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-ER",
+        "name": "Ermera, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-LA",
+        "name": "Lautem, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-LI",
+        "name": "Liqui\u00e7a, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-MT",
+        "name": "Manatuto, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-MF",
+        "name": "Manufahi, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-OE",
+        "name": "Oecussi, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    },
+    {
+        "code": "TL-VI",
+        "name": "Viqueque, Timor-Leste",
+        "parent_code": "TL",
+        "parent_name": "Timor-Leste"
+    }
+]

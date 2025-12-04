@@ -1,0 +1,224 @@
+[
+    {
+        "code": "NG-AB",
+        "name": "Abia, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-FC",
+        "name": "Abuja Federal Capital Territory, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-AD",
+        "name": "Adamawa, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-AK",
+        "name": "Akwa Ibom, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-AN",
+        "name": "Anambra, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-BA",
+        "name": "Bauchi, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-BY",
+        "name": "Bayelsa, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-BE",
+        "name": "Benue, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-BO",
+        "name": "Borno, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-CR",
+        "name": "Cross River, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-DE",
+        "name": "Delta, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-EB",
+        "name": "Ebonyi, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-ED",
+        "name": "Edo, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-EK",
+        "name": "Ekiti, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-EN",
+        "name": "Enugu, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-GO",
+        "name": "Gombe, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-IM",
+        "name": "Imo, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-JI",
+        "name": "Jigawa, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KD",
+        "name": "Kaduna, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KN",
+        "name": "Kano, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KT",
+        "name": "Katsina, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KE",
+        "name": "Kebbi, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KO",
+        "name": "Kogi, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-KW",
+        "name": "Kwara, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-LA",
+        "name": "Lagos, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-NA",
+        "name": "Nassarawa, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-NI",
+        "name": "Niger, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-OG",
+        "name": "Ogun, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-ON",
+        "name": "Ondo, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-OS",
+        "name": "Osun, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-OY",
+        "name": "Oyo, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-PL",
+        "name": "Plateau, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-RI",
+        "name": "Rivers, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-SO",
+        "name": "Sokoto, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-TA",
+        "name": "Taraba, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-YO",
+        "name": "Yobe, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    },
+    {
+        "code": "NG-ZA",
+        "name": "Zamfara, Nigeria",
+        "parent_code": "NG",
+        "parent_name": "Nigeria"
+    }
+]

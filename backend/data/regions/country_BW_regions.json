@@ -1,0 +1,56 @@
+[
+    {
+        "code": "BW-CE",
+        "name": "Central, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-GH",
+        "name": "Ghanzi, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-KG",
+        "name": "Kgalagadi, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-KL",
+        "name": "Kgatleng, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-KW",
+        "name": "Kweneng, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-NE",
+        "name": "North-East, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-NW",
+        "name": "North-West, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-SE",
+        "name": "South-East, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    },
+    {
+        "code": "BW-SO",
+        "name": "Southern, Botswana",
+        "parent_code": "BW",
+        "parent_name": "Botswana"
+    }
+]

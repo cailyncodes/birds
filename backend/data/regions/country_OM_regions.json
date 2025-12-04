@@ -1,0 +1,68 @@
+[
+    {
+        "code": "OM-DA",
+        "name": "A'Dakhiliya, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-ZA",
+        "name": "A'Dhahirah, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-SS",
+        "name": "A'Sharqiyah North, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-SJ",
+        "name": "A'Sharqiyah South, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-BS",
+        "name": "Al Batinah North, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-BJ",
+        "name": "Al Batinah South, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-BU",
+        "name": "Al Buraimi, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-WU",
+        "name": "Al Wusta, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-ZU",
+        "name": "Dhofar, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-MU",
+        "name": "Musandam, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    },
+    {
+        "code": "OM-MA",
+        "name": "Muscat, Oman",
+        "parent_code": "OM",
+        "parent_name": "Oman"
+    }
+]

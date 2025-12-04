@@ -1,0 +1,98 @@
+[
+    {
+        "code": "KR-43",
+        "name": "Chungcheongbugdo, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-44",
+        "name": "Chungcheongnamdo, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-28",
+        "name": "Inch'on-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-49",
+        "name": "Jejudo, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-45",
+        "name": "Jeonrabugdo, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-46",
+        "name": "Jeonranamdo, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-42",
+        "name": "Kang-won-do, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-29",
+        "name": "Kwangju-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-41",
+        "name": "Kyonggi-do, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-47",
+        "name": "Kyongsangbuk-do, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-48",
+        "name": "Kyongsangnam-do, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-26",
+        "name": "Pusan-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-11",
+        "name": "Seoul-T'ukpyolshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-27",
+        "name": "Taegu-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-30",
+        "name": "Taejon-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    },
+    {
+        "code": "KR-31",
+        "name": "Ulsan-Kwangyokshi, South Korea",
+        "parent_code": "KR",
+        "parent_name": "South Korea"
+    }
+]

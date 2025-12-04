@@ -1,0 +1,200 @@
+[
+    {
+        "code": "CO-AMA",
+        "name": "Amazonas, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-ANT",
+        "name": "Antioquia, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-ARA",
+        "name": "Arauca, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-ATL",
+        "name": "Atl\u00e1ntico, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-BOL",
+        "name": "Bol\u00edvar, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-BOY",
+        "name": "Boyac\u00e1, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CAL",
+        "name": "Caldas, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CAQ",
+        "name": "Caquet\u00e1, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CAS",
+        "name": "Casanare, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CAU",
+        "name": "Cauca, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CES",
+        "name": "Cesar, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CHO",
+        "name": "Choc\u00f3, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-CUN",
+        "name": "Cundinamarca, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-COR",
+        "name": "C\u00f3rdoba, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-DC",
+        "name": "Distrito Capital de Bogot\u00e1, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-GUA",
+        "name": "Guain\u00eda, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-GUV",
+        "name": "Guaviare, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-HUI",
+        "name": "Huila, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-LAG",
+        "name": "La Guajira, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-MAG",
+        "name": "Magdalena, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-MET",
+        "name": "Meta, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-NAR",
+        "name": "Nari\u00f1o, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-NSA",
+        "name": "Norte de Santander, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-PUT",
+        "name": "Putumayo, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-QUI",
+        "name": "Quind\u00edo, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-RIS",
+        "name": "Risaralda, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-SAP",
+        "name": "San Andr\u00e9s, Providencia y Santa Catalina, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-SAN",
+        "name": "Santander, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-SUC",
+        "name": "Sucre, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-TOL",
+        "name": "Tolima, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-VAC",
+        "name": "Valle del Cauca, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-VAU",
+        "name": "Vaup\u00e9s, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    },
+    {
+        "code": "CO-VID",
+        "name": "Vichada, Colombia",
+        "parent_code": "CO",
+        "parent_name": "Colombia"
+    }
+]

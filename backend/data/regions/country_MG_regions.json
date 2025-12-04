@@ -1,0 +1,38 @@
+[
+    {
+        "code": "MG-T",
+        "name": "Antananarivo, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    },
+    {
+        "code": "MG-D",
+        "name": "Antsiranana, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    },
+    {
+        "code": "MG-F",
+        "name": "Fianarantsoa, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    },
+    {
+        "code": "MG-M",
+        "name": "Mahajanga, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    },
+    {
+        "code": "MG-A",
+        "name": "Toamasina, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    },
+    {
+        "code": "MG-U",
+        "name": "Toliara, Madagascar",
+        "parent_code": "MG",
+        "parent_name": "Madagascar"
+    }
+]

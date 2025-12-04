@@ -1,0 +1,86 @@
+[
+    {
+        "code": "JM-13",
+        "name": "Clarendon, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-09",
+        "name": "Hanover, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-01",
+        "name": "Kingston, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-12",
+        "name": "Manchester, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-04",
+        "name": "Portland, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-02",
+        "name": "Saint Andrew, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-06",
+        "name": "Saint Ann, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-14",
+        "name": "Saint Catherine, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-11",
+        "name": "Saint Elizabeth, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-08",
+        "name": "Saint James, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-05",
+        "name": "Saint Mary, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-03",
+        "name": "Saint Thomas, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-07",
+        "name": "Trelawny, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    },
+    {
+        "code": "JM-10",
+        "name": "Westmoreland, Jamaica",
+        "parent_code": "JM",
+        "parent_name": "Jamaica"
+    }
+]

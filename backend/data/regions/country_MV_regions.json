@@ -1,0 +1,128 @@
+[
+    {
+        "code": "MV-02",
+        "name": "Alif, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-00",
+        "name": "Alifu Dhaalu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-20",
+        "name": "Baa, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-17",
+        "name": "Dhaalu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-14",
+        "name": "Faafu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-27",
+        "name": "Gaaf Alif, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-28",
+        "name": "Gaafu Dhaalu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-29",
+        "name": "Gnaviyani, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-07",
+        "name": "Haa Alif, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-23",
+        "name": "Haa Dhaalu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-26",
+        "name": "Kaafu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-05",
+        "name": "Laamu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-03",
+        "name": "Lhaviyani, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-MLE",
+        "name": "Male, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-12",
+        "name": "Meemu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-25",
+        "name": "Noonu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-13",
+        "name": "Raa, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-01",
+        "name": "Seenu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-24",
+        "name": "Shaviyani, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-08",
+        "name": "Thaa, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    },
+    {
+        "code": "MV-04",
+        "name": "Vaavu, Maldives",
+        "parent_code": "MV",
+        "parent_name": "Maldives"
+    }
+]

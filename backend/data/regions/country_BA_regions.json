@@ -1,0 +1,14 @@
+[
+    {
+        "code": "BA-BIH",
+        "name": "Federacija Bosna i Hercegovina, Bosnia and Herzegovina",
+        "parent_code": "BA",
+        "parent_name": "Bosnia and Herzegovina"
+    },
+    {
+        "code": "BA-SRP",
+        "name": "Republika Srpska, Bosnia and Herzegovina",
+        "parent_code": "BA",
+        "parent_name": "Bosnia and Herzegovina"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "code": "GD-01",
+        "name": "Saint Andrew, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-02",
+        "name": "Saint David, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-03",
+        "name": "Saint George, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-04",
+        "name": "Saint John, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-05",
+        "name": "Saint Mark, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-06",
+        "name": "Saint Patrick, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    },
+    {
+        "code": "GD-10",
+        "name": "Southern Grenadine Islands, Grenada",
+        "parent_code": "GD",
+        "parent_name": "Grenada"
+    }
+]

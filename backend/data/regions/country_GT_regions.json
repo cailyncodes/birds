@@ -1,0 +1,134 @@
+[
+    {
+        "code": "GT-AV",
+        "name": "Alta Verapaz, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-BV",
+        "name": "Baja Verapaz, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-CM",
+        "name": "Chimaltenango, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-CQ",
+        "name": "Chiquimula, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-PR",
+        "name": "El Progreso, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-ES",
+        "name": "Escuintla, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-GU",
+        "name": "Guatemala, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-HU",
+        "name": "Huehuetenango, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-IZ",
+        "name": "Izabal, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-JA",
+        "name": "Jalapa, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-JU",
+        "name": "Jutiapa, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-PE",
+        "name": "Pet\u00e9n, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-QZ",
+        "name": "Quetzaltenango, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-QC",
+        "name": "Quich\u00e9, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-RE",
+        "name": "Retalhuleu, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-SA",
+        "name": "Sacatep\u00e9quez, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-SM",
+        "name": "San Marcos, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-SR",
+        "name": "Santa Rosa, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-SO",
+        "name": "Solol\u00e1, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-SU",
+        "name": "Suchitep\u00e9quez, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-TO",
+        "name": "Totonicap\u00e1n, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    },
+    {
+        "code": "GT-ZA",
+        "name": "Zacapa, Guatemala",
+        "parent_code": "GT",
+        "parent_name": "Guatemala"
+    }
+]

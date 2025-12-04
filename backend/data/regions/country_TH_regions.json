@@ -1,0 +1,464 @@
+[
+    {
+        "code": "TH-37",
+        "name": "Amnat Charoen, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-15",
+        "name": "Ang Thong, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-38",
+        "name": "Bueng Kan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-31",
+        "name": "Buri Ram, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-24",
+        "name": "Chachoengsao, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-18",
+        "name": "Chai Nat, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-36",
+        "name": "Chaiyaphum, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-22",
+        "name": "Chanthaburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-50",
+        "name": "Chiang Mai, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-57",
+        "name": "Chiang Rai, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-20",
+        "name": "Chon Buri, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-86",
+        "name": "Chumphon, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-46",
+        "name": "Kalasin, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-62",
+        "name": "Kamphaeng Phet, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-71",
+        "name": "Kanchanaburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-40",
+        "name": "Khon Kaen, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-81",
+        "name": "Krabi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-10",
+        "name": "Krung Thep Maha Nakhon [Bangkok], Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-52",
+        "name": "Lampang, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-51",
+        "name": "Lamphun, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-42",
+        "name": "Loei, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-16",
+        "name": "Lop Buri, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-58",
+        "name": "Mae Hong Son, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-44",
+        "name": "Maha Sarakham, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-49",
+        "name": "Mukdahan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-26",
+        "name": "Nakhon Nayok, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-73",
+        "name": "Nakhon Pathom, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-48",
+        "name": "Nakhon Phanom, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-30",
+        "name": "Nakhon Ratchasima, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-60",
+        "name": "Nakhon Sawan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-80",
+        "name": "Nakhon Si Thammarat, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-55",
+        "name": "Nan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-96",
+        "name": "Narathiwat, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-39",
+        "name": "Nong Bua Lam Phu, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-43",
+        "name": "Nong Khai, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-12",
+        "name": "Nonthaburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-13",
+        "name": "Pathum Thani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-94",
+        "name": "Pattani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-82",
+        "name": "Phangnga, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-93",
+        "name": "Phatthalung, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-56",
+        "name": "Phayao, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-67",
+        "name": "Phetchabun, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-76",
+        "name": "Phetchaburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-66",
+        "name": "Phichit, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-65",
+        "name": "Phitsanulok, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-14",
+        "name": "Phra Nakhon Si Ayutthaya, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-54",
+        "name": "Phrae, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-83",
+        "name": "Phuket, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-25",
+        "name": "Prachin Buri, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-77",
+        "name": "Prachuap Khiri Khan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-85",
+        "name": "Ranong, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-70",
+        "name": "Ratchaburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-21",
+        "name": "Rayong, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-45",
+        "name": "Roi Et, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-27",
+        "name": "Sa Kaeo, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-47",
+        "name": "Sakon Nakhon, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-11",
+        "name": "Samut Prakan, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-74",
+        "name": "Samut Sakhon, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-75",
+        "name": "Samut Songkhram, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-19",
+        "name": "Saraburi, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-91",
+        "name": "Satun, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-33",
+        "name": "Si Sa Ket, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-17",
+        "name": "Sing Buri, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-90",
+        "name": "Songkhla, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-64",
+        "name": "Sukhothai, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-72",
+        "name": "Suphan Buri, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-84",
+        "name": "Surat Thani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-32",
+        "name": "Surin, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-63",
+        "name": "Tak, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-92",
+        "name": "Trang, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-23",
+        "name": "Trat, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-34",
+        "name": "Ubon Ratchathani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-41",
+        "name": "Udon Thani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-61",
+        "name": "Uthai Thani, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-53",
+        "name": "Uttaradit, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-95",
+        "name": "Yala, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    },
+    {
+        "code": "TH-35",
+        "name": "Yasothon, Thailand",
+        "parent_code": "TH",
+        "parent_name": "Thailand"
+    }
+]

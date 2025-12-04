@@ -1,0 +1,68 @@
+[
+    {
+        "code": "KP-04",
+        "name": "Chagang-do, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-09",
+        "name": "Hamgyong-bukto, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-08",
+        "name": "Hamgyong-namdo, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-06",
+        "name": "Hwanghae-bukto, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-05",
+        "name": "Hwanghae-namdo, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-07",
+        "name": "Kangwon-do, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-13",
+        "name": "Najin Sonbong-si, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-03",
+        "name": "P\u2019yongan-bukto, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-02",
+        "name": "P\u2019yongan-namdo, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-01",
+        "name": "P\u2019yongyang-t\u2019ukpyolsi, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    },
+    {
+        "code": "KP-10",
+        "name": "Yanggang-do, North Korea",
+        "parent_code": "KP",
+        "parent_name": "North Korea"
+    }
+]

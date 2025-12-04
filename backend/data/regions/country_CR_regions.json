@@ -1,0 +1,44 @@
+[
+    {
+        "code": "CR-A",
+        "name": "Alajuela, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-C",
+        "name": "Cartago, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-G",
+        "name": "Guanacaste, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-H",
+        "name": "Heredia, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-L",
+        "name": "Lim\u00f3n, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-P",
+        "name": "Puntarenas, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    },
+    {
+        "code": "CR-SJ",
+        "name": "San Jos\u00e9, Costa Rica",
+        "parent_code": "CR",
+        "parent_name": "Costa Rica"
+    }
+]

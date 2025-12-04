@@ -1,0 +1,38 @@
+[
+    {
+        "code": "BY-BR",
+        "name": "Br\u00e8sckaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    },
+    {
+        "code": "BY-HO",
+        "name": "Homel'skaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    },
+    {
+        "code": "BY-HR",
+        "name": "Hrodzenskaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    },
+    {
+        "code": "BY-MA",
+        "name": "Mahilio\u00faskaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    },
+    {
+        "code": "BY-MI",
+        "name": "Minskaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    },
+    {
+        "code": "BY-VI",
+        "name": "Vicebskaja voblasc', Belarus",
+        "parent_code": "BY",
+        "parent_name": "Belarus"
+    }
+]

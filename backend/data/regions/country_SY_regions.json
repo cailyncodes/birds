@@ -1,0 +1,86 @@
+[
+    {
+        "code": "SY-HA",
+        "name": "Al Hasakah, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-LA",
+        "name": "Al Ladhiqiyah, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-QU",
+        "name": "Al Qunaytirah, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-RA",
+        "name": "Ar Raqqah, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-SU",
+        "name": "As Suwayda', Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-DR",
+        "name": "Dar\u2018a, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-DY",
+        "name": "Dayr az Zawr, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-DI",
+        "name": "Dimashq, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-HL",
+        "name": "Halab, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-HM",
+        "name": "Hamah, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-HI",
+        "name": "Hims, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-ID",
+        "name": "Idlib, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-RD",
+        "name": "Rif Dimashq, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    },
+    {
+        "code": "SY-TA",
+        "name": "Tartus, Syria",
+        "parent_code": "SY",
+        "parent_name": "Syria"
+    }
+]

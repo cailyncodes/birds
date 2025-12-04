@@ -1,0 +1,20 @@
+[
+    {
+        "code": "SH-AC",
+        "name": "Ascension, Saint Helena, Ascension, and Tristan da Cunha",
+        "parent_code": "SH",
+        "parent_name": "Saint Helena, Ascension, and Tristan da Cunha"
+    },
+    {
+        "code": "SH-SH",
+        "name": "Saint Helena, Saint Helena, Ascension, and Tristan da Cunha",
+        "parent_code": "SH",
+        "parent_name": "Saint Helena, Ascension, and Tristan da Cunha"
+    },
+    {
+        "code": "SH-TA",
+        "name": "Tristan da Cunha, Saint Helena, Ascension, and Tristan da Cunha",
+        "parent_code": "SH",
+        "parent_name": "Saint Helena, Ascension, and Tristan da Cunha"
+    }
+]

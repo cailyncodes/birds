@@ -1,0 +1,68 @@
+[
+    {
+        "code": "LI-01",
+        "name": "Balzers, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-02",
+        "name": "Eschen, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-03",
+        "name": "Gamprin, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-04",
+        "name": "Mauren, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-05",
+        "name": "Planken, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-06",
+        "name": "Ruggell, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-07",
+        "name": "Schaan, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-08",
+        "name": "Schellenberg, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-09",
+        "name": "Triesen, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-10",
+        "name": "Triesenberg, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    },
+    {
+        "code": "LI-11",
+        "name": "Vaduz, Liechtenstein",
+        "parent_code": "LI",
+        "parent_name": "Liechtenstein"
+    }
+]

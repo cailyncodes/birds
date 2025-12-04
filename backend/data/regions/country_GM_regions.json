@@ -1,0 +1,38 @@
+[
+    {
+        "code": "GM-B",
+        "name": "Banjul, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    },
+    {
+        "code": "GM-M",
+        "name": "Central River, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    },
+    {
+        "code": "GM-L",
+        "name": "Lower River, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    },
+    {
+        "code": "GM-N",
+        "name": "North Bank, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    },
+    {
+        "code": "GM-U",
+        "name": "Upper River, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    },
+    {
+        "code": "GM-W",
+        "name": "Western, Gambia",
+        "parent_code": "GM",
+        "parent_name": "Gambia"
+    }
+]

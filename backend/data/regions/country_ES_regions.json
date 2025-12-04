@@ -1,0 +1,344 @@
+[
+    {
+        "code": "ES-AN-AM",
+        "name": "Almer\u00eda, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-CD",
+        "name": "C\u00e1diz, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-CO",
+        "name": "C\u00f3rdoba, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-GD",
+        "name": "Granada, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-HL",
+        "name": "Huelva, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-JA",
+        "name": "Ja\u00e9n, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-MG",
+        "name": "M\u00e1laga, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AN-SV",
+        "name": "Sevilla, Andaluc\u00eda, Spain",
+        "parent_code": "ES-AN",
+        "parent_name": "Andaluc\u00eda"
+    },
+    {
+        "code": "ES-AR-HS",
+        "name": "Huesca, Arag\u00f3n, Spain",
+        "parent_code": "ES-AR",
+        "parent_name": "Arag\u00f3n"
+    },
+    {
+        "code": "ES-AR-TE",
+        "name": "Teruel, Arag\u00f3n, Spain",
+        "parent_code": "ES-AR",
+        "parent_name": "Arag\u00f3n"
+    },
+    {
+        "code": "ES-AR-ZG",
+        "name": "Zaragoza, Arag\u00f3n, Spain",
+        "parent_code": "ES-AR",
+        "parent_name": "Arag\u00f3n"
+    },
+    {
+        "code": "ES-AS",
+        "name": "Asturias, Principado de, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-CN-HIE",
+        "name": "El Hierro, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-FVT",
+        "name": "Fuerteventura, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-GRC",
+        "name": "Gran Canaria, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-GOM",
+        "name": "La Gomera, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-PAL",
+        "name": "La Palma, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-LZR",
+        "name": "Lanzarote, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CN-TEN",
+        "name": "Tenerife, Canarias, Spain",
+        "parent_code": "ES-CN",
+        "parent_name": "Canarias"
+    },
+    {
+        "code": "ES-CB",
+        "name": "Cantabria, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-CL-BU",
+        "name": "Burgos, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-LN",
+        "name": "Le\u00f3n, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-PL",
+        "name": "Palencia, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-SL",
+        "name": "Salamanca, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-SG",
+        "name": "Segovia, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-SR",
+        "name": "Soria, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-VD",
+        "name": "Valladolid, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-ZM",
+        "name": "Zamora, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CL-AV",
+        "name": "\u00c1vila, Castilla y Le\u00f3n, Spain",
+        "parent_code": "ES-CL",
+        "parent_name": "Castilla y Le\u00f3n"
+    },
+    {
+        "code": "ES-CM-AB",
+        "name": "Albacete, Castilla-La Mancha, Spain",
+        "parent_code": "ES-CM",
+        "parent_name": "Castilla-La Mancha"
+    },
+    {
+        "code": "ES-CM-CR",
+        "name": "Ciudad Real, Castilla-La Mancha, Spain",
+        "parent_code": "ES-CM",
+        "parent_name": "Castilla-La Mancha"
+    },
+    {
+        "code": "ES-CM-CU",
+        "name": "Cuenca, Castilla-La Mancha, Spain",
+        "parent_code": "ES-CM",
+        "parent_name": "Castilla-La Mancha"
+    },
+    {
+        "code": "ES-CM-GJ",
+        "name": "Guadalajara, Castilla-La Mancha, Spain",
+        "parent_code": "ES-CM",
+        "parent_name": "Castilla-La Mancha"
+    },
+    {
+        "code": "ES-CM-TD",
+        "name": "Toledo, Castilla-La Mancha, Spain",
+        "parent_code": "ES-CM",
+        "parent_name": "Castilla-La Mancha"
+    },
+    {
+        "code": "ES-CT-BR",
+        "name": "Barcelona, Catalu\u00f1a, Spain",
+        "parent_code": "ES-CT",
+        "parent_name": "Catalu\u00f1a"
+    },
+    {
+        "code": "ES-CT-GN",
+        "name": "Girona, Catalu\u00f1a, Spain",
+        "parent_code": "ES-CT",
+        "parent_name": "Catalu\u00f1a"
+    },
+    {
+        "code": "ES-CT-LD",
+        "name": "Lleida, Catalu\u00f1a, Spain",
+        "parent_code": "ES-CT",
+        "parent_name": "Catalu\u00f1a"
+    },
+    {
+        "code": "ES-CT-TG",
+        "name": "Tarragona, Catalu\u00f1a, Spain",
+        "parent_code": "ES-CT",
+        "parent_name": "Catalu\u00f1a"
+    },
+    {
+        "code": "ES-CE",
+        "name": "Ceuta, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-EX-BD",
+        "name": "Badajoz, Extremadura, Spain",
+        "parent_code": "ES-EX",
+        "parent_name": "Extremadura"
+    },
+    {
+        "code": "ES-EX-CC",
+        "name": "C\u00e1ceres, Extremadura, Spain",
+        "parent_code": "ES-EX",
+        "parent_name": "Extremadura"
+    },
+    {
+        "code": "ES-GA-AC",
+        "name": "A Coru\u00f1a, Galicia, Spain",
+        "parent_code": "ES-GA",
+        "parent_name": "Galicia"
+    },
+    {
+        "code": "ES-GA-LG",
+        "name": "Lugo, Galicia, Spain",
+        "parent_code": "ES-GA",
+        "parent_name": "Galicia"
+    },
+    {
+        "code": "ES-GA-OR",
+        "name": "Ourense, Galicia, Spain",
+        "parent_code": "ES-GA",
+        "parent_name": "Galicia"
+    },
+    {
+        "code": "ES-GA-PV",
+        "name": "Pontevedra, Galicia, Spain",
+        "parent_code": "ES-GA",
+        "parent_name": "Galicia"
+    },
+    {
+        "code": "ES-IB",
+        "name": "Illes Baleares, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-RI",
+        "name": "La Rioja, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-MD",
+        "name": "Madrid, Comunidad de, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-ML",
+        "name": "Melilla, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-MC",
+        "name": "Murcia, Regi\u00f3n de, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-NC",
+        "name": "Navarra, Comunidad Foral de, Spain",
+        "parent_code": "ES",
+        "parent_name": "Spain"
+    },
+    {
+        "code": "ES-PV-AA",
+        "name": "Araba, Pa\u00eds Vasco, Spain",
+        "parent_code": "ES-PV",
+        "parent_name": "Pa\u00eds Vasco"
+    },
+    {
+        "code": "ES-PV-VZ",
+        "name": "Bizkaia, Pa\u00eds Vasco, Spain",
+        "parent_code": "ES-PV",
+        "parent_name": "Pa\u00eds Vasco"
+    },
+    {
+        "code": "ES-PV-GP",
+        "name": "Gipuzkoa, Pa\u00eds Vasco, Spain",
+        "parent_code": "ES-PV",
+        "parent_name": "Pa\u00eds Vasco"
+    },
+    {
+        "code": "ES-VC-AN",
+        "name": "Alicante, Valenciana, Comunidad, Spain",
+        "parent_code": "ES-VC",
+        "parent_name": "Valenciana, Comunidad"
+    },
+    {
+        "code": "ES-VC-CS",
+        "name": "Castell\u00f3n, Valenciana, Comunidad, Spain",
+        "parent_code": "ES-VC",
+        "parent_name": "Valenciana, Comunidad"
+    },
+    {
+        "code": "ES-VC-VN",
+        "name": "Valencia, Valenciana, Comunidad, Spain",
+        "parent_code": "ES-VC",
+        "parent_name": "Valenciana, Comunidad"
+    }
+]

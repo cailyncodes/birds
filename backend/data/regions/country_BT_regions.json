@@ -1,0 +1,122 @@
+[
+    {
+        "code": "BT-33",
+        "name": "Bumthang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-12",
+        "name": "Chhukha, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-22",
+        "name": "Dagana, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-GA",
+        "name": "Gasa, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-13",
+        "name": "Ha, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-44",
+        "name": "Lhuentse, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-42",
+        "name": "Monggar, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-11",
+        "name": "Paro, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-43",
+        "name": "Pemagatshel, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-23",
+        "name": "Punakha, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-45",
+        "name": "Samdrup Jongkha, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-14",
+        "name": "Samtse, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-31",
+        "name": "Sarpang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-15",
+        "name": "Thimphu, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-TY",
+        "name": "Trashi Yangtse, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-41",
+        "name": "Trashigang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-32",
+        "name": "Trongsa, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-21",
+        "name": "Tsirang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-24",
+        "name": "Wangdue Phodrang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    },
+    {
+        "code": "BT-34",
+        "name": "Zhemgang, Bhutan",
+        "parent_code": "BT",
+        "parent_name": "Bhutan"
+    }
+]

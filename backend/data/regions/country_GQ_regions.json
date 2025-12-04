@@ -1,0 +1,44 @@
+[
+    {
+        "code": "GQ-C-CS",
+        "name": "Centro Sur, Regi\u00f3n Continental, Equatorial Guinea",
+        "parent_code": "GQ-C",
+        "parent_name": "Regi\u00f3n Continental"
+    },
+    {
+        "code": "GQ-C-KN",
+        "name": "Ki\u00e9-Ntem, Regi\u00f3n Continental, Equatorial Guinea",
+        "parent_code": "GQ-C",
+        "parent_name": "Regi\u00f3n Continental"
+    },
+    {
+        "code": "GQ-C-LI",
+        "name": "Litoral, Regi\u00f3n Continental, Equatorial Guinea",
+        "parent_code": "GQ-C",
+        "parent_name": "Regi\u00f3n Continental"
+    },
+    {
+        "code": "GQ-C-WN",
+        "name": "Wele-Nzas, Regi\u00f3n Continental, Equatorial Guinea",
+        "parent_code": "GQ-C",
+        "parent_name": "Regi\u00f3n Continental"
+    },
+    {
+        "code": "GQ-I-AN",
+        "name": "Annob\u00f3n, Regi\u00f3n Insular, Equatorial Guinea",
+        "parent_code": "GQ-I",
+        "parent_name": "Regi\u00f3n Insular"
+    },
+    {
+        "code": "GQ-I-BN",
+        "name": "Bioko Norte, Regi\u00f3n Insular, Equatorial Guinea",
+        "parent_code": "GQ-I",
+        "parent_name": "Regi\u00f3n Insular"
+    },
+    {
+        "code": "GQ-I-BS",
+        "name": "Bioko Sur, Regi\u00f3n Insular, Equatorial Guinea",
+        "parent_code": "GQ-I",
+        "parent_name": "Regi\u00f3n Insular"
+    }
+]

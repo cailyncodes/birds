@@ -1,0 +1,134 @@
+[
+    {
+        "code": "MN-073",
+        "name": "Arhangay, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-071",
+        "name": "Bayan-\u00d6lgiy, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-069",
+        "name": "Bayanhongor, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-067",
+        "name": "Bulgan, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-037",
+        "name": "Darhan uul, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-061",
+        "name": "Dornod, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-063",
+        "name": "Dornogovi, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-059",
+        "name": "Dundgovi, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-057",
+        "name": "Dzavhan, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-065",
+        "name": "Govi-Altay, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-064",
+        "name": "Govi-S\u00fcmber, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-039",
+        "name": "Hentiy, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-043",
+        "name": "Hovd, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-041",
+        "name": "H\u00f6vsg\u00f6l, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-035",
+        "name": "Orhon, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-049",
+        "name": "Selenge, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-051",
+        "name": "S\u00fchbaatar, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-047",
+        "name": "T\u00f6v, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-1",
+        "name": "Ulaanbaatar, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-046",
+        "name": "Uvs, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-053",
+        "name": "\u00d6mn\u00f6govi, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    },
+    {
+        "code": "MN-055",
+        "name": "\u00d6v\u00f6rhangay, Mongolia",
+        "parent_code": "MN",
+        "parent_name": "Mongolia"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "code": "IQ-AN",
+        "name": "Al Anbar, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-BA",
+        "name": "Al Basrah, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-MU",
+        "name": "Al Muthann\u00e1, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-QA",
+        "name": "Al Qadisiyah, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-NA",
+        "name": "An Najaf, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-AR",
+        "name": "Arbil, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-SU",
+        "name": "As Sulaymaniyah, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-TS",
+        "name": "At Ta'mim, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-BB",
+        "name": "Babil, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-BG",
+        "name": "Baghdad, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-DA",
+        "name": "Dahuk, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-DQ",
+        "name": "Dhi Qar, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-DI",
+        "name": "Diyal\u00e1, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-KA",
+        "name": "Karbala', Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-MA",
+        "name": "Maysan, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-NI",
+        "name": "Ninaw\u00e1, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-SD",
+        "name": "Salah ad Din, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    },
+    {
+        "code": "IQ-WA",
+        "name": "Wasit, Iraq",
+        "parent_code": "IQ",
+        "parent_name": "Iraq"
+    }
+]

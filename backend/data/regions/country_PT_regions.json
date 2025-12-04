@@ -1,0 +1,1850 @@
+[
+    {
+        "code": "PT-01-AL",
+        "name": "Albergaria-a-Velha, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-AN",
+        "name": "Anadia, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-AR",
+        "name": "Arouca, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-AV",
+        "name": "Aveiro, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-CP",
+        "name": "Castelo de Paiva, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-EN",
+        "name": "Espinho, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-ER",
+        "name": "Estarreja, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-ME",
+        "name": "Mealhada, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-MU",
+        "name": "Murtosa, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-OA",
+        "name": "Oliveira de Azem\u00e9is, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-OB",
+        "name": "Oliveira do Bairro, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-OV",
+        "name": "Ovar, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-SM",
+        "name": "Santa Maria da Feira, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-SV",
+        "name": "Sever do Vouga, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-SJ",
+        "name": "S\u00e3o Jo\u00e3o da Madeira, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-VG",
+        "name": "Vagos, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-VC",
+        "name": "Vale de Cambra, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-AG",
+        "name": "\u00c1gueda, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-01-IL",
+        "name": "\u00cdlhavo, Aveiro, Portugal",
+        "parent_code": "PT-01",
+        "parent_name": "Aveiro"
+    },
+    {
+        "code": "PT-02-AJ",
+        "name": "Aljustrel, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-AM",
+        "name": "Almod\u00f4var, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-AV",
+        "name": "Alvito, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-BA",
+        "name": "Barrancos, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-BE",
+        "name": "Beja, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-CV",
+        "name": "Castro Verde, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-CU",
+        "name": "Cuba, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-FA",
+        "name": "Ferreira do Alentejo, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-MO",
+        "name": "Moura, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-ME",
+        "name": "M\u00e9rtola, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-OD",
+        "name": "Odemira, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-OU",
+        "name": "Ourique, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-SE",
+        "name": "Serpa, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-02-VI",
+        "name": "Vidigueira, Beja, Portugal",
+        "parent_code": "PT-02",
+        "parent_name": "Beja"
+    },
+    {
+        "code": "PT-03-AM",
+        "name": "Amares, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-BA",
+        "name": "Barcelos, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-BR",
+        "name": "Braga, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-CB",
+        "name": "Cabeceiras de Basto, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-CL",
+        "name": "Celorico de Basto, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-ES",
+        "name": "Esposende, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-FA",
+        "name": "Fafe, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-GU",
+        "name": "Guimar\u00e3es, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-PL",
+        "name": "P\u00f3voa de Lanhoso, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-TB",
+        "name": "Terras de Bouro, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-VM",
+        "name": "Vieira do Minho, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-VF",
+        "name": "Vila Nova de Famalic\u00e3o, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-VV",
+        "name": "Vila Verde, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-03-VZ",
+        "name": "Vizela, Braga, Portugal",
+        "parent_code": "PT-03",
+        "parent_name": "Braga"
+    },
+    {
+        "code": "PT-04-AF",
+        "name": "Alf\u00e2ndega da F\u00e9, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-BR",
+        "name": "Bragan\u00e7a, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-CA",
+        "name": "Carrazeda de Ansi\u00e3es, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-FE",
+        "name": "Freixo de Espada \u00e0 Cinta, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-MC",
+        "name": "Macedo de Cavaleiros, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-MD",
+        "name": "Miranda do Douro, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-MI",
+        "name": "Mirandela, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-MO",
+        "name": "Mogadouro, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-TM",
+        "name": "Torre de Moncorvo, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-VF",
+        "name": "Vila Flor, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-VM",
+        "name": "Vimioso, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-04-VN",
+        "name": "Vinhais, Bragan\u00e7a, Portugal",
+        "parent_code": "PT-04",
+        "parent_name": "Bragan\u00e7a"
+    },
+    {
+        "code": "PT-05-BE",
+        "name": "Belmonte, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-CB",
+        "name": "Castelo Branco, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-CO",
+        "name": "Covilh\u00e3, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-FU",
+        "name": "Fund\u00e3o, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-IN",
+        "name": "Idanha-a-Nova, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-OL",
+        "name": "Oleiros, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-PE",
+        "name": "Penamacor, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-PN",
+        "name": "Proen\u00e7a-a-Nova, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-SE",
+        "name": "Sert\u00e3, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-VV",
+        "name": "Vila Velha de R\u00f3d\u00e3o, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-05-VR",
+        "name": "Vila de Rei, Castelo Branco, Portugal",
+        "parent_code": "PT-05",
+        "parent_name": "Castelo Branco"
+    },
+    {
+        "code": "PT-06-AR",
+        "name": "Arganil, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-CA",
+        "name": "Cantanhede, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-CO",
+        "name": "Coimbra, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-CN",
+        "name": "Condeixa-a-Nova, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-FF",
+        "name": "Figueira da Foz, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-GO",
+        "name": "G\u00f3is, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-LO",
+        "name": "Lous\u00e3, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-MI",
+        "name": "Mira, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-MC",
+        "name": "Miranda do Corvo, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-MV",
+        "name": "Montemor-o-Velho, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-OH",
+        "name": "Oliveira do Hospital, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-PS",
+        "name": "Pampilhosa da Serra, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-PC",
+        "name": "Penacova, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-PL",
+        "name": "Penela, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-SO",
+        "name": "Soure, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-TA",
+        "name": "T\u00e1bua, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-06-VP",
+        "name": "Vila Nova de Poiares, Coimbra, Portugal",
+        "parent_code": "PT-06",
+        "parent_name": "Coimbra"
+    },
+    {
+        "code": "PT-08-AB",
+        "name": "Albufeira, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-AC",
+        "name": "Alcoutim, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-AJ",
+        "name": "Aljezur, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-CM",
+        "name": "Castro Marim, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-FA",
+        "name": "Faro, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-LA",
+        "name": "Lagoa, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-LS",
+        "name": "Lagos, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-LO",
+        "name": "Loul\u00e9, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-MO",
+        "name": "Monchique, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-OL",
+        "name": "Olh\u00e3o, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-PO",
+        "name": "Portim\u00e3o, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-SI",
+        "name": "Silves, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-SB",
+        "name": "S\u00e3o Br\u00e1s de Alportel, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-TA",
+        "name": "Tavira, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-VS",
+        "name": "Vila Real de Santo Ant\u00f3nio, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-08-VB",
+        "name": "Vila do Bispo, Faro, Portugal",
+        "parent_code": "PT-08",
+        "parent_name": "Faro"
+    },
+    {
+        "code": "PT-09-AB",
+        "name": "Aguiar da Beira, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-AL",
+        "name": "Almeida, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-CB",
+        "name": "Celorico da Beira, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-FC",
+        "name": "Figueira de Castelo Rodrigo, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-FA",
+        "name": "Fornos de Algodres, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-GO",
+        "name": "Gouveia, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-GU",
+        "name": "Guarda, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-MA",
+        "name": "Manteigas, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-ME",
+        "name": "M\u00eada, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-PI",
+        "name": "Pinhel, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-SA",
+        "name": "Sabugal, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-SE",
+        "name": "Seia, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-TR",
+        "name": "Trancoso, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-09-VF",
+        "name": "Vila Nova de Foz C\u00f4a, Guarda, Portugal",
+        "parent_code": "PT-09",
+        "parent_name": "Guarda"
+    },
+    {
+        "code": "PT-10-AC",
+        "name": "Alcoba\u00e7a, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-AV",
+        "name": "Alvai\u00e1zere, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-AN",
+        "name": "Ansi\u00e3o, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-BA",
+        "name": "Batalha, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-BO",
+        "name": "Bombarral, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-CR",
+        "name": "Caldas da Rainha, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-CP",
+        "name": "Castanheira de P\u00eara, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-FV",
+        "name": "Figueir\u00f3 dos Vinhos, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-LE",
+        "name": "Leiria, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-MG",
+        "name": "Marinha Grande, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-NA",
+        "name": "Nazar\u00e9, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-PG",
+        "name": "Pedr\u00f3g\u00e3o Grande, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-PN",
+        "name": "Peniche, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-PB",
+        "name": "Pombal, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-PM",
+        "name": "Porto de M\u00f3s, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-10-OB",
+        "name": "\u00d3bidos, Leiria, Portugal",
+        "parent_code": "PT-10",
+        "parent_name": "Leiria"
+    },
+    {
+        "code": "PT-11-AL",
+        "name": "Alenquer, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-AM",
+        "name": "Amadora, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-AV",
+        "name": "Arruda dos Vinhos, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-AZ",
+        "name": "Azambuja, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-CD",
+        "name": "Cadaval, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-CS",
+        "name": "Cascais, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-LI",
+        "name": "Lisboa, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-LS",
+        "name": "Loures, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-LN",
+        "name": "Lourinh\u00e3, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-MA",
+        "name": "Mafra, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-OD",
+        "name": "Odivelas, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-OE",
+        "name": "Oeiras, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-SI",
+        "name": "Sintra, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-SM",
+        "name": "Sobral de Monte Agra\u00e7o, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-TV",
+        "name": "Torres Vedras, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-11-VX",
+        "name": "Vila Franca de Xira, Lisboa, Portugal",
+        "parent_code": "PT-11",
+        "parent_name": "Lisboa"
+    },
+    {
+        "code": "PT-12-AC",
+        "name": "Alter do Ch\u00e3o, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-AR",
+        "name": "Arronches, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-AV",
+        "name": "Avis, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-CM",
+        "name": "Campo Maior, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-CV",
+        "name": "Castelo de Vide, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-CR",
+        "name": "Crato, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-EL",
+        "name": "Elvas, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-FR",
+        "name": "Fronteira, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-GA",
+        "name": "Gavi\u00e3o, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-MA",
+        "name": "Marv\u00e3o, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-MO",
+        "name": "Monforte, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-NI",
+        "name": "Nisa, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-PS",
+        "name": "Ponte de S\u00f4r, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-PA",
+        "name": "Portalegre, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-12-SO",
+        "name": "Sousel, Portalegre, Portugal",
+        "parent_code": "PT-12",
+        "parent_name": "Portalegre"
+    },
+    {
+        "code": "PT-13-AM",
+        "name": "Amarante, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-BA",
+        "name": "Bai\u00e3o, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-FE",
+        "name": "Felgueiras, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-GO",
+        "name": "Gondomar, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-LO",
+        "name": "Lousada, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-MI",
+        "name": "Maia, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-MC",
+        "name": "Marco de Canaveses, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-MT",
+        "name": "Matosinhos, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-PA",
+        "name": "Paredes, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-PF",
+        "name": "Pa\u00e7os de Ferreira, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-PE",
+        "name": "Penafiel, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-PO",
+        "name": "Porto, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-PV",
+        "name": "P\u00f3voa de Varzim, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-ST",
+        "name": "Santo Tirso, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-TR",
+        "name": "Trofa, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-VA",
+        "name": "Valongo, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-VG",
+        "name": "Vila Nova de Gaia, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-13-VC",
+        "name": "Vila do Conde, Porto, Portugal",
+        "parent_code": "PT-13",
+        "parent_name": "Porto"
+    },
+    {
+        "code": "PT-30-CT",
+        "name": "Calheta, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-CL",
+        "name": "C\u00e2mara de Lobos, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-FU",
+        "name": "Funchal, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-MA",
+        "name": "Machico, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-PD",
+        "name": "Ponta do Sol, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-PM",
+        "name": "Porto Moniz, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-PS",
+        "name": "Porto Santo, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-RB",
+        "name": "Ribeira Brava, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-SC",
+        "name": "Santa Cruz, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-SA",
+        "name": "Santana, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-30-SV",
+        "name": "S\u00e3o Vicente, Regi\u00e3o Aut\u00f3noma da Madeira, Portugal",
+        "parent_code": "PT-30",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma da Madeira"
+    },
+    {
+        "code": "PT-20-AH",
+        "name": "Angra do Hero\u00edsmo, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-CA",
+        "name": "Calheta, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-CO",
+        "name": "Corvo, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-HO",
+        "name": "Horta, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-LG",
+        "name": "Lagoa, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-LF",
+        "name": "Lajes das Flores, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-LP",
+        "name": "Lajes do Pico, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-MA",
+        "name": "Madalena, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-NO",
+        "name": "Nordeste, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-PD",
+        "name": "Ponta Delgada, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-PC",
+        "name": "Povoa\u00e7\u00e3o, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-PV",
+        "name": "Praia da Vit\u00f3ria, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-RG",
+        "name": "Ribeira Grande, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-SG",
+        "name": "Santa Cruz da Graciosa, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-SF",
+        "name": "Santa Cruz das Flores, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-SP",
+        "name": "S\u00e3o Roque do Pico, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-VE",
+        "name": "Velas, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-VC",
+        "name": "Vila Franca do Campo, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-20-VP",
+        "name": "Vila do Porto, Regi\u00e3o Aut\u00f3noma dos A\u00e7ores, Portugal",
+        "parent_code": "PT-20",
+        "parent_name": "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    },
+    {
+        "code": "PT-14-AB",
+        "name": "Abrantes, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-AC",
+        "name": "Alcanena, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-AM",
+        "name": "Almeirim, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-AP",
+        "name": "Alpiar\u00e7a, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-BE",
+        "name": "Benavente, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-CA",
+        "name": "Cartaxo, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-CH",
+        "name": "Chamusca, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-CN",
+        "name": "Const\u00e2ncia, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-CR",
+        "name": "Coruche, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-EN",
+        "name": "Entroncamento, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-FZ",
+        "name": "Ferreira do Z\u00eazere, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-GO",
+        "name": "Goleg\u00e3, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-MA",
+        "name": "Ma\u00e7\u00e3o, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-OU",
+        "name": "Our\u00e9m, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-RM",
+        "name": "Rio Maior, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-SM",
+        "name": "Salvaterra de Magos, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-SA",
+        "name": "Santar\u00e9m, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-SD",
+        "name": "Sardoal, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-TM",
+        "name": "Tomar, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-TN",
+        "name": "Torres Novas, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-14-VB",
+        "name": "Vila Nova da Barquinha, Santar\u00e9m, Portugal",
+        "parent_code": "PT-14",
+        "parent_name": "Santar\u00e9m"
+    },
+    {
+        "code": "PT-15-AC",
+        "name": "Alcochete, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-AS",
+        "name": "Alc\u00e1cer do Sal, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-AM",
+        "name": "Almada, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-BA",
+        "name": "Barreiro, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-GR",
+        "name": "Gr\u00e2ndola, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-MT",
+        "name": "Moita, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-MN",
+        "name": "Montijo, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-PA",
+        "name": "Palmela, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-SC",
+        "name": "Santiago do Cac\u00e9m, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-SX",
+        "name": "Seixal, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-SS",
+        "name": "Sesimbra, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-SE",
+        "name": "Set\u00fabal, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-15-SI",
+        "name": "Sines, Set\u00fabal, Portugal",
+        "parent_code": "PT-15",
+        "parent_name": "Set\u00fabal"
+    },
+    {
+        "code": "PT-16-AV",
+        "name": "Arcos de Valdevez, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-CA",
+        "name": "Caminha, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-ME",
+        "name": "Melga\u00e7o, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-MO",
+        "name": "Mon\u00e7\u00e3o, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-PC",
+        "name": "Paredes de Coura, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-PB",
+        "name": "Ponte da Barca, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-PL",
+        "name": "Ponte de Lima, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-VA",
+        "name": "Valen\u00e7a, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-VC",
+        "name": "Viana do Castelo, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-16-VN",
+        "name": "Vila Nova de Cerveira, Viana do Castelo, Portugal",
+        "parent_code": "PT-16",
+        "parent_name": "Viana do Castelo"
+    },
+    {
+        "code": "PT-17-AL",
+        "name": "Alij\u00f3, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-BO",
+        "name": "Boticas, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-CH",
+        "name": "Chaves, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-MF",
+        "name": "Mes\u00e3o Frio, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-MB",
+        "name": "Mondim de Basto, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-MT",
+        "name": "Montalegre, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-MU",
+        "name": "Mur\u00e7a, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-PR",
+        "name": "Peso da R\u00e9gua, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-RP",
+        "name": "Ribeira de Pena, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-SA",
+        "name": "Sabrosa, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-SM",
+        "name": "Santa Marta de Penagui\u00e3o, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-VA",
+        "name": "Valpa\u00e7os, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-VP",
+        "name": "Vila Pouca de Aguiar, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-17-VR",
+        "name": "Vila Real, Vila Real, Portugal",
+        "parent_code": "PT-17",
+        "parent_name": "Vila Real"
+    },
+    {
+        "code": "PT-18-AR",
+        "name": "Armamar, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-CS",
+        "name": "Carregal do Sal, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-CD",
+        "name": "Castro Daire, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-CI",
+        "name": "Cinf\u00e3es, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-LA",
+        "name": "Lamego, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-MA",
+        "name": "Mangualde, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-MB",
+        "name": "Moimenta da Beira, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-MR",
+        "name": "Mort\u00e1gua, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-NE",
+        "name": "Nelas, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-OF",
+        "name": "Oliveira de Frades, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-PC",
+        "name": "Penalva do Castelo, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-PE",
+        "name": "Penedono, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-RE",
+        "name": "Resende, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-SC",
+        "name": "Santa Comba D\u00e3o, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-SE",
+        "name": "Sernancelhe, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-ST",
+        "name": "S\u00e1t\u00e3o, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-SJ",
+        "name": "S\u00e3o Jo\u00e3o da Pesqueira, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-SP",
+        "name": "S\u00e3o Pedro do Sul, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-TB",
+        "name": "Tabua\u00e7o, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-TR",
+        "name": "Tarouca, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-TO",
+        "name": "Tondela, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-VP",
+        "name": "Vila Nova de Paiva, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-VS",
+        "name": "Viseu, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-18-VO",
+        "name": "Vouzela, Viseu, Portugal",
+        "parent_code": "PT-18",
+        "parent_name": "Viseu"
+    },
+    {
+        "code": "PT-07-AL",
+        "name": "Alandroal, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-AR",
+        "name": "Arraiolos, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-BO",
+        "name": "Borba, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-ES",
+        "name": "Estremoz, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-MN",
+        "name": "Montemor-o-Novo, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-MR",
+        "name": "Mora, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-MO",
+        "name": "Mour\u00e3o, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-PO",
+        "name": "Portel, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-RD",
+        "name": "Redondo, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-RM",
+        "name": "Reguengos de Monsaraz, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-VN",
+        "name": "Vendas Novas, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-VA",
+        "name": "Viana do Alentejo, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-VV",
+        "name": "Vila Vi\u00e7osa, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    },
+    {
+        "code": "PT-07-EV",
+        "name": "\u00c9vora, \u00c9vora, Portugal",
+        "parent_code": "PT-07",
+        "parent_name": "\u00c9vora"
+    }
+]

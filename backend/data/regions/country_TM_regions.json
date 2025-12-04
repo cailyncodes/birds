@@ -1,0 +1,32 @@
+[
+    {
+        "code": "TM-A",
+        "name": "Ahal, Turkmenistan",
+        "parent_code": "TM",
+        "parent_name": "Turkmenistan"
+    },
+    {
+        "code": "TM-B",
+        "name": "Balkan, Turkmenistan",
+        "parent_code": "TM",
+        "parent_name": "Turkmenistan"
+    },
+    {
+        "code": "TM-D",
+        "name": "Dasoguz, Turkmenistan",
+        "parent_code": "TM",
+        "parent_name": "Turkmenistan"
+    },
+    {
+        "code": "TM-L",
+        "name": "Lebap, Turkmenistan",
+        "parent_code": "TM",
+        "parent_name": "Turkmenistan"
+    },
+    {
+        "code": "TM-M",
+        "name": "Mary, Turkmenistan",
+        "parent_code": "TM",
+        "parent_name": "Turkmenistan"
+    }
+]

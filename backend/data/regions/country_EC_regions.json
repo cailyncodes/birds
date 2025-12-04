@@ -1,0 +1,146 @@
+[
+    {
+        "code": "EC-A",
+        "name": "Azuay, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-B",
+        "name": "Bol\u00edvar, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-C",
+        "name": "Carchi, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-F",
+        "name": "Ca\u00f1ar, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-H",
+        "name": "Chimborazo, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-X",
+        "name": "Cotopaxi, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-O",
+        "name": "El Oro, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-E",
+        "name": "Esmeraldas, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-W",
+        "name": "Gal\u00e1pagos, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-G",
+        "name": "Guayas, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-I",
+        "name": "Imbabura, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-L",
+        "name": "Loja, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-R",
+        "name": "Los R\u00edos, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-M",
+        "name": "Manab\u00ed, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-S",
+        "name": "Morona-Santiago, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-N",
+        "name": "Napo, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-D",
+        "name": "Orellana, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-Y",
+        "name": "Pastaza, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-P",
+        "name": "Pichincha, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-SE",
+        "name": "Santa Elena, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-SD",
+        "name": "Santo Domingo de los Ts\u00e1chilas, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-U",
+        "name": "Sucumb\u00edos, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-T",
+        "name": "Tungurahua, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    },
+    {
+        "code": "EC-Z",
+        "name": "Zamora-Chinchipe, Ecuador",
+        "parent_code": "EC",
+        "parent_name": "Ecuador"
+    }
+]

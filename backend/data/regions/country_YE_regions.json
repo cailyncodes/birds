@@ -1,0 +1,122 @@
+[
+    {
+        "code": "YE-AD",
+        "name": "'Adan, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-AM",
+        "name": "'Amran, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-AB",
+        "name": "Abyan, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-DA",
+        "name": "Ad\u00b8 D\u00b8ali', Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-BA",
+        "name": "Al Bayda', Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-HU",
+        "name": "Al Hudaydah, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-JA",
+        "name": "Al Jawf, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-MR",
+        "name": "Al Mahrah, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-MW",
+        "name": "Al Mahwit, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-DH",
+        "name": "Dhamar, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-HD",
+        "name": "Hadramawt, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-HJ",
+        "name": "Hajjah, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-IB",
+        "name": "Ibb, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-LA",
+        "name": "Lahij, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-MA",
+        "name": "Ma'rib, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-SD",
+        "name": "Sa'dah, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-SN",
+        "name": "San'a', Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-SA",
+        "name": "San\u2018a\u2019 [city], Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-SH",
+        "name": "Shabwah, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    },
+    {
+        "code": "YE-TA",
+        "name": "Ta'izz, Yemen",
+        "parent_code": "YE",
+        "parent_name": "Yemen"
+    }
+]

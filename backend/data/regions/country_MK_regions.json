@@ -1,0 +1,482 @@
+[
+    {
+        "code": "MK-801",
+        "name": "Aerodrom, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-802",
+        "name": "Ara\u010dinovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-201",
+        "name": "Berovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-501",
+        "name": "Bitola, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-401",
+        "name": "Bogdanci, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-601",
+        "name": "Bogovinje, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-402",
+        "name": "Bosilovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-602",
+        "name": "Brvenica, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-803",
+        "name": "Butel, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-814",
+        "name": "Centar, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-313",
+        "name": "Centar \u017dupa, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-303",
+        "name": "Debar, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-304",
+        "name": "Debarca, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-203",
+        "name": "Del\u010devo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-502",
+        "name": "Demir Hisar, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-103",
+        "name": "Demir Kapija, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-406",
+        "name": "Dojran, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-503",
+        "name": "Dolneni, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-804",
+        "name": "Gazi Baba, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-405",
+        "name": "Gevgelija, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-805",
+        "name": "Gjor\u010de Petrov, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-604",
+        "name": "Gostivar, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-102",
+        "name": "Gradsko, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-807",
+        "name": "Ilinden, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-606",
+        "name": "Jegunovce, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-205",
+        "name": "Karbinci, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-808",
+        "name": "Karpo\u0161, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-104",
+        "name": "Kavadarci, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-809",
+        "name": "Kisela Voda, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-307",
+        "name": "Ki\u010devo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-407",
+        "name": "Kon\u010de, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-206",
+        "name": "Ko\u010dani, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-701",
+        "name": "Kratovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-702",
+        "name": "Kriva Palanka, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-504",
+        "name": "Krivoga\u0161tani, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-505",
+        "name": "Kru\u0161evo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-703",
+        "name": "Kumanovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-704",
+        "name": "Lipkovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-105",
+        "name": "Lozovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-207",
+        "name": "Makedonska Kamenica, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-308",
+        "name": "Makedonski Brod, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-607",
+        "name": "Mavrovo i Rostu\u0161e, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-506",
+        "name": "Mogila, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-106",
+        "name": "Negotino, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-507",
+        "name": "Novaci, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-408",
+        "name": "Novo Selo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-310",
+        "name": "Ohrid, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-208",
+        "name": "Peh\u010devo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-810",
+        "name": "Petrovec, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-311",
+        "name": "Plasnica, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-508",
+        "name": "Prilep, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-209",
+        "name": "Probi\u0161tip, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-409",
+        "name": "Radovi\u0161, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-705",
+        "name": "Rankovce, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-509",
+        "name": "Resen, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-107",
+        "name": "Rosoman, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-811",
+        "name": "Saraj, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-812",
+        "name": "Sopi\u0161te, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-706",
+        "name": "Staro Nagori\u010dane, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-312",
+        "name": "Struga, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-410",
+        "name": "Strumica, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-813",
+        "name": "Studeni\u010dani, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-108",
+        "name": "Sveti Nikole, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-608",
+        "name": "Tearce, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-609",
+        "name": "Tetovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-403",
+        "name": "Valandovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-404",
+        "name": "Vasilevo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-101",
+        "name": "Veles, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-301",
+        "name": "Vev\u010dani, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-202",
+        "name": "Vinica, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-603",
+        "name": "Vrap\u010di\u0161te, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-806",
+        "name": "Zelenikovo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-204",
+        "name": "Zrnovci, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-815",
+        "name": "\u010cair, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-109",
+        "name": "\u010ca\u0161ka, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-210",
+        "name": "\u010ce\u0161inovo-Oble\u0161evo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-816",
+        "name": "\u010cu\u010der-Sandevo, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-211",
+        "name": "\u0160tip, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-817",
+        "name": "\u0160uto Orizari, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    },
+    {
+        "code": "MK-605",
+        "name": "\u017delino, North Macedonia",
+        "parent_code": "MK",
+        "parent_name": "North Macedonia"
+    }
+]

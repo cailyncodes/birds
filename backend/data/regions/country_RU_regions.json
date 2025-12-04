@@ -1,0 +1,500 @@
+[
+    {
+        "code": "RU-AD",
+        "name": "Adygea, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ALT",
+        "name": "Altai Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-AL",
+        "name": "Altai Republic, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-AMU",
+        "name": "Amur Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ARK",
+        "name": "Arkhangelsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-AST",
+        "name": "Astrakhan Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-BA",
+        "name": "Bashkortostan, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-BEL",
+        "name": "Belgorod Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-BRY",
+        "name": "Bryansk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-BU",
+        "name": "Buryatia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-CE",
+        "name": "Chechnya, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-CHE",
+        "name": "Chelyabinsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-CHU",
+        "name": "Chukotka Autonomous Okrug, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-CU",
+        "name": "Chuvashia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-DA",
+        "name": "Dagestan, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-IN",
+        "name": "Ingushetia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-IRK",
+        "name": "Irkutsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-IVA",
+        "name": "Ivanovo Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-YEV",
+        "name": "Jewish Autonomous Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KB",
+        "name": "Kabardino-Balkaria, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KGD",
+        "name": "Kaliningrad Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KL",
+        "name": "Kalmykia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KLU",
+        "name": "Kaluga Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KAM",
+        "name": "Kamchatka Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KC",
+        "name": "Karachay-Cherkessia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KEM",
+        "name": "Kemerovo Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KHA",
+        "name": "Khabarovsk Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KK",
+        "name": "Khakassia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KHM",
+        "name": "Khanty-Mansi Autonomous Okrug, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KIR",
+        "name": "Kirov Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KO",
+        "name": "Komi, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KOS",
+        "name": "Kostroma Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KDA",
+        "name": "Krasnodar Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KYA",
+        "name": "Krasnoyarsk Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KGN",
+        "name": "Kurgan Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KRS",
+        "name": "Kursk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-LEN",
+        "name": "Leningrad Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-LIP",
+        "name": "Lipetsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-MAG",
+        "name": "Magadan Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ME",
+        "name": "Mari El, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-MO",
+        "name": "Mordovia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-MOW",
+        "name": "Moscow, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-MOS",
+        "name": "Moscow Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-MUR",
+        "name": "Murmansk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-NEN",
+        "name": "Nenets Autonomous Okrug, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-NIZ",
+        "name": "Nizhny Novgorod Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SE",
+        "name": "North Ossetia-Alania, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-NGR",
+        "name": "Novgorod Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-NVS",
+        "name": "Novosibirsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-OMS",
+        "name": "Omsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ORE",
+        "name": "Orenburg Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ORL",
+        "name": "Oryol Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-PNZ",
+        "name": "Penza Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-PER",
+        "name": "Perm Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-PRI",
+        "name": "Primorsky Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-PSK",
+        "name": "Pskov Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-KR",
+        "name": "Republic of Karelia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ROS",
+        "name": "Rostov Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-RYA",
+        "name": "Ryazan Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SPE",
+        "name": "Saint Petersburg, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SA",
+        "name": "Sakha, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SAK",
+        "name": "Sakhalin Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SAM",
+        "name": "Samara Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SAR",
+        "name": "Saratov Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SMO",
+        "name": "Smolensk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-STA",
+        "name": "Stavropol Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-SVE",
+        "name": "Sverdlovsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TAM",
+        "name": "Tambov Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TA",
+        "name": "Tatarstan, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TOM",
+        "name": "Tomsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TUL",
+        "name": "Tula Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TY",
+        "name": "Tuva, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TVE",
+        "name": "Tver Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-TYU",
+        "name": "Tyumen Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-UD",
+        "name": "Udmurtia, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-ULY",
+        "name": "Ulyanovsk Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-VLA",
+        "name": "Vladimir Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-VGG",
+        "name": "Volgograd Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-VLG",
+        "name": "Vologda Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-VOR",
+        "name": "Voronezh Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-YAN",
+        "name": "Yamalo-Nenets Autonomous Okrug, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-YAR",
+        "name": "Yaroslavl Oblast, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    },
+    {
+        "code": "RU-CHI",
+        "name": "Zabaykalsky Krai, Russia",
+        "parent_code": "RU",
+        "parent_name": "Russia"
+    }
+]

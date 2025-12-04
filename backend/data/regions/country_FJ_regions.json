@@ -1,0 +1,32 @@
+[
+    {
+        "code": "FJ-C",
+        "name": "Central, Fiji",
+        "parent_code": "FJ",
+        "parent_name": "Fiji"
+    },
+    {
+        "code": "FJ-E",
+        "name": "Eastern, Fiji",
+        "parent_code": "FJ",
+        "parent_name": "Fiji"
+    },
+    {
+        "code": "FJ-N",
+        "name": "Northern, Fiji",
+        "parent_code": "FJ",
+        "parent_name": "Fiji"
+    },
+    {
+        "code": "FJ-R",
+        "name": "Rotuma, Fiji",
+        "parent_code": "FJ",
+        "parent_name": "Fiji"
+    },
+    {
+        "code": "FJ-W",
+        "name": "Western, Fiji",
+        "parent_code": "FJ",
+        "parent_name": "Fiji"
+    }
+]

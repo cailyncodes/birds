@@ -1,0 +1,50 @@
+[
+    {
+        "code": "KE-200",
+        "name": "Central, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-300",
+        "name": "Coast, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-400",
+        "name": "Eastern, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-110",
+        "name": "Nairobi, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-500",
+        "name": "North-Eastern, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-600",
+        "name": "Nyanza, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-700",
+        "name": "Rift Valley, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    },
+    {
+        "code": "KE-800",
+        "name": "Western, Kenya",
+        "parent_code": "KE",
+        "parent_name": "Kenya"
+    }
+]

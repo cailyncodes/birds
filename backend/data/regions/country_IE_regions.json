@@ -1,0 +1,158 @@
+[
+    {
+        "code": "IE-C-GY",
+        "name": "Galway, Connaught, Ireland",
+        "parent_code": "IE-C",
+        "parent_name": "Connaught"
+    },
+    {
+        "code": "IE-C-LM",
+        "name": "Leitrim, Connaught, Ireland",
+        "parent_code": "IE-C",
+        "parent_name": "Connaught"
+    },
+    {
+        "code": "IE-C-MO",
+        "name": "Mayo, Connaught, Ireland",
+        "parent_code": "IE-C",
+        "parent_name": "Connaught"
+    },
+    {
+        "code": "IE-C-RN",
+        "name": "Roscommon, Connaught, Ireland",
+        "parent_code": "IE-C",
+        "parent_name": "Connaught"
+    },
+    {
+        "code": "IE-C-SO",
+        "name": "Sligo, Connaught, Ireland",
+        "parent_code": "IE-C",
+        "parent_name": "Connaught"
+    },
+    {
+        "code": "IE-L-CW",
+        "name": "Carlow, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-DN",
+        "name": "Dublin, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-KE",
+        "name": "Kildare, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-KK",
+        "name": "Kilkenny, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-LS",
+        "name": "Laois, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-LD",
+        "name": "Longford, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-LH",
+        "name": "Louth, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-MH",
+        "name": "Meath, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-OY",
+        "name": "Offaly, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-WH",
+        "name": "Westmeath, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-WX",
+        "name": "Wexford, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-L-WW",
+        "name": "Wicklow, Leinster, Ireland",
+        "parent_code": "IE-L",
+        "parent_name": "Leinster"
+    },
+    {
+        "code": "IE-M-CE",
+        "name": "Clare, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-M-CK",
+        "name": "Cork, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-M-KY",
+        "name": "Kerry, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-M-LK",
+        "name": "Limerick, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-M-TY",
+        "name": "Tipperary, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-M-WD",
+        "name": "Waterford, Munster, Ireland",
+        "parent_code": "IE-M",
+        "parent_name": "Munster"
+    },
+    {
+        "code": "IE-U-CN",
+        "name": "Cavan, Ulster, Ireland",
+        "parent_code": "IE-U",
+        "parent_name": "Ulster"
+    },
+    {
+        "code": "IE-U-DL",
+        "name": "Donegal, Ulster, Ireland",
+        "parent_code": "IE-U",
+        "parent_name": "Ulster"
+    },
+    {
+        "code": "IE-U-MN",
+        "name": "Monaghan, Ulster, Ireland",
+        "parent_code": "IE-U",
+        "parent_name": "Ulster"
+    }
+]

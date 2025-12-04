@@ -1,0 +1,26 @@
+[
+    {
+        "code": "FM-TRK",
+        "name": "Chuuk, Micronesia",
+        "parent_code": "FM",
+        "parent_name": "Micronesia"
+    },
+    {
+        "code": "FM-KSA",
+        "name": "Kosrae, Micronesia",
+        "parent_code": "FM",
+        "parent_name": "Micronesia"
+    },
+    {
+        "code": "FM-PNI",
+        "name": "Pohnpei, Micronesia",
+        "parent_code": "FM",
+        "parent_name": "Micronesia"
+    },
+    {
+        "code": "FM-YAP",
+        "name": "Yap, Micronesia",
+        "parent_code": "FM",
+        "parent_name": "Micronesia"
+    }
+]

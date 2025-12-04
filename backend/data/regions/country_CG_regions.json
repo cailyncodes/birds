@@ -1,0 +1,68 @@
+[
+    {
+        "code": "CG-11",
+        "name": "Bouenza, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-BZV",
+        "name": "Brazzaville, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-8",
+        "name": "Cuvette, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-15",
+        "name": "Cuvette-Ouest, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-5",
+        "name": "Kouilou, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-7",
+        "name": "Likouala, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-2",
+        "name": "L\u00e9koumou, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-9",
+        "name": "Niari, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-14",
+        "name": "Plateaux, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-12",
+        "name": "Pool, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    },
+    {
+        "code": "CG-13",
+        "name": "Sangha, Congo",
+        "parent_code": "CG",
+        "parent_name": "Congo"
+    }
+]

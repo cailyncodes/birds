@@ -1,0 +1,98 @@
+[
+    {
+        "code": "MY-01",
+        "name": "Johor, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-02",
+        "name": "Kedah, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-03",
+        "name": "Kelantan, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-04",
+        "name": "Melaka, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-05",
+        "name": "Negeri Sembilan, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-06",
+        "name": "Pahang, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-08",
+        "name": "Perak, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-09",
+        "name": "Perlis, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-07",
+        "name": "Pulau Pinang, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-12",
+        "name": "Sabah, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-13",
+        "name": "Sarawak, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-10",
+        "name": "Selangor, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-11",
+        "name": "Terengganu, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-14",
+        "name": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-15",
+        "name": "Wilayah Persekutuan Labuan, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    },
+    {
+        "code": "MY-16",
+        "name": "Wilayah Persekutuan Putrajaya, Malaysia",
+        "parent_code": "MY",
+        "parent_name": "Malaysia"
+    }
+]

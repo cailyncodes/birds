@@ -1,0 +1,56 @@
+[
+    {
+        "code": "GA-1",
+        "name": "Estuaire, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-2",
+        "name": "Haut-Ogoou\u00e9, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-3",
+        "name": "Moyen-Ogoou\u00e9, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-4",
+        "name": "Ngouni\u00e9, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-5",
+        "name": "Nyanga, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-6",
+        "name": "Ogoou\u00e9-Ivindo, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-7",
+        "name": "Ogoou\u00e9-Lolo, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-8",
+        "name": "Ogoou\u00e9-Maritime, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    },
+    {
+        "code": "GA-9",
+        "name": "Woleu-Ntem, Gabon",
+        "parent_code": "GA",
+        "parent_name": "Gabon"
+    }
+]

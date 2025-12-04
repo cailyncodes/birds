@@ -1,0 +1,254 @@
+[
+    {
+        "code": "RO-AB",
+        "name": "Alba, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-AR",
+        "name": "Arad, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-AG",
+        "name": "Arges, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BC",
+        "name": "Bacau, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BH",
+        "name": "Bihor, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BN",
+        "name": "Bistrita-Nasaud, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BT",
+        "name": "Botosani, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BR",
+        "name": "Braila, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BV",
+        "name": "Brasov, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-B",
+        "name": "Bucuresti, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-BZ",
+        "name": "Buzau, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-CL",
+        "name": "Calarasi, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-CS",
+        "name": "Caras-Severin, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-CJ",
+        "name": "Cluj, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-CT",
+        "name": "Constanta, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-CV",
+        "name": "Covasna, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-DJ",
+        "name": "Dolj, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-DB",
+        "name": "D\u00e2mbovita, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-GL",
+        "name": "Galati, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-GR",
+        "name": "Giurgiu, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-GJ",
+        "name": "Gorj, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-HR",
+        "name": "Harghita, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-HD",
+        "name": "Hunedoara, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-IL",
+        "name": "Ialomita, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-IS",
+        "name": "Iasi, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-IF",
+        "name": "Ilfov, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-MM",
+        "name": "Maramures, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-MH",
+        "name": "Mehedinti, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-MS",
+        "name": "Mures, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-NT",
+        "name": "Neamt, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-OT",
+        "name": "Olt, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-PH",
+        "name": "Prahova, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-SJ",
+        "name": "Salaj, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-SM",
+        "name": "Satu Mare, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-SB",
+        "name": "Sibiu, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-SV",
+        "name": "Suceava, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-TR",
+        "name": "Teleorman, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-TM",
+        "name": "Timis, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-TL",
+        "name": "Tulcea, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-VS",
+        "name": "Vaslui, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-VN",
+        "name": "Vrancea, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    },
+    {
+        "code": "RO-VL",
+        "name": "V\u00e2lcea, Romania",
+        "parent_code": "RO",
+        "parent_name": "Romania"
+    }
+]

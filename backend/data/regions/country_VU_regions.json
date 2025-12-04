@@ -1,0 +1,38 @@
+[
+    {
+        "code": "VU-MAP",
+        "name": "Malampa, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    },
+    {
+        "code": "VU-PAM",
+        "name": "P\u00e9nama, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    },
+    {
+        "code": "VU-SAM",
+        "name": "Sanma, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    },
+    {
+        "code": "VU-SEE",
+        "name": "Sh\u00e9fa, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    },
+    {
+        "code": "VU-TAE",
+        "name": "Taf\u00e9a, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    },
+    {
+        "code": "VU-TOB",
+        "name": "Torba, Vanuatu",
+        "parent_code": "VU",
+        "parent_name": "Vanuatu"
+    }
+]

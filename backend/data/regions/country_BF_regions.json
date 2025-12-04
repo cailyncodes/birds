@@ -1,0 +1,272 @@
+[
+    {
+        "code": "BF-BAL",
+        "name": "Bal\u00e9, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BAM",
+        "name": "Bam, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BAN",
+        "name": "Banwa, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BAZ",
+        "name": "Baz\u00e8ga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BGR",
+        "name": "Bougouriba, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BLG",
+        "name": "Boulgou, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-BLK",
+        "name": "Boulkiemd\u00e9, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-COM",
+        "name": "Como\u00e9, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-GAN",
+        "name": "Ganzourgou, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-GNA",
+        "name": "Gnagna, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-GOU",
+        "name": "Gourma, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-HOU",
+        "name": "Houet, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-IOB",
+        "name": "Ioba, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KAD",
+        "name": "Kadiogo, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KMD",
+        "name": "Komondjari, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KMP",
+        "name": "Kompienga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KOS",
+        "name": "Kossi, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KOP",
+        "name": "Koulp\u00e9logo, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KOT",
+        "name": "Kouritenga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KOW",
+        "name": "Kourw\u00e9ogo, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-KEN",
+        "name": "K\u00e9n\u00e9dougou, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-LOR",
+        "name": "Loroum, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-LER",
+        "name": "L\u00e9raba, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-MOU",
+        "name": "Mouhoun, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-NAO",
+        "name": "Nahouri, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-NAM",
+        "name": "Namentenga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-NAY",
+        "name": "Nayala, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-NOU",
+        "name": "Noumbiel, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-OUB",
+        "name": "Oubritenga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-OUD",
+        "name": "Oudalan, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-PAS",
+        "name": "Passor\u00e9, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-PON",
+        "name": "Poni, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SNG",
+        "name": "Sangui\u00e9, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SMT",
+        "name": "Sanmatenga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SIS",
+        "name": "Sissili, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SOM",
+        "name": "Soum, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SOR",
+        "name": "Sourou, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-SEN",
+        "name": "S\u00e9no, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-TAP",
+        "name": "Tapoa, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-TUI",
+        "name": "Tui, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-YAG",
+        "name": "Yagha, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-YAT",
+        "name": "Yatenga, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-ZIR",
+        "name": "Ziro, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-ZON",
+        "name": "Zondoma, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    },
+    {
+        "code": "BF-ZOU",
+        "name": "Zoundw\u00e9ogo, Burkina Faso",
+        "parent_code": "BF",
+        "parent_name": "Burkina Faso"
+    }
+]

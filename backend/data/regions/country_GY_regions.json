@@ -1,0 +1,62 @@
+[
+    {
+        "code": "GY-BA",
+        "name": "Barima-Waini, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-CU",
+        "name": "Cuyuni-Mazaruni, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-DE",
+        "name": "Demerara-Mahaica, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-EB",
+        "name": "East Berbice-Corentyne, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-ES",
+        "name": "Essequibo Islands-West Demerara, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-MA",
+        "name": "Mahaica-Berbice, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-PM",
+        "name": "Pomeroon-Supenaam, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-PT",
+        "name": "Potaro-Siparuni, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-UD",
+        "name": "Upper Demerara-Berbice, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    },
+    {
+        "code": "GY-UT",
+        "name": "Upper Takutu-Upper Essequibo, Guyana",
+        "parent_code": "GY",
+        "parent_name": "Guyana"
+    }
+]

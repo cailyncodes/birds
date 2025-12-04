@@ -1,0 +1,38 @@
+[
+    {
+        "code": "CY-04",
+        "name": "Ammochostos, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    },
+    {
+        "code": "CY-06",
+        "name": "Keryneia, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    },
+    {
+        "code": "CY-03",
+        "name": "Larnaka, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    },
+    {
+        "code": "CY-01",
+        "name": "Lefkosia, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    },
+    {
+        "code": "CY-02",
+        "name": "Lemesos, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    },
+    {
+        "code": "CY-05",
+        "name": "Pafos, Cyprus",
+        "parent_code": "CY",
+        "parent_name": "Cyprus"
+    }
+]

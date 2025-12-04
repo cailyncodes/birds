@@ -1,0 +1,470 @@
+[
+    {
+        "code": "PR-AJ",
+        "name": "Adjuntas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AD",
+        "name": "Aguada, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AL",
+        "name": "Aguadilla, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AB",
+        "name": "Aguas Buenas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AI",
+        "name": "Aibonito, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AC",
+        "name": "Arecibo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AR",
+        "name": "Arroyo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-AN",
+        "name": "A\u00f1asco, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-BC",
+        "name": "Barceloneta, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-BQ",
+        "name": "Barranquitas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-BY",
+        "name": "Bayam\u00f3n, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CR",
+        "name": "Cabo Rojo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CG",
+        "name": "Caguas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CA",
+        "name": "Camuy, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CV",
+        "name": "Can\u00f3vanas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CN",
+        "name": "Carolina, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CT",
+        "name": "Cata\u00f1o, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CY",
+        "name": "Cayey, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CB",
+        "name": "Ceiba, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CL",
+        "name": "Ciales, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CD",
+        "name": "Cidra, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CO",
+        "name": "Coamo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CM",
+        "name": "Comer\u00edo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CZ",
+        "name": "Corozal, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-CU",
+        "name": "Culebra, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-DO",
+        "name": "Dorado, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-FJ",
+        "name": "Fajardo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-FL",
+        "name": "Florida, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-GM",
+        "name": "Guayama, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-GL",
+        "name": "Guayanilla, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-GB",
+        "name": "Guaynabo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-GR",
+        "name": "Gurabo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-GC",
+        "name": "Gu\u00e1nica, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-HA",
+        "name": "Hatillo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-HO",
+        "name": "Hormigueros, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-HU",
+        "name": "Humacao, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-IS",
+        "name": "Isabela, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-JY",
+        "name": "Jayuya, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-JD",
+        "name": "Juana D\u00edaz, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-JC",
+        "name": "Juncos, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LJ",
+        "name": "Lajas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LR",
+        "name": "Lares, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LM",
+        "name": "Las Mar\u00edas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LP",
+        "name": "Las Piedras, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LZ",
+        "name": "Lo\u00edza, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-LQ",
+        "name": "Luquillo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MT",
+        "name": "Manat\u00ed, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MR",
+        "name": "Maricao, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MB",
+        "name": "Maunabo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MG",
+        "name": "Mayag\u00fcez, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MC",
+        "name": "Moca, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-MV",
+        "name": "Morovis, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-NG",
+        "name": "Naguabo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-NR",
+        "name": "Naranjito, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-OR",
+        "name": "Orocovis, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-PT",
+        "name": "Patillas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-PN",
+        "name": "Pe\u00f1uelas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-PO",
+        "name": "Ponce, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-QB",
+        "name": "Quebradillas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-RC",
+        "name": "Rinc\u00f3n, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-RG",
+        "name": "R\u00edo Grande, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SB",
+        "name": "Sabana Grande, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SA",
+        "name": "Salinas, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SG",
+        "name": "San Germ\u00e1n, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SJ",
+        "name": "San Juan, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SL",
+        "name": "San Lorenzo, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SS",
+        "name": "San Sebasti\u00e1n, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-SI",
+        "name": "Santa Isabel, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-TA",
+        "name": "Toa Alta, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-TB",
+        "name": "Toa Baja, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-TJ",
+        "name": "Trujillo Alto, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-UT",
+        "name": "Utuado, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-VA",
+        "name": "Vega Alta, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-VB",
+        "name": "Vega Baja, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-VQ",
+        "name": "Vieques, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-VL",
+        "name": "Villalba, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-YB",
+        "name": "Yabucoa, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    },
+    {
+        "code": "PR-YU",
+        "name": "Yauco, Puerto Rico",
+        "parent_code": "PR",
+        "parent_name": "Puerto Rico"
+    }
+]

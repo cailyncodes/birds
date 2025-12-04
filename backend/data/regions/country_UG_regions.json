@@ -1,0 +1,26 @@
+[
+    {
+        "code": "UG-C",
+        "name": "Central, Uganda",
+        "parent_code": "UG",
+        "parent_name": "Uganda"
+    },
+    {
+        "code": "UG-E",
+        "name": "Eastern, Uganda",
+        "parent_code": "UG",
+        "parent_name": "Uganda"
+    },
+    {
+        "code": "UG-N",
+        "name": "Northern, Uganda",
+        "parent_code": "UG",
+        "parent_name": "Uganda"
+    },
+    {
+        "code": "UG-W",
+        "name": "Western, Uganda",
+        "parent_code": "UG",
+        "parent_name": "Uganda"
+    }
+]

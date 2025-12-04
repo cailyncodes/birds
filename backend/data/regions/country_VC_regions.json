@@ -1,0 +1,38 @@
+[
+    {
+        "code": "VC-01",
+        "name": "Charlotte, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "VC-06",
+        "name": "Grenadines, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "VC-02",
+        "name": "Saint Andrew, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "VC-03",
+        "name": "Saint David, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "VC-04",
+        "name": "Saint George, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "VC-05",
+        "name": "Saint Patrick, Saint Vincent and the Grenadines",
+        "parent_code": "VC",
+        "parent_name": "Saint Vincent and the Grenadines"
+    }
+]

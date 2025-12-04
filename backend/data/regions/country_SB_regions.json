@@ -1,0 +1,62 @@
+[
+    {
+        "code": "SB-CT",
+        "name": "Capital Territory (Honiara), Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-CE",
+        "name": "Central, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-CH",
+        "name": "Choiseul, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-GU",
+        "name": "Guadalcanal, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-IS",
+        "name": "Isabel, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-MK",
+        "name": "Makira-Ulawa, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-ML",
+        "name": "Malaita, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-RB",
+        "name": "Rennell and Bellona, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-TE",
+        "name": "Temotu, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    },
+    {
+        "code": "SB-WE",
+        "name": "Western, Solomon Islands",
+        "parent_code": "SB",
+        "parent_name": "Solomon Islands"
+    }
+]

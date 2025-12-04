@@ -1,0 +1,116 @@
+[
+    {
+        "code": "NO-02",
+        "name": "Akershus, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-09",
+        "name": "Aust-Agder, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-06",
+        "name": "Buskerud, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-20",
+        "name": "Finnmark, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-04",
+        "name": "Hedmark, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-12",
+        "name": "Hordaland, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-15",
+        "name": "M\u00f8re og Romsdal, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-17",
+        "name": "Nord-Tr\u00f8ndelag, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-18",
+        "name": "Nordland, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-05",
+        "name": "Oppland, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-03",
+        "name": "Oslo, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-11",
+        "name": "Rogaland, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-14",
+        "name": "Sogn og Fjordane, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-16",
+        "name": "S\u00f8r-Tr\u00f8ndelag, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-08",
+        "name": "Telemark, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-19",
+        "name": "Troms, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-10",
+        "name": "Vest-Agder, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-07",
+        "name": "Vestfold, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    },
+    {
+        "code": "NO-01",
+        "name": "\u00d8stfold, Norway",
+        "parent_code": "NO",
+        "parent_name": "Norway"
+    }
+]

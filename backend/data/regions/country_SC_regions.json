@@ -1,0 +1,140 @@
+[
+    {
+        "code": "SC-02",
+        "name": "Anse Boileau, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-04",
+        "name": "Anse Louis, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-05",
+        "name": "Anse Royale, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-01",
+        "name": "Anse aux Pins, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-03",
+        "name": "Anse \u00c9toile, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-06",
+        "name": "Baie Lazare, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-07",
+        "name": "Baie Sainte Anne, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-08",
+        "name": "Beau Vallon, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-09",
+        "name": "Bel Air, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-10",
+        "name": "Bel Ombre, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-11",
+        "name": "Cascade, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-12",
+        "name": "Glacis, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-13",
+        "name": "Grand' Anse (Mah\u00e9), Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-14",
+        "name": "Grand' Anse (Praslin), Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-15",
+        "name": "La Digue, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-16",
+        "name": "La Rivi\u00e8re Anglaise, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-17",
+        "name": "Mont Buxton, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-18",
+        "name": "Mont Fleuri, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-19",
+        "name": "Plaisance, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-20",
+        "name": "Pointe La Rue, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-21",
+        "name": "Port Glaud, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-22",
+        "name": "Saint Louis, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    },
+    {
+        "code": "SC-23",
+        "name": "Takamaka, Seychelles",
+        "parent_code": "SC",
+        "parent_name": "Seychelles"
+    }
+]

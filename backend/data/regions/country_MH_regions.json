@@ -1,0 +1,14 @@
+[
+    {
+        "code": "MH-L",
+        "name": "Ralik chain, Marshall Islands",
+        "parent_code": "MH",
+        "parent_name": "Marshall Islands"
+    },
+    {
+        "code": "MH-T",
+        "name": "Ratak chain, Marshall Islands",
+        "parent_code": "MH",
+        "parent_name": "Marshall Islands"
+    }
+]

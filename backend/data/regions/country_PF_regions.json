@@ -1,0 +1,32 @@
+[
+    {
+        "code": "PF-TI",
+        "name": "Austral Islands, French Polynesia",
+        "parent_code": "PF",
+        "parent_name": "French Polynesia"
+    },
+    {
+        "code": "PF-LI",
+        "name": "Leeward Islands, French Polynesia",
+        "parent_code": "PF",
+        "parent_name": "French Polynesia"
+    },
+    {
+        "code": "PF-MI",
+        "name": "Marquesas Islands, French Polynesia",
+        "parent_code": "PF",
+        "parent_name": "French Polynesia"
+    },
+    {
+        "code": "PF-TG",
+        "name": "Tuamotu-Gambier, French Polynesia",
+        "parent_code": "PF",
+        "parent_name": "French Polynesia"
+    },
+    {
+        "code": "PF-WI",
+        "name": "Windward Islands, French Polynesia",
+        "parent_code": "PF",
+        "parent_name": "French Polynesia"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "code": "NI-AN",
+        "name": "Atl\u00e1ntico Norte, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-AS",
+        "name": "Atl\u00e1ntico Sur, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-BO",
+        "name": "Boaco, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-CA",
+        "name": "Carazo, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-CI",
+        "name": "Chinandega, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-CO",
+        "name": "Chontales, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-ES",
+        "name": "Estel\u00ed, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-GR",
+        "name": "Granada, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-JI",
+        "name": "Jinotega, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-LE",
+        "name": "Le\u00f3n, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-MD",
+        "name": "Madriz, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-MN",
+        "name": "Managua, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-MS",
+        "name": "Masaya, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-MT",
+        "name": "Matagalpa, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-NS",
+        "name": "Nueva Segovia, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-RI",
+        "name": "Rivas, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    },
+    {
+        "code": "NI-SJ",
+        "name": "R\u00edo San Juan, Nicaragua",
+        "parent_code": "NI",
+        "parent_name": "Nicaragua"
+    }
+]

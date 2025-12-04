@@ -1,0 +1,62 @@
+[
+    {
+        "code": "GH-AH",
+        "name": "Ashanti, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-BA",
+        "name": "Brong-Ahafo, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-CP",
+        "name": "Central, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-EP",
+        "name": "Eastern, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-AA",
+        "name": "Greater Accra, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-NP",
+        "name": "Northern, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-UE",
+        "name": "Upper East, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-UW",
+        "name": "Upper West, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-TV",
+        "name": "Volta, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    },
+    {
+        "code": "GH-WP",
+        "name": "Western, Ghana",
+        "parent_code": "GH",
+        "parent_name": "Ghana"
+    }
+]

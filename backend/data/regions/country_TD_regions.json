@@ -1,0 +1,110 @@
+[
+    {
+        "code": "TD-BA",
+        "name": "Batha, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-BET",
+        "name": "Borkou-Ennedi-Tibesti, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-CB",
+        "name": "Chari-Baguirmi, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-GR",
+        "name": "Gu\u00e9ra, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-HL",
+        "name": "Hadjer Lamis, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-KA",
+        "name": "Kanem, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-LC",
+        "name": "Lac, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-LO",
+        "name": "Logone-Occidental, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-LR",
+        "name": "Logone-Oriental, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-MA",
+        "name": "Mandoul, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-ME",
+        "name": "Mayo-K\u00e9bbi-Est, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-MO",
+        "name": "Mayo-K\u00e9bbi-Ouest, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-MC",
+        "name": "Moyen-Chari, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-ND",
+        "name": "Ndjamena, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-OD",
+        "name": "Ouadda\u00ef, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-SA",
+        "name": "Salamat, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-TA",
+        "name": "Tandjil\u00e9, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    },
+    {
+        "code": "TD-WF",
+        "name": "Wadi Fira, Chad",
+        "parent_code": "TD",
+        "parent_name": "Chad"
+    }
+]

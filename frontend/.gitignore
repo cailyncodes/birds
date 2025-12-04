@@ -3,6 +3,10 @@
 /lib
 /lib-types
 /server
+.cache/
+.vite/
+server/
+.qwik/
 
 # Development
 node_modules

@@ -1,0 +1,98 @@
+[
+    {
+        "code": "KZ-ALA",
+        "name": "Almaty, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-ALM",
+        "name": "Almaty oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-AKM",
+        "name": "Aqmola oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-AKT",
+        "name": "Aqt\u00f6be oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-AST",
+        "name": "Astana, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-ATY",
+        "name": "Atyrau oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-ZAP",
+        "name": "Batys Qazaqstan oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-MAN",
+        "name": "Mangghystau oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-YUZ",
+        "name": "Ongt\u00fcstik Qazaqstan oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-PAV",
+        "name": "Pavlodar oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-KAR",
+        "name": "Qaraghandy oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-KUS",
+        "name": "Qostanay oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-KZY",
+        "name": "Qyzylorda oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-VOS",
+        "name": "Shyghys Qazaqstan oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-SEV",
+        "name": "Solt\u00fcstik Qazaqstan oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    },
+    {
+        "code": "KZ-ZHA",
+        "name": "Zhambyl oblysy, Kazakhstan",
+        "parent_code": "KZ",
+        "parent_name": "Kazakhstan"
+    }
+]

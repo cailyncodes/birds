@@ -1,0 +1,38 @@
+[
+    {
+        "code": "ER-AN",
+        "name": "Anseba, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    },
+    {
+        "code": "ER-DU",
+        "name": "Debub, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    },
+    {
+        "code": "ER-DK",
+        "name": "Debubawi Keyih Bahri, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    },
+    {
+        "code": "ER-GB",
+        "name": "Gash-Barka, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    },
+    {
+        "code": "ER-MA",
+        "name": "Maakel, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    },
+    {
+        "code": "ER-SK",
+        "name": "Semien-Keih-Bahri, Eritrea",
+        "parent_code": "ER",
+        "parent_name": "Eritrea"
+    }
+]

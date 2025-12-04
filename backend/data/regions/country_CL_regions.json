@@ -1,0 +1,2072 @@
+[
+    {
+        "code": "CL-AI-AYS",
+        "name": "Ays\u00e9n, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-CLE",
+        "name": "Chile Chico, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-CIS",
+        "name": "Cisnes, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-COC",
+        "name": "Cochrane, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-COY",
+        "name": "Coyhaique, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-GUA",
+        "name": "Guaitecas, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-VER",
+        "name": "Lago Verde, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-OHI",
+        "name": "O'Higgins, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-RIO",
+        "name": "R\u00edo Ib\u00e1\u00f1ez, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AI-TOR",
+        "name": "Tortel, Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo, Chile",
+        "parent_code": "CL-AI",
+        "parent_name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo"
+    },
+    {
+        "code": "CL-AN-ANT",
+        "name": "Antofagasta, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-CAL",
+        "name": "Calama, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-MAR",
+        "name": "Mar\u00eda Elena, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-MEJ",
+        "name": "Mejillones, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-OLL",
+        "name": "Ollag\u00fce, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-PED",
+        "name": "San Pedro de Atacama, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-SIE",
+        "name": "Sierra Gorda, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-TAL",
+        "name": "Taltal, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AN-TOC",
+        "name": "Tocopilla, Antofagasta, Chile",
+        "parent_code": "CL-AN",
+        "parent_name": "Antofagasta"
+    },
+    {
+        "code": "CL-AR-ANG",
+        "name": "Angol, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-CAR",
+        "name": "Carahue, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-CHO",
+        "name": "Cholchol, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-COL",
+        "name": "Collipulli, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-CUN",
+        "name": "Cunco, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-CAC",
+        "name": "Curacaut\u00edn, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-CUR",
+        "name": "Curarrehue, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-ERC",
+        "name": "Ercilla, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-FRE",
+        "name": "Freire, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-GAL",
+        "name": "Galvarino, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-GOR",
+        "name": "Gorbea, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-LAU",
+        "name": "Lautaro, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-LCO",
+        "name": "Loncoche, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-LQU",
+        "name": "Lonquimay, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-SAU",
+        "name": "Los Sauces, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-LUM",
+        "name": "Lumaco, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-MEL",
+        "name": "Melipeuco, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-NUE",
+        "name": "Nueva Imperial, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-PAD",
+        "name": "Padre Las Casas, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-PER",
+        "name": "Perquenco, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-PIT",
+        "name": "Pitrufqu\u00e9n, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-PUC",
+        "name": "Puc\u00f3n, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-PUR",
+        "name": "Pur\u00e9n, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-REN",
+        "name": "Renaico, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-SAA",
+        "name": "Saavedra, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-TEM",
+        "name": "Temuco, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-TEO",
+        "name": "Teodoro Schmidt, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-TOL",
+        "name": "Tolt\u00e9n, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-TRA",
+        "name": "Traigu\u00e9n, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-VIC",
+        "name": "Victoria, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-VLC",
+        "name": "Vilc\u00fan, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AR-VLA",
+        "name": "Villarrica, Araucan\u00eda, Chile",
+        "parent_code": "CL-AR",
+        "parent_name": "Araucan\u00eda"
+    },
+    {
+        "code": "CL-AP-ARI",
+        "name": "Arica, Arica y Parinacota, Chile",
+        "parent_code": "CL-AP",
+        "parent_name": "Arica y Parinacota"
+    },
+    {
+        "code": "CL-AP-CAM",
+        "name": "Camarones, Arica y Parinacota, Chile",
+        "parent_code": "CL-AP",
+        "parent_name": "Arica y Parinacota"
+    },
+    {
+        "code": "CL-AP-GEN",
+        "name": "General Lagos, Arica y Parinacota, Chile",
+        "parent_code": "CL-AP",
+        "parent_name": "Arica y Parinacota"
+    },
+    {
+        "code": "CL-AP-PUT",
+        "name": "Putre, Arica y Parinacota, Chile",
+        "parent_code": "CL-AP",
+        "parent_name": "Arica y Parinacota"
+    },
+    {
+        "code": "CL-AT-ALT",
+        "name": "Alto del Carmen, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-CAL",
+        "name": "Caldera, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-CHA",
+        "name": "Cha\u00f1aral, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-COP",
+        "name": "Copiap\u00f3, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-DIE",
+        "name": "Diego de Almagro, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-FRE",
+        "name": "Freirina, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-HUA",
+        "name": "Huasco, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-TIE",
+        "name": "Tierra Amarilla, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-AT-VAL",
+        "name": "Vallenar, Atacama, Chile",
+        "parent_code": "CL-AT",
+        "parent_name": "Atacama"
+    },
+    {
+        "code": "CL-BI-ALT",
+        "name": "Alto Biob\u00edo, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-ANT",
+        "name": "Antuco, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-ARA",
+        "name": "Arauco, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CAB",
+        "name": "Cabrero, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CAN",
+        "name": "Ca\u00f1ete, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CGU",
+        "name": "Chiguayante, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CCE",
+        "name": "Concepci\u00f3n, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CTU",
+        "name": "Contulmo, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-COR",
+        "name": "Coronel, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-CUR",
+        "name": "Curanilahue, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-FLO",
+        "name": "Florida, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-HPE",
+        "name": "Hualp\u00e9n, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-HQU",
+        "name": "Hualqui, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-LAJ",
+        "name": "Laja, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-LEB",
+        "name": "Lebu, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-ALA",
+        "name": "Los Alamos, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-ANG",
+        "name": "Los Angeles, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-LOT",
+        "name": "Lota, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-MUL",
+        "name": "Mulch\u00e9n, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-NAC",
+        "name": "Nacimiento, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-NEG",
+        "name": "Negrete, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-PEN",
+        "name": "Penco, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-QLA",
+        "name": "Quilaco, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-QEC",
+        "name": "Quilleco, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-PED",
+        "name": "San Pedro de la Paz, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-ROS",
+        "name": "San Rosendo, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-BAR",
+        "name": "Santa B\u00e1rbara, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-JUA",
+        "name": "Santa Juana, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-TAL",
+        "name": "Talcahuano, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-TIR",
+        "name": "Tir\u00faa, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-TOM",
+        "name": "Tom\u00e9, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-TUC",
+        "name": "Tucapel, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-BI-YUM",
+        "name": "Yumbel, B\u00edo-B\u00edo, Chile",
+        "parent_code": "CL-BI",
+        "parent_name": "B\u00edo-B\u00edo"
+    },
+    {
+        "code": "CL-CO-AND",
+        "name": "Andacollo, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-CAN",
+        "name": "Canela, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-COM",
+        "name": "Combarbal\u00e1, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-COQ",
+        "name": "Coquimbo, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-ILL",
+        "name": "Illapel, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-LAH",
+        "name": "La Higuera, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-LAS",
+        "name": "La Serena, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-VIL",
+        "name": "Los Vilos, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-MON",
+        "name": "Monte Patria, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-OVA",
+        "name": "Ovalle, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-PAI",
+        "name": "Paihuano, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-PUN",
+        "name": "Punitaqui, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-RIO",
+        "name": "R\u00edo Hurtado, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-SAL",
+        "name": "Salamanca, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-CO-VIC",
+        "name": "Vicu\u00f1a, Coquimbo, Chile",
+        "parent_code": "CL-CO",
+        "parent_name": "Coquimbo"
+    },
+    {
+        "code": "CL-LI-CMB",
+        "name": "Chimbarongo, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-CHE",
+        "name": "Ch\u00e9pica, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-COD",
+        "name": "Codegua, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-COI",
+        "name": "Coinco, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-COL",
+        "name": "Coltauco, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-DON",
+        "name": "Do\u00f1ihue, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-GRA",
+        "name": "Graneros, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-LAE",
+        "name": "La Estrella, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-LAS",
+        "name": "Las Cabras, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-LIT",
+        "name": "Litueche, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-LOL",
+        "name": "Lolol, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-MAC",
+        "name": "Machal\u00ed, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-MAL",
+        "name": "Malloa, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-MAR",
+        "name": "Marchig\u00fce, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-MOS",
+        "name": "Mostazal, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-NAN",
+        "name": "Nancagua, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-NAV",
+        "name": "Navidad, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-OLI",
+        "name": "Olivar, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PAL",
+        "name": "Palmilla, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PAR",
+        "name": "Paredones, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PER",
+        "name": "Peralillo, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PEU",
+        "name": "Peumo, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PDE",
+        "name": "Pichidegua, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PLE",
+        "name": "Pichilemu, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PLA",
+        "name": "Placilla, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-PUM",
+        "name": "Pumanque, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-QNT",
+        "name": "Quinta de Tilcoco, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-RAN",
+        "name": "Rancagua, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-REN",
+        "name": "Rengo, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-REQ",
+        "name": "Requ\u00ednoa, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-FER",
+        "name": "San Fernando, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-VIC",
+        "name": "San Vicente, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LI-CRU",
+        "name": "Santa Cruz, Libertador General Bernardo O'Higgins, Chile",
+        "parent_code": "CL-LI",
+        "parent_name": "Libertador General Bernardo O'Higgins"
+    },
+    {
+        "code": "CL-LL-ANC",
+        "name": "Ancud, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-CAL",
+        "name": "Calbuco, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-CAS",
+        "name": "Castro, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-CHA",
+        "name": "Chait\u00e9n, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-CHO",
+        "name": "Chonchi, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-COC",
+        "name": "Cocham\u00f3, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-CUR",
+        "name": "Curaco de V\u00e9lez, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-DAL",
+        "name": "Dalcahue, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-FRE",
+        "name": "Fresia, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-FRU",
+        "name": "Frutillar, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-FUT",
+        "name": "Futaleuf\u00fa, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-HUA",
+        "name": "Hualaihu\u00e9, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-LLA",
+        "name": "Llanquihue, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-MUE",
+        "name": "Los Muermos, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-MAU",
+        "name": "Maull\u00edn, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-OSO",
+        "name": "Osorno, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-PAL",
+        "name": "Palena, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-OMO",
+        "name": "Puerto Montt, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-OOC",
+        "name": "Puerto Octay, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-OVA",
+        "name": "Puerto Varas, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-PUQ",
+        "name": "Puqueld\u00f3n, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-PUR",
+        "name": "Purranque, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-PUY",
+        "name": "Puyehue, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-QIL",
+        "name": "Queil\u00e9n, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-QLL",
+        "name": "Quell\u00f3n, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-QMC",
+        "name": "Quemchi, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-QNC",
+        "name": "Quinchao, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-RIO",
+        "name": "R\u00edo Negro, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-JUA",
+        "name": "San Juan de la Costa, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LL-PAB",
+        "name": "San Pablo, Los Lagos, Chile",
+        "parent_code": "CL-LL",
+        "parent_name": "Los Lagos"
+    },
+    {
+        "code": "CL-LR-COR",
+        "name": "Corral, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-FUT",
+        "name": "Futrono, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-LAU",
+        "name": "La Uni\u00f3n, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-RAN",
+        "name": "Lago Ranco, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-LAN",
+        "name": "Lanco, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-LAG",
+        "name": "Los Lagos, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-MAR",
+        "name": "Mariquina, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-MAF",
+        "name": "M\u00e1fil, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-PAI",
+        "name": "Paillaco, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-PAN",
+        "name": "Panguipulli, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-RIO",
+        "name": "R\u00edo Bueno, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-LR-VAL",
+        "name": "Valdivia, Los R\u00edos, Chile",
+        "parent_code": "CL-LR",
+        "parent_name": "Los R\u00edos"
+    },
+    {
+        "code": "CL-MA-CAB",
+        "name": "Cabo de Hornos, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-LAG",
+        "name": "Laguna Blanca, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-NAT",
+        "name": "Natales, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-POR",
+        "name": "Porvenir, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-PRI",
+        "name": "Primavera, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-PUN",
+        "name": "Punta Arenas, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-RIO",
+        "name": "R\u00edo Verde, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-GRE",
+        "name": "San Gregorio, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-TIM",
+        "name": "Timaukel, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-MA-TOR",
+        "name": "Torres del Paine, Magallanes, Chile",
+        "parent_code": "CL-MA",
+        "parent_name": "Magallanes"
+    },
+    {
+        "code": "CL-ML-CAU",
+        "name": "Cauquenes, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-CHA",
+        "name": "Chanco, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-COL",
+        "name": "Colb\u00fan, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-CON",
+        "name": "Constituci\u00f3n, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-CEP",
+        "name": "Curepto, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-CIC",
+        "name": "Curic\u00f3, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-EMP",
+        "name": "Empedrado, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-HUA",
+        "name": "Huala\u00f1\u00e9, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-LIC",
+        "name": "Licant\u00e9n, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-LIN",
+        "name": "Linares, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-LON",
+        "name": "Longav\u00ed, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-MAU",
+        "name": "Maule, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-MOL",
+        "name": "Molina, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-PAR",
+        "name": "Parral, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-PEL",
+        "name": "Pelarco, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-PLU",
+        "name": "Pelluhue, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-PEN",
+        "name": "Pencahue, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-RAU",
+        "name": "Rauco, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-RET",
+        "name": "Retiro, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-ROM",
+        "name": "Romeral, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-RIO",
+        "name": "R\u00edo Claro, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-SAG",
+        "name": "Sagrada Familia, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-CLE",
+        "name": "San Clemente, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-JAV",
+        "name": "San Javier, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-RAF",
+        "name": "San Rafael, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-TAL",
+        "name": "Talca, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-TEN",
+        "name": "Teno, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-VIC",
+        "name": "Vichuqu\u00e9n, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-VIL",
+        "name": "Villa Alegre, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-ML-YER",
+        "name": "Yerbas Buenas, Maule, Chile",
+        "parent_code": "CL-ML",
+        "parent_name": "Maule"
+    },
+    {
+        "code": "CL-RM-ALH",
+        "name": "Alhu\u00e9, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-BUI",
+        "name": "Buin, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-CAL",
+        "name": "Calera de Tango, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-CER",
+        "name": "Cerrillos, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-CNA",
+        "name": "Cerro Navia, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-COL",
+        "name": "Colina, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-CON",
+        "name": "Conchal\u00ed, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-CUR",
+        "name": "Curacav\u00ed, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-ELB",
+        "name": "El Bosque, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-ELM",
+        "name": "El Monte, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-EST",
+        "name": "Estaci\u00f3n Central, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-HUE",
+        "name": "Huechuraba, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-IND",
+        "name": "Independencia, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-ISL",
+        "name": "Isla de Maipo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAC",
+        "name": "La Cisterna, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAF",
+        "name": "La Florida, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAG",
+        "name": "La Granja, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAP",
+        "name": "La Pintana, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAR",
+        "name": "La Reina, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAM",
+        "name": "Lampa, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LAS",
+        "name": "Las Condes, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LOB",
+        "name": "Lo Barnechea, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LOE",
+        "name": "Lo Espejo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-LOP",
+        "name": "Lo Prado, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-MAC",
+        "name": "Macul, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-MAI",
+        "name": "Maip\u00fa, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-MAR",
+        "name": "Mar\u00eda Pinto, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-MEL",
+        "name": "Melipilla, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PAD",
+        "name": "Padre Hurtado, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PAI",
+        "name": "Paine, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PAC",
+        "name": "Pedro Aguirre Cerda, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PFL",
+        "name": "Pe\u00f1aflor, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PLO",
+        "name": "Pe\u00f1alol\u00e9n, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PIR",
+        "name": "Pirque, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PRO",
+        "name": "Providencia, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PUD",
+        "name": "Pudahuel, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PUE",
+        "name": "Puente Alto, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-QLI",
+        "name": "Quilicura, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-QNT",
+        "name": "Quinta Normal, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-REC",
+        "name": "Recoleta, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-REN",
+        "name": "Renca, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-BER",
+        "name": "San Bernardo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-JOA",
+        "name": "San Joaqu\u00edn, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-JOS",
+        "name": "San Jos\u00e9 de Maipo, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-MIG",
+        "name": "San Miguel, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-PED",
+        "name": "San Pedro, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-RAM",
+        "name": "San Ram\u00f3n, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-SAN",
+        "name": "Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-TAL",
+        "name": "Talagante, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-TIL",
+        "name": "Tiltil, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-VIT",
+        "name": "Vitacura, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-RM-NUN",
+        "name": "\u00d1u\u00f1oa, Regi\u00f3n Metropolitana de Santiago, Chile",
+        "parent_code": "CL-RM",
+        "parent_name": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+        "code": "CL-TA-ALT",
+        "name": "Alto Hospicio, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-CAM",
+        "name": "Cami\u00f1a, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-COL",
+        "name": "Colchane, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-HUA",
+        "name": "Huara, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-IQU",
+        "name": "Iquique, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-PIC",
+        "name": "Pica, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-TA-POZ",
+        "name": "Pozo Almonte, Tarapac\u00e1, Chile",
+        "parent_code": "CL-TA",
+        "parent_name": "Tarapac\u00e1"
+    },
+    {
+        "code": "CL-VS-ALG",
+        "name": "Algarrobo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CAB",
+        "name": "Cabildo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CAL",
+        "name": "Calera, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CLA",
+        "name": "Calle Larga, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CAR",
+        "name": "Cartagena, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CAS",
+        "name": "Casablanca, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CAT",
+        "name": "Catemu, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-CON",
+        "name": "Conc\u00f3n, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-ELQ",
+        "name": "El Quisco, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-ELT",
+        "name": "El Tabo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-HIJ",
+        "name": "Hijuelas, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-ISL",
+        "name": "Isla de Pascua, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-JUA",
+        "name": "Juan Fern\u00e1ndez, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-LAC",
+        "name": "La Cruz, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-LAL",
+        "name": "La Ligua, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-LIM",
+        "name": "Limache, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-LLA",
+        "name": "Llaillay, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-AND",
+        "name": "Los Andes, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-NOG",
+        "name": "Nogales, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-OLM",
+        "name": "Olmu\u00e9, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-PAN",
+        "name": "Panquehue, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-PAP",
+        "name": "Papudo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-PET",
+        "name": "Petorca, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-PUC",
+        "name": "Puchuncav\u00ed, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-PUT",
+        "name": "Putaendo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-QOT",
+        "name": "Quillota, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-QLP",
+        "name": "Quilpu\u00e9, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-QNT",
+        "name": "Quintero, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-RIN",
+        "name": "Rinconada, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-ANT",
+        "name": "San Antonio, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-EST",
+        "name": "San Esteban, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-FEL",
+        "name": "San Felipe, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-MAR",
+        "name": "Santa Mar\u00eda, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-SAN",
+        "name": "Santo Domingo, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-VAL",
+        "name": "Valpara\u00edso, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-VIL",
+        "name": "Villa Alemana, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-VIN",
+        "name": "Vi\u00f1a del Mar, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-VS-ZAP",
+        "name": "Zapallar, Valpara\u00edso, Chile",
+        "parent_code": "CL-VS",
+        "parent_name": "Valpara\u00edso"
+    },
+    {
+        "code": "CL-NB-BUL",
+        "name": "Bulnes, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-CLL",
+        "name": "Chill\u00e1n, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-CVI",
+        "name": "Chill\u00e1n Viejo, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-COB",
+        "name": "Cobquecura, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-COE",
+        "name": "Coelemu, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-COI",
+        "name": "Coihueco, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-ELC",
+        "name": "El Carmen, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-NIN",
+        "name": "Ninhue, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-PEM",
+        "name": "Pemuco, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-PIN",
+        "name": "Pinto, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-POR",
+        "name": "Portezuelo, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-QON",
+        "name": "Quill\u00f3n, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-QRI",
+        "name": "Quirihue, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-RAN",
+        "name": "R\u00e1nquil, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-CAR",
+        "name": "San Carlos, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-FAB",
+        "name": "San Fabi\u00e1n, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-IGN",
+        "name": "San Ignacio, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-NIC",
+        "name": "San Nicol\u00e1s, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-TRE",
+        "name": "Treguaco, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-YUN",
+        "name": "Yungay, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    },
+    {
+        "code": "CL-NB-NIQ",
+        "name": "\u00d1iqu\u00e9n, \u00d1uble, Chile",
+        "parent_code": "CL-NB",
+        "parent_name": "\u00d1uble"
+    }
+]

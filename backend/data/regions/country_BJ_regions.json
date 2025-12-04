@@ -1,0 +1,74 @@
+[
+    {
+        "code": "BJ-AL",
+        "name": "Alibori, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-AK",
+        "name": "Atakora, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-AQ",
+        "name": "Atlantique, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-BO",
+        "name": "Borgou, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-CO",
+        "name": "Collines, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-DO",
+        "name": "Donga, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-KO",
+        "name": "Kouffo, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-LI",
+        "name": "Littoral, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-MO",
+        "name": "Mono, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-OU",
+        "name": "Ou\u00e9m\u00e9, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-PL",
+        "name": "Plateau, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    },
+    {
+        "code": "BJ-ZO",
+        "name": "Zou, Benin",
+        "parent_code": "BJ",
+        "parent_name": "Benin"
+    }
+]

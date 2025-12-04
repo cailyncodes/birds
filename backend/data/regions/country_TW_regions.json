@@ -1,0 +1,134 @@
+[
+    {
+        "code": "TW-CHA",
+        "name": "Changhua County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-CYI",
+        "name": "Chiayi City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-CYQ",
+        "name": "Chiayi County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-HSZ",
+        "name": "Hsinchu City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-HSQ",
+        "name": "Hsinchu County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-HUA",
+        "name": "Hualien County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-KHH",
+        "name": "Kaohsiung City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-KEE",
+        "name": "Keelung City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-KIN",
+        "name": "Kinmen County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-LIE",
+        "name": "Lienchiang County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-MIA",
+        "name": "Miaoli County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-NAN",
+        "name": "Nantou County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TPQ",
+        "name": "New Taipei City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-PEN",
+        "name": "Penghu County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-PIF",
+        "name": "Pingtung County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TXG",
+        "name": "Taichung City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TNN",
+        "name": "Tainan City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TPE",
+        "name": "Taipei City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TTT",
+        "name": "Taitung County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-TAO",
+        "name": "Taoyuan City, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-ILA",
+        "name": "Yilan County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    },
+    {
+        "code": "TW-YUN",
+        "name": "Yunlin County, Taiwan",
+        "parent_code": "TW",
+        "parent_name": "Taiwan"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "code": "EG-DK",
+        "name": "Ad Daqahliyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-BA",
+        "name": "Al Bahr al Ahmar, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-BH",
+        "name": "Al Buhayrah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-FYM",
+        "name": "Al Fayyum, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-GH",
+        "name": "Al Gharbiyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-ALX",
+        "name": "Al Iskandariyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-IS",
+        "name": "Al Isma\u2018iliyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-GZ",
+        "name": "Al Jizah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-MNF",
+        "name": "Al Minufiyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-MN",
+        "name": "Al Minya, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-C",
+        "name": "Al Qahirah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-KB",
+        "name": "Al Qalyubiyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-LX",
+        "name": "Al Uqsur, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-WAD",
+        "name": "Al Wadi al Jadid, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-SUZ",
+        "name": "As Suways, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-SHR",
+        "name": "Ash Sharqiyah, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-ASN",
+        "name": "Aswan, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-AST",
+        "name": "Asyut, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-BNS",
+        "name": "Bani Suwayf, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-PTS",
+        "name": "Bur Sa\u2018id, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-DT",
+        "name": "Dumyat, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-JS",
+        "name": "Janub Sina', Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-KFS",
+        "name": "Kafr ash Shaykh, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-MT",
+        "name": "Matruh, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-KN",
+        "name": "Qina, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-SIN",
+        "name": "Shamal Sina', Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    },
+    {
+        "code": "EG-SHG",
+        "name": "Suhaj, Egypt",
+        "parent_code": "EG",
+        "parent_name": "Egypt"
+    }
+]

@@ -1,0 +1,42 @@
+.root {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "content"
+        "footer";
+    grid-template-rows: auto 1fr auto;
+    height: 100%;
+}
+
+.header {
+    grid-area: header;
+    max-height: 85px;
+
+    background-color: var(--primary);
+    border-bottom: solid var(--dark-grey) 1px;
+}
+
+.content {
+    grid-area: content;
+    grid-row-start: content-start;
+}
+
+.main {
+    width: 70vw;
+    max-width: 55rem;
+    min-width: fit-content;
+
+    margin: 0 auto;
+}
+
+footer {
+    grid-area: footer;
+    color: var(--light-grey);
+    background-color: var(--tertiary);
+
+    padding: 0.7rem 2rem;
+}
+
+footer p {
+    margin: 0;
+}

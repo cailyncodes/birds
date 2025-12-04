@@ -1,0 +1,56 @@
+[
+    {
+        "code": "ZA-EC",
+        "name": "Eastern Cape, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-FS",
+        "name": "Free State, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-GT",
+        "name": "Gauteng, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-NL",
+        "name": "Kwazulu-Natal, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-LP",
+        "name": "Limpopo, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-MP",
+        "name": "Mpumalanga, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-NW",
+        "name": "North-West, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-NC",
+        "name": "Northern Cape, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    },
+    {
+        "code": "ZA-WC",
+        "name": "Western Cape, South Africa",
+        "parent_code": "ZA",
+        "parent_name": "South Africa"
+    }
+]

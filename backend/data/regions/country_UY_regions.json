@@ -1,0 +1,116 @@
+[
+    {
+        "code": "UY-AR",
+        "name": "Artigas, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-CA",
+        "name": "Canelones, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-CL",
+        "name": "Cerro Largo, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-CO",
+        "name": "Colonia, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-DU",
+        "name": "Durazno, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-FS",
+        "name": "Flores, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-FD",
+        "name": "Florida, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-LA",
+        "name": "Lavalleja, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-MA",
+        "name": "Maldonado, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-MO",
+        "name": "Montevideo, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-PA",
+        "name": "Paysand\u00fa, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-RV",
+        "name": "Rivera, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-RO",
+        "name": "Rocha, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-RN",
+        "name": "R\u00edo Negro, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-SA",
+        "name": "Salto, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-SJ",
+        "name": "San Jos\u00e9, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-SO",
+        "name": "Soriano, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-TA",
+        "name": "Tacuaremb\u00f3, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    },
+    {
+        "code": "UY-TT",
+        "name": "Treinta y Tres, Uruguay",
+        "parent_code": "UY",
+        "parent_name": "Uruguay"
+    }
+]

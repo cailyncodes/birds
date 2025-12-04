@@ -1,0 +1,4412 @@
+[
+    {
+        "code": "IN-AN-NI",
+        "name": "Nicobar, Andaman and Nicobar Islands, India",
+        "parent_code": "IN-AN",
+        "parent_name": "Andaman and Nicobar Islands"
+    },
+    {
+        "code": "IN-AN-AN",
+        "name": "North and Middle Andaman, Andaman and Nicobar Islands, India",
+        "parent_code": "IN-AN",
+        "parent_name": "Andaman and Nicobar Islands"
+    },
+    {
+        "code": "IN-AN-AS",
+        "name": "South Andaman, Andaman and Nicobar Islands, India",
+        "parent_code": "IN-AN",
+        "parent_name": "Andaman and Nicobar Islands"
+    },
+    {
+        "code": "IN-AP-AN",
+        "name": "Anantapuramu, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-CH",
+        "name": "Chittoor, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-EG",
+        "name": "East Godavari, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-GU",
+        "name": "Guntur, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-KR",
+        "name": "Krishna, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-KU",
+        "name": "Kurnool, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-PR",
+        "name": "Prakasam, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-NE",
+        "name": "Sri Potti Sriramulu Nellore, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-SR",
+        "name": "Srikakulam, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-VS",
+        "name": "Visakhapatnam, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-VZ",
+        "name": "Vizianagaram, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-WG",
+        "name": "West Godavari, Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AP-CU",
+        "name": "YSR District (Kadapa), Andhra Pradesh, India",
+        "parent_code": "IN-AP",
+        "parent_name": "Andhra Pradesh"
+    },
+    {
+        "code": "IN-AR-AN",
+        "name": "Anjaw, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-CH",
+        "name": "Changlang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-EK",
+        "name": "East Kameng, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-ES",
+        "name": "East Siang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-KA",
+        "name": "Kamle, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-KD",
+        "name": "Kra Daadi, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-KK",
+        "name": "Kurung Kumey, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LR",
+        "name": "Lepa Rada, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LO",
+        "name": "Lohit, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LN",
+        "name": "Longding, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LD",
+        "name": "Lower Dibang Valley, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LS",
+        "name": "Lower Siang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-LB",
+        "name": "Lower Subansiri, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-NA",
+        "name": "Namsai, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-PK",
+        "name": "Pakke Kessang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-PA",
+        "name": "Papum Pare, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-SY",
+        "name": "Shi Yomi, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-SI",
+        "name": "Siang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-TA",
+        "name": "Tawang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-TI",
+        "name": "Tirap, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-UD",
+        "name": "Upper Dibang Valley, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-US",
+        "name": "Upper Siang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-UB",
+        "name": "Upper Subansiri, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-WK",
+        "name": "West Kameng, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AR-WS",
+        "name": "West Siang, Arunachal Pradesh, India",
+        "parent_code": "IN-AR",
+        "parent_name": "Arunachal Pradesh"
+    },
+    {
+        "code": "IN-AS-BK",
+        "name": "Baksa, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-BA",
+        "name": "Barpeta, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-BI",
+        "name": "Biswanath, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-BO",
+        "name": "Bongaigaon, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-CA",
+        "name": "Cachar, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-CH",
+        "name": "Charaideo, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-CR",
+        "name": "Chirang, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-DA",
+        "name": "Darrang, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-DM",
+        "name": "Dhemaji, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-DB",
+        "name": "Dhubri, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-DI",
+        "name": "Dibrugarh, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-NC",
+        "name": "Dima Hasao, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-GP",
+        "name": "Goalpara, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-GG",
+        "name": "Golaghat, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-HA",
+        "name": "Hailakandi, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-HO",
+        "name": "Hojai, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-JO",
+        "name": "Jorhat, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-KP",
+        "name": "Kamrup, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-KM",
+        "name": "Kamrup Metropolitan, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-KA",
+        "name": "Karbi Anglong, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-KR",
+        "name": "Karimganj, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-KK",
+        "name": "Kokrajhar, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-LA",
+        "name": "Lakhimpur, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-MJ",
+        "name": "Majuli, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-MA",
+        "name": "Morigaon, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-NG",
+        "name": "Nagaon, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-NL",
+        "name": "Nalbari, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-SI",
+        "name": "Sivasagar, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-SO",
+        "name": "Sonitpur, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-SS",
+        "name": "South Salmara-Mankachar, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-TI",
+        "name": "Tinsukia, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-UD",
+        "name": "Udalguri, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-AS-WK",
+        "name": "West Karbi Anglong, Assam, India",
+        "parent_code": "IN-AS",
+        "parent_name": "Assam"
+    },
+    {
+        "code": "IN-BR-AR",
+        "name": "Araria, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-AW",
+        "name": "Arwal, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-AU",
+        "name": "Aurangabad, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-BA",
+        "name": "Banka, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-BE",
+        "name": "Begusarai, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-BG",
+        "name": "Bhagalpur, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-BJ",
+        "name": "Bhojpur, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-BU",
+        "name": "Buxar, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-DA",
+        "name": "Darbhanga, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-GA",
+        "name": "Gaya, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-GO",
+        "name": "Gopalganj, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-JA",
+        "name": "Jamui, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-JE",
+        "name": "Jehanabad, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-KM",
+        "name": "Kaimur, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-KT",
+        "name": "Katihar, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-KH",
+        "name": "Khagaria, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-KI",
+        "name": "Kishanganj, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-LA",
+        "name": "Lakhisarai, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-MP",
+        "name": "Madhepura, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-MB",
+        "name": "Madhubani, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-MG",
+        "name": "Munger, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-MZ",
+        "name": "Muzaffarpur, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-NL",
+        "name": "Nalanda, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-NW",
+        "name": "Nawada, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-WC",
+        "name": "Pashchim Champaran, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-PA",
+        "name": "Patna, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-EC",
+        "name": "Purba Champaran, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-PU",
+        "name": "Purnia, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-RO",
+        "name": "Rohtas, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SH",
+        "name": "Saharsa, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SM",
+        "name": "Samastipur, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SR",
+        "name": "Saran, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SP",
+        "name": "Sheikhpura, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SO",
+        "name": "Sheohar, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-ST",
+        "name": "Sitamarhi, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SW",
+        "name": "Siwan, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-SU",
+        "name": "Supaul, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-BR-VA",
+        "name": "Vaishali, Bihar, India",
+        "parent_code": "IN-BR",
+        "parent_name": "Bihar"
+    },
+    {
+        "code": "IN-CH-CH",
+        "name": "Chandigarh, Chandigarh, India",
+        "parent_code": "IN-CH",
+        "parent_name": "Chandigarh"
+    },
+    {
+        "code": "IN-CT-BD",
+        "name": "Balod, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BB",
+        "name": "Baloda Bazar, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BP",
+        "name": "Balrampur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BA",
+        "name": "Bastar, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BM",
+        "name": "Bemetara, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BJ",
+        "name": "Bijapur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-BI",
+        "name": "Bilaspur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-DA",
+        "name": "Dantewada, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-DH",
+        "name": "Dhamtari, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-DU",
+        "name": "Durg, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-GA",
+        "name": "Gariaband, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-JC",
+        "name": "Janjgir-Champa, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-JA",
+        "name": "Jashpur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-KW",
+        "name": "Kabirdham, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-KK",
+        "name": "Kanker, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-KO",
+        "name": "Kondagaon, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-KB",
+        "name": "Korba, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-KJ",
+        "name": "Korea, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-MA",
+        "name": "Mahasamund, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-MU",
+        "name": "Mungeli, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-NA",
+        "name": "Narayanpur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-RG",
+        "name": "Raigarh, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-RP",
+        "name": "Raipur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-RN",
+        "name": "Rajnandgaon, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-SK",
+        "name": "Sukma, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-SR",
+        "name": "Surajpur, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-CT-SU",
+        "name": "Surguja, Chhattisgarh, India",
+        "parent_code": "IN-CT",
+        "parent_name": "Chhattisgarh"
+    },
+    {
+        "code": "IN-DN-DN",
+        "name": "Dadra & Nagar Haveli, Dadra and Nagar Haveli, India",
+        "parent_code": "IN-DN",
+        "parent_name": "Dadra and Nagar Haveli"
+    },
+    {
+        "code": "IN-DD-DA",
+        "name": "Daman, Daman and Diu, India",
+        "parent_code": "IN-DD",
+        "parent_name": "Daman and Diu"
+    },
+    {
+        "code": "IN-DD-DI",
+        "name": "Diu, Daman and Diu, India",
+        "parent_code": "IN-DD",
+        "parent_name": "Daman and Diu"
+    },
+    {
+        "code": "IN-DL-CE",
+        "name": "Central Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-EA",
+        "name": "East Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-ND",
+        "name": "New Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-NO",
+        "name": "North Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-NE",
+        "name": "North East Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-NW",
+        "name": "North West Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-SH",
+        "name": "Shahdara, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-SO",
+        "name": "South Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-SE",
+        "name": "South East Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-SW",
+        "name": "South West Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-DL-WE",
+        "name": "West Delhi, Delhi, India",
+        "parent_code": "IN-DL",
+        "parent_name": "Delhi"
+    },
+    {
+        "code": "IN-GA-NG",
+        "name": "North Goa, Goa, India",
+        "parent_code": "IN-GA",
+        "parent_name": "Goa"
+    },
+    {
+        "code": "IN-GA-SG",
+        "name": "South Goa, Goa, India",
+        "parent_code": "IN-GA",
+        "parent_name": "Goa"
+    },
+    {
+        "code": "IN-GJ-AH",
+        "name": "Ahmedabad, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-AM",
+        "name": "Amreli, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-AN",
+        "name": "Anand, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-AR",
+        "name": "Aravalli, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-BK",
+        "name": "Banaskantha, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-BR",
+        "name": "Bharuch, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-BV",
+        "name": "Bhavnagar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-BO",
+        "name": "Botad, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-CU",
+        "name": "Chhota Udaipur, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-DA",
+        "name": "Dahod, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-DG",
+        "name": "Dang, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-DD",
+        "name": "Devbhumi Dwarka, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-GA",
+        "name": "Gandhinagar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-GS",
+        "name": "Gir Somnath, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-JA",
+        "name": "Jamnagar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-JU",
+        "name": "Junagadh, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-KA",
+        "name": "Kachchh, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-KH",
+        "name": "Kheda, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-MG",
+        "name": "Mahisagar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-MA",
+        "name": "Mehsana, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-MO",
+        "name": "Morbi, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-NR",
+        "name": "Narmada, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-NV",
+        "name": "Navsari, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-PM",
+        "name": "Panchmahal, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-PA",
+        "name": "Patan, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-PO",
+        "name": "Porbandar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-RA",
+        "name": "Rajkot, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-SK",
+        "name": "Sabarkantha, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-ST",
+        "name": "Surat, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-SN",
+        "name": "Surendranagar, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-TA",
+        "name": "Tapi, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-VD",
+        "name": "Vadodara, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-GJ-VL",
+        "name": "Valsad, Gujarat, India",
+        "parent_code": "IN-GJ",
+        "parent_name": "Gujarat"
+    },
+    {
+        "code": "IN-HR-AM",
+        "name": "Ambala, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-BH",
+        "name": "Bhiwani, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-CD",
+        "name": "Charki Dadri, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-FR",
+        "name": "Faridabad, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-FT",
+        "name": "Fatehabad, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-GU",
+        "name": "Gurugram, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-HI",
+        "name": "Hisar, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-JH",
+        "name": "Jhajjar, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-JI",
+        "name": "Jind, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-KT",
+        "name": "Kaithal, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-KR",
+        "name": "Karnal, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-KU",
+        "name": "Kurukshetra, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-MA",
+        "name": "Mahendragarh, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-ME",
+        "name": "Nuh, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-PL",
+        "name": "Palwal, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-PK",
+        "name": "Panchkula, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-PP",
+        "name": "Panipat, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-RE",
+        "name": "Rewari, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-RO",
+        "name": "Rohtak, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-SI",
+        "name": "Sirsa, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-SO",
+        "name": "Sonipat, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HR-YN",
+        "name": "Yamunanagar, Haryana, India",
+        "parent_code": "IN-HR",
+        "parent_name": "Haryana"
+    },
+    {
+        "code": "IN-HP-BI",
+        "name": "Bilaspur, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-CH",
+        "name": "Chamba, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-HA",
+        "name": "Hamirpur, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-KA",
+        "name": "Kangra, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-KI",
+        "name": "Kinnaur, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-KU",
+        "name": "Kullu, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-LS",
+        "name": "Lahaul and Spiti, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-MA",
+        "name": "Mandi, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-SH",
+        "name": "Shimla, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-SI",
+        "name": "Sirmaur, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-SO",
+        "name": "Solan, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-HP-UN",
+        "name": "Una, Himachal Pradesh, India",
+        "parent_code": "IN-HP",
+        "parent_name": "Himachal Pradesh"
+    },
+    {
+        "code": "IN-JK-AN",
+        "name": "Anantnag, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-BN",
+        "name": "Bandipora, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-BR",
+        "name": "Baramulla, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-BD",
+        "name": "Budgam, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-DO",
+        "name": "Doda, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-GN",
+        "name": "Ganderbal, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-JA",
+        "name": "Jammu, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-KT",
+        "name": "Kathua, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-KS",
+        "name": "Kishtwar, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-KL",
+        "name": "Kulgam, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-KU",
+        "name": "Kupwara, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-MI",
+        "name": "Mirpur, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-MU",
+        "name": "Muzaffarabad, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-PO",
+        "name": "Poonch, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-PU",
+        "name": "Pulwama, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-RA",
+        "name": "Rajouri, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-RM",
+        "name": "Ramban, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-RE",
+        "name": "Reasi, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-SA",
+        "name": "Samba, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-SH",
+        "name": "Shopian, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-SR",
+        "name": "Srinagar, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JK-UD",
+        "name": "Udhampur, Jammu and Kashmir, India",
+        "parent_code": "IN-JK",
+        "parent_name": "Jammu and Kashmir"
+    },
+    {
+        "code": "IN-JH-BO",
+        "name": "Bokaro, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-CH",
+        "name": "Chatra, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-DE",
+        "name": "Deoghar, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-DH",
+        "name": "Dhanbad, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-DU",
+        "name": "Dumka, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-ES",
+        "name": "East Singhbhum, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-GA",
+        "name": "Garhwa, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-GI",
+        "name": "Giridih, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-GO",
+        "name": "Godda, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-GU",
+        "name": "Gumla, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-HA",
+        "name": "Hazaribagh, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-JA",
+        "name": "Jamtara, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-KH",
+        "name": "Khunti, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-KO",
+        "name": "Koderma, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-LA",
+        "name": "Latehar, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-LO",
+        "name": "Lohardaga, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-PK",
+        "name": "Pakur, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-PL",
+        "name": "Palamu, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-RM",
+        "name": "Ramgarh, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-RA",
+        "name": "Ranchi, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-SA",
+        "name": "Sahibganj, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-SR",
+        "name": "Saraikela-Kharsawan, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-SI",
+        "name": "Simdega, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-JH-WS",
+        "name": "West Singhbhum, Jharkhand, India",
+        "parent_code": "IN-JH",
+        "parent_name": "Jharkhand"
+    },
+    {
+        "code": "IN-KA-BK",
+        "name": "Bagalkote, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BL",
+        "name": "Ballari, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BG",
+        "name": "Belagavi, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BR",
+        "name": "Bengaluru Rural, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BN",
+        "name": "Bengaluru Urban, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BD",
+        "name": "Bidar, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-CJ",
+        "name": "Chamarajanagara, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-CH",
+        "name": "Chikkaballapura, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-CK",
+        "name": "Chikkamagaluru, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-CT",
+        "name": "Chitradurga, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-DK",
+        "name": "Dakshina Kannada, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-DA",
+        "name": "Davanagere, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-DH",
+        "name": "Dharwad, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-GA",
+        "name": "Gadag, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-HS",
+        "name": "Hassan, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-HV",
+        "name": "Haveri, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-GU",
+        "name": "Kalaburagi, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-KD",
+        "name": "Kodagu, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-KL",
+        "name": "Kolar, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-KP",
+        "name": "Koppal, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-MA",
+        "name": "Mandya, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-MY",
+        "name": "Mysuru, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-RA",
+        "name": "Raichur, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-RM",
+        "name": "Ramanagara, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-SH",
+        "name": "Shivamogga, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-TU",
+        "name": "Tumakuru, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-UD",
+        "name": "Udupi, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-UK",
+        "name": "Uttara Kannada, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-BJ",
+        "name": "Vijayapura, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KA-YD",
+        "name": "Yadgiri, Karnataka, India",
+        "parent_code": "IN-KA",
+        "parent_name": "Karnataka"
+    },
+    {
+        "code": "IN-KL-AL",
+        "name": "Alappuzha, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-ER",
+        "name": "Ernakulam, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-ID",
+        "name": "Idukki, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-KN",
+        "name": "Kannur, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-KS",
+        "name": "Kasaragod, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-KL",
+        "name": "Kollam, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-KT",
+        "name": "Kottayam, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-KZ",
+        "name": "Kozhikode, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-MA",
+        "name": "Malappuram, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-PL",
+        "name": "Palakkad, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-PT",
+        "name": "Pathanamthitta, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-TV",
+        "name": "Thiruvananthapuram, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-TS",
+        "name": "Thrissur, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-KL-WA",
+        "name": "Wayanad, Kerala, India",
+        "parent_code": "IN-KL",
+        "parent_name": "Kerala"
+    },
+    {
+        "code": "IN-LA-KA",
+        "name": "Kargil, Ladakh, India",
+        "parent_code": "IN-LA",
+        "parent_name": "Ladakh"
+    },
+    {
+        "code": "IN-LA-LE",
+        "name": "Leh, Ladakh, India",
+        "parent_code": "IN-LA",
+        "parent_name": "Ladakh"
+    },
+    {
+        "code": "IN-LD-LD",
+        "name": "Lakshadweep, Lakshadweep, India",
+        "parent_code": "IN-LD",
+        "parent_name": "Lakshadweep"
+    },
+    {
+        "code": "IN-MP-AM",
+        "name": "Agar Malwa, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-AL",
+        "name": "Alirajpur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-AN",
+        "name": "Anuppur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-AS",
+        "name": "Ashoknagar, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BL",
+        "name": "Balaghat, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BR",
+        "name": "Barwani, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BE",
+        "name": "Betul, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BD",
+        "name": "Bhind, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BP",
+        "name": "Bhopal, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-BU",
+        "name": "Burhanpur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-CT",
+        "name": "Chhatarpur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-CN",
+        "name": "Chhindwara, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-DM",
+        "name": "Damoh, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-DT",
+        "name": "Datia, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-DE",
+        "name": "Dewas, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-DH",
+        "name": "Dhar, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-DI",
+        "name": "Dindori, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-GU",
+        "name": "Guna, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-GW",
+        "name": "Gwalior, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-HA",
+        "name": "Harda, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-IN",
+        "name": "Indore, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-JA",
+        "name": "Jabalpur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-JH",
+        "name": "Jhabua, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-KA",
+        "name": "Katni, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-EN",
+        "name": "Khandwa, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-WN",
+        "name": "Khargone, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-ML",
+        "name": "Mandla, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-MS",
+        "name": "Mandsaur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-MO",
+        "name": "Morena, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-HO",
+        "name": "Narmadapuram, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-NA",
+        "name": "Narsinghpur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-NE",
+        "name": "Neemuch, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-NI",
+        "name": "Niwari, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-PA",
+        "name": "Panna, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-RS",
+        "name": "Raisen, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-RG",
+        "name": "Rajgarh, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-RL",
+        "name": "Ratlam, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-RE",
+        "name": "Rewa, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SG",
+        "name": "Sagar, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-ST",
+        "name": "Satna, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SR",
+        "name": "Sehore, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SO",
+        "name": "Seoni, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SH",
+        "name": "Shahdol, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SJ",
+        "name": "Shajapur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SP",
+        "name": "Sheopur, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SV",
+        "name": "Shivpuri, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SI",
+        "name": "Sidhi, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-SN",
+        "name": "Singrauli, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-TI",
+        "name": "Tikamgarh, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-UJ",
+        "name": "Ujjain, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-UM",
+        "name": "Umaria, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MP-VI",
+        "name": "Vidisha, Madhya Pradesh, India",
+        "parent_code": "IN-MP",
+        "parent_name": "Madhya Pradesh"
+    },
+    {
+        "code": "IN-MH-AH",
+        "name": "Ahmednagar, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-AK",
+        "name": "Akola, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-AM",
+        "name": "Amravati, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-AU",
+        "name": "Aurangabad, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-BI",
+        "name": "Beed, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-BH",
+        "name": "Bhandara, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-BU",
+        "name": "Buldhana, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-CH",
+        "name": "Chandrapur, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-DH",
+        "name": "Dhule, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-GA",
+        "name": "Gadchiroli, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-GO",
+        "name": "Gondia, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-HI",
+        "name": "Hingoli, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-JG",
+        "name": "Jalgaon, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-JN",
+        "name": "Jalna, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-KO",
+        "name": "Kolhapur, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-LA",
+        "name": "Latur, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-MC",
+        "name": "Mumbai, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-MS",
+        "name": "Mumbai Suburban, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-NG",
+        "name": "Nagpur, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-ND",
+        "name": "Nanded, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-NB",
+        "name": "Nandurbar, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-NS",
+        "name": "Nashik, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-OS",
+        "name": "Osmanabad, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-PG",
+        "name": "Palghar, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-PA",
+        "name": "Parbhani, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-PU",
+        "name": "Pune, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-RG",
+        "name": "Raigad, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-RT",
+        "name": "Ratnagiri, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-SN",
+        "name": "Sangli, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-ST",
+        "name": "Satara, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-SI",
+        "name": "Sindhudurg, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-SO",
+        "name": "Solapur, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-TH",
+        "name": "Thane, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-WR",
+        "name": "Wardha, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-WS",
+        "name": "Washim, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MH-YA",
+        "name": "Yavatmal, Maharashtra, India",
+        "parent_code": "IN-MH",
+        "parent_name": "Maharashtra"
+    },
+    {
+        "code": "IN-MN-BI",
+        "name": "Bishnupur, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-CD",
+        "name": "Chandel, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-CC",
+        "name": "Churachandpur, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-EI",
+        "name": "Imphal East, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-WI",
+        "name": "Imphal West, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-JI",
+        "name": "Jiribam, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-KK",
+        "name": "Kakching, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-KM",
+        "name": "Kamjong, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-KN",
+        "name": "Kangpokpi, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-NO",
+        "name": "Noney, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-PE",
+        "name": "Pherzawl, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-SE",
+        "name": "Senapati, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-TA",
+        "name": "Tamenglong, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-TE",
+        "name": "Tengnoupal, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-TH",
+        "name": "Thoubal, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-MN-UK",
+        "name": "Ukhrul, Manipur, India",
+        "parent_code": "IN-MN",
+        "parent_name": "Manipur"
+    },
+    {
+        "code": "IN-ML-EG",
+        "name": "East Garo Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-EJ",
+        "name": "East Jaintia Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-EK",
+        "name": "East Khasi Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-NG",
+        "name": "North Garo Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-RB",
+        "name": "Ri-Bhoi, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-SG",
+        "name": "South Garo Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-SW",
+        "name": "South West Garo Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-SK",
+        "name": "South West Khasi Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-WG",
+        "name": "West Garo Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-WJ",
+        "name": "West Jaintia Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-ML-WK",
+        "name": "West Khasi Hills, Meghalaya, India",
+        "parent_code": "IN-ML",
+        "parent_name": "Meghalaya"
+    },
+    {
+        "code": "IN-MZ-AI",
+        "name": "Aizawl, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-CH",
+        "name": "Champhai, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-HN",
+        "name": "Hnahthial, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-KZ",
+        "name": "Khawzawl, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-KO",
+        "name": "Kolasib, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-LA",
+        "name": "Lawngtlai, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-LU",
+        "name": "Lunglei, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-MA",
+        "name": "Mamit, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-ST",
+        "name": "Saitual, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-SE",
+        "name": "Serchhip, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-MZ-SA",
+        "name": "Siaha, Mizoram, India",
+        "parent_code": "IN-MZ",
+        "parent_name": "Mizoram"
+    },
+    {
+        "code": "IN-NL-DI",
+        "name": "Dimapur, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-KI",
+        "name": "Kiphire, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-KO",
+        "name": "Kohima, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-LO",
+        "name": "Longleng, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-MK",
+        "name": "Mokokchung, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-MN",
+        "name": "Mon, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-PE",
+        "name": "Peren, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-PH",
+        "name": "Phek, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-TU",
+        "name": "Tuensang, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-WO",
+        "name": "Wokha, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-NL-ZU",
+        "name": "Zunheboto, Nagaland, India",
+        "parent_code": "IN-NL",
+        "parent_name": "Nagaland"
+    },
+    {
+        "code": "IN-OR-AN",
+        "name": "Angul, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-BL",
+        "name": "Balangir, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-BW",
+        "name": "Baleswar, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-BR",
+        "name": "Bargarh, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-BH",
+        "name": "Bhadrak, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-BD",
+        "name": "Boudh, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-CU",
+        "name": "Cuttack, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-DE",
+        "name": "Deogarh, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-DH",
+        "name": "Dhenkanal, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-GP",
+        "name": "Gajapati, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-GN",
+        "name": "Ganjam, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-JS",
+        "name": "Jagatsinghpur, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-JP",
+        "name": "Jajpur, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-JH",
+        "name": "Jharsuguda, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KL",
+        "name": "Kalahandi, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KN",
+        "name": "Kandhamal, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KP",
+        "name": "Kendrapara, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KJ",
+        "name": "Kendujhar, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KH",
+        "name": "Khordha, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-KO",
+        "name": "Koraput, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-ML",
+        "name": "Malkangiri, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-MY",
+        "name": "Mayurbhanj, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-NB",
+        "name": "Nabarangapur, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-NY",
+        "name": "Nayagarh, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-NU",
+        "name": "Nuapada, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-PU",
+        "name": "Puri, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-RA",
+        "name": "Rayagada, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-SA",
+        "name": "Sambalpur, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-SO",
+        "name": "Subarnapur, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-OR-SU",
+        "name": "Sundargarh, Odisha, India",
+        "parent_code": "IN-OR",
+        "parent_name": "Odisha"
+    },
+    {
+        "code": "IN-PY-KA",
+        "name": "Karaikal, Puducherry, India",
+        "parent_code": "IN-PY",
+        "parent_name": "Puducherry"
+    },
+    {
+        "code": "IN-PY-MA",
+        "name": "Mahe, Puducherry, India",
+        "parent_code": "IN-PY",
+        "parent_name": "Puducherry"
+    },
+    {
+        "code": "IN-PY-PO",
+        "name": "Puducherry, Puducherry, India",
+        "parent_code": "IN-PY",
+        "parent_name": "Puducherry"
+    },
+    {
+        "code": "IN-PY-YA",
+        "name": "Yanam, Puducherry, India",
+        "parent_code": "IN-PY",
+        "parent_name": "Puducherry"
+    },
+    {
+        "code": "IN-PB-AM",
+        "name": "Amritsar, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-BR",
+        "name": "Barnala, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-BA",
+        "name": "Bathinda, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-FR",
+        "name": "Faridkot, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-FT",
+        "name": "Fatehgarh Sahib, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-FA",
+        "name": "Fazilka, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-FI",
+        "name": "Ferozepur, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-GU",
+        "name": "Gurdaspur, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-HO",
+        "name": "Hoshiarpur, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-JA",
+        "name": "Jalandhar, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-KA",
+        "name": "Kapurthala, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-LU",
+        "name": "Ludhiana, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-MA",
+        "name": "Mansa, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-MO",
+        "name": "Moga, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-PK",
+        "name": "Pathankot, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-PA",
+        "name": "Patiala, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-RU",
+        "name": "Rupnagar, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-SH",
+        "name": "Sahibzada Ajit Singh Nagar, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-SA",
+        "name": "Sangrur, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-NS",
+        "name": "Shaheed Bhagat Singh Nagar, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-MU",
+        "name": "Sri Muktsar Sahib, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-PB-TA",
+        "name": "Tarn Taran, Punjab, India",
+        "parent_code": "IN-PB",
+        "parent_name": "Punjab"
+    },
+    {
+        "code": "IN-RJ-AJ",
+        "name": "Ajmer, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-AL",
+        "name": "Alwar, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BN",
+        "name": "Banswara, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BR",
+        "name": "Baran, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BM",
+        "name": "Barmer, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BP",
+        "name": "Bharatpur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BW",
+        "name": "Bhilwara, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BI",
+        "name": "Bikaner, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-BU",
+        "name": "Bundi, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-CT",
+        "name": "Chittorgarh, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-CR",
+        "name": "Churu, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-DA",
+        "name": "Dausa, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-DH",
+        "name": "Dholpur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-DU",
+        "name": "Dungarpur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-HA",
+        "name": "Hanumangarh, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JP",
+        "name": "Jaipur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JS",
+        "name": "Jaisalmer, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JL",
+        "name": "Jalore, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JW",
+        "name": "Jhalawar, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JJ",
+        "name": "Jhunjhunu, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-JO",
+        "name": "Jodhpur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-KA",
+        "name": "Karauli, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-KO",
+        "name": "Kota, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-NA",
+        "name": "Nagaur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-PA",
+        "name": "Pali, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-PR",
+        "name": "Pratapgarh, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-RA",
+        "name": "Rajsamand, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-SM",
+        "name": "Sawai Madhopur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-SK",
+        "name": "Sikar, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-SR",
+        "name": "Sirohi, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-GA",
+        "name": "Sri Ganganagar, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-TO",
+        "name": "Tonk, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-RJ-UD",
+        "name": "Udaipur, Rajasthan, India",
+        "parent_code": "IN-RJ",
+        "parent_name": "Rajasthan"
+    },
+    {
+        "code": "IN-SK-ES",
+        "name": "East Sikkim, Sikkim, India",
+        "parent_code": "IN-SK",
+        "parent_name": "Sikkim"
+    },
+    {
+        "code": "IN-SK-NS",
+        "name": "North Sikkim, Sikkim, India",
+        "parent_code": "IN-SK",
+        "parent_name": "Sikkim"
+    },
+    {
+        "code": "IN-SK-SS",
+        "name": "South Sikkim, Sikkim, India",
+        "parent_code": "IN-SK",
+        "parent_name": "Sikkim"
+    },
+    {
+        "code": "IN-SK-WS",
+        "name": "West Sikkim, Sikkim, India",
+        "parent_code": "IN-SK",
+        "parent_name": "Sikkim"
+    },
+    {
+        "code": "IN-TN-AR",
+        "name": "Ariyalur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-CP",
+        "name": "Chengalpattu, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-CH",
+        "name": "Chennai, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-CO",
+        "name": "Coimbatore, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-CU",
+        "name": "Cuddalore, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-DH",
+        "name": "Dharmapuri, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-DI",
+        "name": "Dindigul, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-ER",
+        "name": "Erode, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-KA",
+        "name": "Kallakurichi, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-KC",
+        "name": "Kancheepuram, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-KK",
+        "name": "Kanniyakumari, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-KR",
+        "name": "Karur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-KS",
+        "name": "Krishnagiri, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-MA",
+        "name": "Madurai, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-NG",
+        "name": "Nagapattinam, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-NM",
+        "name": "Namakkal, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-PE",
+        "name": "Perambalur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-PU",
+        "name": "Pudukkottai, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-RA",
+        "name": "Ramanathapuram, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-RN",
+        "name": "Ranipet, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-SA",
+        "name": "Salem, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-SI",
+        "name": "Sivagangai, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TE",
+        "name": "Tenkasi, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TJ",
+        "name": "Thanjavur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-NI",
+        "name": "The Nilgiris, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TH",
+        "name": "Theni, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TL",
+        "name": "Thiruvallur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TR",
+        "name": "Thiruvarur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TK",
+        "name": "Thoothukudi, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TC",
+        "name": "Tiruchirappalli, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TI",
+        "name": "Tirunelveli, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TU",
+        "name": "Tirupathur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TP",
+        "name": "Tiruppur, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-TV",
+        "name": "Tiruvannamalai, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-VE",
+        "name": "Vellore, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-VL",
+        "name": "Viluppuram, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TN-VR",
+        "name": "Virudhunagar, Tamil Nadu, India",
+        "parent_code": "IN-TN",
+        "parent_name": "Tamil Nadu"
+    },
+    {
+        "code": "IN-TS-AD",
+        "name": "Adilabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-BK",
+        "name": "Bhadradri Kothagudem, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-HY",
+        "name": "Hyderabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-JA",
+        "name": "Jagitial, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-JN",
+        "name": "Jangaon, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-JY",
+        "name": "Jayashankar, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-JG",
+        "name": "Jogulamba Gadwal, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-KM",
+        "name": "Kamareddy, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-KA",
+        "name": "Karimnagar, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-KH",
+        "name": "Khammam, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-KB",
+        "name": "Kumuram Bheem Asifabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-MH",
+        "name": "Mahabubabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-MA",
+        "name": "Mahabubnagar, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-MN",
+        "name": "Mancherial, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-ME",
+        "name": "Medak, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-MM",
+        "name": "Medchal Malkajgiri, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-MU",
+        "name": "Mulugu, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-NG",
+        "name": "Nagarkurnool, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-NA",
+        "name": "Nalgonda, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-NR",
+        "name": "Narayanpet, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-NM",
+        "name": "Nirmal, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-NI",
+        "name": "Nizamabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-PE",
+        "name": "Peddapalli, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-RS",
+        "name": "Rajanna Sircilla, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-RA",
+        "name": "Ranga Reddy, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-SR",
+        "name": "Sangareddy, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-SI",
+        "name": "Siddipet, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-SU",
+        "name": "Suryapet, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-VI",
+        "name": "Vikarabad, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-WN",
+        "name": "Wanaparthy, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-WR",
+        "name": "Warangal Rural, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-WU",
+        "name": "Warangal Urban, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TS-YB",
+        "name": "Yadadri Bhuvanagiri, Telangana, India",
+        "parent_code": "IN-TS",
+        "parent_name": "Telangana"
+    },
+    {
+        "code": "IN-TR-DH",
+        "name": "Dhalai, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-GO",
+        "name": "Gomati, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-KH",
+        "name": "Khowai, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-NT",
+        "name": "North Tripura, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-SO",
+        "name": "Sepahijala, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-ST",
+        "name": "South Tripura, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-UN",
+        "name": "Unakoti, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-TR-WT",
+        "name": "West Tripura, Tripura, India",
+        "parent_code": "IN-TR",
+        "parent_name": "Tripura"
+    },
+    {
+        "code": "IN-UP-AG",
+        "name": "Agra, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AL",
+        "name": "Aligarh, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AN",
+        "name": "Ambedkar Nagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AE",
+        "name": "Amethi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-JP",
+        "name": "Amroha, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AU",
+        "name": "Auraiya, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-FZ",
+        "name": "Ayodhya, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AZ",
+        "name": "Azamgarh, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BG",
+        "name": "Baghpat, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BH",
+        "name": "Bahraich, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BL",
+        "name": "Ballia, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BP",
+        "name": "Balrampur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BN",
+        "name": "Banda, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BB",
+        "name": "Barabanki, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BR",
+        "name": "Bareilly, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BS",
+        "name": "Basti, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SR",
+        "name": "Bhadohi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BI",
+        "name": "Bijnor, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BD",
+        "name": "Budaun, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-BU",
+        "name": "Bulandshahr, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-CD",
+        "name": "Chandauli, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-CT",
+        "name": "Chitrakoot, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-DE",
+        "name": "Deoria, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-ET",
+        "name": "Etah, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-EW",
+        "name": "Etawah, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-FR",
+        "name": "Farrukhabad, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-FT",
+        "name": "Fatehpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-FI",
+        "name": "Firozabad, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-GB",
+        "name": "Gautam Buddha Nagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-GZ",
+        "name": "Ghaziabad, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-GP",
+        "name": "Ghazipur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-GN",
+        "name": "Gonda, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-GR",
+        "name": "Gorakhpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-HM",
+        "name": "Hamirpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-HP",
+        "name": "Hapur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-HR",
+        "name": "Hardoi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-HT",
+        "name": "Hathras, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-JL",
+        "name": "Jalaun, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-JU",
+        "name": "Jaunpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-JH",
+        "name": "Jhansi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KJ",
+        "name": "Kannauj, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KD",
+        "name": "Kanpur Dehat, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KN",
+        "name": "Kanpur Nagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KM",
+        "name": "Kasganj, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KS",
+        "name": "Kaushambi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-KU",
+        "name": "Kushinagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-LK",
+        "name": "Lakhimpur Kheri, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-LA",
+        "name": "Lalitpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-LU",
+        "name": "Lucknow, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MG",
+        "name": "Maharajganj, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MH",
+        "name": "Mahoba, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MP",
+        "name": "Mainpuri, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MT",
+        "name": "Mathura, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MA",
+        "name": "Mau, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-ME",
+        "name": "Meerut, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MI",
+        "name": "Mirzapur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MO",
+        "name": "Moradabad, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-MU",
+        "name": "Muzaffarnagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-PI",
+        "name": "Pilibhit, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-PR",
+        "name": "Pratapgarh, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-AH",
+        "name": "Prayagraj, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-RB",
+        "name": "Raebareli, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-RA",
+        "name": "Rampur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SA",
+        "name": "Saharanpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SM",
+        "name": "Sambhal, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SK",
+        "name": "Sant Kabir Nagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SJ",
+        "name": "Shahjahanpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SH",
+        "name": "Shamli, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SV",
+        "name": "Shrawasti, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SN",
+        "name": "Siddharthnagar, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SI",
+        "name": "Sitapur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SO",
+        "name": "Sonbhadra, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-SU",
+        "name": "Sultanpur, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-UN",
+        "name": "Unnao, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UP-VA",
+        "name": "Varanasi, Uttar Pradesh, India",
+        "parent_code": "IN-UP",
+        "parent_name": "Uttar Pradesh"
+    },
+    {
+        "code": "IN-UL-AL",
+        "name": "Almora, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-BA",
+        "name": "Bageshwar, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-CL",
+        "name": "Chamoli, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-CP",
+        "name": "Champawat, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-DD",
+        "name": "Dehradun, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-HA",
+        "name": "Haridwar, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-NA",
+        "name": "Nainital, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-PG",
+        "name": "Pauri Garhwal, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-PI",
+        "name": "Pithoragarh, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-RP",
+        "name": "Rudraprayag, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-TG",
+        "name": "Tehri Garhwal, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-US",
+        "name": "Udham Singh Nagar, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-UL-UT",
+        "name": "Uttarkashi, Uttarakhand, India",
+        "parent_code": "IN-UL",
+        "parent_name": "Uttarakhand"
+    },
+    {
+        "code": "IN-WB-AL",
+        "name": "Alipurduar, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-BN",
+        "name": "Bankura, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-BI",
+        "name": "Birbhum, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-KB",
+        "name": "Cooch Behar, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-DD",
+        "name": "Dakshin Dinajpur, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-DA",
+        "name": "Darjeeling, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-HG",
+        "name": "Hooghly, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-HR",
+        "name": "Howrah, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-JA",
+        "name": "Jalpaiguri, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-JH",
+        "name": "Jhargram, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-KA",
+        "name": "Kalimpong, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-KO",
+        "name": "Kolkata, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-MA",
+        "name": "Malda, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-MU",
+        "name": "Murshidabad, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-NA",
+        "name": "Nadia, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-PN",
+        "name": "North 24 Parganas, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-PA",
+        "name": "Paschim Bardhaman, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-MW",
+        "name": "Paschim Medinipur, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-PB",
+        "name": "Purba Bardhaman, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-ME",
+        "name": "Purba Medinipur, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-PU",
+        "name": "Purulia, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-PS",
+        "name": "South 24 Parganas, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    },
+    {
+        "code": "IN-WB-UD",
+        "name": "Uttar Dinajpur, West Bengal, India",
+        "parent_code": "IN-WB",
+        "parent_name": "West Bengal"
+    }
+]

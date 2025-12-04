@@ -1,0 +1,98 @@
+[
+    {
+        "code": "MA-09",
+        "name": "Chaouia-Ouardigha, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-10",
+        "name": "Doukkala-Abda, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-05",
+        "name": "F\u00e8s-Boulemane, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-02",
+        "name": "Gharb-Chrarda-Beni Hssen, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-08",
+        "name": "Grand Casablanca, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-14",
+        "name": "Guelmim-Es Smara, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-04",
+        "name": "L'Oriental, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-15",
+        "name": "La\u00e2youne-Boujdour-Sakia el Hamra, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-11",
+        "name": "Marrakech-Tensift-Al Haouz, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-06",
+        "name": "Mekn\u00e8s-Tafilalet, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-16",
+        "name": "Oued ed Dahab-Lagouira, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-07",
+        "name": "Rabat-Sal\u00e9-Zemmour-Zaer, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-13",
+        "name": "Sous-Massa-Draa, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-12",
+        "name": "Tadla-Azilal, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-01",
+        "name": "Tanger-T\u00e9touan, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    },
+    {
+        "code": "MA-03",
+        "name": "Taza-Al Hoceima-Taounate, Morocco",
+        "parent_code": "MA",
+        "parent_name": "Morocco"
+    }
+]

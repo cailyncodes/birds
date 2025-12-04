@@ -1,0 +1,50 @@
+[
+    {
+        "code": "KG-B",
+        "name": "Batken, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-GB",
+        "name": "Bishkek, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-C",
+        "name": "Ch\u00fc, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-J",
+        "name": "Jalal-Abad, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-N",
+        "name": "Naryn, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-O",
+        "name": "Osh, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-T",
+        "name": "Talas, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    },
+    {
+        "code": "KG-Y",
+        "name": "Ysyk-K\u00f6l, Kyrgyzstan",
+        "parent_code": "KG",
+        "parent_name": "Kyrgyzstan"
+    }
+]

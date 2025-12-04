@@ -1,0 +1,26 @@
+[
+    {
+        "code": "MP-NI",
+        "name": "Northern Islands, Northern Mariana Islands",
+        "parent_code": "MP",
+        "parent_name": "Northern Mariana Islands"
+    },
+    {
+        "code": "MP-RO",
+        "name": "Rota, Northern Mariana Islands",
+        "parent_code": "MP",
+        "parent_name": "Northern Mariana Islands"
+    },
+    {
+        "code": "MP-SA",
+        "name": "Saipan, Northern Mariana Islands",
+        "parent_code": "MP",
+        "parent_name": "Northern Mariana Islands"
+    },
+    {
+        "code": "MP-TI",
+        "name": "Tinian, Northern Mariana Islands",
+        "parent_code": "MP",
+        "parent_name": "Northern Mariana Islands"
+    }
+]

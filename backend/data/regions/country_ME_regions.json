@@ -1,0 +1,128 @@
+[
+    {
+        "code": "ME-01",
+        "name": "Andrijevica, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-02",
+        "name": "Bar, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-03",
+        "name": "Berane, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-04",
+        "name": "Bijelo Polje, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-05",
+        "name": "Budva, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-06",
+        "name": "Cetinje, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-07",
+        "name": "Danilovgrad, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-08",
+        "name": "Herceg-Novi, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-09",
+        "name": "Kola\u0161in, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-10",
+        "name": "Kotor, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-11",
+        "name": "Mojkovac, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-12",
+        "name": "Nik\u0161ic\u00b4, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-13",
+        "name": "Plav, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-14",
+        "name": "Pljevlja, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-15",
+        "name": "Plu\u017eine, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-16",
+        "name": "Podgorica, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-17",
+        "name": "Ro\u017eaje, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-19",
+        "name": "Tivat, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-20",
+        "name": "Ulcinj, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-18",
+        "name": "\u0160avnik, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    },
+    {
+        "code": "ME-21",
+        "name": "\u017dabljak, Montenegro",
+        "parent_code": "ME",
+        "parent_name": "Montenegro"
+    }
+]

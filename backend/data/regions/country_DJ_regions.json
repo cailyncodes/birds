@@ -1,0 +1,38 @@
+[
+    {
+        "code": "DJ-AS",
+        "name": "Ali Sabieh, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    },
+    {
+        "code": "DJ-AR",
+        "name": "Arta, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    },
+    {
+        "code": "DJ-DI",
+        "name": "Dikhil, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    },
+    {
+        "code": "DJ-DJ",
+        "name": "Djibouti, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    },
+    {
+        "code": "DJ-OB",
+        "name": "Obock, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    },
+    {
+        "code": "DJ-TA",
+        "name": "Tadjourah, Djibouti",
+        "parent_code": "DJ",
+        "parent_name": "Djibouti"
+    }
+]

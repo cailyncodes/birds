@@ -1,0 +1,74 @@
+[
+    {
+        "code": "GE-AB",
+        "name": "Abkhazia, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-AJ",
+        "name": "Ajaria, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-GU",
+        "name": "Guria, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-IM",
+        "name": "Imeret'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-KK",
+        "name": "K'vemo K'art'li, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-KA",
+        "name": "Kakhet'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-MM",
+        "name": "Mts'khet'a-Mt'ianet'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-RL",
+        "name": "Racha-Lech'khumi-K'vemo Svanet'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-SZ",
+        "name": "Samegrelo-Zemo Svanet'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-SJ",
+        "name": "Samts'khe-Javakhet'i, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-SK",
+        "name": "Shida K'art'li, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    },
+    {
+        "code": "GE-TB",
+        "name": "T'bilisi, Georgia",
+        "parent_code": "GE",
+        "parent_name": "Georgia"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "code": "PY-16",
+        "name": "Alto Paraguay, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-10",
+        "name": "Alto Paran\u00e1, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-13",
+        "name": "Amambay, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-ASU",
+        "name": "Asunci\u00f3n, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-19",
+        "name": "Boquer\u00f3n, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-5",
+        "name": "Caaguaz\u00fa, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-6",
+        "name": "Caazap\u00e1, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-14",
+        "name": "Canindey\u00fa, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-11",
+        "name": "Central, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-1",
+        "name": "Concepci\u00f3n, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-3",
+        "name": "Cordillera, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-4",
+        "name": "Guair\u00e1, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-7",
+        "name": "Itap\u00faa, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-8",
+        "name": "Misiones, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-9",
+        "name": "Paraguar\u00ed, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-15",
+        "name": "Presidente Hayes, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-2",
+        "name": "San Pedro, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    },
+    {
+        "code": "PY-12",
+        "name": "\u00d1eembuc\u00fa, Paraguay",
+        "parent_code": "PY",
+        "parent_name": "Paraguay"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "code": "BZ-BZ",
+        "name": "Belize, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    },
+    {
+        "code": "BZ-CY",
+        "name": "Cayo, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    },
+    {
+        "code": "BZ-CZL",
+        "name": "Corozal, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    },
+    {
+        "code": "BZ-OW",
+        "name": "Orange Walk, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    },
+    {
+        "code": "BZ-SC",
+        "name": "Stann Creek, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    },
+    {
+        "code": "BZ-TOL",
+        "name": "Toledo, Belize",
+        "parent_code": "BZ",
+        "parent_name": "Belize"
+    }
+]

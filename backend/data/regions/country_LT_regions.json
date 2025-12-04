@@ -1,0 +1,62 @@
+[
+    {
+        "code": "LT-AL",
+        "name": "Alytaus Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-KU",
+        "name": "Kauno Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-KL",
+        "name": "Klaipedos Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-MR",
+        "name": "Marijampoles Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-PN",
+        "name": "Paneve\u017eio Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-TA",
+        "name": "Taurages Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-TE",
+        "name": "Tel\u0161iu Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-UT",
+        "name": "Utenos Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-VL",
+        "name": "Vilniaus Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    },
+    {
+        "code": "LT-SA",
+        "name": "\u0160iauliu Apskritis, Lithuania",
+        "parent_code": "LT",
+        "parent_name": "Lithuania"
+    }
+]

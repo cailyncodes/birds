@@ -1,0 +1,152 @@
+[
+    {
+        "code": "VE-Z",
+        "name": "Amazonas, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-B",
+        "name": "Anzo\u00e1tegui, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-C",
+        "name": "Apure, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-D",
+        "name": "Aragua, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-E",
+        "name": "Barinas, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-F",
+        "name": "Bol\u00edvar, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-G",
+        "name": "Carabobo, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-H",
+        "name": "Cojedes, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-Y",
+        "name": "Delta Amacuro, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-W",
+        "name": "Dependencias Federales, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-A",
+        "name": "Distrito Capital, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-I",
+        "name": "Falc\u00f3n, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-J",
+        "name": "Gu\u00e1rico, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-K",
+        "name": "Lara, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-M",
+        "name": "Miranda, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-N",
+        "name": "Monagas, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-L",
+        "name": "M\u00e9rida, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-O",
+        "name": "Nueva Esparta, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-P",
+        "name": "Portuguesa, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-R",
+        "name": "Sucre, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-T",
+        "name": "Trujillo, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-S",
+        "name": "T\u00e1chira, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-X",
+        "name": "Vargas, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-U",
+        "name": "Yaracuy, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    },
+    {
+        "code": "VE-V",
+        "name": "Zulia, Venezuela",
+        "parent_code": "VE",
+        "parent_name": "Venezuela"
+    }
+]

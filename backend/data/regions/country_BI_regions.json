@@ -1,0 +1,98 @@
+[
+    {
+        "code": "BI-BB",
+        "name": "Bubanza, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-BJ",
+        "name": "Bujumbura, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-BR",
+        "name": "Bururi, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-CA",
+        "name": "Cankuzo, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-CI",
+        "name": "Cibitoke, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-GI",
+        "name": "Gitega, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-KR",
+        "name": "Karuzi, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-KY",
+        "name": "Kayanza, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-KI",
+        "name": "Kirundo, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-MA",
+        "name": "Makamba, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-MU",
+        "name": "Muramvya, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-MY",
+        "name": "Muyinga, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-MW",
+        "name": "Mwaro, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-NG",
+        "name": "Ngozi, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-RT",
+        "name": "Rutana, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    },
+    {
+        "code": "BI-RY",
+        "name": "Ruyigi, Burundi",
+        "parent_code": "BI",
+        "parent_name": "Burundi"
+    }
+]

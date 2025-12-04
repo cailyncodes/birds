@@ -1,0 +1,14 @@
+[
+    {
+        "code": "KN-N",
+        "name": "Nevis, Saint Kitts and Nevis",
+        "parent_code": "KN",
+        "parent_name": "Saint Kitts and Nevis"
+    },
+    {
+        "code": "KN-K",
+        "name": "Saint Kitts, Saint Kitts and Nevis",
+        "parent_code": "KN",
+        "parent_name": "Saint Kitts and Nevis"
+    }
+]

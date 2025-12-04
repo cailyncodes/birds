@@ -1,0 +1,254 @@
+[
+    {
+        "code": "HU-BA",
+        "name": "Baranya, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-BZ",
+        "name": "Borsod-Aba\u00faj-Zempl\u00e9n, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-BU",
+        "name": "Budapest, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-BK",
+        "name": "B\u00e1cs-Kiskun, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-BE",
+        "name": "B\u00e9k\u00e9s, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-BC",
+        "name": "B\u00e9k\u00e9scsaba, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-CS",
+        "name": "Csongr\u00e1d, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-DE",
+        "name": "Debrecen, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-DU",
+        "name": "Duna\u00fajv\u00e1ros, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-EG",
+        "name": "Eger, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-FE",
+        "name": "Fej\u00e9r, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-GY",
+        "name": "Gyor, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-GS",
+        "name": "Gyor-Moson-Sopron, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-HB",
+        "name": "Hajd\u00fa-Bihar, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-HE",
+        "name": "Heves, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-HV",
+        "name": "H\u00f3dmezov\u00e1s\u00e1rhely, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-JN",
+        "name": "J\u00e1sz-Nagykun-Szolnok, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-KV",
+        "name": "Kaposv\u00e1r, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-KM",
+        "name": "Kecskem\u00e9t, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-KE",
+        "name": "Kom\u00e1rom-Esztergom, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-MI",
+        "name": "Miskolc, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-NK",
+        "name": "Nagykanizsa, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-NY",
+        "name": "Ny\u00edregyh\u00e1za, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-NO",
+        "name": "N\u00f3gr\u00e1d, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-PE",
+        "name": "Pest, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-PS",
+        "name": "P\u00e9cs, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-ST",
+        "name": "Salg\u00f3tarj\u00e1n, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SO",
+        "name": "Somogy, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SN",
+        "name": "Sopron, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SZ",
+        "name": "Szabolcs-Szatm\u00e1r-Bereg, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SD",
+        "name": "Szeged, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SS",
+        "name": "Szeksz\u00e1rd, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SK",
+        "name": "Szolnok, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SH",
+        "name": "Szombathely, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-SF",
+        "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-TB",
+        "name": "Tatab\u00e1nya, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-TO",
+        "name": "Tolna, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-VA",
+        "name": "Vas, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-VE",
+        "name": "Veszpr\u00e9m, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-VM",
+        "name": "Veszpr\u00e9m City, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-ZA",
+        "name": "Zala, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    },
+    {
+        "code": "HU-ZE",
+        "name": "Zalaegerszeg, Hungary",
+        "parent_code": "HU",
+        "parent_name": "Hungary"
+    }
+]

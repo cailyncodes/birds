@@ -1,0 +1,68 @@
+[
+    {
+        "code": "CD-BN",
+        "name": "Bandundu, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-BC",
+        "name": "Bas-Congo, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-KW",
+        "name": "Kasai-Occidental, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-KE",
+        "name": "Kasai-Oriental, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-KA",
+        "name": "Katanga, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-KN",
+        "name": "Kinshasa, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-MA",
+        "name": "Maniema, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-NK",
+        "name": "Nord-Kivu, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-OR",
+        "name": "Orientale, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-SK",
+        "name": "Sud-Kivu, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    },
+    {
+        "code": "CD-EQ",
+        "name": "\u00c9quateur, DR Congo",
+        "parent_code": "CD",
+        "parent_name": "DR Congo"
+    }
+]

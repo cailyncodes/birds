@@ -1,0 +1,56 @@
+[
+    {
+        "code": "QA-DA",
+        "name": "Ad Dawhah, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-GH",
+        "name": "Al Ghuwayriyah, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-JU",
+        "name": "Al Jumayliyah, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-KH",
+        "name": "Al Khawr, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-WA",
+        "name": "Al Wakrah, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-RA",
+        "name": "Ar Rayyan, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-JB",
+        "name": "Jariyan al Batnah, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-MS",
+        "name": "Madinat ash Shamal, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    },
+    {
+        "code": "QA-US",
+        "name": "Umm Salal, Qatar",
+        "parent_code": "QA",
+        "parent_name": "Qatar"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "code": "GN-B",
+        "name": "Bok\u00e9, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-C",
+        "name": "Conakry, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-F",
+        "name": "Faranah, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-K",
+        "name": "Kankan, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-D",
+        "name": "Kindia, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-L",
+        "name": "Lab\u00e9, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-M",
+        "name": "Mamou, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    },
+    {
+        "code": "GN-N",
+        "name": "Nz\u00e9r\u00e9kor\u00e9, Gouvernorat de, Guinea",
+        "parent_code": "GN",
+        "parent_name": "Guinea"
+    }
+]

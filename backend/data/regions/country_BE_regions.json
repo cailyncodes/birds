@@ -1,0 +1,68 @@
+[
+    {
+        "code": "BE-BRU",
+        "name": "Bruxelles/Brussel, Belgium",
+        "parent_code": "BE",
+        "parent_name": "Belgium"
+    },
+    {
+        "code": "BE-VLG-AN",
+        "name": "Antwerpen, Vlaanderen, Belgium",
+        "parent_code": "BE-VLG",
+        "parent_name": "Vlaanderen"
+    },
+    {
+        "code": "BE-VLG-LI",
+        "name": "Limburg, Vlaanderen, Belgium",
+        "parent_code": "BE-VLG",
+        "parent_name": "Vlaanderen"
+    },
+    {
+        "code": "BE-VLG-OV",
+        "name": "Oost-Vlaanderen, Vlaanderen, Belgium",
+        "parent_code": "BE-VLG",
+        "parent_name": "Vlaanderen"
+    },
+    {
+        "code": "BE-VLG-VB",
+        "name": "Vlaams Brabant, Vlaanderen, Belgium",
+        "parent_code": "BE-VLG",
+        "parent_name": "Vlaanderen"
+    },
+    {
+        "code": "BE-VLG-WV",
+        "name": "West-Vlaanderen, Vlaanderen, Belgium",
+        "parent_code": "BE-VLG",
+        "parent_name": "Vlaanderen"
+    },
+    {
+        "code": "BE-WAL-BW",
+        "name": "Brabant Wallon, Wallonie, Belgium",
+        "parent_code": "BE-WAL",
+        "parent_name": "Wallonie"
+    },
+    {
+        "code": "BE-WAL-HT",
+        "name": "Hainaut, Wallonie, Belgium",
+        "parent_code": "BE-WAL",
+        "parent_name": "Wallonie"
+    },
+    {
+        "code": "BE-WAL-LG",
+        "name": "Li\u00e8ge, Wallonie, Belgium",
+        "parent_code": "BE-WAL",
+        "parent_name": "Wallonie"
+    },
+    {
+        "code": "BE-WAL-LX",
+        "name": "Luxembourg, Wallonie, Belgium",
+        "parent_code": "BE-WAL",
+        "parent_name": "Wallonie"
+    },
+    {
+        "code": "BE-WAL-NA",
+        "name": "Namur, Wallonie, Belgium",
+        "parent_code": "BE-WAL",
+        "parent_name": "Wallonie"
+    }
+]

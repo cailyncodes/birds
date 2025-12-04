@@ -1,0 +1,92 @@
+[
+    {
+        "code": "TT-ARI",
+        "name": "Arima, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-CHA",
+        "name": "Chaguanas, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-CTT",
+        "name": "Couva-Tabaquite-Talparo, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-DMN",
+        "name": "Diego Martin, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-PED",
+        "name": "Penal-Debe, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-PTF",
+        "name": "Point Fortin, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-POS",
+        "name": "Port of Spain, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-PRT",
+        "name": "Princes Town, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-RCM",
+        "name": "Rio Claro-Mayaro, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-SFO",
+        "name": "San Fernando, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-SJL",
+        "name": "San Juan-Laventille, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-SGE",
+        "name": "Sangre Grande, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-SIP",
+        "name": "Siparia, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-TOB",
+        "name": "Tobago, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    },
+    {
+        "code": "TT-TUP",
+        "name": "Tunapuna-Piarco, Trinidad and Tobago",
+        "parent_code": "TT",
+        "parent_name": "Trinidad and Tobago"
+    }
+]

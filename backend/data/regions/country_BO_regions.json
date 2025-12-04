@@ -1,0 +1,56 @@
+[
+    {
+        "code": "BO-H",
+        "name": "Chuquisaca, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-C",
+        "name": "Cochabamba, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-B",
+        "name": "El Beni, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-L",
+        "name": "La Paz, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-O",
+        "name": "Oruro, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-N",
+        "name": "Pando, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-P",
+        "name": "Potos\u00ed, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-S",
+        "name": "Santa Cruz, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    },
+    {
+        "code": "BO-T",
+        "name": "Tarija, Bolivia",
+        "parent_code": "BO",
+        "parent_name": "Bolivia"
+    }
+]

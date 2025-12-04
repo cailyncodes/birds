@@ -1,0 +1,92 @@
+[
+    {
+        "code": "LR-BM",
+        "name": "Bomi, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-BG",
+        "name": "Bong, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-GP",
+        "name": "Gbarpolu, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-GB",
+        "name": "Grand Bassa, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-CM",
+        "name": "Grand Cape Mount, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-GG",
+        "name": "Grand Gedeh, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-GK",
+        "name": "Grand Kru, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-LO",
+        "name": "Lofa, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-MG",
+        "name": "Margibi, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-MY",
+        "name": "Maryland, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-MO",
+        "name": "Montserrado, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-NI",
+        "name": "Nimba, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-RG",
+        "name": "River Gee, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-RI",
+        "name": "Rivercess, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    },
+    {
+        "code": "LR-SI",
+        "name": "Sinoe, Liberia",
+        "parent_code": "LR",
+        "parent_name": "Liberia"
+    }
+]

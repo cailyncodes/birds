@@ -1,0 +1,410 @@
+[
+    {
+        "code": "MT-01",
+        "name": "Attard, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-02",
+        "name": "Balzan, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-03",
+        "name": "Birgu, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-04",
+        "name": "Birkirkara, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-05",
+        "name": "Birzebbuga, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-06",
+        "name": "Bormla, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-07",
+        "name": "Dingli, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-08",
+        "name": "Fgura, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-09",
+        "name": "Floriana, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-10",
+        "name": "Fontana, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-13",
+        "name": "Ghajnsielem, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-14",
+        "name": "Gharb, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-15",
+        "name": "Gharghur, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-16",
+        "name": "Ghasri, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-17",
+        "name": "Ghaxaq, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-11",
+        "name": "Gudja, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-12",
+        "name": "Gzira, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-18",
+        "name": "Hamrun, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-19",
+        "name": "Iklin, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-20",
+        "name": "Isla, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-21",
+        "name": "Kalkara, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-22",
+        "name": "Kercem, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-23",
+        "name": "Kirkop, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-24",
+        "name": "Lija, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-25",
+        "name": "Luqa, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-26",
+        "name": "Marsa, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-27",
+        "name": "Marsaskala, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-28",
+        "name": "Marsaxlokk, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-29",
+        "name": "Mdina, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-30",
+        "name": "Mellieha, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-31",
+        "name": "Mgarr, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-32",
+        "name": "Mosta, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-33",
+        "name": "Mqabba, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-34",
+        "name": "Msida, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-35",
+        "name": "Mtarfa, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-36",
+        "name": "Munxar, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-37",
+        "name": "Nadur, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-38",
+        "name": "Naxxar, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-39",
+        "name": "Paola, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-40",
+        "name": "Pembroke, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-41",
+        "name": "Piet\u00e0, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-42",
+        "name": "Qala, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-43",
+        "name": "Qormi, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-44",
+        "name": "Qrendi, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-45",
+        "name": "Rabat Gozo, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-46",
+        "name": "Rabat Malta, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-47",
+        "name": "Safi, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-51",
+        "name": "Saint Paul\u2019s Bay, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-48",
+        "name": "San Giljan, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-49",
+        "name": "San Gwann, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-50",
+        "name": "San Lawrenz, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-52",
+        "name": "Sannat, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-53",
+        "name": "Santa Lucija, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-54",
+        "name": "Santa Venera, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-55",
+        "name": "Siggiewi, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-56",
+        "name": "Sliema, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-57",
+        "name": "Swieqi, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-59",
+        "name": "Tarxien, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-58",
+        "name": "Ta\u2019 Xbiex, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-60",
+        "name": "Valletta, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-61",
+        "name": "Xaghra, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-62",
+        "name": "Xewkija, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-63",
+        "name": "Xghajra, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-64",
+        "name": "Zabbar, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-65",
+        "name": "Zebbug Gozo, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-66",
+        "name": "Zebbug Malta, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-67",
+        "name": "Zejtun, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    },
+    {
+        "code": "MT-68",
+        "name": "Zurrieq, Malta",
+        "parent_code": "MT",
+        "parent_name": "Malta"
+    }
+]

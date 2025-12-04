@@ -1,0 +1,428 @@
+[
+    {
+        "code": "AZ-ABS",
+        "name": "Abseron, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AGC",
+        "name": "Agcab\u00e4di, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AGM",
+        "name": "Agdam, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AGS",
+        "name": "Agdas, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AGA",
+        "name": "Agstafa, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AGU",
+        "name": "Agsu, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AST",
+        "name": "Astara, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-BA",
+        "name": "Baki, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-BAL",
+        "name": "Balak\u00e4n, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-BEY",
+        "name": "Beyl\u00e4qan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-BIL",
+        "name": "Bil\u00e4suvar, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-BAR",
+        "name": "B\u00e4rd\u00e4, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-CAB",
+        "name": "C\u00e4brayil, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-CAL",
+        "name": "C\u00e4lilabab, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-DAS",
+        "name": "Dask\u00e4s\u00e4n, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-DAV",
+        "name": "D\u00e4v\u00e4\u00e7i, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-FUZ",
+        "name": "F\u00fczuli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-GOR",
+        "name": "Goranboy, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-GAD",
+        "name": "G\u00e4d\u00e4b\u00e4y, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-GA",
+        "name": "G\u00e4nc\u00e4, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-GOY",
+        "name": "G\u00f6y\u00e7ay, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-HAC",
+        "name": "Haciqabul, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-IMI",
+        "name": "Imisli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-ISM",
+        "name": "Ismayilli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-KAL",
+        "name": "K\u00e4lb\u00e4c\u00e4r, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-KUR",
+        "name": "K\u00fcrd\u00e4mir, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-LAC",
+        "name": "La\u00e7in, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-LER",
+        "name": "Lerik, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-LAN",
+        "name": "L\u00e4nk\u00e4ran, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-LA",
+        "name": "L\u00e4nk\u00e4ran Municipality, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-MAS",
+        "name": "Masalli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-MI",
+        "name": "Ming\u00e4\u00e7evir, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-NA",
+        "name": "Naftalan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-NX",
+        "name": "Nax\u00e7ivan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-NEF",
+        "name": "Neft\u00e7ala, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-OGU",
+        "name": "Oguz, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QAX",
+        "name": "Qax, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QAZ",
+        "name": "Qazax, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QOB",
+        "name": "Qobustan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QBA",
+        "name": "Quba, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QBI",
+        "name": "Qubadli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QUS",
+        "name": "Qusar, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-QAB",
+        "name": "Q\u00e4b\u00e4l\u00e4, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SAT",
+        "name": "Saatli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SAB",
+        "name": "Sabirabad, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SAL",
+        "name": "Salyan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SMI",
+        "name": "Samaxi, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SMX",
+        "name": "Samux, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SIY",
+        "name": "Siy\u00e4z\u00e4n, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SM",
+        "name": "Sumqayit, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SUS",
+        "name": "Susa, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SS",
+        "name": "Susa Municipality, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SAK",
+        "name": "S\u00e4ki, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SKR",
+        "name": "S\u00e4mkir, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-TOV",
+        "name": "Tovuz, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-TAR",
+        "name": "T\u00e4rt\u00e4r, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-UCA",
+        "name": "Ucar, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XA",
+        "name": "Xank\u00e4ndi, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XAN",
+        "name": "Xanlar, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XAC",
+        "name": "Xa\u00e7maz, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XIZ",
+        "name": "Xizi, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XCI",
+        "name": "Xocali, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-XVD",
+        "name": "Xocav\u00e4nd, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-YAR",
+        "name": "Yardimli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-YEV",
+        "name": "Yevlax, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-YE",
+        "name": "Yevlax Municipality, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-ZAQ",
+        "name": "Zaqatala, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-ZAN",
+        "name": "Z\u00e4ngilan, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-ZAR",
+        "name": "Z\u00e4rdab, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-AB",
+        "name": "\u00c4li Bayramli, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    },
+    {
+        "code": "AZ-SA",
+        "name": "\u015e\u0259ki Municipality, Azerbaijan",
+        "parent_code": "AZ",
+        "parent_name": "Azerbaijan"
+    }
+]

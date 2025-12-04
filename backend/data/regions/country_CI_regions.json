@@ -1,0 +1,116 @@
+[
+    {
+        "code": "CI-06",
+        "name": "18 Montagnes (R\u00e9gion des), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-16",
+        "name": "Agn\u00e9bi (R\u00e9gion de l'), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-17",
+        "name": "Bafing (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-09",
+        "name": "Bas-Sassandra (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-10",
+        "name": "Dengu\u00e9l\u00e9 (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-18",
+        "name": "Fromager (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-02",
+        "name": "Haut-Sassandra (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-07",
+        "name": "Lacs (R\u00e9gion des), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-01",
+        "name": "Lagunes (R\u00e9gion des), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-12",
+        "name": "Marahou\u00e9 (R\u00e9gion de la), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-19",
+        "name": "Moyen-Cavally (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-05",
+        "name": "Moyen-Como\u00e9 (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-11",
+        "name": "Nzi-Como\u00e9 (R\u00e9gion), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-03",
+        "name": "Savanes (R\u00e9gion des), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-15",
+        "name": "Sud-Bandama (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-13",
+        "name": "Sud-Como\u00e9 (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-04",
+        "name": "Vall\u00e9e du Bandama (R\u00e9gion de la), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-14",
+        "name": "Worodougou (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    },
+    {
+        "code": "CI-08",
+        "name": "Zanzan (R\u00e9gion du), C\u00f4te d'Ivoire",
+        "parent_code": "CI",
+        "parent_name": "C\u00f4te d'Ivoire"
+    }
+]

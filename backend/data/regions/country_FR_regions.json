@@ -1,0 +1,578 @@
+[
+    {
+        "code": "FR-ARA-01",
+        "name": "Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-03",
+        "name": "Allier, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-07",
+        "name": "Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-15",
+        "name": "Cantal, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-26",
+        "name": "Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-43",
+        "name": "Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-74",
+        "name": "Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-38",
+        "name": "Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-42",
+        "name": "Loire, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-63",
+        "name": "Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-69",
+        "name": "Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-ARA-73",
+        "name": "Savoie, Auvergne-Rh\u00f4ne-Alpes, France",
+        "parent_code": "FR-ARA",
+        "parent_name": "Auvergne-Rh\u00f4ne-Alpes"
+    },
+    {
+        "code": "FR-BFC-21",
+        "name": "C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-25",
+        "name": "Doubs, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-70",
+        "name": "Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-39",
+        "name": "Jura, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-58",
+        "name": "Ni\u00e8vre, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-71",
+        "name": "Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-90",
+        "name": "Territoire de Belfort, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BFC-89",
+        "name": "Yonne, Bourgogne-Franche-Comt\u00e9, France",
+        "parent_code": "FR-BFC",
+        "parent_name": "Bourgogne-Franche-Comt\u00e9"
+    },
+    {
+        "code": "FR-BRE-22",
+        "name": "C\u00f4tes-d'Armor, Bretagne, France",
+        "parent_code": "FR-BRE",
+        "parent_name": "Bretagne"
+    },
+    {
+        "code": "FR-BRE-29",
+        "name": "Finist\u00e8re, Bretagne, France",
+        "parent_code": "FR-BRE",
+        "parent_name": "Bretagne"
+    },
+    {
+        "code": "FR-BRE-35",
+        "name": "Ille-et-Vilaine, Bretagne, France",
+        "parent_code": "FR-BRE",
+        "parent_name": "Bretagne"
+    },
+    {
+        "code": "FR-BRE-56",
+        "name": "Morbihan, Bretagne, France",
+        "parent_code": "FR-BRE",
+        "parent_name": "Bretagne"
+    },
+    {
+        "code": "FR-CVL-18",
+        "name": "Cher, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-CVL-28",
+        "name": "Eure-et-Loir, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-CVL-36",
+        "name": "Indre, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-CVL-37",
+        "name": "Indre-et-Loire, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-CVL-41",
+        "name": "Loir-et-Cher, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-CVL-45",
+        "name": "Loiret, Centre-Val de Loire, France",
+        "parent_code": "FR-CVL",
+        "parent_name": "Centre-Val de Loire"
+    },
+    {
+        "code": "FR-COR-2A",
+        "name": "Corse-du-Sud, Corse, France",
+        "parent_code": "FR-COR",
+        "parent_name": "Corse"
+    },
+    {
+        "code": "FR-COR-2B",
+        "name": "Haute-Corse, Corse, France",
+        "parent_code": "FR-COR",
+        "parent_name": "Corse"
+    },
+    {
+        "code": "FR-GES-08",
+        "name": "Ardennes, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-10",
+        "name": "Aube, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-67",
+        "name": "Bas-Rhin, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-68",
+        "name": "Haut-Rhin, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-52",
+        "name": "Haute-Marne, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-51",
+        "name": "Marne, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-54",
+        "name": "Meurthe-et-Moselle, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-55",
+        "name": "Meuse, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-57",
+        "name": "Moselle, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-GES-88",
+        "name": "Vosges, Grand Est, France",
+        "parent_code": "FR-GES",
+        "parent_name": "Grand Est"
+    },
+    {
+        "code": "FR-HDF-02",
+        "name": "Aisne, Hauts-de-France, France",
+        "parent_code": "FR-HDF",
+        "parent_name": "Hauts-de-France"
+    },
+    {
+        "code": "FR-HDF-59",
+        "name": "Nord, Hauts-de-France, France",
+        "parent_code": "FR-HDF",
+        "parent_name": "Hauts-de-France"
+    },
+    {
+        "code": "FR-HDF-60",
+        "name": "Oise, Hauts-de-France, France",
+        "parent_code": "FR-HDF",
+        "parent_name": "Hauts-de-France"
+    },
+    {
+        "code": "FR-HDF-62",
+        "name": "Pas-de-Calais, Hauts-de-France, France",
+        "parent_code": "FR-HDF",
+        "parent_name": "Hauts-de-France"
+    },
+    {
+        "code": "FR-HDF-80",
+        "name": "Somme, Hauts-de-France, France",
+        "parent_code": "FR-HDF",
+        "parent_name": "Hauts-de-France"
+    },
+    {
+        "code": "FR-NOR-14",
+        "name": "Calvados, Normandie, France",
+        "parent_code": "FR-NOR",
+        "parent_name": "Normandie"
+    },
+    {
+        "code": "FR-NOR-27",
+        "name": "Eure, Normandie, France",
+        "parent_code": "FR-NOR",
+        "parent_name": "Normandie"
+    },
+    {
+        "code": "FR-NOR-50",
+        "name": "Manche, Normandie, France",
+        "parent_code": "FR-NOR",
+        "parent_name": "Normandie"
+    },
+    {
+        "code": "FR-NOR-61",
+        "name": "Orne, Normandie, France",
+        "parent_code": "FR-NOR",
+        "parent_name": "Normandie"
+    },
+    {
+        "code": "FR-NOR-76",
+        "name": "Seine-Maritime, Normandie, France",
+        "parent_code": "FR-NOR",
+        "parent_name": "Normandie"
+    },
+    {
+        "code": "FR-NAQ-16",
+        "name": "Charente, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-17",
+        "name": "Charente-Maritime, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-19",
+        "name": "Corr\u00e8ze, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-23",
+        "name": "Creuse, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-79",
+        "name": "Deux-S\u00e8vres, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-24",
+        "name": "Dordogne, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-33",
+        "name": "Gironde, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-87",
+        "name": "Haute-Vienne, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-40",
+        "name": "Landes, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-47",
+        "name": "Lot-et-Garonne, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-64",
+        "name": "Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-NAQ-86",
+        "name": "Vienne, Nouvelle-Aquitaine, France",
+        "parent_code": "FR-NAQ",
+        "parent_name": "Nouvelle-Aquitaine"
+    },
+    {
+        "code": "FR-OCC-09",
+        "name": "Ari\u00e8ge, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-11",
+        "name": "Aude, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-12",
+        "name": "Aveyron, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-30",
+        "name": "Gard, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-32",
+        "name": "Gers, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-31",
+        "name": "Haute-Garonne, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-65",
+        "name": "Hautes-Pyr\u00e9n\u00e9es, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-34",
+        "name": "H\u00e9rault, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-46",
+        "name": "Lot, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-48",
+        "name": "Loz\u00e8re, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-66",
+        "name": "Pyr\u00e9n\u00e9es-Orientales, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-81",
+        "name": "Tarn, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-OCC-82",
+        "name": "Tarn-et-Garonne, Occitanie, France",
+        "parent_code": "FR-OCC",
+        "parent_name": "Occitanie"
+    },
+    {
+        "code": "FR-PDL-44",
+        "name": "Loire-Atlantique, Pays de la Loire, France",
+        "parent_code": "FR-PDL",
+        "parent_name": "Pays de la Loire"
+    },
+    {
+        "code": "FR-PDL-49",
+        "name": "Maine-et-Loire, Pays de la Loire, France",
+        "parent_code": "FR-PDL",
+        "parent_name": "Pays de la Loire"
+    },
+    {
+        "code": "FR-PDL-53",
+        "name": "Mayenne, Pays de la Loire, France",
+        "parent_code": "FR-PDL",
+        "parent_name": "Pays de la Loire"
+    },
+    {
+        "code": "FR-PDL-72",
+        "name": "Sarthe, Pays de la Loire, France",
+        "parent_code": "FR-PDL",
+        "parent_name": "Pays de la Loire"
+    },
+    {
+        "code": "FR-PDL-85",
+        "name": "Vend\u00e9e, Pays de la Loire, France",
+        "parent_code": "FR-PDL",
+        "parent_name": "Pays de la Loire"
+    },
+    {
+        "code": "FR-PAC-06",
+        "name": "Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-PAC-04",
+        "name": "Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-PAC-13",
+        "name": "Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-PAC-05",
+        "name": "Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-PAC-83",
+        "name": "Var, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-PAC-84",
+        "name": "Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France",
+        "parent_code": "FR-PAC",
+        "parent_name": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+        "code": "FR-IDF-91",
+        "name": "Essonne, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-92",
+        "name": "Hauts-de-Seine, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-75C",
+        "name": "Paris, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-93",
+        "name": "Seine-Saint-Denis, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-77",
+        "name": "Seine-et-Marne, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-95",
+        "name": "Val-d'Oise, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-94",
+        "name": "Val-de-Marne, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    },
+    {
+        "code": "FR-IDF-78",
+        "name": "Yvelines, \u00cele-de-France, France",
+        "parent_code": "FR-IDF",
+        "parent_name": "\u00cele-de-France"
+    }
+]

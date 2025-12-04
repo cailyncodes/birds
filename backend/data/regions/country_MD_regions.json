@@ -1,0 +1,224 @@
+[
+    {
+        "code": "MD-AN",
+        "name": "Anenii Noi, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-BA",
+        "name": "Balti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-BS",
+        "name": "Basarabeasca, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-BD",
+        "name": "Bender [Tighina], Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-BR",
+        "name": "Briceni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CA",
+        "name": "Cahul, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CT",
+        "name": "Cantemir, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CU",
+        "name": "Chi\u0219in\u0103u City, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CM",
+        "name": "Cimi\u0219lia, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CR",
+        "name": "Criuleni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CL",
+        "name": "C\u0103l\u0103ra\u0219i, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-CS",
+        "name": "C\u0103u\u0219eni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-DO",
+        "name": "Dondu\u0219eni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-DR",
+        "name": "Drochia, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-DU",
+        "name": "Dubasari, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-ED",
+        "name": "Edinet, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-FL",
+        "name": "Flore\u0219ti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-FA",
+        "name": "F\u0103le\u0219ti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-GA",
+        "name": "Gagauzia, Unitate Teritoriala Autonoma (UTAG), Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-GL",
+        "name": "Glodeni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-HI",
+        "name": "H\u00eence\u0219ti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-IA",
+        "name": "Ialoveni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-LE",
+        "name": "Leova, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-NI",
+        "name": "Nisporeni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-OC",
+        "name": "Ocni\u021ba, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-OR",
+        "name": "Orhei, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-RE",
+        "name": "Rezina, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-RI",
+        "name": "R\u00ee\u0219cani, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-SO",
+        "name": "Soroca, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-ST",
+        "name": "Str\u0103\u0219eni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-SN",
+        "name": "St\u00eenga Nistrului, unitatea teritoriala din, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-SI",
+        "name": "S\u00eengerei, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-TA",
+        "name": "Taraclia, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-TE",
+        "name": "Telene\u0219ti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-UN",
+        "name": "Ungheni, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-SD",
+        "name": "\u0218old\u0103ne\u0219ti, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    },
+    {
+        "code": "MD-SV",
+        "name": "\u0218tefan Vod\u0103, Moldova",
+        "parent_code": "MD",
+        "parent_name": "Moldova"
+    }
+]

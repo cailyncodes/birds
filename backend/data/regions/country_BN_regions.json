@@ -1,0 +1,26 @@
+[
+    {
+        "code": "BN-BE",
+        "name": "Belait, Brunei",
+        "parent_code": "BN",
+        "parent_name": "Brunei"
+    },
+    {
+        "code": "BN-BM",
+        "name": "Brunei-Muara, Brunei",
+        "parent_code": "BN",
+        "parent_name": "Brunei"
+    },
+    {
+        "code": "BN-TE",
+        "name": "Temburong, Brunei",
+        "parent_code": "BN",
+        "parent_name": "Brunei"
+    },
+    {
+        "code": "BN-TU",
+        "name": "Tutong, Brunei",
+        "parent_code": "BN",
+        "parent_name": "Brunei"
+    }
+]

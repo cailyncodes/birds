@@ -1,0 +1,206 @@
+[
+    {
+        "code": "LY-AJ",
+        "name": "Ajdabiya, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-BU",
+        "name": "Al Butnan, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-JA",
+        "name": "Al Jabal al Akhdar, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-JI",
+        "name": "Al Jifarah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-JU",
+        "name": "Al Jufrah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-KF",
+        "name": "Al Kufrah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-MJ",
+        "name": "Al Marj, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-MB",
+        "name": "Al Marqab, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-QT",
+        "name": "Al Qatrun, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-QB",
+        "name": "Al Qubbah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-WA",
+        "name": "Al Wahah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-HZ",
+        "name": "Al hizam al Akhdar, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-NQ",
+        "name": "An Nuqat al Khams, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-SH",
+        "name": "Ash Shati', Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-ZA",
+        "name": "Az Zawiyah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-BA",
+        "name": "Banghazi, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-BW",
+        "name": "Bani Walid, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-DR",
+        "name": "Darnah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-GD",
+        "name": "Ghadamis, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-GR",
+        "name": "Gharyan, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-GT",
+        "name": "Ghat, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-JB",
+        "name": "Jaghbub, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-MI",
+        "name": "Misratah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-MZ",
+        "name": "Mizdah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-MQ",
+        "name": "Murzuq, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-NL",
+        "name": "Nalut, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-SB",
+        "name": "Sabha, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-SS",
+        "name": "Sabratah Surman, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-SR",
+        "name": "Surt, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-TN",
+        "name": "Tajura wa al Nawahi AlArba', Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-TB",
+        "name": "Tarabulus, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-TM",
+        "name": "Tarhunah-Masallatah, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-WD",
+        "name": "Wadi al Hayat, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    },
+    {
+        "code": "LY-YJ",
+        "name": "Yafran-Jadu, Libya",
+        "parent_code": "LY",
+        "parent_name": "Libya"
+    }
+]

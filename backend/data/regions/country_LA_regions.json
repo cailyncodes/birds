@@ -1,0 +1,110 @@
+[
+    {
+        "code": "LA-AT",
+        "name": "Attapu [Attopeu], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-BK",
+        "name": "Bok\u00e8o, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-BL",
+        "name": "Bolikhamxai [Borikhane], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-CH",
+        "name": "Champasak [Champassak], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-HO",
+        "name": "Houaphan, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-KH",
+        "name": "Khammouan, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-LM",
+        "name": "Louang Namtha, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-LP",
+        "name": "Louangphabang [Louang Prabang], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-OU",
+        "name": "Oud\u00f4mxai [Oudomsai], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-PH",
+        "name": "Ph\u00f4ngsali [Phong Saly], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-SL",
+        "name": "Salavan [Saravane], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-SV",
+        "name": "Savannakh\u00e9t, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-VI",
+        "name": "Vientiane, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-VT",
+        "name": "Vientiane Prefecture, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-XA",
+        "name": "Xaignabouli [Sayaboury], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-XN",
+        "name": "Xais\u00f4mboun, Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-XI",
+        "name": "Xiangkhoang [Xieng Khouang], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    },
+    {
+        "code": "LA-XE",
+        "name": "X\u00e9kong [S\u00e9kong], Laos",
+        "parent_code": "LA",
+        "parent_name": "Laos"
+    }
+]

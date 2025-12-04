@@ -1,0 +1,134 @@
+[
+    {
+        "code": "BS-AC",
+        "name": "Acklins and Crooked Islands, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-BY",
+        "name": "Berry Islands, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-BI",
+        "name": "Bimini, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-CI",
+        "name": "Cat Island, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-MH",
+        "name": "Central Abaco, Hope Town and Green Turtle Cay, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-FC",
+        "name": "Central Andros, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-GH",
+        "name": "Central Eleuthera, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-HR",
+        "name": "East Grand Bahama, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-EX",
+        "name": "Exuma and Black Point, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-FP",
+        "name": "Freeport and West Grand Bahama, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-IN",
+        "name": "Inagua, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-LI",
+        "name": "Long Island, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-MG",
+        "name": "Mayaguana, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-NP",
+        "name": "New Providence, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-GT",
+        "name": "North Abaco and Grand Cay, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-NS",
+        "name": "North Andros, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-HI",
+        "name": "North Eleuthera, Harbour Island and Spanish Wells, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-RI",
+        "name": "Ragged Island, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-SR",
+        "name": "San Salvador and Rum Cay, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-SP",
+        "name": "South Abaco and Moore's Island, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-KB",
+        "name": "South Andros and Mangrove Cay, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    },
+    {
+        "code": "BS-RS",
+        "name": "South Eleuthera, Bahamas",
+        "parent_code": "BS",
+        "parent_name": "Bahamas"
+    }
+]

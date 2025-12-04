@@ -1,0 +1,26 @@
+[
+    {
+        "code": "SZ-HH",
+        "name": "Hhohho, Eswatini",
+        "parent_code": "SZ",
+        "parent_name": "Eswatini"
+    },
+    {
+        "code": "SZ-LU",
+        "name": "Lubombo, Eswatini",
+        "parent_code": "SZ",
+        "parent_name": "Eswatini"
+    },
+    {
+        "code": "SZ-MA",
+        "name": "Manzini, Eswatini",
+        "parent_code": "SZ",
+        "parent_name": "Eswatini"
+    },
+    {
+        "code": "SZ-SH",
+        "name": "Shiselweni, Eswatini",
+        "parent_code": "SZ",
+        "parent_name": "Eswatini"
+    }
+]

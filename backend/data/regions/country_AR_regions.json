@@ -1,0 +1,3014 @@
+[
+    {
+        "code": "AR-B-AA",
+        "name": "Adolfo Alsina, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AC",
+        "name": "Adolfo Gonzales Chaves, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AL",
+        "name": "Alberti, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AB",
+        "name": "Almirante Brown, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AM",
+        "name": "Ameghino, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BM",
+        "name": "Arrecifes, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AV",
+        "name": "Avellaneda, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AY",
+        "name": "Ayacucho, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-AZ",
+        "name": "Azul, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BB",
+        "name": "Bah\u00eda Blanca, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BC",
+        "name": "Balcarce, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BD",
+        "name": "Baradero, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BJ",
+        "name": "Benito Ju\u00e1rez, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BZ",
+        "name": "Berazategui, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BS",
+        "name": "Berisso, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BO",
+        "name": "Bol\u00edvar, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BG",
+        "name": "Bragado, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-BR",
+        "name": "Brandsen, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CM",
+        "name": "Campana, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CS",
+        "name": "Capit\u00e1n Sarmiento, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CC",
+        "name": "Carlos Casares, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CT",
+        "name": "Carlos Tejedor, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CA",
+        "name": "Carmen de Areco, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CI",
+        "name": "Castelli, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CL",
+        "name": "Ca\u00f1uelas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CB",
+        "name": "Chacabuco, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CH",
+        "name": "Chascom\u00fas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CV",
+        "name": "Chivilcoy, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CO",
+        "name": "Col\u00f3n, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CD",
+        "name": "Coronel Dorrego, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CP",
+        "name": "Coronel Pringles, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CE",
+        "name": "Coronel Su\u00e1rez, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-CR",
+        "name": "Coronel de Marina Leonardo Rosales, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-DA",
+        "name": "Daireaux, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-DO",
+        "name": "Dolores, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-EN",
+        "name": "Ensenada, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-ES",
+        "name": "Escobar, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-EB",
+        "name": "Esteban Echeverr\u00eda, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-EC",
+        "name": "Exaltaci\u00f3n de la Cruz, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-FC",
+        "name": "Florencio Varela, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GD",
+        "name": "General Alvarado, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GA",
+        "name": "General Alvear, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GE",
+        "name": "General Arenales, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GB",
+        "name": "General Belgrano, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GG",
+        "name": "General Guido, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GJ",
+        "name": "General Juan Madariaga, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GM",
+        "name": "General La Madrid, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GH",
+        "name": "General Las Heras, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GL",
+        "name": "General Lavalle, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GZ",
+        "name": "General Paz, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GI",
+        "name": "General Pinto, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GP",
+        "name": "General Pueyrred\u00f3n, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GR",
+        "name": "General Rodr\u00edguez, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GN",
+        "name": "General San Mart\u00edn, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GS",
+        "name": "General Sarmiento, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GT",
+        "name": "General Viamonte, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GV",
+        "name": "General Villegas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-GU",
+        "name": "Guamin\u00ed, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-HY",
+        "name": "Hip\u00f3lito Yrigoyen, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-JU",
+        "name": "Jun\u00edn, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LC",
+        "name": "La Costa, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LM",
+        "name": "La Matanza, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LT",
+        "name": "La Plata, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LS",
+        "name": "Lan\u00fas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LR",
+        "name": "Laprida, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LF",
+        "name": "Las Flores, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LA",
+        "name": "Leandro N. Alem, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LI",
+        "name": "Lincoln, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LO",
+        "name": "Lober\u00eda, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LB",
+        "name": "Lobos, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LZ",
+        "name": "Lomas de Zamora, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-LU",
+        "name": "Luj\u00e1n, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-ML",
+        "name": "Magdalena, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MA",
+        "name": "Maip\u00fa, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MC",
+        "name": "Mar Chiquita, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MP",
+        "name": "Marcos Paz, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MD",
+        "name": "Mercedes, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-ME",
+        "name": "Merlo, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MT",
+        "name": "Monte, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MH",
+        "name": "Monte Hermoso, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MR",
+        "name": "Moreno, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-MN",
+        "name": "Mor\u00f3n, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-NA",
+        "name": "Navarro, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-NE",
+        "name": "Necochea, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-NJ",
+        "name": "Nueve de Julio, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-OL",
+        "name": "Olavarr\u00eda, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PA",
+        "name": "Patagones, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PJ",
+        "name": "Pehuaj\u00f3, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PE",
+        "name": "Pellegrini, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PG",
+        "name": "Pergamino, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PL",
+        "name": "Pila, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PX",
+        "name": "Pilar, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PI",
+        "name": "Pinamar, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-PU",
+        "name": "Pu\u00e1n, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-QU",
+        "name": "Quilmes, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-RM",
+        "name": "Ramallo, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-RU",
+        "name": "Rauch, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-RI",
+        "name": "Rivadavia, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-RO",
+        "name": "Rojas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-RP",
+        "name": "Roque P\u00e9rez, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SD",
+        "name": "Saavedra, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SL",
+        "name": "Saladillo, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SQ",
+        "name": "Salliquel\u00f3, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-ST",
+        "name": "Salto, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SG",
+        "name": "San Andr\u00e9s de Giles, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SA",
+        "name": "San Antonio de Areco, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SC",
+        "name": "San Cayetano, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SF",
+        "name": "San Fernando Partido, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SI",
+        "name": "San Isidro, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SN",
+        "name": "San Nicol\u00e1s, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SP",
+        "name": "San Pedro, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SE",
+        "name": "San Vicente, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-SU",
+        "name": "Suipacha, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TD",
+        "name": "Tandil, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TP",
+        "name": "Tapalqu\u00e9, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TI",
+        "name": "Tigre, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TO",
+        "name": "Tordillo, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TQ",
+        "name": "Tornquist, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TR",
+        "name": "Trenque Lauquen, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TA",
+        "name": "Tres Arroyos, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TL",
+        "name": "Tres Lomas, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-TF",
+        "name": "Tres de Febrero, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-VM",
+        "name": "Veinticinco de Mayo, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-VL",
+        "name": "Vicente L\u00f3pez, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-VG",
+        "name": "Villa Gesell, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-VI",
+        "name": "Villarino, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-B-ZA",
+        "name": "Z\u00e1rate, Buenos Aires, Argentina",
+        "parent_code": "AR-B",
+        "parent_name": "Buenos Aires"
+    },
+    {
+        "code": "AR-K-AM",
+        "name": "Ambato, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-AC",
+        "name": "Ancasti, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-AG",
+        "name": "Andalgal\u00e1, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-AS",
+        "name": "Antofagasta de la Sierra, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-BE",
+        "name": "Bel\u00e9n, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-CA",
+        "name": "Capay\u00e1n, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-CT",
+        "name": "Capital, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-EA",
+        "name": "El Alto, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-FE",
+        "name": "Fray Mamerto Esqui\u00fa, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-LP",
+        "name": "La Paz, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-PA",
+        "name": "Pacl\u00edn, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-PO",
+        "name": "Pom\u00e1n, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-SM",
+        "name": "Santa Mar\u00eda, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-SR",
+        "name": "Santa Rosa, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-TI",
+        "name": "Tinogasta, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-K-VV",
+        "name": "Valle Viejo, Catamarca, Argentina",
+        "parent_code": "AR-K",
+        "parent_name": "Catamarca"
+    },
+    {
+        "code": "AR-H-AB",
+        "name": "Almirante Brown, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-BE",
+        "name": "Bermejo, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-CH",
+        "name": "Chacabuco, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-CF",
+        "name": "Comandante Fern\u00e1ndez, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-DC",
+        "name": "Doce de Octubre, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-FJ",
+        "name": "Fray Justo Santa Mar\u00eda de Oro, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-GB",
+        "name": "General Belgrano, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-GD",
+        "name": "General Donovan, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-GG",
+        "name": "General G\u00fcemes, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-IN",
+        "name": "Independencia, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-LI",
+        "name": "Libertad, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-LM",
+        "name": "Libertador General San Mart\u00edn, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-MA",
+        "name": "Maip\u00fa, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-MF",
+        "name": "Mayor Luis J. Fontana, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-NJ",
+        "name": "Nueve de Julio, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-OH",
+        "name": "O'Higgins, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-PP",
+        "name": "Presidencia de la Plaza, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-PM",
+        "name": "Primero de Mayo, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-QU",
+        "name": "Quitilipi, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-SF",
+        "name": "San Fernando, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-SL",
+        "name": "San Lorenzo, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-SC",
+        "name": "Sargento Cabral, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-TA",
+        "name": "Tapenag\u00e1, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-H-VM",
+        "name": "Veinticinco de Mayo, Chaco, Argentina",
+        "parent_code": "AR-H",
+        "parent_name": "Chaco"
+    },
+    {
+        "code": "AR-U-BI",
+        "name": "Biedma, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-CU",
+        "name": "Cushamen, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-ES",
+        "name": "Escalante, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-FA",
+        "name": "Florentino Ameghino, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-FU",
+        "name": "Futaleuf\u00fa, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-GM",
+        "name": "Gaiman, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-GS",
+        "name": "Gastre, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-LA",
+        "name": "Langui\u00f1eo, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-MA",
+        "name": "M\u00e1rtires, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-PI",
+        "name": "Paso de Indios, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-RA",
+        "name": "Rawson, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-RS",
+        "name": "Ri\u00f3 Senguer, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-SA",
+        "name": "Sarmiento, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-TH",
+        "name": "Tehuelches, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-U-TN",
+        "name": "Telsen, Chubut, Argentina",
+        "parent_code": "AR-U",
+        "parent_name": "Chubut"
+    },
+    {
+        "code": "AR-C-DF",
+        "name": "Distrito Federal, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "parent_code": "AR-C",
+        "parent_name": "Ciudad Aut\u00f3noma de Buenos Aires"
+    },
+    {
+        "code": "AR-W-BV",
+        "name": "Bella Vista, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-BA",
+        "name": "Ber\u00f3n de Astrada, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-CN",
+        "name": "Capital, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-CO",
+        "name": "Concepci\u00f3n, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-CC",
+        "name": "Curuz\u00fa Cuati\u00e1, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-EM",
+        "name": "Empedrado, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-ES",
+        "name": "Esquina, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-GA",
+        "name": "General Alvear, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-GP",
+        "name": "General Paz, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-GO",
+        "name": "Goya, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-IT",
+        "name": "Itat\u00ed, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-IZ",
+        "name": "Ituzaing\u00f3, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-LA",
+        "name": "Lavalle, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-MB",
+        "name": "Mburucuy\u00e1, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-ME",
+        "name": "Mercedes, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-MC",
+        "name": "Monte Caseros, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-PL",
+        "name": "Paso de los Libres, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SL",
+        "name": "Saladas, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SC",
+        "name": "San Cosme, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SP",
+        "name": "San Luis del Palmar, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SM",
+        "name": "San Mart\u00edn, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SG",
+        "name": "San Miguel, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SR",
+        "name": "San Roque, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-ST",
+        "name": "Santo Tom\u00e9, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-W-SA",
+        "name": "Sauce, Corrientes, Argentina",
+        "parent_code": "AR-W",
+        "parent_name": "Corrientes"
+    },
+    {
+        "code": "AR-X-CA",
+        "name": "Calamuchita, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-CB",
+        "name": "Capital, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-CO",
+        "name": "Col\u00f3n, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-CE",
+        "name": "Cruz del Eje, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-GR",
+        "name": "General Roca, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-GM",
+        "name": "General San Mart\u00edn, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-IS",
+        "name": "Ischil\u00edn, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-JC",
+        "name": "Ju\u00e1rez Celman, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-MJ",
+        "name": "Marcos Ju\u00e1rez, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-MI",
+        "name": "Minas, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-PO",
+        "name": "Pocho, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-PP",
+        "name": "Presidente Roque S\u00e1enz Pe\u00f1a, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-PU",
+        "name": "Punilla, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-RC",
+        "name": "Ri\u00f3 Cuarto, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-RP",
+        "name": "Ri\u00f3 Primero, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-RS",
+        "name": "Ri\u00f3 Seco, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-RG",
+        "name": "Ri\u00f3 Segundo, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-SA",
+        "name": "San Alberto, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-SV",
+        "name": "San Javier, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-SJ",
+        "name": "San Justo, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-SM",
+        "name": "Santa Mar\u00eda, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-SO",
+        "name": "Sobremonte, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-TA",
+        "name": "Tercero Arriba, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-TO",
+        "name": "Totoral, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-TU",
+        "name": "Tulumba, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-X-UN",
+        "name": "Uni\u00f3n, C\u00f3rdoba, Argentina",
+        "parent_code": "AR-X",
+        "parent_name": "C\u00f3rdoba"
+    },
+    {
+        "code": "AR-E-CO",
+        "name": "Col\u00f3n, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-CC",
+        "name": "Concordia, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-DI",
+        "name": "Diamante, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-FC",
+        "name": "Federaci\u00f3n, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-FE",
+        "name": "Federal, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-FL",
+        "name": "Feliciano, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-GG",
+        "name": "Gualeguay, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-GC",
+        "name": "Gualeguaych\u00fa, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-IS",
+        "name": "Isla, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-II",
+        "name": "Islas del Ibicuy, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-LP",
+        "name": "La Paz, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-NO",
+        "name": "Nogoy\u00e1, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-PA",
+        "name": "Paran\u00e1, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-TA",
+        "name": "Tala, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-UR",
+        "name": "Uruguay, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-VC",
+        "name": "Victoria, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-E-VG",
+        "name": "Villaguay, Entre R\u00edos, Argentina",
+        "parent_code": "AR-E",
+        "parent_name": "Entre R\u00edos"
+    },
+    {
+        "code": "AR-P-BE",
+        "name": "Bermejo, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-FO",
+        "name": "Formosa, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-LA",
+        "name": "Laishi, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-MA",
+        "name": "Matacos, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-PA",
+        "name": "Pati\u00f1o, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-PG",
+        "name": "Pilag\u00e1s, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-PM",
+        "name": "Pilcomayo, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-PR",
+        "name": "Piran\u00e9, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-P-RL",
+        "name": "Ram\u00f3n Lista, Formosa, Argentina",
+        "parent_code": "AR-P",
+        "parent_name": "Formosa"
+    },
+    {
+        "code": "AR-Y-CA",
+        "name": "Capital, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-CO",
+        "name": "Cochinoca, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-EC",
+        "name": "El Carmen, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-HU",
+        "name": "Humahuaca, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-LE",
+        "name": "Ledesma, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-PA",
+        "name": "Palpal\u00e1, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-RI",
+        "name": "Rinconada, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-SA",
+        "name": "San Antonio, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-SP",
+        "name": "San Pedro, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-SB",
+        "name": "Santa B\u00e1rbara, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-SC",
+        "name": "Santa Catalina, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-SU",
+        "name": "Susques, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-TI",
+        "name": "Tilcara, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-TU",
+        "name": "Tumbaya, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-VG",
+        "name": "Valle Grande, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-Y-YA",
+        "name": "Yavi, Jujuy, Argentina",
+        "parent_code": "AR-Y",
+        "parent_name": "Jujuy"
+    },
+    {
+        "code": "AR-L-AT",
+        "name": "Atreuc\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CL",
+        "name": "Caleu Caleu, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-SR",
+        "name": "Capital, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CA",
+        "name": "Catril\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CH",
+        "name": "Chalileo, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CP",
+        "name": "Chapaleuf\u00fa, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CC",
+        "name": "Chical C\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CO",
+        "name": "Conhelo, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-CU",
+        "name": "Curac\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-GU",
+        "name": "Guatrach\u00e9, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-HU",
+        "name": "Hucal, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-UC",
+        "name": "Lihuel Calel, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-LM",
+        "name": "Limay Mahuida, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-LO",
+        "name": "Loventu\u00e9, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-MA",
+        "name": "Marac\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-PU",
+        "name": "Puel\u00e9n, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-QQ",
+        "name": "Quem\u00fa Quem\u00fa, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-RA",
+        "name": "Rancul, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-RE",
+        "name": "Realic\u00f3, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-TO",
+        "name": "Toay, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-TR",
+        "name": "Trenel, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-L-UT",
+        "name": "Utrac\u00e1n, La Pampa, Argentina",
+        "parent_code": "AR-L",
+        "parent_name": "La Pampa"
+    },
+    {
+        "code": "AR-F-AR",
+        "name": "Arauco, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-LR",
+        "name": "Capital, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-CB",
+        "name": "Castro Barros, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-CM",
+        "name": "Chamical, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-CL",
+        "name": "Chilecito, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-CF",
+        "name": "Coronel Felipe Varela, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-FA",
+        "name": "Famatina, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GP",
+        "name": "General Angel Vicente Pe\u00f1aloza, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GB",
+        "name": "General Belgrano, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GQ",
+        "name": "General Juan Facundo Quiroga, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GL",
+        "name": "General Lamadrid, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GO",
+        "name": "General Ortiz de Ocampo, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-GM",
+        "name": "General San Mart\u00edn, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-IN",
+        "name": "Independencia, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-RP",
+        "name": "Rosario Vera Pe\u00f1aloza, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-SS",
+        "name": "San Blas de los Sauces, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-SA",
+        "name": "Sanagasta, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-F-VI",
+        "name": "Vinchina, La Rioja, Argentina",
+        "parent_code": "AR-F",
+        "parent_name": "La Rioja"
+    },
+    {
+        "code": "AR-M-MZ",
+        "name": "Capital, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-GA",
+        "name": "General Alvear, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-GC",
+        "name": "Godoy Cruz, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-GU",
+        "name": "Guaymall\u00e9n, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-JU",
+        "name": "Jun\u00edn, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-LP",
+        "name": "La Paz, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-LH",
+        "name": "Las Heras, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-LA",
+        "name": "Lavalle, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-LC",
+        "name": "Luj\u00e1n de Cuyo, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-MP",
+        "name": "Maip\u00fa, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-ML",
+        "name": "Malarg\u00fce, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-RI",
+        "name": "Rivadavia, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-SC",
+        "name": "San Carlos, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-SM",
+        "name": "San Mart\u00edn, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-SR",
+        "name": "San Rafael, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-ST",
+        "name": "Santa Rosa, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-TN",
+        "name": "Tunuy\u00e1n, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-M-TP",
+        "name": "Tupungato, Mendoza, Argentina",
+        "parent_code": "AR-M",
+        "parent_name": "Mendoza"
+    },
+    {
+        "code": "AR-N-AP",
+        "name": "Ap\u00f3stoles, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-CG",
+        "name": "Caingu\u00e1s, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-CD",
+        "name": "Candelaria, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-PS",
+        "name": "Capital, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-CO",
+        "name": "Concepci\u00f3n, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-ED",
+        "name": "Eldorado, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-GB",
+        "name": "General Manuel Belgrano, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-GU",
+        "name": "Guaran\u00ed, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-IG",
+        "name": "Iguaz\u00fa, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-LA",
+        "name": "Leandro N. Alem, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-LM",
+        "name": "Libertador General San Mart\u00edn, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-MO",
+        "name": "Montecarlo, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-OB",
+        "name": "Ober\u00e1, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-SI",
+        "name": "San Ignacio, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-SJ",
+        "name": "San Javier, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-SP",
+        "name": "San Pedro, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-N-VM",
+        "name": "Veinticinco de Mayo, Misiones, Argentina",
+        "parent_code": "AR-N",
+        "parent_name": "Misiones"
+    },
+    {
+        "code": "AR-Q-AL",
+        "name": "Alumin\u00e9, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-AN",
+        "name": "A\u00f1elo, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-CL",
+        "name": "Cat\u00e1n Lil, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-CM",
+        "name": "Chos Malal, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-CC",
+        "name": "Coll\u00f3n Cur\u00e1, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-CO",
+        "name": "Confluencia, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-HU",
+        "name": "Huiliches, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-LA",
+        "name": "Lacar, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-LO",
+        "name": "Loncopu\u00e9, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-LL",
+        "name": "Los Lagos, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-MI",
+        "name": "Minas, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-PE",
+        "name": "Pehuenches, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-PI",
+        "name": "Picunches, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-PL",
+        "name": "Pic\u00fan Leuf\u00fa, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-ZA",
+        "name": "Zapala, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-Q-NO",
+        "name": "\u00d1orqu\u00edn, Neuqu\u00e9n, Argentina",
+        "parent_code": "AR-Q",
+        "parent_name": "Neuqu\u00e9n"
+    },
+    {
+        "code": "AR-R-AA",
+        "name": "Adolfo Alsina, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-AV",
+        "name": "Avellaneda, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-BA",
+        "name": "Bariloche, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-CO",
+        "name": "Conesa, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-EC",
+        "name": "El Cuy, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-GR",
+        "name": "General Roca, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-NJ",
+        "name": "Nueve de Julio, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-PM",
+        "name": "Pichi Mahuida, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-PI",
+        "name": "Pilcaniyeu, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-SA",
+        "name": "San Antonio, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-VA",
+        "name": "Valcheta, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-VM",
+        "name": "Veinticinco de Mayo, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-R-NO",
+        "name": "\u00d1orquinco, R\u00edo Negro, Argentina",
+        "parent_code": "AR-R",
+        "parent_name": "R\u00edo Negro"
+    },
+    {
+        "code": "AR-A-AN",
+        "name": "Anta, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-CA",
+        "name": "Cachi, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-CF",
+        "name": "Cafayate, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-SA",
+        "name": "Capital, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-CE",
+        "name": "Cerrillos, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-CH",
+        "name": "Chicoana, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-GG",
+        "name": "General G\u00fcemes, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-GM",
+        "name": "General Jos\u00e9 de San Mart\u00edn, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-GU",
+        "name": "Guachipas, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-IR",
+        "name": "Iruya, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-LC",
+        "name": "La Caldera, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-LD",
+        "name": "La Candelaria, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-LP",
+        "name": "La Poma, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-LV",
+        "name": "La Vi\u00f1a, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-LA",
+        "name": "Los Andes, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-ME",
+        "name": "Met\u00e1n, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-MO",
+        "name": "Molinos, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-OR",
+        "name": "Or\u00e1n, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-RI",
+        "name": "Rivadavia, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-RL",
+        "name": "Rosario de Lerma, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-RF",
+        "name": "Rosario de la Frontera, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-SC",
+        "name": "San Carlos, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-A-SV",
+        "name": "Santa Victoria, Salta, Argentina",
+        "parent_code": "AR-A",
+        "parent_name": "Salta"
+    },
+    {
+        "code": "AR-J-AL",
+        "name": "Albard\u00f3n, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-AN",
+        "name": "Angaco, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-CL",
+        "name": "Calingasta, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-SJ",
+        "name": "Capital, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-CC",
+        "name": "Caucete, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-CH",
+        "name": "Chimbas, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-IG",
+        "name": "Iglesia, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-JA",
+        "name": "J\u00e1chal, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-PO",
+        "name": "Pocito, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-RA",
+        "name": "Rawson, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-RI",
+        "name": "Rivadavia, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-SM",
+        "name": "San Mart\u00edn, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-SL",
+        "name": "Santa Luc\u00eda, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-SA",
+        "name": "Sarmiento, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-UL",
+        "name": "Ullum, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-VF",
+        "name": "Valle F\u00e9rtil, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-VM",
+        "name": "Veinticinco de Mayo, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-J-ZO",
+        "name": "Zonda, San Juan, Argentina",
+        "parent_code": "AR-J",
+        "parent_name": "San Juan"
+    },
+    {
+        "code": "AR-D-AY",
+        "name": "Ayacucho, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-BE",
+        "name": "Belgrano, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-CH",
+        "name": "Chacabuco, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-CP",
+        "name": "Coronel Pringles, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-GP",
+        "name": "General Pedernera, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-GD",
+        "name": "Gobernador Dupuy, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-JU",
+        "name": "Jun\u00edn, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-LC",
+        "name": "La Capital, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-D-LM",
+        "name": "Libertador General San Mart\u00edn, San Luis, Argentina",
+        "parent_code": "AR-D",
+        "parent_name": "San Luis"
+    },
+    {
+        "code": "AR-Z-CA",
+        "name": "Corpen Aike, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-DE",
+        "name": "Deseado, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-GA",
+        "name": "G\u00fcer Aike, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-LA",
+        "name": "Lago Argentino, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-LB",
+        "name": "Lago Buenos Aires, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-MA",
+        "name": "Magallanes, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-Z-RC",
+        "name": "Ri\u00f3 Chico, Santa Cruz, Argentina",
+        "parent_code": "AR-Z",
+        "parent_name": "Santa Cruz"
+    },
+    {
+        "code": "AR-S-BE",
+        "name": "Belgrano, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-CR",
+        "name": "Caseros, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-CL",
+        "name": "Castellanos, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-CO",
+        "name": "Constituci\u00f3n, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-GA",
+        "name": "Garay, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-GL",
+        "name": "General L\u00f3pez, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-GO",
+        "name": "General Obligado, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-IR",
+        "name": "Iriondo, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-LP",
+        "name": "La Capital, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-LC",
+        "name": "Las Colonias, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-NJ",
+        "name": "Nueve de Julio, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-RO",
+        "name": "Rosario, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SC",
+        "name": "San Crist\u00f3bal, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SV",
+        "name": "San Javier, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SR",
+        "name": "San Jer\u00f3nimo, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SJ",
+        "name": "San Justo, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SL",
+        "name": "San Lorenzo, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-SM",
+        "name": "San Mart\u00edn, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-S-VE",
+        "name": "Vera, Santa Fe, Argentina",
+        "parent_code": "AR-S",
+        "parent_name": "Santa Fe"
+    },
+    {
+        "code": "AR-G-AG",
+        "name": "Aguirre, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-AL",
+        "name": "Alberdi, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-AT",
+        "name": "Atamisqui, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-AV",
+        "name": "Avellaneda, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-BA",
+        "name": "Banda, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-BE",
+        "name": "Belgrano, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-SE",
+        "name": "Capital, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-CH",
+        "name": "Choya, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-CO",
+        "name": "Copo, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-FI",
+        "name": "Figueroa, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-GT",
+        "name": "General Taboada, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-GU",
+        "name": "Guasay\u00e1n, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-JM",
+        "name": "Jim\u00e9nez, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-JI",
+        "name": "Juan Felipe Ibarra, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-LO",
+        "name": "Loreto, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-MI",
+        "name": "Mitre, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-MO",
+        "name": "Moreno, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-OJ",
+        "name": "Ojo de Agua, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-PE",
+        "name": "Pellegrini, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-QU",
+        "name": "Quebrachos, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-RI",
+        "name": "Rivadavia, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-RH",
+        "name": "Ri\u00f3 Hondo, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-RO",
+        "name": "Robles, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-SV",
+        "name": "Salavina, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-SM",
+        "name": "San Mart\u00edn, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-SR",
+        "name": "Sarmiento, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-G-SI",
+        "name": "Sil\u00edpica, Santiago del Estero, Argentina",
+        "parent_code": "AR-G",
+        "parent_name": "Santiago del Estero"
+    },
+    {
+        "code": "AR-V-RG",
+        "name": "Ri\u00f3 Grande, Tierra del Fuego, Argentina",
+        "parent_code": "AR-V",
+        "parent_name": "Tierra del Fuego"
+    },
+    {
+        "code": "AR-V-US",
+        "name": "Ushuaia, Tierra del Fuego, Argentina",
+        "parent_code": "AR-V",
+        "parent_name": "Tierra del Fuego"
+    },
+    {
+        "code": "AR-T-BU",
+        "name": "Burruyac\u00fa, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-TM",
+        "name": "Capital, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-CH",
+        "name": "Chicligasta, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-CA",
+        "name": "Cruz Alta, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-FA",
+        "name": "Famaill\u00e1, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-GR",
+        "name": "Graneros, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-JA",
+        "name": "Juan B. Alberdi, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-LC",
+        "name": "La Cocha, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-LE",
+        "name": "Leales, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-LU",
+        "name": "Lules, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-MO",
+        "name": "Monteros, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-RC",
+        "name": "Ri\u00f3 Chico, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-SI",
+        "name": "Simoca, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-TV",
+        "name": "Taf\u00ed Viejo, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-TD",
+        "name": "Taf\u00ed del Valle, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-TR",
+        "name": "Trancas, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    },
+    {
+        "code": "AR-T-YB",
+        "name": "Yerba Buena, Tucum\u00e1n, Argentina",
+        "parent_code": "AR-T",
+        "parent_name": "Tucum\u00e1n"
+    }
+]

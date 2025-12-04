@@ -1,0 +1,488 @@
+[
+    {
+        "code": "TR-01",
+        "name": "Adana, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-02",
+        "name": "Ad\u0131yaman, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-03",
+        "name": "Afyon, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-68",
+        "name": "Aksaray, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-05",
+        "name": "Amasya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-06",
+        "name": "Ankara, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-07",
+        "name": "Antalya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-75",
+        "name": "Ardahan, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-08",
+        "name": "Artvin, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-09",
+        "name": "Ayd\u0131n, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-04",
+        "name": "A\u011fr\u0131, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-10",
+        "name": "Bal\u0131kesir, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-74",
+        "name": "Bart\u0131n, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-72",
+        "name": "Batman, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-69",
+        "name": "Bayburt, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-11",
+        "name": "Bilecik, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-12",
+        "name": "Bing\u00f6l, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-13",
+        "name": "Bitlis, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-14",
+        "name": "Bolu, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-15",
+        "name": "Burdur, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-16",
+        "name": "Bursa, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-20",
+        "name": "Denizli, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-21",
+        "name": "Diyarbak\u0131r, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-81",
+        "name": "D\u00fczce, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-22",
+        "name": "Edirne, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-23",
+        "name": "Elaz\u0131\u011f, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-24",
+        "name": "Erzincan, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-25",
+        "name": "Erzurum, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-26",
+        "name": "Eski\u015fehir, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-27",
+        "name": "Gaziantep, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-28",
+        "name": "Giresun, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-29",
+        "name": "G\u00fcm\u00fc\u015fhane, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-30",
+        "name": "Hakkari, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-31",
+        "name": "Hatay, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-32",
+        "name": "Isparta, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-76",
+        "name": "I\u011fd\u0131r, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-46",
+        "name": "K.Mara\u015f, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-78",
+        "name": "Karab\u00fck, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-70",
+        "name": "Karaman, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-36",
+        "name": "Kars, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-37",
+        "name": "Kastamonu, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-38",
+        "name": "Kayseri, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-79",
+        "name": "Kilis, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-41",
+        "name": "Kocaeli, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-42",
+        "name": "Konya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-43",
+        "name": "K\u00fctahya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-39",
+        "name": "K\u0131rklareli, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-71",
+        "name": "K\u0131r\u0131kkale, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-40",
+        "name": "K\u0131r\u015fehir, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-44",
+        "name": "Malatya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-45",
+        "name": "Manisa, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-47",
+        "name": "Mardin, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-33",
+        "name": "Mersin, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-48",
+        "name": "Mu\u011fla, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-49",
+        "name": "Mu\u015f, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-50",
+        "name": "Nev\u015fehir, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-51",
+        "name": "Ni\u011fde, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-52",
+        "name": "Ordu, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-80",
+        "name": "Osmaniye, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-53",
+        "name": "Rize, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-54",
+        "name": "Sakarya, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-55",
+        "name": "Samsun, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-56",
+        "name": "Siirt, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-57",
+        "name": "Sinop, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-58",
+        "name": "Sivas, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-59",
+        "name": "Tekirda\u011f, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-60",
+        "name": "Tokat, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-61",
+        "name": "Trabzon, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-62",
+        "name": "Tunceli, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-64",
+        "name": "U\u015fak, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-65",
+        "name": "Van, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-77",
+        "name": "Yalova, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-66",
+        "name": "Yozgat, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-67",
+        "name": "Zonguldak, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-17",
+        "name": "\u00c7anakkale, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-18",
+        "name": "\u00c7ank\u0131r\u0131, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-19",
+        "name": "\u00c7orum, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-34",
+        "name": "\u0130stanbul, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-35",
+        "name": "\u0130zmir, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-63",
+        "name": "\u015eanl\u0131urfa, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    },
+    {
+        "code": "TR-73",
+        "name": "\u015e\u0131rnak, T\u00fcrkiye",
+        "parent_code": "TR",
+        "parent_name": "T\u00fcrkiye"
+    }
+]

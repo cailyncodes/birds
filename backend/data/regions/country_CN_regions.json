@@ -1,0 +1,188 @@
+[
+    {
+        "code": "CN-34",
+        "name": "Anhui, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-11",
+        "name": "Beijing, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-50",
+        "name": "Chongqing, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-35",
+        "name": "Fujian, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-62",
+        "name": "Gansu, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-44",
+        "name": "Guangdong, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-45",
+        "name": "Guangxi, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-52",
+        "name": "Guizhou, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-46",
+        "name": "Hainan, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-13",
+        "name": "Hebei, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-23",
+        "name": "Heilongjiang, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-41",
+        "name": "Henan, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-42",
+        "name": "Hubei, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-43",
+        "name": "Hunan, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-32",
+        "name": "Jiangsu, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-36",
+        "name": "Jiangxi, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-22",
+        "name": "Jilin, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-21",
+        "name": "Liaoning, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-15",
+        "name": "Nei Mongol, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-64",
+        "name": "Ningxia, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-63",
+        "name": "Qinghai, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-61",
+        "name": "Shaanxi, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-37",
+        "name": "Shandong, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-31",
+        "name": "Shanghai, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-14",
+        "name": "Shanxi, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-51",
+        "name": "Sichuan, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-12",
+        "name": "Tianjin, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-65",
+        "name": "Xinjiang, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-54",
+        "name": "Xizang, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-53",
+        "name": "Yunnan, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    },
+    {
+        "code": "CN-33",
+        "name": "Zhejiang, China",
+        "parent_code": "CN",
+        "parent_name": "China"
+    }
+]

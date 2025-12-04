@@ -1,0 +1,20 @@
+[
+    {
+        "code": "LU-D",
+        "name": "Diekirch, Luxembourg",
+        "parent_code": "LU",
+        "parent_name": "Luxembourg"
+    },
+    {
+        "code": "LU-G",
+        "name": "Grevenmacher , Luxembourg",
+        "parent_code": "LU",
+        "parent_name": "Luxembourg"
+    },
+    {
+        "code": "LU-L",
+        "name": "Luxemburg, Luxembourg",
+        "parent_code": "LU",
+        "parent_name": "Luxembourg"
+    }
+]

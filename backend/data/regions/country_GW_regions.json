@@ -1,0 +1,26 @@
+[
+    {
+        "code": "GW-BS",
+        "name": "Bissau, Guinea-Bissau",
+        "parent_code": "GW",
+        "parent_name": "Guinea-Bissau"
+    },
+    {
+        "code": "GW-L",
+        "name": "Leste, Guinea-Bissau",
+        "parent_code": "GW",
+        "parent_name": "Guinea-Bissau"
+    },
+    {
+        "code": "GW-N",
+        "name": "Norte, Guinea-Bissau",
+        "parent_code": "GW",
+        "parent_name": "Guinea-Bissau"
+    },
+    {
+        "code": "GW-S",
+        "name": "Sul, Guinea-Bissau",
+        "parent_code": "GW",
+        "parent_name": "Guinea-Bissau"
+    }
+]

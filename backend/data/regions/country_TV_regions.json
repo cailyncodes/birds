@@ -1,0 +1,50 @@
+[
+    {
+        "code": "TV-FUN",
+        "name": "Funafuti, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NMG",
+        "name": "Nanumanga, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NMA",
+        "name": "Nanumea, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NIT",
+        "name": "Niutao, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NIU",
+        "name": "Nui, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NKF",
+        "name": "Nukufetau, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-NKL",
+        "name": "Nukulaelae, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    },
+    {
+        "code": "TV-VAI",
+        "name": "Vaitupu, Tuvalu",
+        "parent_code": "TV",
+        "parent_name": "Tuvalu"
+    }
+]

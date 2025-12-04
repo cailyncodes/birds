@@ -1,0 +1,68 @@
+[
+    {
+        "code": "WS-AA",
+        "name": "A'ana, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-AL",
+        "name": "Aiga-i-le-Tai, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-AT",
+        "name": "Atua, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-FA",
+        "name": "Fa'asaleleaga, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-GE",
+        "name": "Gaga'emauga, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-GI",
+        "name": "Gagaifomauga, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-PA",
+        "name": "Palauli, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-SA",
+        "name": "Satupa'itea, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-TU",
+        "name": "Tuamasaga, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-VF",
+        "name": "Va'a-o-Fonoti, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    },
+    {
+        "code": "WS-VS",
+        "name": "Vaisigano, Samoa",
+        "parent_code": "WS",
+        "parent_name": "Samoa"
+    }
+]

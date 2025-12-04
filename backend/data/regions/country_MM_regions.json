@@ -1,0 +1,86 @@
+[
+    {
+        "code": "MM-07",
+        "name": "Ayeyarwady, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-02",
+        "name": "Bago, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-14",
+        "name": "Chin, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-11",
+        "name": "Kachin, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-12",
+        "name": "Kayah, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-13",
+        "name": "Kayin, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-03",
+        "name": "Magway, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-04",
+        "name": "Mandalay, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-15",
+        "name": "Mon, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-16",
+        "name": "Rakhine, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-01",
+        "name": "Sagaing, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-17",
+        "name": "Shan, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-05",
+        "name": "Tanintharyi, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    },
+    {
+        "code": "MM-06",
+        "name": "Yangon, Myanmar",
+        "parent_code": "MM",
+        "parent_name": "Myanmar"
+    }
+]

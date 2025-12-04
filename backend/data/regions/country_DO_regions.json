@@ -1,0 +1,194 @@
+[
+    {
+        "code": "DO-02",
+        "name": "Azua, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-03",
+        "name": "Bahoruco, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-04",
+        "name": "Barahona, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-05",
+        "name": "Dajab\u00f3n, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-01",
+        "name": "Distrito Nacional (Santo Domingo), Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-06",
+        "name": "Duarte, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-08",
+        "name": "El Seybo, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-09",
+        "name": "Espaillat, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-30",
+        "name": "Hato Mayor, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-10",
+        "name": "Independencia, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-11",
+        "name": "La Altagracia, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-07",
+        "name": "La Estrelleta, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-12",
+        "name": "La Romana, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-13",
+        "name": "La Vega, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-14",
+        "name": "Mar\u00eda Trinidad S\u00e1nchez, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-28",
+        "name": "Monse\u00f1or Nouel, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-15",
+        "name": "Monte Cristi, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-29",
+        "name": "Monte Plata, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-16",
+        "name": "Pedernales, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-17",
+        "name": "Peravia, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-18",
+        "name": "Puerto Plata, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-19",
+        "name": "Salcedo, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-20",
+        "name": "Saman\u00e1, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-21",
+        "name": "San Crist\u00f3bal, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-31",
+        "name": "San Jos\u00e9 de Ocoa, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-22",
+        "name": "San Juan, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-23",
+        "name": "San Pedro de Macor\u00eds, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-25",
+        "name": "Santiago, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-26",
+        "name": "Santiago Rodr\u00edguez, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-32",
+        "name": "Santo Domingo, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-24",
+        "name": "S\u00e1nchez Ram\u00edrez, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    },
+    {
+        "code": "DO-27",
+        "name": "Valverde, Dominican Republic",
+        "parent_code": "DO",
+        "parent_name": "Dominican Republic"
+    }
+]

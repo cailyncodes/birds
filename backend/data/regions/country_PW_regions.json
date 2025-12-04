@@ -1,0 +1,98 @@
+[
+    {
+        "code": "PW-002",
+        "name": "Aimeliik, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-004",
+        "name": "Airai, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-010",
+        "name": "Angaur, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-050",
+        "name": "Hatobohei, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-100",
+        "name": "Kayangel, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-150",
+        "name": "Koror, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-212",
+        "name": "Melekeok, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-214",
+        "name": "Ngaraard, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-218",
+        "name": "Ngarchelong, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-222",
+        "name": "Ngardmau, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-224",
+        "name": "Ngatpang, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-226",
+        "name": "Ngchesar, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-227",
+        "name": "Ngeremlengui, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-228",
+        "name": "Ngiwal, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-350",
+        "name": "Peleliu, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    },
+    {
+        "code": "PW-370",
+        "name": "Sonsorol, Palau",
+        "parent_code": "PW",
+        "parent_name": "Palau"
+    }
+]
