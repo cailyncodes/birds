@@ -2,19 +2,14 @@ import datetime
 import json
 import os
 
-from app.dal.auth.file import FileAuth
 import jwt as pyjwt
+from app.dal.auth.file import FileAuth
 from app.manager.birdspot import BirdSpotManager
 from app.manager.ebird import EBirdManager
 from app.manager.job import JobManager
 from app.manager.regions import RegionSearch
-from lib.auth import (
-    Auth,
-    AuthProvider,
-    Credentials,
-    JWTCredentials,
-    PasswordCredentials,
-)
+from lib.auth import (Auth, AuthProvider, Credentials, JWTCredentials,
+                      PasswordCredentials)
 from minject import Registry
 from sanic import Request, Sanic, response
 from sanic.views import HTTPMethodView

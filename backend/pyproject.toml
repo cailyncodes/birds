@@ -14,7 +14,7 @@ dependencies = [
     "pympler>=1.1",
     "redis>=7.1.0",
     "requests>=2.32.5",
-    "sanic==23.12.1",
+    "sanic==25.3.0",
     "sanic-cors==2.2.0",
     "sanic-ext>=24.12.0",
 ]
