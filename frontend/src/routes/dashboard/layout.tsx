@@ -1,18 +1,8 @@
 import { component$, Slot } from '@builder.io/qwik';
-import { Link, RequestHandler, routeLoader$, useLocation } from '@builder.io/qwik-city';
+import { Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
 
-export const onRequest: RequestHandler = async ({
-    sharedMap,
-    cookie,
-}) => {
-    const jwt = cookie.get("jwt")?.value
-    if (jwt) {
-        sharedMap.set('jwt', jwt);
-    }
-};
-
-export const useJWT = routeLoader$(({ sharedMap }) => {
-    return sharedMap.get('jwt');
+export const useJWT = routeLoader$(({ cookie }) => {
+    return cookie.get("jwt")?.value;
 });
 
 export default component$(() => {
