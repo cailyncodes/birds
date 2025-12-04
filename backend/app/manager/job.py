@@ -2,6 +2,7 @@ import codecs
 import json
 from collections.abc import Callable
 from concurrent import futures
+import os
 from typing import Any
 from uuid import uuid4
 
@@ -59,23 +60,24 @@ class JobManager:
     def __init__(self):
         self.id = str(uuid4())
         self.executor = futures.ThreadPoolExecutor()
+        self.directory = os.getenv("BIRDSPOT_JOB_DIRECTORY")
 
     def create_job(self, owner: str, callable: Callable, payload: dict) -> Job:
         job = Job.build(owner, callable, **payload)
-        with open(f"./data/jobs/{job.id}.json", "w") as f:
+        with open(f"{self.directory}{job.id}.json", "w") as f:
             f.write(str(job))
 
         return job
 
     def get_job(self, job_id: str):
         try:
-            with open(f"./data/jobs/{job_id}.json", "r") as f:
+            with open(f"{self.directory}{job_id}.json", "r") as f:
                 return Job.from_str(f.readline())
         except FileNotFoundError:
             return None
 
     def start_job(self, job: Job):
-        with open(f"./data/jobs/{job.id}.json", "w") as f:
+        with open(f"{self.directory}{job.id}.json", "w") as f:
             job.state = "running"
             f.write(str(job))
         
@@ -87,7 +89,7 @@ class JobManager:
             job = self.get_job(job_id)
             if job is None:
                 return
-            with open(f"./data/jobs/{job.id}.json", "w") as f:
+            with open(f"{self.directory}{job.id}.json", "w") as f:
                 job.state = "completed"
                 job.response = future.result()
                 f.write(str(job))

@@ -12,14 +12,15 @@ from lib.auth import (AuthProvider, Credentials, InvalidCredentials,
 from minject import inject
 
 
+@inject.bind()
 class FileAuth(AuthProvider):
     def __init__(self):
-        self.cache_directory = "./data/users/"
-        self.signing_key = os.environ.get("BIRDSPOT_SIGNING_KEY")
+        self.directory = os.getenv("BIRDSPOT_FILE_AUTH_DIRECTORY")
+        self.signing_key = os.getenv("BIRDSPOT_SIGNING_KEY")
 
     async def verify(self, credentials: Credentials) -> Literal[True]:
         try:
-            with open(f"{self.cache_directory}{credentials.identifier}.json", "r") as f:
+            with open(f"{self.directory}{credentials.identifier}.json", "r") as f:
                 user = json.load(f)
                 if isinstance(credentials, PasswordCredentials):
                     if checkpw(
@@ -70,13 +71,13 @@ class FileAuth(AuthProvider):
 
     async def store(self, credentials: Credentials):
         """YOU BETTER SIGN BEFORE YOU STORE!"""
-        if os.path.isfile(f"{self.cache_directory}{credentials.identifier}.json"):
+        if os.path.exists(f"{self.directory}{credentials.identifier}.json"):
             await self.verify(credentials)
         else:    
-            with open(f"{self.cache_directory}{credentials.identifier}.json", "a") as f:
+            with open(f"{self.directory}{credentials.identifier}.json", "w") as f:
                 f.write("{}")
 
-        with open(f"{self.cache_directory}{credentials.identifier}.json", "r+") as f:
+        with open(f"{self.directory}{credentials.identifier}.json", "r+") as f:
             current_data = json.load(f)
             f.seek(0)
             f.truncate()
@@ -105,7 +106,7 @@ class FileAuth(AuthProvider):
 
     async def expiration(self, identifier: str) -> datetime.datetime:
         try:
-            with open(f"{self.cache_directory}{identifier}.json", "r") as f:
+            with open(f"{self.directory}{identifier}.json", "r") as f:
                 user = json.load(f)
                 return datetime.datetime.fromisoformat(user.get("expiration"))
         except:
@@ -119,7 +120,7 @@ class FileAuth(AuthProvider):
             return credentials
         
         if isinstance(credentials, PasswordCredentials) and _type == JWTCredentials:
-            with open(f"{self.cache_directory}{credentials.identifier}.json", "r") as f:
+            with open(f"{self.directory}{credentials.identifier}.json", "r") as f:
                 data = json.load(f)
                 return JWTCredentials(
                     user_id=data["username"],
@@ -128,6 +129,3 @@ class FileAuth(AuthProvider):
                 )
 
         raise RuntimeError()
-
-
-inject.define(FileAuth, name="AuthProvider")

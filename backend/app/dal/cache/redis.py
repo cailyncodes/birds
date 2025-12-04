@@ -1,14 +1,22 @@
+import os
 from minject import inject
 from redis.asyncio import Redis, ConnectionPool
 from redis.typing import EncodableT as RedisEncodableT
 from lib.cache import CacheProvider, EncodableT
 
-@inject.bind(host="", username="", password="")
+@inject.bind(
+    host=os.getenv("REDISHOST"),
+    port=os.getenv("REDISPORT"),
+    username=os.getenv("REDISUSER"),
+    password=os.getenv("REDISPASSWORD"),
+
+)
 class RedisCache(CacheProvider):
-    def __init__(self, host, username, password):
+    def __init__(self, host, port, username, password):
         connection_pool = ConnectionPool()
         self.redis = Redis(
             host=host,
+            port=port,
             username=username,
             password=password,
             connection_pool=connection_pool,

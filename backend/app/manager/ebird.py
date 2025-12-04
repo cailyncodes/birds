@@ -1,6 +1,8 @@
 import datetime
+import os
 from time import sleep
 from app.dal.cache.file import FileCache
+from app.dal.cache.redis import RedisCache
 from lib.cache import CacheAccessor, CacheProvider, Cache, CacheKey, KeySerializer
 from minject import inject
 
@@ -15,12 +17,11 @@ REGION_DATE_KEY: KeySerializer[str, datetime.date, str] = lambda region_code, da
 
 @inject.bind(
     ebird_dal=inject.reference(EBirdDAL),
-    cache_provider=inject.reference(FileCache)
+    cache_provider=inject.reference(RedisCache) if os.getenv("RAILWAY_ENVIRONMENT_NAME") == "production" else inject.reference(FileCache)
 )
 class EBirdManager:
     ebird_dal: EBirdDAL
     cache: Cache[CacheProvider]
-    # (cache_provider=ca, max_size=1024*8, cache_file="./data/cache/ebird.json")
 
     def __init__(self, ebird_dal: EBirdDAL, cache_provider: CacheProvider):
         self.ebird_dal = ebird_dal
@@ -38,16 +39,12 @@ class EBirdManager:
                 auth
             )
         return response.json()
-            
-        
-        return self.__use_cache(f"get_hotspots_by_region.{region_code}", _get_hotspots_by_region)
     
     @Cache.with_cache(
         cache_accessor=CACHE_ACCESSOR,
         key_serializer=Cache.typed_serializer(REGION_KEY)
     )
     async def get_species_by_region(self, region_code: str, auth: str) -> list[dict[str, str]]:
-        # def _get_species_by_region():
         possible_species_codes_response = self.ebird_dal.get(
             f"product/spplist/{region_code}?fmt=json",
             auth
@@ -61,15 +58,13 @@ class EBirdManager:
 
         possible_species = possible_species_response.json()
         return possible_species
-        
-        return self.__use_cache(f"get_species_by_region.{region_code}", _get_species_by_region)
+
     
     @Cache.with_cache(
         cache_accessor=CACHE_ACCESSOR,
         key_serializer=Cache.typed_serializer(REGION_DATE_KEY)
     )
     async def get_species_observed_by_date_and_region(self, region_code: str, date: datetime.date, auth: str) -> list:
-        # def _get_species_observed_by_date_and_region() -> list:
         sleep(0.1)
         species_observed_response = self.ebird_dal.get(
             f"data/obs/{region_code}/historic/{date.year}/{date.month}/{date.day}",
@@ -79,14 +74,12 @@ class EBirdManager:
         species_observed = species_observed_response.json()
         return species_observed
         
-        return self.__use_cache(f"get_species_observed_by_date_and_region.{region_code}.{date.isoformat()}", _get_species_observed_by_date_and_region)
     
     @Cache.with_cache(
         cache_accessor=CACHE_ACCESSOR,
         key_serializer=Cache.typed_serializer(REGION_DATE_KEY)
     )
     async def get_checklists_by_date_and_region(self, region_code: str, date: datetime.date, auth: str) -> list:
-        # def _get_checklists_by_date_and_region() -> list:
         sleep(0.1)
         checklists_response = self.ebird_dal.get(
             f"product/lists/{region_code}/{date.year}/{date.month}/{date.day}",
@@ -96,4 +89,3 @@ class EBirdManager:
         checklists = checklists_response.json()
         return checklists
         
-        return self.__use_cache(f"get_checklists_by_date_and_region.{region_code}.{date.isoformat()}", _get_checklists_by_date_and_region)

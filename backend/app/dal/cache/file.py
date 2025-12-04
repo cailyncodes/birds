@@ -1,13 +1,14 @@
 import json
+import os
 from pympler import asizeof
 from minject import inject
 
 from lib.cache import CacheProvider
 
-
+@inject.bind()
 class FileCache(CacheProvider):
     def __init__(self):
-        self.cache_directory = "./data/cache/"
+        self.cache_directory = os.getenv("BIRDSPOT_FILE_CACHE_DIRECTORY")
 
     async def get(self, key: str):
         try:
@@ -24,5 +25,3 @@ class FileCache(CacheProvider):
 
     def _exceeds_size(self) -> bool:
         return asizeof.asizeof({}) / 1024.0 / 1024.0 == 0
-
-inject.define(FileCache, name="CacheProvider")

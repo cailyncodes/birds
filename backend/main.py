@@ -2,6 +2,11 @@ import datetime
 import json
 import os
 
+import dotenv
+
+if os.getenv("RAILWAY_ENVIRONMENT_NAME") != "production":
+    dotenv.load_dotenv("./.env")
+
 import jwt as pyjwt
 from app.dal.auth.file import FileAuth
 from app.manager.birdspot import BirdSpotManager
@@ -15,10 +20,10 @@ from sanic import Request, Sanic, response
 from sanic.views import HTTPMethodView
 from sanic_cors import CORS
 
-registry = Registry()
-
 app = Sanic("BirdSpot")
 CORS(app)
+
+registry = Registry()
 
 
 def CREDENTIAL_ACCESSOR(self, request: Request, *args, **kwargs):
@@ -261,6 +266,18 @@ app.add_route(
 app.add_route(UserHandler.as_view(auth_provider=registry[FileAuth]), "/api/users")
 
 app.add_route(AuthHandler.as_view(auth_provider=registry[FileAuth]), "/api/login")
+
+def make_directories():
+    if (auth_directory := os.getenv("BIRDSPOT_FILE_AUTH_DIRECTORY")) is not None:
+        os.makedirs(auth_directory, exist_ok=True)
+
+    if (cache_directory := os.getenv("BIRDSPOT_FILE_CACHE_DIRECTORY")) is not None:
+        os.makedirs(cache_directory, exist_ok=True)
+
+    if (job_directory := os.getenv("BIRDSPOT_JOB_DIRECTORY")) is not None:
+        os.makedirs(job_directory, exist_ok=True)
+
+make_directories()
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000, dev=True)

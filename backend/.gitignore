@@ -15,8 +15,8 @@ pip-delete-this-directory.txt
 dist/
 build/
 .ruff_cache/
-data/cache
-data/jobs
 /bruno/
+data/cache/**/*
+data/jobs/**/*
 data/regions/all_regions_flat.pkl
 data/users/**/*
