@@ -19,3 +19,4 @@ data/cache
 data/jobs
 /bruno/
 data/regions/all_regions_flat.pkl
+data/users/**/*
