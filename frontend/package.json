@@ -11,7 +11,7 @@
     "build": "qwik build",
     "build.client": "vite build",
     "build.preview": "vite build --ssr src/entry.preview.tsx",
-    "build.server": "qwik check-client src dist && vite build -c adapters/static/vite.config.ts",
+    "build.server": "qwik check-client src dist && vite build -c adapters/fastify/vite.config.ts",
     "build.types": "tsc --incremental --noEmit",
     "deploy": "echo 'Run \"npm run qwik add\" to install a server adapter'",
     "dev": "vite --mode ssr",
@@ -20,6 +20,7 @@
     "fmt.check": "prettier --check .",
     "lint": "eslint \"src/**/*.ts*\"",
     "preview": "qwik build preview && vite preview --open",
+    "serve": "node server/entry.fastify",
     "start": "vite --open --mode ssr",
     "qwik": "qwik"
   },
@@ -31,6 +32,7 @@
     "@qwik-ui/headless": "^0.7.4",
     "@types/mapbox__mapbox-gl-geocoder": "^5.1.0",
     "@types/node": "20.19.0",
+    "dotenv": "^16.3.2",
     "eslint": "9.32.0",
     "eslint-plugin-qwik": "^1.17.2",
     "globals": "16.4.0",
@@ -42,5 +44,11 @@
     "undici": "*",
     "vite": "7.1.11",
     "vite-tsconfig-paths": "^4.2.1"
+  },
+  "dependencies": {
+    "@fastify/compress": "^6.2.1",
+    "@fastify/static": "^6.10.1",
+    "fastify": "^4.17.0",
+    "fastify-plugin": "^4.5.0"
   }
 }
