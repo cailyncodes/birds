@@ -108,7 +108,7 @@ class Auth[A: AuthProvider]:
                 if not await auth.verify(credentials):
                     raise RuntimeError()
 
-                return fn(self, credentials, *args, **kwargs)
+                return await fn(self, credentials, *args, **kwargs)
 
             return inner
 
