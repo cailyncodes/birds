@@ -1,5 +1,5 @@
 import { component$, useSignal } from "@builder.io/qwik";
-import { DocumentHead, useNavigate } from "@builder.io/qwik-city";
+import { DocumentHead } from "@builder.io/qwik-city";
 import { useCreateAccount, useSignIn } from "~/lib/auth";
 
 export default component$(() => {
