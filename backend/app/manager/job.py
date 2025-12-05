@@ -43,9 +43,9 @@ class Job:
             response=obj["response"]
         )
 
-    def start(self):
+    async def start(self):
         (fn, args) = self.__decode()
-        return fn(**args)
+        return await fn(**args)
 
     def __decode(self) -> tuple[Callable, dict]:
         decoded_payload = codecs.decode(self.payload.encode(), "base64")
@@ -85,12 +85,12 @@ class JobManager:
         future.add_done_callback(self._job_completed_callback(job.id))
 
     def _job_completed_callback(self, job_id: str):
-        def __inner(future: futures.Future):
+        async def __inner(future: futures.Future):
             job = self.get_job(job_id)
             if job is None:
                 return
             with open(f"{self.directory}{job.id}.json", "w") as f:
                 job.state = "completed"
-                job.response = future.result()
+                job.response = await future.result()
                 f.write(str(job))
         return __inner

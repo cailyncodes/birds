@@ -136,7 +136,7 @@ class BirdSpotHandler(HTTPMethodView):
         )
         self.job_manager.start_job(job)
         return response.json(
-            {"id": job.id, "state": job.state, "response": job.response}
+            {"id": job.id, "state": job.state}
         )
 
 
