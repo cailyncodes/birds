@@ -1,8 +1,18 @@
 import { component$, Slot } from '@builder.io/qwik';
-import { Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
+import { Link, RequestHandler, routeLoader$, useLocation } from '@builder.io/qwik-city';
+
+export const onGet: RequestHandler = async ({ cacheControl }) => {
+    cacheControl({
+        public: false, // Prevents CDN caching
+        noCache: true,
+        noStore: true,
+        maxAge: 0,     // Ensures the browser always revalidates the data
+    });
+};
 
 export const useJWT = routeLoader$(({ cookie, cacheControl }) => {
     cacheControl({
+        public: false,
         noCache: true,
         noStore: true,
         maxAge: 0

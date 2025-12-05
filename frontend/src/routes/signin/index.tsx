@@ -3,7 +3,6 @@ import { DocumentHead, useNavigate } from "@builder.io/qwik-city";
 import { useCreateAccount, useSignIn } from "~/lib/auth";
 
 export default component$(() => {
-  const navigate = useNavigate()
   const signIn = useSignIn();
   const createAccount = useCreateAccount();
   const hasAccount = useSignal(false);
@@ -11,8 +10,7 @@ export default component$(() => {
   const password = useSignal<string>();
 
   if (signIn.value || createAccount.value) {
-    navigate("/dashboard/");
-    return <p>Redirecting...</p>
+    window.location.assign("/dashboard");
   }
 
   return (
