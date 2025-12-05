@@ -5,7 +5,8 @@ import useLocalstorage from "~/components/hooks/use-localstorage";
 import "./dashboard.css";
 
 export default component$(() => {
-  const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" })
+  const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" });
+
   return (
     <div>
       <main>

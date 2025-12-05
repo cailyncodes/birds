@@ -1,7 +1,12 @@
 import { component$, Slot } from '@builder.io/qwik';
 import { Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
 
-export const useJWT = routeLoader$(({ cookie }) => {
+export const useJWT = routeLoader$(({ cookie, cacheControl }) => {
+    cacheControl({
+        noCache: true,
+        noStore: true,
+        maxAge: 0
+    })
     return cookie.get("jwt")?.value;
 });
 
@@ -24,7 +29,7 @@ export default component$(() => {
                     <Link href="/dashboard"><li data-active={activeTab == ""}>Overview</li></Link>
                     <Link href="/dashboard/lists/"><li data-active={activeTab == "lists"}>Lists</li></Link>
                     <Link href="/dashboard/map/" prefetch={false}><li data-active={activeTab == "map"}>Map</li></Link>
-                    <Link href="/dashboard/trips/" prefetch={false}><li data-active={activeTab == "trips"}>Trips</li></Link>
+                    <Link href="/dashboard/trips/"><li data-active={activeTab == "trips"}>Trips</li></Link>
                     {/* <span style={{height: "1px", width: "100%", backgroundColor: "black" }} /> */}
                     <Link href="/dashboard/alerts/"><li data-active={activeTab == "alerts"}>Alerts</li></Link>
                     <Link href="/dashboard/settings/"><li data-active={activeTab == "settings"}>Settings</li></Link>
