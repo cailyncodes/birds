@@ -29,6 +29,6 @@ class RedisCache(CacheProvider):
 
     async def set(self, key: str, value: EncodableT):
         if isinstance(value, RedisEncodableT):
-            self.redis.set(key, value)
+            await self.redis.set(key, value)
         else:
-            self.redis.json().set(key, "$", value)
+            await self.redis.json().set(key, "$", value) # type: ignore - wrong b/c it doesn't know that we are using the async package
