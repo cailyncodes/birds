@@ -1,3 +1,4 @@
+import asyncio
 import codecs
 import json
 from collections.abc import Callable
@@ -43,9 +44,9 @@ class Job:
             response=obj["response"]
         )
 
-    async def start(self):
+    def start(self):
         (fn, args) = self.__decode()
-        return await fn(**args)
+        return fn(**args)
 
     def __decode(self) -> tuple[Callable, dict]:
         decoded_payload = codecs.decode(self.payload.encode(), "base64")
@@ -81,16 +82,16 @@ class JobManager:
             job.state = "running"
             f.write(str(job))
         
-        future = self.executor.submit(job.start)
+        future = self.executor.submit(lambda: asyncio.run(job.start()))
         future.add_done_callback(self._job_completed_callback(job.id))
 
     def _job_completed_callback(self, job_id: str):
-        async def __inner(future: futures.Future):
+        def __inner(future: futures.Future):
             job = self.get_job(job_id)
             if job is None:
                 return
             with open(f"{self.directory}{job.id}.json", "w") as f:
                 job.state = "completed"
-                job.response = await future.result()
+                job.response = future.result()
                 f.write(str(job))
         return __inner

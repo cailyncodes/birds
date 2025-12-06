@@ -13,12 +13,13 @@ from lib.cache import CacheProvider, EncodableT
 )
 class RedisCache(CacheProvider):
     def __init__(self, host, port, username, password):
-        connection_pool = ConnectionPool()
-        self.redis = Redis(
+        connection_pool = ConnectionPool(
             host=host,
             port=port,
             username=username,
-            password=password,
+            password=password
+        )
+        self.redis = Redis(
             connection_pool=connection_pool,
             decode_responses=True,
         )
