@@ -39,7 +39,7 @@ def CREDENTIAL_ACCESSOR(self, request: Request, *args, **kwargs):
     return JWTCredentials(
         user_id=jwt["payload"]["sub"],
         jwt=jwt_raw,
-        expiration=jwt["payload"]["expiration"],
+        expiration=datetime.datetime.fromisoformat(jwt["payload"]["expiration"]),
     )
 
 

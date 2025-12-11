@@ -22,7 +22,8 @@ class RegionSearch:
     regions_search: Trie = attrs.field(init=False)
 
     def __attrs_post_init__(self):
-        self.__initialize()
+        # self.__initialize()
+        pass
 
     def __initialize(self) -> RegionSearch:
         # Load the list JSON and get all the keys

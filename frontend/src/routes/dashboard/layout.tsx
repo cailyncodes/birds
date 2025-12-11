@@ -1,48 +1,31 @@
 import { component$, Slot } from '@builder.io/qwik';
-import { Link, RequestHandler, routeLoader$, useLocation } from '@builder.io/qwik-city';
+import { RequestHandler } from '@builder.io/qwik-city';
+import NavLink from '~/components/nav-link/nav-link';
 
-export const onGet: RequestHandler = async ({ cacheControl }) => {
-    cacheControl({
-        public: false, // Prevents CDN caching
-        noCache: true,
-        noStore: true,
-        maxAge: 0,     // Ensures the browser always revalidates the data
-    });
-};
-
-export const useJWT = routeLoader$(({ cookie, cacheControl }) => {
+export const onGet: RequestHandler = async ({ cacheControl, cookie, redirect }) => {
     cacheControl({
         public: false,
         noCache: true,
         noStore: true,
-        maxAge: 0
-    })
-    return cookie.get("jwt")?.value;
-});
+        maxAge: 0,
+    });
+
+    if (!cookie.get("jwt")?.value) {
+        throw redirect(307, "/signin/");
+    }
+};
 
 export default component$(() => {
-    const location = useLocation();
-    const paths = location.url.pathname.split("/").slice(1, -1)
-    const tabs = ["", "lists", "map", "trips", "alerts", "settings"]
-    const activeTab = tabs.find((tab) => paths.includes(tab)) ?? "";
-
-    const jwt = useJWT();
-
-    if (!jwt.value) {
-        return <p>Please sign in</p>
-    }
-
     return (
         <div class="container">
             <aside>
                 <ul>
-                    <Link href="/dashboard"><li data-active={activeTab == ""}>Overview</li></Link>
-                    <Link href="/dashboard/lists/"><li data-active={activeTab == "lists"}>Lists</li></Link>
-                    <Link href="/dashboard/map/" prefetch={false}><li data-active={activeTab == "map"}>Map</li></Link>
-                    <Link href="/dashboard/trips/"><li data-active={activeTab == "trips"}>Trips</li></Link>
-                    {/* <span style={{height: "1px", width: "100%", backgroundColor: "black" }} /> */}
-                    <Link href="/dashboard/alerts/"><li data-active={activeTab == "alerts"}>Alerts</li></Link>
-                    <Link href="/dashboard/settings/"><li data-active={activeTab == "settings"}>Settings</li></Link>
+                    <NavLink href="/dashboard" activeClass="active"><li>Overview</li></NavLink>
+                    <NavLink href="/dashboard/lists" activeClass="active"><li>Lists</li></NavLink>
+                    <NavLink href="/dashboard/map" prefetch={false} activeClass="active"><li>Map</li></NavLink>
+                    <NavLink href="/dashboard/trips" activeClass="active"><li>Trips</li></NavLink>
+                    <NavLink href="/dashboard/alerts" activeClass="active"><li>Alerts</li></NavLink>
+                    <NavLink href="/dashboard/settings" activeClass="active"><li>Settings</li></NavLink>
                 </ul>
             </aside>
             <Slot />

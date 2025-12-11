@@ -1,17 +1,40 @@
 import { component$ } from "@builder.io/qwik";
-import { type DocumentHead } from "@builder.io/qwik-city";
+import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
-import "./index.css";
+import styles from "./index.module.scss";
 
 export default component$(() => {
   return (
-    <>
-      <main class="main">
-        <h2><em>The missing features of eBird.</em></h2>
-        <p>TODO</p>
-        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cailyncodes" data-color="#72452d" data-emoji="🐣"  data-font="Inter" data-text="Support BirdSpot" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-      </main>
-    </>
+    <main>
+      <section class={styles.hero}>
+        <div class={styles["hero-overlay"]} />
+        <div class={styles["hero-content"]}>
+          <h1 class={styles.headline}>Welcome!</h1>
+          <p class={styles.subheadline}>BirdSpot makes finding birds <em>easier.</em></p>
+        </div>
+      </section>
+      <article class={styles.blocks}>
+        <section class={styles.block}>
+          <h2>Compare hotspots</h2>
+          <p>The BirdSpot Score is computed using recent eBird checklist data  and allows you to compare hotspots based on your life list.</p>
+        </section>
+        <section class={styles.block} />
+        <section class={styles.block} />
+        <section class={styles.block}>
+          <h2>Daily spots near your home</h2>
+          <p>Get a daily report of the best hotspots in your region based on BirdSpot Score.</p>
+        </section>
+        <section class={styles.block}>
+          <h2>Plan trips to maximize targets</h2>
+          <p>Find the best hotspots in any region around the world to help you plan trips to new regions.</p>
+        </section>
+        <section class={styles.block} />
+      </article>
+      <div class={styles.callout}>
+        <p class={styles["callout-header"]}>…and entirely FREE!</p>
+        <p class={styles["callout-subtitle"]}><Link href="/donate">Donations</Link> are always appreciated :)</p>
+      </div>
+    </main>
   )
 });
 
@@ -20,7 +43,7 @@ export const head: DocumentHead = {
   meta: [
     {
       name: "description",
-      content: "The travel birders best friend—find birds you haven't seen yet when traveling!",
+      content: "BirdSpot makes finding birds easier",
     },
   ],
 };

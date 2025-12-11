@@ -1,0 +1,35 @@
+@use "../../styles/global.scss" as *;
+
+.container {
+    // subtract header height
+    height: calc(100% - 85px);
+
+    article {
+        @include container;
+        @include flex(column, center, center);
+        width: max-content;
+        padding-top: 10rem;
+
+        div {
+            @include flex(column, space-between, start);
+
+            width: max-content;
+            margin: 0.25rem 0;
+        }
+
+        .controls-wrapper {
+            @include flex(column, center, center);
+            margin-top: 1rem;
+
+            a {
+                margin-top: 1rem;
+                border-bottom: solid $color-dark-grey 1px;
+                color: $color-dark-grey;
+
+                &:hover {
+                    border-bottom: dashed $color-dark-grey 1px;
+                }
+            }
+        }
+    }
+}

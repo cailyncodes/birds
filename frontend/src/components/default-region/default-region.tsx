@@ -1,6 +1,6 @@
 import { $, component$, useContext, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 import { SettingsContext } from "~/routes/layout";
-import useLocalstorage from "../hooks/use-localstorage";
+import useLocalstorage from "../../hooks/use-localstorage";
 
 import "./default-region.css";
 

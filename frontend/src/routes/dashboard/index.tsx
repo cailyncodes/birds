@@ -1,7 +1,7 @@
 import { $, component$ } from "@builder.io/qwik";
 import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
-import useLocalstorage from "~/components/hooks/use-localstorage";
+import useLocalstorage from "~/hooks/use-localstorage";
 import "./dashboard.css";
 
 export default component$(() => {

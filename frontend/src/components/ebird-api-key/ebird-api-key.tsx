@@ -1,6 +1,6 @@
 import { component$, useContext, useVisibleTask$ } from "@builder.io/qwik";
 import { SettingsContext } from "~/routes/layout";
-import useAuth from "../hooks/use-auth";
+import useAuth from "../../hooks/use-auth";
 
 export default component$(() => {
     const settings = useContext(SettingsContext);

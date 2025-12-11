@@ -1,6 +1,6 @@
 import { $, component$, useContext, useVisibleTask$ } from "@builder.io/qwik";
 import { SettingsContext } from "~/routes/layout";
-import useLocalstorage from "../hooks/use-localstorage";
+import useLocalstorage from "../../hooks/use-localstorage";
 
 export default component$(() => {
     const settings = useContext(SettingsContext);
