@@ -1,4 +1,4 @@
-import { $, component$, createContextId, Slot, useContext, useContextProvider, useStore, useVisibleTask$ } from '@builder.io/qwik';
+import { $, component$, createContextId, Slot, useContext, useContextProvider, useStore, useVisibleTask$, useSignal } from '@builder.io/qwik';
 import useLocalstorage from '~/hooks/use-localstorage';
 
 import styles from "./index.module.scss";
@@ -64,14 +64,25 @@ export default component$(() => {
         listContext.lists = listsBacking.value ?? [];
     })
 
+    const isMenuOpen = useSignal(false);
+
     return (
         <div id="root">
             <div class={styles.header}>
                 <div class={styles["header-name"]}>
                     <img src="/logo.png" width="85" height="85" />
-                    <h1>BirdSpot</h1>
+                    <h1><Link href="/">BirdSpot</Link></h1>
                 </div>
-                <nav>
+                <button
+                    class={styles.hamburger}
+                    onClick$={() => isMenuOpen.value = !isMenuOpen.value}
+                    aria-label="Toggle navigation"
+                >
+                    <span class={styles.bar}></span>
+                    <span class={styles.bar}></span>
+                    <span class={styles.bar}></span>
+                </button>
+                <nav class={isMenuOpen.value ? styles["mobile-nav-open"] : null}>
                     <ul>
                         <li><Link href="/" data-active={location.url.pathname == "/"}>Home</Link></li>
                         <li><Link href="/about/" data-active={location.url.pathname == "/about/"}>About</Link></li>

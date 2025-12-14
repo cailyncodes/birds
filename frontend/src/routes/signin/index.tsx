@@ -20,6 +20,7 @@ export default component$(() => {
     <main class={styles.container}>
       <article>
         <h2>{!hasAccount.value ? "Create Account" : "Sign In"}</h2>
+        <p>{!hasAccount.value ? "A unique username and strong password is all you need to get started. We don't store any personal information!" : null}</p>
         <div>
           <Label for="username">Username:</Label>
           <input id="username" name="username" type="text" onInput$={(e) => username.value = (e.target as HTMLInputElement).value} />

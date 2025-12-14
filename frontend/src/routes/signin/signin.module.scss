@@ -8,7 +8,9 @@
         @include container;
         @include flex(column, center, center);
         width: max-content;
+        max-width: 450px;
         padding-top: 10rem;
+        text-align: center;
 
         div {
             @include flex(column, space-between, start);

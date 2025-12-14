@@ -18,8 +18,8 @@ export default component$(() => {
           <h2>Compare hotspots</h2>
           <p>The BirdSpot Score is computed using recent eBird checklist data  and allows you to compare hotspots based on your life list.</p>
         </section>
-        <section class={styles.block} />
-        <section class={styles.block} />
+        <section class={[styles.block, styles["block-empty"]]} />
+        <section class={[styles.block, styles["block-empty"]]} />
         <section class={styles.block}>
           <h2>Daily spots near your home</h2>
           <p>Get a daily report of the best hotspots in your region based on BirdSpot Score.</p>
@@ -28,12 +28,19 @@ export default component$(() => {
           <h2>Plan trips to maximize targets</h2>
           <p>Find the best hotspots in any region around the world to help you plan trips to new regions.</p>
         </section>
-        <section class={styles.block} />
+        <section class={[styles.block, styles["block-empty"]]} />
       </article>
+      <section>
       <div class={styles.callout}>
         <p class={styles["callout-header"]}>…and entirely FREE!</p>
         <p class={styles["callout-subtitle"]}><Link href="/donate">Donations</Link> are always appreciated :)</p>
       </div>
+      </section>
+      <section>
+        <div class={styles.action}>
+          <p><Link href="/signin">Create your account</Link> today to get started!</p>
+        </div>
+      </section>
     </main>
   )
 });

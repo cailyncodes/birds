@@ -43,14 +43,70 @@ nav {
             }
         }
     }
+
+    @media screen and (max-width: 540px) {
+        display: none;
+    }
+
+    &.mobile-nav-open {
+        @media screen and (max-width: 540px) {
+            display: block;
+            position: absolute;
+            z-index: 999;
+            right: 0;
+            top: 60px;
+            margin: 0;
+            padding: 1rem;
+            background: $color-bg-primary;
+
+            ul {
+                flex-direction: column;
+                align-items: center;
+                padding: 1rem 0;
+
+                li {
+                    margin: 0.5rem 0;
+                }
+            }
+        }
+    }
 }
+
+/* Mobile hamburger styles */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-self: right;
+    align-self: center;
+    width: 30px;
+    height: 25px;
+    margin-right: 1rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1000;
+
+    @media screen and (max-width: 540px) {
+        display: flex;
+    }
+}
+
+.hamburger .bar {
+    width: 100%;
+    height: 3px;
+    background: var(--black);
+    border-radius: 2px;
+}
+
 
 .hero {
     @include flex(column, center, center);
     position: relative;
     width: 100%;
     height: 725px;
-    background: url(../../public/hero.jpg) center calc(50% + 40px)/cover no-repeat;
+    background: url(/hero.jpg) center calc(50% + 40px)/cover no-repeat;
     // background-position-y: unset;
 
     @media screen and (max-width: 1545px) {
@@ -117,11 +173,29 @@ nav {
     gap: 1rem 3rem;
     padding: 4rem 0;
 
+    @media screen and (max-width: 1080px) {
+        grid-template-columns: minmax(auto, max-content);
+        gap: unset;
+    }
+
     .block {
         padding: 1rem;
         width: 500px;
-        // border-radius: 8px;
-        // box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+
+        @media screen and (max-width: 1080px) {
+            padding: 0;
+        }
+
+        @media screen and (max-width: 560px) {
+            padding: 1rem;
+            width: auto;
+        }
+
+        &-empty {
+            @media screen and (max-width: 560px) {
+                display: none;
+            }
+        }
 
         h2 {
             margin-top: 0;
@@ -134,6 +208,10 @@ nav {
             margin: 0;
             font-size: 1.2rem;
             color: $color-dark-grey;
+
+            @media screen and (max-width: 1080px) {
+                margin-bottom: 2rem;
+            }
         }
     }
 }
@@ -145,6 +223,23 @@ nav {
     color: $color-text;
     text-align: left;
     padding: 1rem 20rem;
+
+    @media screen and (max-width: 1080px) {
+        padding: 1rem 3rem;
+    }
+
+    @media screen and (max-width: 384px) {
+        height: auto;
+        padding: 2rem;
+    }
+
+    p {
+        @media screen and (max-width: 1080px) {
+            width: fit-content;
+            margin: 0 auto;
+            text-align: center;
+        }
+    }
 
     &-header {
         font-size: 50px;
@@ -159,6 +254,21 @@ nav {
 
         &:hover {
             border-bottom: dashed $color-text 1px;
+        }
+    }
+}
+
+.action {
+    @include container;
+    padding: 3rem;
+    text-align: center;
+    font-size: 2rem;
+
+    a {
+        border-bottom: solid $color-accent-3 1px;
+
+        &:hover {
+            border-bottom: dashed $color-accent-3 1px;
         }
     }
 }
