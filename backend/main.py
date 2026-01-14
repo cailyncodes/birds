@@ -78,11 +78,13 @@ class RegionSearchHandler(HTTPMethodView):
         self.region_search = region_search
 
     async def get(self, request):
-        query = request.args.get("q", "")
-        max_results = int(request.args.get("max_results", 10))
-        results, total = self.region_search.search_by_name(query, max_results)
-
-        return response.json({"results": results, "total": total})
+        country_code = request.args.get("country_code", "")
+        if not country_code:
+            return response.json(
+                {"error": "country_code query parameter is required"}, status=400
+            )
+        results = self.region_search.get_regions_for_country(country_code)
+        return response.json({"regions": results})
 
 
 class BirdSpotHandler(HTTPMethodView):

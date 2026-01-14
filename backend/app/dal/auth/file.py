@@ -36,6 +36,7 @@ class FileAuth(AuthProvider):
                         raise InvalidCredentials()
         # special case the error in which we try to open a file that doesn't exist
         except FileNotFoundError:
+            print("File not found for user", credentials.identifier)
             raise RuntimeError()
         
         raise InvalidCredentials()
@@ -53,6 +54,8 @@ class FileAuth(AuthProvider):
                 password=base64.b64encode(hashed).decode("utf-8"),
             )
         elif isinstance(credentials, JWTCredentials):
+            if not self.signing_key:
+                raise RuntimeError("No signing key set for JWT signing")
             jwt = pyjwt.encode(
                 {
                     "sub": credentials.identifier,
@@ -67,7 +70,7 @@ class FileAuth(AuthProvider):
                 expiration=cast(datetime.datetime, credentials.expiration)
             )
         else:
-            raise RuntimeError()
+            raise RuntimeError("Unsupported credential type for signing")
 
     async def store(self, credentials: Credentials):
         """YOU BETTER SIGN BEFORE YOU STORE!"""

@@ -1,4 +1,4 @@
-import { $, component$, useContext, useSignal, useVisibleTask$ } from "@builder.io/qwik";
+import { $, component$, Resource, useContext, useResource$, useSignal, useTask$, useVisibleTask$ } from "@builder.io/qwik";
 import { SettingsContext } from "~/routes/layout";
 import useLocalstorage from "../../hooks/use-localstorage";
 
@@ -6,40 +6,318 @@ import "./default-region.css";
 
 export default component$(() => {
     const settings = useContext(SettingsContext);
+    const defaultCountry = useSignal<string>("");
     const defaultRegion = useLocalstorage<string>({ key: "birdspot.defaults.region" });
-    const dropdownDisplay = useSignal<string>("none");
+    const editRegionDisplay = useSignal<boolean>(false);
+    const countryDropdownDisplay = useSignal<string>("none");
+    const countryTextFilter = useSignal<string>("");
+    const regionDropdownDisplay = useSignal<string>("none");
+    const regionTextFilter = useSignal<string>("");
 
     useVisibleTask$(({ track }) => {
         track(() => defaultRegion.value)
         settings.defaults = { ...settings.defaults, region: defaultRegion.value ?? "" }
+        defaultCountry.value = defaultRegion.value?.split("-")[0] ?? "";
     })
+
+    const countries = [
+        { "value": "AF", "text": "Afghanistan" },
+        { "value": "AL", "text": "Albania" },
+        { "value": "DZ", "text": "Algeria" },
+        { "value": "AS", "text": "American Samoa" },
+        { "value": "AD", "text": "Andorra" },
+        { "value": "AO", "text": "Angola" },
+        { "value": "AI", "text": "Anguilla" },
+        { "value": "AG", "text": "Antigua Barbuda" },
+        { "value": "AR", "text": "Argentina" },
+        { "value": "AM", "text": "Armenia" },
+        { "value": "AW", "text": "Aruba" },
+        { "value": "AU", "text": "Australia" },
+        { "value": "AT", "text": "Austria" },
+        { "value": "AZ", "text": "Azerbaijan" },
+        { "value": "BS", "text": "Bahamas" },
+        { "value": "BH", "text": "Bahrain" },
+        { "value": "BD", "text": "Bangladesh" },
+        { "value": "BB", "text": "Barbados" },
+        { "value": "BY", "text": "Belarus" },
+        { "value": "BE", "text": "Belgium" },
+        { "value": "BZ", "text": "Belize" },
+        { "value": "BJ", "text": "Benin" },
+        { "value": "BM", "text": "Bermuda" },
+        { "value": "BT", "text": "Bhutan" },
+        { "value": "BO", "text": "Bolivia" },
+        { "value": "BQ", "text": "Bonaire" },
+        { "value": "BA", "text": "Bosnia Herzegovina" },
+        { "value": "BW", "text": "Botswana" },
+        { "value": "BR", "text": "Brazil" },
+        { "value": "BN", "text": "Brunei" },
+        { "value": "BG", "text": "Bulgaria" },
+        { "value": "BI", "text": "Burundi" },
+        { "value": "KH", "text": "Cambodia" },
+        { "value": "CM", "text": "Cameroon" },
+        { "value": "CA", "text": "Canada" },
+        { "value": "CF", "text": "Central African" },
+        { "value": "TD", "text": "Chad" },
+        { "value": "CL", "text": "Chile" },
+        { "value": "CN", "text": "China" },
+        { "value": "CO", "text": "Colombia" },
+        { "value": "KM", "text": "Comoros" },
+        { "value": "CG", "text": "Congo" },
+        { "value": "HR", "text": "Croatia" },
+        { "value": "CU", "text": "Cuba" },
+        { "value": "CW", "text": "Curacao" },
+        { "value": "CY", "text": "Cyprus" },
+        { "value": "CZ", "text": "Czech" },
+        { "value": "DK", "text": "Denmark" },
+        { "value": "DJ", "text": "Djibouti" },
+        { "value": "DM", "text": "Dominica" },
+        { "value": "TL", "text": "East Timor" },
+        { "value": "EC", "text": "Ecuador" },
+        { "value": "EG", "text": "Egypt" },
+        { "value": "ER", "text": "Eritrea" },
+        { "value": "EE", "text": "Estonia" },
+        { "value": "ET", "text": "Ethiopia" },
+        { "value": "FI", "text": "Finland" },
+        { "value": "FR", "text": "France" },
+        { "value": "GA", "text": "Gabon" },
+        { "value": "GM", "text": "Gambia" },
+        { "value": "GE", "text": "Georgia" },
+        { "value": "DE", "text": "Germany" },
+        { "value": "GH", "text": "Ghana" },
+        { "value": "GI", "text": "Gibraltar" },
+        { "value": "GR", "text": "Greece" },
+        { "value": "GL", "text": "Greenland" },
+        { "value": "GD", "text": "Grenada" },
+        { "value": "GP", "text": "Guadeloupe" },
+        { "value": "GU", "text": "Guam" },
+        { "value": "GT", "text": "Guatemala" },
+        { "value": "GN", "text": "Guinea" },
+        { "value": "GY", "text": "Guyana" },
+        { "value": "HT", "text": "Haiti" },
+        { "value": "HN", "text": "Honduras" },
+        { "value": "HK", "text": "Hongkong" },
+        { "value": "HU", "text": "Hungary" },
+        { "value": "IS", "text": "Iceland" },
+        { "value": "ID", "text": "Indonesia" },
+        { "value": "IN", "text": "India" },
+        { "value": "IR", "text": "Iran" },
+        { "value": "IQ", "text": "Iraq" },
+        { "value": "IE", "text": "Ireland" },
+        { "value": "IL", "text": "Israel" },
+        { "value": "IT", "text": "Italy" },
+        { "value": "JM", "text": "Jamaica" },
+        { "value": "JP", "text": "Japan" },
+        { "value": "JO", "text": "Jordan" },
+        { "value": "KZ", "text": "Kazakhstan" },
+        { "value": "KE", "text": "Kenya" },
+        { "value": "KI", "text": "Kiribati" },
+        { "value": "KP", "text": "Korea North" },
+        { "value": "KR", "text": "Korea South" },
+        { "value": "KW", "text": "Kuwait" },
+        { "value": "KG", "text": "Kyrgyzstan" },
+        { "value": "LA", "text": "Laos" },
+        { "value": "LV", "text": "Latvia" },
+        { "value": "LB", "text": "Lebanon" },
+        { "value": "LS", "text": "Lesotho" },
+        { "value": "LR", "text": "Liberia" },
+        { "value": "LY", "text": "Libya" },
+        { "value": "LI", "text": "Liechtenstein" },
+        { "value": "LT", "text": "Lithuania" },
+        { "value": "LU", "text": "Luxembourg" },
+        { "value": "MO", "text": "Macau" },
+        { "value": "MK", "text": "Macedonia" },
+        { "value": "MG", "text": "Madagascar" },
+        { "value": "MY", "text": "Malaysia" },
+        { "value": "MW", "text": "Malawi" },
+        { "value": "MV", "text": "Maldives" },
+        { "value": "ML", "text": "Mali" },
+        { "value": "MT", "text": "Malta" },
+        { "value": "MQ", "text": "Martinique" },
+        { "value": "MR", "text": "Mauritania" },
+        { "value": "MU", "text": "Mauritius" },
+        { "value": "YT", "text": "Mayotte" },
+        { "value": "MX", "text": "Mexico" },
+        { "value": "MD", "text": "Moldova" },
+        { "value": "MC", "text": "Monaco" },
+        { "value": "MN", "text": "Mongolia" },
+        { "value": "MS", "text": "Montserrat" },
+        { "value": "MA", "text": "Morocco" },
+        { "value": "MZ", "text": "Mozambique" },
+        { "value": "MM", "text": "Myanmar" },
+        { "value": "NA", "text": "Namibia" },
+        { "value": "NR", "text": "Nauru" },
+        { "value": "NP", "text": "Nepal" },
+        { "value": "NL", "text": "Netherlands" },
+        { "value": "KN", "text": "Nevis" },
+        { "value": "NC", "text": "New Caledonia" },
+        { "value": "NZ", "text": "New Zealand" },
+        { "value": "NI", "text": "Nicaragua" },
+        { "value": "NE", "text": "Niger" },
+        { "value": "NG", "text": "Nigeria" },
+        { "value": "NO", "text": "Norway" },
+        { "value": "OM", "text": "Oman" },
+        { "value": "PK", "text": "Pakistan" },
+        { "value": "PS", "text": "Palestine" },
+        { "value": "PA", "text": "Panama" },
+        { "value": "PG", "text": "Papua New Guinea" },
+        { "value": "PY", "text": "Paraguay" },
+        { "value": "PE", "text": "Peru" },
+        { "value": "PH", "text": "Philippines" },
+        { "value": "PL", "text": "Poland" },
+        { "value": "PT", "text": "Portugal" },
+        { "value": "PR", "text": "Puerto Rico" },
+        { "value": "QA", "text": "Qatar" },
+        { "value": "ME", "text": "Montenegro" },
+        { "value": "RS", "text": "Serbia" },
+        { "value": "RE", "text": "Reunion" },
+        { "value": "RO", "text": "Romania" },
+        { "value": "RU", "text": "Russia" },
+        { "value": "RW", "text": "Rwanda" },
+        { "value": "MP", "text": "Saipan" },
+        { "value": "WS", "text": "Samoa" },
+        { "value": "SA", "text": "Saudi Arabia" },
+        { "value": "SN", "text": "Senegal" },
+        { "value": "SC", "text": "Seychelles" },
+        { "value": "SL", "text": "Sierra Leone" },
+        { "value": "SG", "text": "Singapore" },
+        { "value": "SK", "text": "Slovakia" },
+        { "value": "SI", "text": "Slovenia" },
+        { "value": "SB", "text": "Solomon" },
+        { "value": "SO", "text": "Somalia" },
+        { "value": "ZA", "text": "South Africa" },
+        { "value": "ES", "text": "Spain" },
+        { "value": "LK", "text": "Sri Lanka" },
+        { "value": "SD", "text": "Sudan" },
+        { "value": "SR", "text": "Suriname" },
+        { "value": "SZ", "text": "Swaziland" },
+        { "value": "SE", "text": "Sweden" },
+        { "value": "CH", "text": "Switzerland" },
+        { "value": "SY", "text": "Syria" },
+        { "value": "PF", "text": "Tahiti" },
+        { "value": "TW", "text": "Taiwan" },
+        { "value": "TJ", "text": "Tajikistan" },
+        { "value": "TZ", "text": "Tanzania" },
+        { "value": "TH", "text": "Thailand" },
+        { "value": "TG", "text": "Togo" },
+        { "value": "TO", "text": "Tonga" },
+        { "value": "TN", "text": "Tunisia" },
+        { "value": "TR", "text": "Türkiye" },
+        { "value": "TM", "text": "Turkmenistan" },
+        { "value": "TV", "text": "Tuvalu" },
+        { "value": "UG", "text": "Uganda" },
+        { "value": "GB", "text": "United Kingdom" },
+        { "value": "UA", "text": "Ukraine" },
+        { "value": "AE", "text": "United Arab Emirates" },
+        { "value": "US", "text": "United States of America" },
+        { "value": "UY", "text": "Uruguay" },
+        { "value": "UZ", "text": "Uzbekistan" },
+        { "value": "VU", "text": "Vanuatu" },
+        { "value": "VA", "text": "Vatican" },
+        { "value": "VE", "text": "Venezuela" },
+        { "value": "VN", "text": "Vietnam" },
+        { "value": "YE", "text": "Yemen" },
+        { "value": "CD", "text": "Democratic Republic of the Congo" },
+        { "value": "ZM", "text": "Zambia" },
+        { "value": "ZW", "text": "Zimbabwe" }
+    ];
+
+    const regions = useResource$<Record<string, string>[]>(async ({ track }) => {
+        track(() => defaultCountry.value);
+        if ((defaultCountry.value?.length ?? 0) === 0) return [];
+        return await fetch(`/api/regions/search?country_code=${defaultCountry.value}`).then(res => res.json()).then(data => data.regions);
+    });
+
+    function getCountryByCode(code?: string) {
+        if (!code) return undefined;
+        const country = countries.find(c => c.value === code);
+        return country?.text;
+    }
+
+    function getRegionByCode(regions: Record<string, string>[], code?: string) {
+        if (!code) return undefined;
+        const region = regions.find(r => r.code === code);
+        return region?.name;
+    }
+
+    useTask$(({ track }) => {
+        track(() => defaultRegion.value);
+        if (!defaultRegion.value) return;
+        window.localStorage.setItem("birdspot.defaults.region", defaultRegion.value);
+        window.dispatchEvent(new CustomEvent("localstorageupdate", { detail: { key: "birdspot.defaults.region" } }))
+    });
 
     return (
         <>
             <p>Choose a default region for your daily report. This should be the location you're most likely to bird in on a daily basis.</p>
-            <div>
-                <form name="countries" class="form" id="form">
+            <Resource value={regions}
+                onResolved={(regions) => (
+                    <p>Default region: {getRegionByCode(regions, defaultRegion.value)}</p>
+                )}
+            />
+            <button style={{display: editRegionDisplay.value ? "none" : "block"}} onClick$={() => editRegionDisplay.value = true}>Edit</button>
+            <div style={{display: editRegionDisplay.value ? "block" : "none"}} class="default-region-edit">
+                <form name="countries" class="form" id="country-form">
+                    <p>Select the country of your default region</p>
                     <div class="form-group">
                         <span class="form-arrow"><i class="bx bx-chevron-down"></i></span>
-                        <div class="dropdown">
-                            <div class="dropdown-select" onMouseLeave$={$(() => dropdownDisplay.value = "none")} onClick$={$(() => dropdownDisplay.value = "block")}>Select your country</div>
-                            <div class="dropdown-menu" style={{display: dropdownDisplay.value}}>
-                                <input placeholder="Search..." type="text" class="dropdown-menu-search" />
+                        <div class="dropdown" onMouseLeave$={$(() => {
+                            if (countryTextFilter.value.length > 0) return;
+                            countryDropdownDisplay.value = "none";
+                            countryTextFilter.value = "";
+                        })}>
+                            <div class="dropdown-select" onClick$={$(() => countryDropdownDisplay.value = "block")}>{getCountryByCode(defaultCountry.value) || "Select your country"}</div>
+                            <div class="dropdown-menu" style={{ display: countryDropdownDisplay.value }}>
+                                <input class="dropdown-menu-search" placeholder="Search..." type="text" value={countryTextFilter.value} onInput$={$((e) => {
+                                    countryTextFilter.value = (e.target as HTMLInputElement).value
+                                })} />
                                 <div class="dropdown-menu-inner">
-                                    <div class="dropdown-menu-item selected" data-value="Select your country">Select your country</div>
-                                    <div class="dropdown-menu-item" data-value="Afghanistan">Afghanistan</div><div class="dropdown-menu-item" data-value="Albania">Albania</div><div class="dropdown-menu-item" data-value="Algeria">Algeria</div><div class="dropdown-menu-item" data-value="American Samoa">American Samoa</div><div class="dropdown-menu-item" data-value="Andorra">Andorra</div><div class="dropdown-menu-item" data-value="Angola">Angola</div><div class="dropdown-menu-item" data-value="Anguilla">Anguilla</div><div class="dropdown-menu-item" data-value="Antigua Barbuda">Antigua Barbuda</div><div class="dropdown-menu-item" data-value="Argentina">Argentina</div><div class="dropdown-menu-item" data-value="Armenia">Armenia</div><div class="dropdown-menu-item" data-value="Aruba">Aruba</div><div class="dropdown-menu-item" data-value="Australia">Australia</div><div class="dropdown-menu-item" data-value="Austria">Austria</div><div class="dropdown-menu-item" data-value="Azerbaijan">Azerbaijan</div><div class="dropdown-menu-item" data-value="Bahamas">Bahamas</div><div class="dropdown-menu-item" data-value="Bahrain">Bahrain</div><div class="dropdown-menu-item" data-value="Bangladesh">Bangladesh</div><div class="dropdown-menu-item" data-value="Barbados">Barbados</div><div class="dropdown-menu-item" data-value="Belarus">Belarus</div><div class="dropdown-menu-item" data-value="Belgium">Belgium</div><div class="dropdown-menu-item" data-value="Belize">Belize</div><div class="dropdown-menu-item" data-value="Benin">Benin</div><div class="dropdown-menu-item" data-value="Bermuda">Bermuda</div><div class="dropdown-menu-item" data-value="Bhutan">Bhutan</div><div class="dropdown-menu-item" data-value="Bolivia">Bolivia</div><div class="dropdown-menu-item" data-value="Bonaire">Bonaire</div><div class="dropdown-menu-item" data-value="Bosnia Herzegovina">Bosnia Herzegovina</div><div class="dropdown-menu-item" data-value="Botswana">Botswana</div><div class="dropdown-menu-item" data-value="Brazil">Brazil</div><div class="dropdown-menu-item" data-value="Brunei">Brunei</div><div class="dropdown-menu-item" data-value="Bulgaria">Bulgaria</div><div class="dropdown-menu-item" data-value="Burundi">Burundi</div><div class="dropdown-menu-item" data-value="Cambodia">Cambodia</div><div class="dropdown-menu-item" data-value="Cameroon">Cameroon</div><div class="dropdown-menu-item" data-value="Canada">Canada</div><div class="dropdown-menu-item" data-value="Central African">Central African</div><div class="dropdown-menu-item" data-value="Chad">Chad</div><div class="dropdown-menu-item" data-value="Chile">Chile</div><div class="dropdown-menu-item" data-value="China">China</div><div class="dropdown-menu-item" data-value="Colombia">Colombia</div><div class="dropdown-menu-item" data-value="Comoros">Comoros</div><div class="dropdown-menu-item" data-value="Congo">Congo</div><div class="dropdown-menu-item" data-value="Croatia">Croatia</div><div class="dropdown-menu-item" data-value="Cuba">Cuba</div><div class="dropdown-menu-item" data-value="Curacao">Curacao</div><div class="dropdown-menu-item" data-value="Cyprus">Cyprus</div><div class="dropdown-menu-item" data-value="Czech">Czech</div><div class="dropdown-menu-item" data-value="Denmark">Denmark</div><div class="dropdown-menu-item" data-value="Djibouti">Djibouti</div><div class="dropdown-menu-item" data-value="Dominica">Dominica</div><div class="dropdown-menu-item" data-value="East Timor">East Timor</div><div class="dropdown-menu-item" data-value="Ecuador">Ecuador</div><div class="dropdown-menu-item" data-value="Egypt">Egypt</div><div class="dropdown-menu-item" data-value="Eritrea">Eritrea</div><div class="dropdown-menu-item" data-value="Estonia">Estonia</div><div class="dropdown-menu-item" data-value="Ethiopia">Ethiopia</div><div class="dropdown-menu-item" data-value="Finland">Finland</div><div class="dropdown-menu-item" data-value="France">France</div><div class="dropdown-menu-item" data-value="Gabon">Gabon</div><div class="dropdown-menu-item" data-value="Gambia">Gambia</div><div class="dropdown-menu-item" data-value="Georgia">Georgia</div><div class="dropdown-menu-item" data-value="Germany">Germany</div><div class="dropdown-menu-item" data-value="Ghana">Ghana</div><div class="dropdown-menu-item" data-value="Gibraltar">Gibraltar</div><div class="dropdown-menu-item" data-value="Greece">Greece</div><div class="dropdown-menu-item" data-value="Greenland">Greenland</div><div class="dropdown-menu-item" data-value="Grenada">Grenada</div><div class="dropdown-menu-item" data-value="Guadeloupe">Guadeloupe</div><div class="dropdown-menu-item" data-value="Guam">Guam</div><div class="dropdown-menu-item" data-value="Guatemala">Guatemala</div><div class="dropdown-menu-item" data-value="Guinea">Guinea</div><div class="dropdown-menu-item" data-value="Guyana">Guyana</div><div class="dropdown-menu-item" data-value="Haiti">Haiti</div><div class="dropdown-menu-item" data-value="Hawaii">Hawaii</div><div class="dropdown-menu-item" data-value="Honduras">Honduras</div><div class="dropdown-menu-item" data-value="Hongkong">Hongkong</div><div class="dropdown-menu-item" data-value="Hungary">Hungary</div><div class="dropdown-menu-item" data-value="Iceland">Iceland</div><div class="dropdown-menu-item" data-value="Indonesia">Indonesia</div><div class="dropdown-menu-item" data-value="India">India</div><div class="dropdown-menu-item" data-value="Iran">Iran</div><div class="dropdown-menu-item" data-value="Iraq">Iraq</div><div class="dropdown-menu-item" data-value="Ireland">Ireland</div><div class="dropdown-menu-item" data-value="Israel">Israel</div><div class="dropdown-menu-item" data-value="Italy">Italy</div><div class="dropdown-menu-item" data-value="Jamaica">Jamaica</div><div class="dropdown-menu-item" data-value="Japan">Japan</div><div class="dropdown-menu-item" data-value="Jordan">Jordan</div><div class="dropdown-menu-item" data-value="Kazakhstan">Kazakhstan</div><div class="dropdown-menu-item" data-value="Kenya">Kenya</div><div class="dropdown-menu-item" data-value="Kiribati">Kiribati</div><div class="dropdown-menu-item" data-value="Korea North">Korea North</div><div class="dropdown-menu-item" data-value="Korea South">Korea South</div><div class="dropdown-menu-item" data-value="Kuwait">Kuwait</div><div class="dropdown-menu-item" data-value="Kyrgyzstan">Kyrgyzstan</div><div class="dropdown-menu-item" data-value="Laos">Laos</div><div class="dropdown-menu-item" data-value="Latvia">Latvia</div><div class="dropdown-menu-item" data-value="Lebanon">Lebanon</div><div class="dropdown-menu-item" data-value="Lesotho">Lesotho</div><div class="dropdown-menu-item" data-value="Liberia">Liberia</div><div class="dropdown-menu-item" data-value="Libya">Libya</div><div class="dropdown-menu-item" data-value="Liechtenstein">Liechtenstein</div><div class="dropdown-menu-item" data-value="Lithuania">Lithuania</div><div class="dropdown-menu-item" data-value="Luxembourg">Luxembourg</div><div class="dropdown-menu-item" data-value="Macau">Macau</div><div class="dropdown-menu-item" data-value="Macedonia">Macedonia</div><div class="dropdown-menu-item" data-value="Madagascar">Madagascar</div><div class="dropdown-menu-item" data-value="Malaysia">Malaysia</div><div class="dropdown-menu-item" data-value="Malawi">Malawi</div><div class="dropdown-menu-item" data-value="Maldives">Maldives</div><div class="dropdown-menu-item" data-value="Mali">Mali</div><div class="dropdown-menu-item" data-value="Malta">Malta</div><div class="dropdown-menu-item" data-value="Martinique">Martinique</div><div class="dropdown-menu-item" data-value="Mauritania">Mauritania</div><div class="dropdown-menu-item" data-value="Mauritius">Mauritius</div><div class="dropdown-menu-item" data-value="Mayotte">Mayotte</div><div class="dropdown-menu-item" data-value="Mexico">Mexico</div><div class="dropdown-menu-item" data-value="Moldova">Moldova</div><div class="dropdown-menu-item" data-value="Monaco">Monaco</div><div class="dropdown-menu-item" data-value="Mongolia">Mongolia</div><div class="dropdown-menu-item" data-value="Montserrat">Montserrat</div><div class="dropdown-menu-item" data-value="Morocco">Morocco</div><div class="dropdown-menu-item" data-value="Mozambique">Mozambique</div><div class="dropdown-menu-item" data-value="Myanmar">Myanmar</div><div class="dropdown-menu-item" data-value="Namibia">Namibia</div><div class="dropdown-menu-item" data-value="Nauru">Nauru</div><div class="dropdown-menu-item" data-value="Nepal">Nepal</div><div class="dropdown-menu-item" data-value="Netherlands">Netherlands</div><div class="dropdown-menu-item" data-value="Nevis">Nevis</div><div class="dropdown-menu-item" data-value="New Caledonia">New Caledonia</div><div class="dropdown-menu-item" data-value="New Zealand">New Zealand</div><div class="dropdown-menu-item" data-value="Nicaragua">Nicaragua</div><div class="dropdown-menu-item" data-value="Niger">Niger</div><div class="dropdown-menu-item" data-value="Nigeria">Nigeria</div><div class="dropdown-menu-item" data-value="Norway">Norway</div><div class="dropdown-menu-item" data-value="Oman">Oman</div><div class="dropdown-menu-item" data-value="Pakistan">Pakistan</div><div class="dropdown-menu-item" data-value="Palestine">Palestine</div><div class="dropdown-menu-item" data-value="Panama">Panama</div><div class="dropdown-menu-item" data-value="Papua New Guinea">Papua New Guinea</div><div class="dropdown-menu-item" data-value="Paraguay">Paraguay</div><div class="dropdown-menu-item" data-value="Peru">Peru</div><div class="dropdown-menu-item" data-value="Philippines">Philippines</div><div class="dropdown-menu-item" data-value="Poland">Poland</div><div class="dropdown-menu-item" data-value="Portugal">Portugal</div><div class="dropdown-menu-item" data-value="Puerto Rico">Puerto Rico</div><div class="dropdown-menu-item" data-value="Qatar">Qatar</div><div class="dropdown-menu-item" data-value="Montenegro">Montenegro</div><div class="dropdown-menu-item" data-value="Serbia">Serbia</div><div class="dropdown-menu-item" data-value="Reunion">Reunion</div><div class="dropdown-menu-item" data-value="Romania">Romania</div><div class="dropdown-menu-item" data-value="Russia">Russia</div><div class="dropdown-menu-item" data-value="Rwanda">Rwanda</div><div class="dropdown-menu-item" data-value="Saipan">Saipan</div><div class="dropdown-menu-item" data-value="Samoa">Samoa</div><div class="dropdown-menu-item" data-value="Saudi Arabia">Saudi Arabia</div><div class="dropdown-menu-item" data-value="Senegal">Senegal</div><div class="dropdown-menu-item" data-value="Seychelles">Seychelles</div><div class="dropdown-menu-item" data-value="Sierra Leone">Sierra Leone</div><div class="dropdown-menu-item" data-value="Singapore">Singapore</div><div class="dropdown-menu-item" data-value="Slovakia">Slovakia</div><div class="dropdown-menu-item" data-value="Slovenia">Slovenia</div><div class="dropdown-menu-item" data-value="Solomon">Solomon</div><div class="dropdown-menu-item" data-value="Somalia">Somalia</div><div class="dropdown-menu-item" data-value="South Africa">South Africa</div><div class="dropdown-menu-item" data-value="Spain">Spain</div><div class="dropdown-menu-item" data-value="Sri Lanka">Sri Lanka</div><div class="dropdown-menu-item" data-value="Sudan">Sudan</div><div class="dropdown-menu-item" data-value="Suriname">Suriname</div><div class="dropdown-menu-item" data-value="Swaziland">Swaziland</div><div class="dropdown-menu-item" data-value="Sweden">Sweden</div><div class="dropdown-menu-item" data-value="Switzerland">Switzerland</div><div class="dropdown-menu-item" data-value="Syria">Syria</div><div class="dropdown-menu-item" data-value="Tahiti">Tahiti</div><div class="dropdown-menu-item" data-value="Taiwan">Taiwan</div><div class="dropdown-menu-item" data-value="Tajikistan">Tajikistan</div><div class="dropdown-menu-item" data-value="Tanzania">Tanzania</div><div class="dropdown-menu-item" data-value="Thailand">Thailand</div><div class="dropdown-menu-item" data-value="Togo">Togo</div><div class="dropdown-menu-item" data-value="Tonga">Tonga</div><div class="dropdown-menu-item" data-value="Tunisia">Tunisia</div><div class="dropdown-menu-item" data-value="Turkey">Turkey</div><div class="dropdown-menu-item" data-value="Turkmenistan">Turkmenistan</div><div class="dropdown-menu-item" data-value="Tuvalu">Tuvalu</div><div class="dropdown-menu-item" data-value="Uganda">Uganda</div><div class="dropdown-menu-item" data-value="United Kingdom">United Kingdom</div><div class="dropdown-menu-item" data-value="Ukraine">Ukraine</div><div class="dropdown-menu-item" data-value="United Arab Emirates">United Arab Emirates</div><div class="dropdown-menu-item" data-value="United States America">United States America</div><div class="dropdown-menu-item" data-value="Uruguay">Uruguay</div><div class="dropdown-menu-item" data-value="Uzbekistan">Uzbekistan</div><div class="dropdown-menu-item" data-value="Vanuatu">Vanuatu</div><div class="dropdown-menu-item" data-value="Vatican">Vatican</div><div class="dropdown-menu-item" data-value="Venezuela">Venezuela</div><div class="dropdown-menu-item" data-value="Vietnam">Vietnam</div><div class="dropdown-menu-item" data-value="Yemen">Yemen</div><div class="dropdown-menu-item" data-value="Zaire">Zaire</div><div class="dropdown-menu-item" data-value="Zambia">Zambia</div><div class="dropdown-menu-item" data-value="Zimbabwe">Zimbabwe</div>
+                                    {countries.filter(c => c.text.toLowerCase().startsWith(countryTextFilter.value.toLowerCase())).map((country) => (
+                                        <div class="dropdown-menu-item" data-value={country.value} onClick$={$((event) => {
+                                            const selected = event.target as HTMLDivElement;
+                                            defaultCountry.value = selected.dataset.value || "";
+                                            countryDropdownDisplay.value = "none";
+                                        })}>{country.text}</div>
+                                    ))}
                                 </div>
                             </div>
                         </div>
                     </div>
                 </form>
-                <label for="default-region">Your default region: </label>
-                <input id="default-region" name="default-region" type="text" placeholder="Enter your region" defaultValue={settings?.defaults?.region as string ?? ""} onInput$={
-                    (event: InputEvent) => {
-                        window.localStorage.setItem("birdspot.defaults.region", (event.target as HTMLInputElement).value);
-                        window.dispatchEvent(new CustomEvent("localstorageupdate", { detail: { key: "birdspot.defaults.region" } }))
-                    }
-                } />
+                <form name="countries" class="form" id="region-form">
+                    <p>Select your default region:</p>
+                    <div class="form-group">
+                        <span class="form-arrow"><i class="bx bx-chevron-down"></i></span>
+                        <div class="dropdown" onMouseLeave$={$(() => {
+                            if (regionTextFilter.value.length > 0) return;
+                            regionDropdownDisplay.value = "none";
+                            regionTextFilter.value = "";
+                        })}>
+                            <Resource value={regions}
+                                onResolved={(regions) => <div class="dropdown-select" onClick$={$(() => regionDropdownDisplay.value = "block")}>{getRegionByCode(regions, defaultRegion.value) || "Select your region"}</div>}
+                            />
+                            <div class="dropdown-menu" style={{ display: regionDropdownDisplay.value }}>
+                                <input class="dropdown-menu-search" placeholder="Search..." type="text" value={regionTextFilter.value} onInput$={$((e) => {
+                                    regionTextFilter.value = (e.target as HTMLInputElement).value
+                                })} />
+                                <Resource value={regions}
+                                    onResolved={(regions) => (
+                                        <>{console.log(regions)}
+                                            <div class="dropdown-menu-inner">
+                                                {regions.filter(r => r.name.toLowerCase().startsWith(regionTextFilter.value.toLowerCase())).map((region) => (
+                                                    <div class="dropdown-menu-item" data-value={region.code} onClick$={$((event) => {
+                                                        const selected = event.target as HTMLDivElement;
+                                                        defaultRegion.value = selected.dataset.value || "";
+                                                        regionDropdownDisplay.value = "none";
+                                                    })}>{region.name}</div>
+                                                ))}
+                                            </div>
+                                        </>
+                                    )}
+                                />
+                            </div>
+                        </div>
+                    </div>
+                </form>
             </div>
         </>
     )

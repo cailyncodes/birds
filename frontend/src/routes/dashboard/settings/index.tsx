@@ -5,10 +5,10 @@ import DefaultRegion from "~/components/default-region/default-region";
 import EBirdApiKey from "~/components/ebird-api-key/ebird-api-key";
 
 import { DocumentHead } from "@builder.io/qwik-city";
-import "./settings.css";
+import styles from "./settings.module.scss";
 
 export default component$(() => {
-    return <div>
+    return <div class={styles.settings}>
         <h2>Settings</h2>
         <p>Manage all your account settings here</p>
         <section>

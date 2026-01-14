@@ -7,6 +7,7 @@ import minject
 
 from lib.trie import Trie
 
+REGIONS_DIRECTORY = "data/regions/"
 REGIONS_LIST_PATH = "data/regions/all_regions_flat.json"
 REGIONS_PICKLE_PATH = "data/regions/all_regions_flat.pkl"
 
@@ -60,6 +61,14 @@ class RegionSearch:
         hydrated_results = [{"name": r, "code": self.regions[r]} for r in results[:max_results] if self.regions.get(r) is not None]
         
         return hydrated_results, len(results)
+    
+    def get_regions_for_country(self, country_code: str) -> dict[str, str]:
+        """
+        Get all regions for a given country code.
+        """
+        with open(os.path.join(REGIONS_DIRECTORY, f"country_{country_code}_regions.json"), "r") as f:
+            regions = json.load(f)
+        return regions
     
     def _match_score(self, region: str, query: str) -> tuple[int, int, int, str]:
         """

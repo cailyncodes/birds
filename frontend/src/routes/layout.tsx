@@ -1,4 +1,4 @@
-import { $, component$, createContextId, Slot, useContext, useContextProvider, useStore, useVisibleTask$, useSignal } from '@builder.io/qwik';
+import { $, component$, createContextId, Slot, useContext, useContextProvider, useStore, useVisibleTask$, useSignal, Fragment } from '@builder.io/qwik';
 import useLocalstorage from '~/hooks/use-localstorage';
 
 import styles from "./index.module.scss";
@@ -69,7 +69,7 @@ export default component$(() => {
     return (
         <div id="root">
             <div class={styles.header}>
-                <div class={styles["header-name"]}>
+                <div class={styles["header-name"]} onClick$={() => isMenuOpen.value = false}>
                     <img src="/logo.png" width="85" height="85" />
                     <h1><Link href="/">BirdSpot</Link></h1>
                 </div>
@@ -86,7 +86,7 @@ export default component$(() => {
                     <ul>
                         <li><Link href="/" data-active={location.url.pathname == "/"}>Home</Link></li>
                         <li><Link href="/about/" data-active={location.url.pathname == "/about/"}>About</Link></li>
-                        <li><Link href="/donate/" data-active={location.url.pathname == "/donate/"}>Donate</Link></li>
+                        <li><Link href="/donate/" prefetch={false} data-active={location.url.pathname == "/donate/"}>Donate</Link></li>
                         {isLoggedIn.value ?
                             <li><Link href="/dashboard/" data-active={location.url.pathname == "/dashboard/"}>Dashboard</Link></li> :
                             <li><Link href="/signin/" data-active={location.url.pathname == "/signin/"}>Sign In</Link></li>
@@ -94,7 +94,9 @@ export default component$(() => {
                     </ul>
                 </nav>
             </div>
-            <Slot />
+            <div onClick$={() => isMenuOpen.value = false}>
+                <Slot />
+            </div>
         </div>
     );
 });

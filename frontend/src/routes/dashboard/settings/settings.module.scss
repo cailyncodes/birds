@@ -1,0 +1,15 @@
+@use "../../../styles/global.scss" as *;
+
+.settings {
+    max-width: 800px;
+
+    section {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+
+        article p {
+            padding: .5rem 0;
+        }
+    }
+}
