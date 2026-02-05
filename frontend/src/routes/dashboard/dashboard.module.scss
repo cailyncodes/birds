@@ -55,26 +55,26 @@
         text-decoration: none;
         color: var(--black);
     }
+
+    .content {
+        margin-top: 6rem;
+    }
 }
 
-main {
+.main {
     grid-area: content;
 }
 
+.article {
+    border: solid 1px black;
+    padding: 1rem;
+    border-radius: 5px;
 
+    .button-wrapper {
+        display: flex;
+    }
 
-article .button-wrapper {
-    display: flex;
-}
-
-article .button-wrapper button {
-    margin: 0 auto;
-}
-
-.active li {
-    background-color: var(--secondary);
-    border-left: 5px solid var(--accent-4);
-
-    cursor: pointer;
-    font-weight: 600;
+    .button-wrapper button {
+        margin: 0 auto;
+    }
 }

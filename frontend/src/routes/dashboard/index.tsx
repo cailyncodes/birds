@@ -14,7 +14,7 @@ export default component$(() => {
         <p>BirdSpot makes finding birds easier</p>
         {
           onboardingComplete.value !== "complete" ?
-            <article>
+            <article class={styles.article}>
               <h3>Getting started</h3>
               <p>1. Make an <a href="https://ebird.org/home" target="_blank" rel="noopener noreferrer">eBird account</a>.</p>
               <p>2. Configure your BirdSpot account on <Link href="/dashboard/settings/">settings</Link>.</p>
@@ -31,7 +31,7 @@ export default component$(() => {
         }
         <>
           <section>
-            <article>
+            <article class={styles.article}>
               <h3>Your reports</h3>
               <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
               <div class="button-wrapper">
@@ -44,7 +44,7 @@ export default component$(() => {
           onboardingComplete.value === "complete" ?
             <>
               <section>
-                <article>
+                <article class={styles.article}>
                   <h3>Brooklyn 11/30</h3>
                   <p>Your report for Monday, Decemeber 1st for Kings, NY</p>
                   <h4>Top Hotspots</h4>
@@ -53,7 +53,7 @@ export default component$(() => {
                   <p>Targets: Eastern Meadowlark, Purple Finch</p>
                   <p>Relevant checklists: X, Y, Z</p>
                 </article>
-                <article>
+                <article class={styles.article}>
                   <h3>Daily report</h3>
                   <p>Your report for Monday, Decemeber 1st for Kings, NY</p>
                   <h4>Top Hotspots</h4>

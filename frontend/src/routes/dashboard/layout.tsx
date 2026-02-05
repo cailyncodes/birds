@@ -51,7 +51,9 @@ export default component$(() => {
                         <NavLink href="/dashboard/settings" activeClass="active"><li>Settings</li></NavLink>
                     </ul>
                 </aside>
-                <Slot />
+                <div class={styles.content}>
+                    <Slot />
+                </div>
             </div>
         </div>
     );
