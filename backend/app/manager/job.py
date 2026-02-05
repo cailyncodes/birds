@@ -41,7 +41,7 @@ class Job:
             state=obj["state"],
             callable=obj["callable"],
             payload=obj["payload"],
-            response=obj["response"]
+            response=obj.get("response", None)
         )
 
     def start(self):
@@ -109,6 +109,7 @@ class JobManager:
     def start_job(self, job: Job):
         with open(f"{self.directory}{job.id}.json", "w") as f:
             job.state = "running"
+            print("saving job", str(job))
             f.write(str(job))
         
         future = self.executor.submit(lambda: asyncio.run(job.start()))

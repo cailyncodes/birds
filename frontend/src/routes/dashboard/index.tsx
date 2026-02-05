@@ -85,133 +85,124 @@ export default component$(() => {
             : null
         }
         {(onboardingComplete.value === "complete") ? (
-          <section>
-            <article>
-              <h3>My Reports</h3>
-              {jobs.value.length > 0 ?
-                jobs.value.map((job) => (
-                  <article class={styles.article}>
-                  <ul>
-                    {/* @ts-expect-error */}
-                    <h4>Top Hotspots | {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
-                    {/* @ts-expect-error */}
-                    {job.response.slice(0, 5).map((hotspot) => (
-                      <>
-                        <li key={hotspot.location.locId}>
-                          <p><strong>{hotspot.location.locName}</strong></p>
-                          <p><strong>BirdSpot Score:</strong> {Math.round(hotspot.birdspot_score * 100) / 100}</p>
-                          {/* @ts-expect-error */}
-                          <p><strong>Targets:</strong> {Object.values(hotspot.missing_species).map(arr => arr[0].comName).join(", ")}</p>
-                        </li>
-                      </>
-                    ))}
-                  </ul>
-                  </article>
-                ))
-                : <p>No reports yet. Create one using the form below.</p>}
-            </article>
-          </section>
-        ) : null}
-        <>
-          <section>
-            <article class={styles.article}>
-              <h3>Your reports</h3>
-              <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
-              <div class="button-wrapper">
-                <button onClick$={() => showForm.value = true}>Add report</button>
-              </div>
-            </article>
-          </section>
-        </>
-        {showForm.value && (
-          <section>
-            <article class={styles.article}>
-              <h3>Create New Report</h3>
-              <form
-                action="#"
-                onSubmit$={$(async (e) => {
-                  e.preventDefault();
-                  await handleSubmit();
-                  return false;
-                })}
-              >
-                <div>
-                  <label htmlFor="list-select">Life List:</label>
-                  <select
-                    id="list-select"
-                    value={selectedList.value}
-                    onChange$={(e) => selectedList.value = (e.target as HTMLSelectElement).value}
-                    required
-                  >
-                    <option value="" disabled>Select a list</option>
-                    {lists.lists.map((list) => (
-                      <option key={list.name} value={list.name}>
-                        {list.name}
-                      </option>
-                    ))}
-                  </select>
-                </div>
-                <div>
-                  <label htmlFor="region-code">Region Code:</label>
-                  <input
-                    id="region-code"
-                    type="text"
-                    value={regionCode.value}
-                    onInput$={(e) => regionCode.value = (e.target as HTMLInputElement).value}
-                    placeholder="e.g., L10"
-                    required
-                  />
-                </div>
-                <div>
-                  <label htmlFor="target-date">Target Date:</label>
-                  <input
-                    id="target-date"
-                    type="date"
-                    value={targetDate.value}
-                    onInput$={(e) => targetDate.value = (e.target as HTMLInputElement).value}
-                    required
-                  />
-                </div>
-                <div class="button-wrapper">
-                  <button type="submit">Create Report</button>
-                  <button type="button" onClick$={() => {
-                    showForm.value = false;
-                    selectedList.value = "";
-                  }}>Cancel</button>
-                </div>
-              </form>
-            </article>
-          </section>
-        )}
-        {
-          onboardingComplete.value === "complete" ?
+          <>
             <>
-              {/* <section>
+              <section>
                 <article class={styles.article}>
-                  <h3>Brooklyn 11/30</h3>
-                  <p>Your report for Monday, Decemeber 1st for Kings, NY</p>
-                  <h4>Top Hotspots</h4>
-                  <p>Prospect Park</p>
-                  <p>BirdSpot Score: 0.871</p>
-                  <p>Targets: Eastern Meadowlark, Purple Finch</p>
-                  <p>Relevant checklists: X, Y, Z</p>
-                </article>
-                <article class={styles.article}>
-                  <h3>Daily report</h3>
-                  <p>Your report for Monday, Decemeber 1st for Kings, NY</p>
-                  <h4>Top Hotspots</h4>
-                  <p>Prospect Park</p>
-                  <p>BirdSpot Score: 0.871</p>
-                  <p>Targets: Eastern Meadowlark, Purple Finch</p>
-                  <p>Relevant checklists: X, Y, Z</p>
+                  <h3>Create reports</h3>
+                  <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
+                  <div class={styles["button-wrapper"]}>
+                    <button onClick$={() => showForm.value = true}>Add report</button>
+                  </div>
                 </article>
               </section>
-              <section>
-
-              </section> */}
             </>
-            : null
-        }
+            {showForm.value && (
+              <section>
+                <article class={styles.article}>
+                  <h3>Create New Report</h3>
+                  <form
+                    action="#"
+                    onSubmit$={$(async (e) => {
+                      e.preventDefault();
+                      await handleSubmit();
+                      return false;
+                    })}
+                  >
+                    <div>
+                      <label htmlFor="list-select">Life List:</label>
+                      <select
+                        id="list-select"
+                        value={selectedList.value}
+                        onChange$={(e) => selectedList.value = (e.target as HTMLSelectElement).value}
+                        required
+                      >
+                        <option value="" disabled>Select a list</option>
+                        {lists.lists.map((list) => (
+                          <option key={list.name} value={list.name}>
+                            {list.name}
+                          </option>
+                        ))}
+                      </select>
+                    </div>
+                    <div>
+                      <label htmlFor="region-code">Region Code:</label>
+                      <input
+                        id="region-code"
+                        type="text"
+                        value={regionCode.value}
+                        onInput$={(e) => regionCode.value = (e.target as HTMLInputElement).value}
+                        placeholder="e.g., L10"
+                        required
+                      />
+                    </div>
+                    <div>
+                      <label htmlFor="target-date">Target Date:</label>
+                      <input
+                        id="target-date"
+                        type="date"
+                        value={targetDate.value}
+                        onInput$={(e) => targetDate.value = (e.target as HTMLInputElement).value}
+                        required
+                      />
+                    </div>
+                    <div class="button-wrapper">
+                      <button type="submit">Create Report</button>
+                      <button type="button" onClick$={() => {
+                        showForm.value = false;
+                        selectedList.value = "";
+                      }}>Cancel</button>
+                    </div>
+                  </form>
+                </article>
+              </section>
+            )}
+            <section>
+              <article>
+                <h3>My Reports</h3>
+                {jobs.value.length > 0 ?
+                  jobs.value.map((job) => (
+                    <>
+                      {/* @ts-expect-error */}
+                      <article key={job.id} class={styles.article}>
+                        {/* @ts-expect-error */}
+                        {job.state === "running" ? <section>
+                          {/* @ts-expect-error */}
+                          <h4>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
+                          <p>Report is being generated...</p>
+                        </section> : null}
+                        {/* @ts-expect-error */}
+                        {job.state === "completed" ? (<ul data-jobid={job.id}>
+                          {/* {typeof console.log(job)} */}
+                          {/* @ts-expect-error */}
+                          <h4>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
+                          {/* @ts-expect-error */}
+                          {job.response[0].birdspot_score === 0 ? <p>No hotspots with viable targets. Great job getting out there and birding! (Try again with another list if you want)</p> :
+                            <>
+                              {/* @ts-expect-error */}
+                              {job.response.slice(0, 5).map((hotspot) => (
+                                <>
+                                  <li key={hotspot.location.locId}>
+                                    <p><strong>{hotspot.location.locName}</strong></p>
+                                    <p><strong>BirdSpot Score:</strong> {Math.round(hotspot.birdspot_score * 100) / 100}</p>
+                                    {/* @ts-expect-error */}
+                                    <p><strong>Targets:</strong> {Object.values(hotspot.missing_species).map(arr => arr[0].comName).join(", ")}</p>
+                                  </li>
+                                </>
+                              ))}
+                            </>
+                          }
+                          {/* @ts-expect-error */}
+                          <p>Used list size: {job.life_list.length}</p>
+                        </ul>) : null}
+                      </article>
+                    </>
+                  ))
+                  : <p>No reports yet. Create one using the form below.</p>}
+              </article>
+            </section>
+          </>
+        ) : null}
       </main>
     </div>
   );

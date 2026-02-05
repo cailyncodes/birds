@@ -175,7 +175,7 @@ class UserJobsHandler(HTTPMethodView):
     async def get(self, credentials: Credentials, request: Request):
         # Return a list of job IDs owned by the authenticated user
         jobs = self.job_manager.get_jobs_for_owner(credentials.identifier)
-        return response.json([{"id": job.id, "state": job.state, "target_date": job.get_decoded_payload().get("target_date", None).strftime('%Y-%m-%dT%H:%M:%S.%fZ'), "hotspot": job.get_decoded_payload().get("hotspot", None), "response": job.response} for job in jobs])
+        return response.json([{"id": job.id, "state": job.state, "target_date": job.get_decoded_payload().get("target_date", None).strftime('%Y-%m-%dT%H:%M:%S.%fZ'), "region_code": job.get_decoded_payload().get("region_code", None), "life_list": job.get_decoded_payload().get("life_list", None), "response": job.response} for job in jobs])
 
 
 class UserHandler(HTTPMethodView):
