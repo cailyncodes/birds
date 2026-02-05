@@ -21,7 +21,7 @@ from sanic.views import HTTPMethodView
 from sanic_cors import CORS
 
 app = Sanic("BirdSpot")
-CORS(app, origins=["birds.cailynhansen.com"])
+CORS(app, origins=["https://birds.cailynhansen.com"])
 
 registry = Registry()
 
