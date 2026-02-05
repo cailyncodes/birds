@@ -26,7 +26,7 @@ export default component$(() => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${(await cookieStore.get("jwt"))?.value || ""}`,
+          "Authorization": `Bearer ${(await window.cookieStore.get("jwt"))?.value || ""}`,
           "x-ebird-api-key": localStorage.getItem("ebird_api_key") || "",
         },
         body: JSON.stringify({
@@ -50,7 +50,7 @@ export default component$(() => {
   });
   // Fetch user jobs on component mount
   useVisibleTask$(async () => {
-    const jwt = (await cookieStore.get("jwt"))?.value || "";
+    const jwt = (await window.cookieStore.get("jwt"))?.value || "";
     const res = await fetch("/api/jobs", {
       headers: {
         Authorization: `Bearer ${jwt}`,
