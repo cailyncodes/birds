@@ -65,13 +65,26 @@ class EBirdManager:
         key_serializer=Cache.typed_serializer(REGION_DATE_KEY)
     )
     async def get_species_observed_by_date_and_region(self, region_code: str, date: datetime.date, auth: str) -> list:
+        # The eBird API may return an empty body (204 No Content) or a 404
+        # for locations with no observations.  The original implementation
+        # called ``response.json()`` unconditionally which raises a
+        # ``JSONDecodeError`` when the body is empty.  We now guard against
+        # that by checking the status code and returning an empty list when
+        # appropriate.
         sleep(0.1)
         species_observed_response = self.ebird_dal.get(
             f"data/obs/{region_code}/historic/{date.year}/{date.month}/{date.day}",
             auth
         )
 
-        species_observed = species_observed_response.json()
+        # If the response is empty or indicates no content, return an empty list.
+        if species_observed_response.status_code in (204, 404):
+            return []
+        try:
+            species_observed = species_observed_response.json()
+        except ValueError:
+            # Fallback for unexpected empty or malformed JSON.
+            return []
         return species_observed
         
     
@@ -80,12 +93,17 @@ class EBirdManager:
         key_serializer=Cache.typed_serializer(REGION_DATE_KEY)
     )
     async def get_checklists_by_date_and_region(self, region_code: str, date: datetime.date, auth: str) -> list:
+        # Similar defensive handling as ``get_species_observed_by_date_and_region``.
         sleep(0.1)
         checklists_response = self.ebird_dal.get(
             f"product/lists/{region_code}/{date.year}/{date.month}/{date.day}",
             auth
         )
-
-        checklists = checklists_response.json()
+        if checklists_response.status_code in (204, 404):
+            return []
+        try:
+            checklists = checklists_response.json()
+        except ValueError:
+            return []
         return checklists
         

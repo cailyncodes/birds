@@ -1,11 +1,52 @@
-import { $, component$ } from "@builder.io/qwik";
+import { $, component$, useSignal, useContext } from "@builder.io/qwik";
 import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
 import useLocalstorage from "~/hooks/use-localstorage";
 import styles from "./dashboard.module.scss";
+import { ListsContext } from "../layout";
 
 export default component$(() => {
   const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" });
+  const lists = useContext(ListsContext)
+  const showForm = useSignal(false);
+  const selectedList = useSignal("");
+  const targetDate = useSignal("");
+  const regionCode = useSignal("");
+
+  const handleSubmit = $(async () => {
+    const lifeList = lists.lists.find(list => list.name === selectedList.value);
+    if (!lifeList) {
+      alert(`Life list "${selectedList.value}" not found in local storage`);
+      return;
+    }
+
+    try {
+      const response = await fetch(`/api/birdspot/${regionCode.value}/hotspots/score`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${(await cookieStore.get("jwt"))?.value || ""}`,
+          "x-ebird-api-key": localStorage.getItem("ebird_api_key") || "",
+        },
+        body: JSON.stringify({
+          life_list: lifeList,
+          target_date: targetDate.value,
+        }),
+      });
+
+      if (response.ok) {
+        const job = await response.json();
+        alert(`Report created: ${job.id}`);
+        showForm.value = false;
+        selectedList.value = "";
+      } else {
+        alert("Failed to create report");
+      }
+    } catch (error) {
+      console.error("Error creating report:", error);
+      alert("Error creating report");
+    }
+  });
 
   return (
     <div>
@@ -35,11 +76,71 @@ export default component$(() => {
               <h3>Your reports</h3>
               <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
               <div class="button-wrapper">
-                <button onClick$={() => window.location.assign("/dashboard/searches/new")}>Add report</button>
+                <button onClick$={() => showForm.value = true}>Add report</button>
               </div>
             </article>
           </section>
         </>
+        {showForm.value && (
+          <section>
+            <article class={styles.article}>
+              <h3>Create New Report</h3>
+              <form
+                action="#"
+                onSubmit$={$(async (e) => {
+                  e.preventDefault();
+                  await handleSubmit();
+                  return false;
+                })}
+              >
+                <div>
+                  <label htmlFor="list-select">Life List:</label>
+                  <select
+                    id="list-select"
+                    value={selectedList.value}
+                    onChange$={(e) => selectedList.value = (e.target as HTMLSelectElement).value}
+                    required
+                  >
+                    <option value="" disabled>Select a list</option>
+                    {lists.lists.map((list) => (
+                      <option key={list.name} value={list.name}>
+                        {list.name}
+                      </option>
+                    ))}
+                  </select>
+                </div>
+                <div>
+                  <label htmlFor="region-code">Region Code:</label>
+                  <input
+                    id="region-code"
+                    type="text"
+                    value={regionCode.value}
+                    onInput$={(e) => regionCode.value = (e.target as HTMLInputElement).value}
+                    placeholder="e.g., L10"
+                    required
+                  />
+                </div>
+                <div>
+                  <label htmlFor="target-date">Target Date:</label>
+                  <input
+                    id="target-date"
+                    type="date"
+                    value={targetDate.value}
+                    onInput$={(e) => targetDate.value = (e.target as HTMLInputElement).value}
+                    required
+                  />
+                </div>
+                <div class="button-wrapper">
+                  <button type="submit">Create Report</button>
+                  <button type="button" onClick$={() => {
+                      showForm.value = false;
+                      selectedList.value = "";
+                    }}>Cancel</button>
+                </div>
+              </form>
+            </article>
+          </section>
+        )}
         {
           onboardingComplete.value === "complete" ?
             <>
