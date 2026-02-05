@@ -2,14 +2,14 @@ import { $, component$ } from "@builder.io/qwik";
 import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
 import useLocalstorage from "~/hooks/use-localstorage";
-import "./dashboard.css";
+import styles from "./dashboard.module.scss";
 
 export default component$(() => {
   const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" });
 
   return (
     <div>
-      <main>
+      <main class={styles.main}>
         <h2>Welcome!</h2>
         <p>BirdSpot makes finding birds easier</p>
         {
@@ -29,6 +29,17 @@ export default component$(() => {
             </article>
             : null
         }
+        <>
+          <section>
+            <article>
+              <h3>Your reports</h3>
+              <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
+              <div class="button-wrapper">
+                <button onClick$={() => window.location.assign("/dashboard/searches/new")}>Add report</button>
+              </div>
+            </article>
+          </section>
+        </>
         {
           onboardingComplete.value === "complete" ?
             <>

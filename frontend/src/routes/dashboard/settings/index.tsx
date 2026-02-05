@@ -1,10 +1,10 @@
 import { component$ } from "@builder.io/qwik";
+import { DocumentHead } from "@builder.io/qwik-city";
 
 import AdditionalTaxa from "~/components/additional-taxa/additional-taxa";
 import DefaultRegion from "~/components/default-region/default-region";
 import EBirdApiKey from "~/components/ebird-api-key/ebird-api-key";
 
-import { DocumentHead } from "@builder.io/qwik-city";
 import styles from "./settings.module.scss";
 
 export default component$(() => {

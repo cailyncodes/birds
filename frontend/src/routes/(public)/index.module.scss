@@ -1,4 +1,4 @@
-@use "../styles/global.scss" as *;
+@use "../../styles/global.scss" as *;
 
 .header {
     display: grid;
@@ -166,8 +166,30 @@ nav {
             margin-top: 0.5rem;
         }
     }
-}
 
+    .photo-credits {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        font-size: 0.8rem;
+        color: rgba(255, 255, 255, 0.7);
+
+        a {
+            text-decoration: underline;
+
+            &:hover {
+                color: rgba(255, 255, 255, 1);
+            }
+        }
+
+        @media screen and (max-width: 545px) {
+            color: rgba(255, 255, 255, 1);
+            left: 10px;
+            right: unset;
+            text-align: left;
+        }
+    }
+}
 
 .blocks {
     @include container;

@@ -24,14 +24,16 @@ A basic Python Sanic API with Qwik frontend that displays information about vari
 
 ### Backend (Sanic API)
 
+1. Change directory to `./backend`
+
 1. Install Python dependencies:
 ```bash
 pip3 install -r requirements.txt
 ```
 
-2. Run the Sanic server:
+1. Run the Sanic server:
 ```bash
-python3 main.py
+uv run ./main.py
 ```
 
 The API will be available at `http://localhost:8000`
@@ -56,7 +58,7 @@ npm install
 
 3. Run the development server:
 ```bash
-npm start
+npm run dev
 ```
 
 The frontend will be available at `http://localhost:5173`

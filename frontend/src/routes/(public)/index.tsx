@@ -12,6 +12,7 @@ export default component$(() => {
           <h1 class={styles.headline}>Welcome!</h1>
           <p class={styles.subheadline}>BirdSpot makes finding birds <em>easier.</em></p>
         </div>
+        <div class={styles["photo-credits"]}>Photo credits to <a>Jenna Tishler</a></div>
       </section>
       <article class={styles.blocks}>
         <section class={styles.block}>
@@ -31,10 +32,10 @@ export default component$(() => {
         <section class={[styles.block, styles["block-empty"]]} />
       </article>
       <section>
-      <div class={styles.callout}>
-        <p class={styles["callout-header"]}>…and entirely FREE!</p>
-        <p class={styles["callout-subtitle"]}><Link href="/donate">Donations</Link> are always appreciated :)</p>
-      </div>
+        <div class={styles.callout}>
+          <p class={styles["callout-header"]}>…and entirely FREE!</p>
+          <p class={styles["callout-subtitle"]}><Link href="/donate">Donations</Link> are always appreciated :)</p>
+        </div>
       </section>
       <section>
         <div class={styles.action}>

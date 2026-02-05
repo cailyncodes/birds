@@ -1,8 +1,8 @@
 import { $, component$, QRL, useSignal, useStore } from "@builder.io/qwik";
 import { csvToJson } from "~/lib/csv";
-import { Bird, List } from "~/routes/layout";
 import { FileUpload } from "../file-upload/file-upload";
 
+import { Bird, List } from "~/lib/types";
 import "./list-manager.css";
 
 interface ListManagerProps {

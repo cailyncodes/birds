@@ -51,7 +51,7 @@ export const head: DocumentHead = {
   meta: [
     {
       name: "description",
-      content: "Make finding birds easier",
+      content: "BirdSpot makes finding birds easier",
     },
   ],
 };
