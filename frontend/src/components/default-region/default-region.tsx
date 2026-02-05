@@ -224,7 +224,7 @@ export default component$(() => {
     const regions = useResource$<Record<string, string>[]>(async ({ track }) => {
         track(() => defaultCountry.value);
         if ((defaultCountry.value?.length ?? 0) === 0) return [];
-        return await fetch(`/api/regions/search?country_code=${defaultCountry.value}`).then(res => res.json()).then(data => data.regions);
+        return await fetch(`${import.meta.env.PUBLIC_API_URL}/api/regions/search?country_code=${defaultCountry.value}`).then(res => res.json()).then(data => data.regions);
     });
 
     function getCountryByCode(code?: string) {

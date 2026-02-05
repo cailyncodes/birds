@@ -22,7 +22,7 @@ export default component$(() => {
     }
 
     try {
-      const response = await fetch(`/api/birdspot/${regionCode.value}/hotspots/score`, {
+      const response = await fetch(`${import.meta.env.PUBLIC_API_URL}/api/birdspot/${regionCode.value}/hotspots/score`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -51,7 +51,7 @@ export default component$(() => {
   // Fetch user jobs on component mount
   useVisibleTask$(async () => {
     const jwt = (await window.cookieStore.get("jwt"))?.value || "";
-    const res = await fetch("/api/jobs", {
+    const res = await fetch(`${import.meta.env.PUBLIC_API_URL}/api/jobs`, {
       headers: {
         Authorization: `Bearer ${jwt}`,
         Accept: "application/json",
