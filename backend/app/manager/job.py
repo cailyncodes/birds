@@ -53,6 +53,10 @@ class Job:
         decoded_callable = codecs.decode(self.callable.encode(), "base64")
         return dill.loads(decoded_callable), dill.loads(decoded_payload)
     
+    def get_decoded_payload(self) -> dict:
+        decoded_payload = codecs.decode(self.payload.encode(), "base64")
+        return dill.loads(decoded_payload)
+    
     def __str__(self) -> str:
         return json.dumps(attrs.asdict(self))
 
@@ -76,6 +80,31 @@ class JobManager:
                 return Job.from_str(f.readline())
         except FileNotFoundError:
             return None
+
+    def get_jobs_for_owner(self, owner: str):
+        """Return a list of Job objects owned by the specified user.
+
+        The jobs are stored as JSON files in the job directory. This method
+        iterates over all files, deserialises each job, and filters by the
+        ``owner`` attribute.
+        """
+        jobs = []
+        try:
+            for filename in os.listdir(self.directory):
+                if not filename.endswith(".json"):
+                    continue
+                job_id = filename[:-5]
+                try:
+                    job = self.get_job(job_id)
+                    if job and job.owner == owner:
+                        jobs.append(job)
+                except Exception:
+                    # Skip files that cannot be read or deserialized
+                    continue
+        except FileNotFoundError:
+            # Directory does not exist; return empty list
+            pass
+        return jobs
 
     def start_job(self, job: Job):
         with open(f"{self.directory}{job.id}.json", "w") as f:

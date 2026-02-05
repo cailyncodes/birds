@@ -1,4 +1,4 @@
-import { $, component$, useSignal, useContext } from "@builder.io/qwik";
+import { $, component$, useSignal, useContext, useTask$, useVisibleTask$ } from "@builder.io/qwik";
 import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
 import useLocalstorage from "~/hooks/use-localstorage";
@@ -9,6 +9,7 @@ export default component$(() => {
   const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" });
   const lists = useContext(ListsContext)
   const showForm = useSignal(false);
+  const jobs = useSignal<string[]>([]);
   const selectedList = useSignal("");
   const targetDate = useSignal("");
   const regionCode = useSignal("");
@@ -47,12 +48,25 @@ export default component$(() => {
       alert("Error creating report");
     }
   });
+  // Fetch user jobs on component mount
+  useVisibleTask$(async () => {
+    const jwt = (await cookieStore.get("jwt"))?.value || "";
+    const res = await fetch("/api/jobs", {
+      headers: {
+        Authorization: `Bearer ${jwt}`,
+        Accept: "application/json",
+      },
+    });
+    if (res.ok) {
+      const data = await res.json();
+      jobs.value = data;
+    }
+  });
 
   return (
     <div>
       <main class={styles.main}>
-        <h2>Welcome!</h2>
-        <p>BirdSpot makes finding birds easier</p>
+        <h2>Welcome, there!</h2>
         {
           onboardingComplete.value !== "complete" ?
             <article class={styles.article}>
@@ -70,6 +84,34 @@ export default component$(() => {
             </article>
             : null
         }
+        {(onboardingComplete.value === "complete") ? (
+          <section>
+            <article>
+              <h3>My Reports</h3>
+              {jobs.value.length > 0 ?
+                jobs.value.map((job) => (
+                  <article class={styles.article}>
+                  <ul>
+                    {/* @ts-expect-error */}
+                    <h4>Top Hotspots | {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
+                    {/* @ts-expect-error */}
+                    {job.response.slice(0, 5).map((hotspot) => (
+                      <>
+                        <li key={hotspot.location.locId}>
+                          <p><strong>{hotspot.location.locName}</strong></p>
+                          <p><strong>BirdSpot Score:</strong> {Math.round(hotspot.birdspot_score * 100) / 100}</p>
+                          {/* @ts-expect-error */}
+                          <p><strong>Targets:</strong> {Object.values(hotspot.missing_species).map(arr => arr[0].comName).join(", ")}</p>
+                        </li>
+                      </>
+                    ))}
+                  </ul>
+                  </article>
+                ))
+                : <p>No reports yet. Create one using the form below.</p>}
+            </article>
+          </section>
+        ) : null}
         <>
           <section>
             <article class={styles.article}>
@@ -133,9 +175,9 @@ export default component$(() => {
                 <div class="button-wrapper">
                   <button type="submit">Create Report</button>
                   <button type="button" onClick$={() => {
-                      showForm.value = false;
-                      selectedList.value = "";
-                    }}>Cancel</button>
+                    showForm.value = false;
+                    selectedList.value = "";
+                  }}>Cancel</button>
                 </div>
               </form>
             </article>
@@ -144,7 +186,7 @@ export default component$(() => {
         {
           onboardingComplete.value === "complete" ?
             <>
-              <section>
+              {/* <section>
                 <article class={styles.article}>
                   <h3>Brooklyn 11/30</h3>
                   <p>Your report for Monday, Decemeber 1st for Kings, NY</p>
@@ -166,7 +208,7 @@ export default component$(() => {
               </section>
               <section>
 
-              </section>
+              </section> */}
             </>
             : null
         }

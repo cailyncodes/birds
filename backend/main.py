@@ -163,6 +163,21 @@ class JobHandler(HTTPMethodView):
         )
 
 
+class UserJobsHandler(HTTPMethodView):
+    def __init__(self, job_manager: JobManager, auth_provider: AuthProvider):
+        self.job_manager = job_manager
+        self.auth = Auth(auth_provider)
+
+    @Auth.requires_auth(
+        auth_accessor=lambda self, request: self.auth,
+        credentials_accessor=CREDENTIAL_ACCESSOR,
+    )
+    async def get(self, credentials: Credentials, request: Request):
+        # Return a list of job IDs owned by the authenticated user
+        jobs = self.job_manager.get_jobs_for_owner(credentials.identifier)
+        return response.json([{"id": job.id, "state": job.state, "target_date": job.get_decoded_payload().get("target_date", None).strftime('%Y-%m-%dT%H:%M:%S.%fZ'), "hotspot": job.get_decoded_payload().get("hotspot", None), "response": job.response} for job in jobs])
+
+
 class UserHandler(HTTPMethodView):
     def __init__(self, auth_provider: AuthProvider):
         self.auth = Auth(auth_provider)
@@ -262,6 +277,15 @@ app.add_route(
         auth_provider=registry[FileAuth],
     ),
     "/api/jobs/<job_id:strorempty>",
+    methods=["GET"],
+)
+
+app.add_route(
+    UserJobsHandler.as_view(
+        job_manager=registry[JobManager],
+        auth_provider=registry[FileAuth],
+    ),
+    "/api/jobs",
     methods=["GET"],
 )
 
