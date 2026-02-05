@@ -1,11 +1,7 @@
-import { $, component$, createContextId, Slot, useContext, useContextProvider, useSignal, useStore, useVisibleTask$ } from '@builder.io/qwik';
-import useLocalstorage from '~/hooks/use-localstorage';
+import { component$, Slot, useSignal } from '@builder.io/qwik';
 
-import { Link, RequestHandler, routeLoader$, useLocation } from '@builder.io/qwik-city';
-import { doSignIn } from '~/lib/auth';
-import { List } from '~/lib/types';
+import { Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
 import styles from "./index.module.scss";
-import { ListsContext } from '../layout';
 
 // export const onGet: RequestHandler = async ({ cookie }) => {
 //     const jwt = cookie.get("jwt")?.value

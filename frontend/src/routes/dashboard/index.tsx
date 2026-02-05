@@ -1,4 +1,4 @@
-import { $, component$, useSignal, useContext, useTask$, useVisibleTask$ } from "@builder.io/qwik";
+import { $, component$, useSignal, useContext, useVisibleTask$ } from "@builder.io/qwik";
 import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
 import useLocalstorage from "~/hooks/use-localstorage";
@@ -110,7 +110,7 @@ export default component$(() => {
                     })}
                   >
                     <div>
-                      <label htmlFor="list-select">Life List:</label>
+                      <label for="list-select">Life List:</label>
                       <select
                         id="list-select"
                         value={selectedList.value}
@@ -126,7 +126,7 @@ export default component$(() => {
                       </select>
                     </div>
                     <div>
-                      <label htmlFor="region-code">Region Code:</label>
+                      <label for="region-code">Region Code:</label>
                       <input
                         id="region-code"
                         type="text"
@@ -137,7 +137,7 @@ export default component$(() => {
                       />
                     </div>
                     <div>
-                      <label htmlFor="target-date">Target Date:</label>
+                      <label for="target-date">Target Date:</label>
                       <input
                         id="target-date"
                         type="date"
@@ -163,36 +163,35 @@ export default component$(() => {
                 {jobs.value.length > 0 ?
                   jobs.value.map((job) => (
                     <>
-                      {/* @ts-expect-error */}
+                      {/* @ts-expect-error temp */}
                       <article key={job.id} class={styles.article}>
-                        {/* @ts-expect-error */}
+                        {/* @ts-expect-error temp */}
                         {job.state === "running" ? <section>
-                          {/* @ts-expect-error */}
+                          {/* @ts-expect-error temp */}
                           <h4>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
                           <p>Report is being generated...</p>
                         </section> : null}
-                        {/* @ts-expect-error */}
+                        {/* @ts-expect-error temp */}
                         {job.state === "completed" ? (<ul data-jobid={job.id}>
-                          {/* {typeof console.log(job)} */}
-                          {/* @ts-expect-error */}
+                          {/* @ts-expect-error temp */}
                           <h4>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
-                          {/* @ts-expect-error */}
+                          {/* @ts-expect-error temp */}
                           {job.response[0].birdspot_score === 0 ? <p>No hotspots with viable targets. Great job getting out there and birding! (Try again with another list if you want)</p> :
                             <>
-                              {/* @ts-expect-error */}
+                              {/* @ts-expect-error temp */}
                               {job.response.slice(0, 5).map((hotspot) => (
                                 <>
                                   <li key={hotspot.location.locId}>
                                     <p><strong>{hotspot.location.locName}</strong></p>
                                     <p><strong>BirdSpot Score:</strong> {Math.round(hotspot.birdspot_score * 100) / 100}</p>
-                                    {/* @ts-expect-error */}
+                                    {/* @ts-expect-error temp */}
                                     <p><strong>Targets:</strong> {Object.values(hotspot.missing_species).map(arr => arr[0].comName).join(", ")}</p>
                                   </li>
                                 </>
                               ))}
                             </>
                           }
-                          {/* @ts-expect-error */}
+                          {/* @ts-expect-error temp */}
                           <p>Used list size: {job.life_list.length}</p>
                         </ul>) : null}
                       </article>

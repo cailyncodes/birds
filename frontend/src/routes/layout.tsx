@@ -1,4 +1,4 @@
-import { $, component$, createContextId, Slot, useContext, useContextProvider, useStore, useVisibleTask$ } from '@builder.io/qwik';
+import { $, component$, createContextId, Slot, useContextProvider, useStore } from '@builder.io/qwik';
 import useLocalstorage from '~/hooks/use-localstorage';
 
 import { RequestHandler, routeLoader$ } from '@builder.io/qwik-city';
