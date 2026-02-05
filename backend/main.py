@@ -18,10 +18,12 @@ from lib.auth import (Auth, AuthProvider, Credentials, JWTCredentials,
 from minject import Registry
 from sanic import Request, Sanic, response
 from sanic.views import HTTPMethodView
-from sanic_cors import CORS
+from sanic_ext import Extend
+
 
 app = Sanic("BirdSpot")
-CORS(app, origins=["https://birds.cailynhansen.com"])
+app.config.CORS_ORIGINS = "https://birds.cailynhansen.com"
+Extend(app)
 
 registry = Registry()
 
