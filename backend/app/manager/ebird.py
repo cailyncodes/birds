@@ -38,6 +38,8 @@ class EBirdManager:
                 f"ref/hotspot/{region_code}?fmt=json",
                 auth
             )
+        if response.status_code in (204, 404):
+            return []
         return response.json()
     
     @Cache.with_cache(
@@ -49,7 +51,12 @@ class EBirdManager:
             f"product/spplist/{region_code}?fmt=json",
             auth
         )
-        possible_species_codes = possible_species_codes_response.json()
+        if possible_species_codes_response.status_code in (204, 404):
+            return []
+        try:
+            possible_species_codes = possible_species_codes_response.json()
+        except ValueError:
+            return []
 
         possible_species_response = self.ebird_dal.get(
             f"ref/taxonomy/ebird?species={",".join(possible_species_codes)}&fmt=json",
