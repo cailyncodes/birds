@@ -27,7 +27,7 @@ export default component$(() => {
         headers: {
           "Content-Type": "application/json",
           "Authorization": `Bearer ${(await window.cookieStore.get("jwt"))?.value || ""}`,
-          "x-ebird-api-key": localStorage.getItem("ebird_api_key") || "",
+          "x-ebird-api-key": localStorage.getItem("ebird-api-key") || "",
         },
         body: JSON.stringify({
           life_list: lifeList,
