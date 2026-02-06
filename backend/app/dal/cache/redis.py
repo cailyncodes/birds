@@ -27,8 +27,11 @@ class RedisCache(CacheProvider):
         )
         print(f"Attempting connection to {host}:{port} as user '{username}'...")
 
-    async def get(self, key: str):
-        return await self.redis.get(key)
+    async def get(self, key: str, value: type | None = None) -> EncodableT | None:
+        try:
+            return await self.redis.get(key)
+        except Exception:
+            return await self.redis.json().get(key, "$")  # type: ignore - wrong b/c it doesn't know that we are using the async package
 
     async def set(self, key: str, value: EncodableT):
         if isinstance(value, (bytes | bytearray | memoryview | str | int | float)):
