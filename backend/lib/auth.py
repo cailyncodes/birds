@@ -67,7 +67,7 @@ class Auth[A: AuthProvider]:
         self.auth_provider = auth_provider
 
     async def verify(self, credentials: Credentials):
-        if await self.requires_verification(credentials):
+        if isinstance(credentials, JWTCredentials) and await self.requires_verification(credentials):
             return False
         try:
             return await self.auth_provider.verify(credentials)
@@ -75,8 +75,6 @@ class Auth[A: AuthProvider]:
             return False
 
     async def requires_verification(self, credentials: Credentials) -> bool:
-        if isinstance(credentials, PasswordCredentials):
-            return True
         expiration = await self.auth_provider.expiration(credentials.identifier)
         if expiration is None:
             return False
