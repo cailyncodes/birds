@@ -31,7 +31,7 @@ class RedisCache(CacheProvider):
         return await self.redis.get(key)
 
     async def set(self, key: str, value: EncodableT):
-        if isinstance(value, RedisEncodableT):
+        if isinstance(value, (bytes | bytearray | memoryview | str | int | float)):
             await self.redis.set(key, value)
         else:
             await self.redis.json().set(key, "$", value) # type: ignore - wrong b/c it doesn't know that we are using the async package
