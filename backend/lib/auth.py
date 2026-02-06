@@ -75,6 +75,8 @@ class Auth[A: AuthProvider]:
             return False
 
     async def requires_verification(self, credentials: Credentials) -> bool:
+        if isinstance(credentials, PasswordCredentials):
+            return True
         expiration = await self.auth_provider.expiration(credentials.identifier)
         if expiration is None:
             return False
