@@ -1,11 +1,9 @@
 import requests
 from minject import inject
 
-@inject.bind(
-    session=requests.Session(),
-    base_url="https://api.ebird.org/v2/"
-)
-class EBirdDAL:    
+
+@inject.bind(session=requests.Session(), base_url="https://api.ebird.org/v2/")
+class EBirdDAL:
     def __init__(self, session: requests.Session, base_url: str):
         self.session = session
         self.base_url = base_url
@@ -18,13 +16,11 @@ class EBirdDAL:
         """
         headers = {"X-eBirdApiToken": auth}
         try:
+            print(f"Making {method} request to: {url}")
             response = self.session.request(
-                method=method,
-                url=url,
-                headers=headers,
-                timeout=30,
-                **kwargs
+                method=method, url=url, headers=headers, timeout=30, **kwargs
             )
+            print(f"Request completed with status code: {response.status_code}")
             return response
         except requests.exceptions.RequestException as e:
             print(f"Request failed: {e}")
