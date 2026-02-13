@@ -1,5 +1,10 @@
+import logging
+
 import requests
 from minject import inject
+
+
+logger = logging.getLogger(__name__)
 
 
 @inject.bind(session=requests.Session(), base_url="https://api.ebird.org/v2/")
@@ -11,19 +16,16 @@ class EBirdDAL:
     def make_authenticated_request(
         self, url: str, auth: str, method: str = "GET", **kwargs
     ) -> requests.Response:
-        """
-        Make an authenticated request using stored cookies and Bearer token
-        """
         headers = {"X-eBirdApiToken": auth}
         try:
-            print(f"Making {method} request to: {url}")
+            logger.debug("Making %s request to: %s", method, url)
             response = self.session.request(
                 method=method, url=url, headers=headers, timeout=30, **kwargs
             )
-            print(f"Request completed with status code: {response.status_code}")
+            logger.debug("Request completed with status code: %d", response.status_code)
             return response
         except requests.exceptions.RequestException as e:
-            print(f"Request failed: {e}")
+            logger.error("Request failed: %s", e)
             raise
 
     def get(self, endpoint: str, auth: str, **kwargs) -> requests.Response:

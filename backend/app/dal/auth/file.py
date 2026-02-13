@@ -2,14 +2,23 @@ import base64
 import datetime
 import hashlib
 import json
+import logging
 import os
 from typing import Literal, cast
 
 import jwt as pyjwt
 from bcrypt import checkpw, gensalt, hashpw
-from lib.auth import (AuthProvider, Credentials, InvalidCredentials,
-                      JWTCredentials, PasswordCredentials)
+from lib.auth import (
+    AuthProvider,
+    Credentials,
+    InvalidCredentials,
+    JWTCredentials,
+    PasswordCredentials,
+)
 from minject import inject
+
+
+logger = logging.getLogger(__name__)
 
 
 @inject.bind()
@@ -24,21 +33,30 @@ class FileAuth(AuthProvider):
                 user = json.load(f)
                 if isinstance(credentials, PasswordCredentials):
                     if checkpw(
-                        base64.b64encode(hashlib.sha256(credentials.verification.encode("utf-8")).digest()),
+                        base64.b64encode(
+                            hashlib.sha256(
+                                credentials.verification.encode("utf-8")
+                            ).digest()
+                        ),
                         base64.b64decode(user["hashed_password"].encode("utf-8")),
                     ):
                         return True
                 elif isinstance(credentials, JWTCredentials):
                     try:
-                        jwt = pyjwt.decode_complete(credentials.verification, key=self.signing_key, verify=True, algorithms=["HS256"])
+                        jwt = pyjwt.decode_complete(
+                            credentials.verification,
+                            key=self.signing_key,
+                            verify=True,
+                            algorithms=["HS256"],
+                        )
                         return jwt["payload"]["sub"] == credentials.identifier
                     except Exception as e:
                         raise InvalidCredentials()
         # special case the error in which we try to open a file that doesn't exist
         except FileNotFoundError:
-            print("File not found for user", credentials.identifier)
+            logger.warning("File not found for user: %s", credentials.identifier)
             raise RuntimeError()
-        
+
         raise InvalidCredentials()
 
     async def sign(self, credentials: Credentials):
@@ -59,7 +77,9 @@ class FileAuth(AuthProvider):
             jwt = pyjwt.encode(
                 {
                     "sub": credentials.identifier,
-                    "expiration": credentials.expiration.isoformat() if credentials.expiration is not None else None,
+                    "expiration": credentials.expiration.isoformat()
+                    if credentials.expiration is not None
+                    else None,
                 },
                 self.signing_key,
             )
@@ -67,7 +87,7 @@ class FileAuth(AuthProvider):
                 user_id=credentials.identifier,
                 jwt=jwt,
                 # we know that since this is a JWTCredential credential the expiration is not None
-                expiration=cast(datetime.datetime, credentials.expiration)
+                expiration=cast(datetime.datetime, credentials.expiration),
             )
         else:
             raise RuntimeError("Unsupported credential type for signing")
@@ -76,7 +96,7 @@ class FileAuth(AuthProvider):
         """YOU BETTER SIGN BEFORE YOU STORE!"""
         if os.path.exists(f"{self.directory}{credentials.identifier}.json"):
             await self.verify(credentials)
-        else:    
+        else:
             with open(f"{self.directory}{credentials.identifier}.json", "w") as f:
                 f.write("{}")
 
@@ -90,8 +110,9 @@ class FileAuth(AuthProvider):
                         **current_data,
                         "username": credentials.identifier,
                         "jwt": credentials.verification,
-                        "expiration": (datetime.datetime.now()
-                        + datetime.timedelta(days=30)).isoformat(),
+                        "expiration": (
+                            datetime.datetime.now() + datetime.timedelta(days=30)
+                        ).isoformat(),
                     },
                     f,
                 )
@@ -115,20 +136,22 @@ class FileAuth(AuthProvider):
         except:
             return datetime.datetime(1900, 1, 1)
 
-    async def convert(self, credentials: Credentials, _type: type[Credentials]) -> Credentials:
+    async def convert(
+        self, credentials: Credentials, _type: type[Credentials]
+    ) -> Credentials:
         """
         THIS WILL NOT VERIFY THE credentials SUPPLIED! YOU BETTER DO THAT!
         """
         if isinstance(credentials, _type):
             return credentials
-        
+
         if isinstance(credentials, PasswordCredentials) and _type == JWTCredentials:
             with open(f"{self.directory}{credentials.identifier}.json", "r") as f:
                 data = json.load(f)
                 return JWTCredentials(
                     user_id=data["username"],
                     jwt=data["jwt"],
-                    expiration=datetime.datetime.fromisoformat(data["expiration"])
+                    expiration=datetime.datetime.fromisoformat(data["expiration"]),
                 )
 
         raise RuntimeError()

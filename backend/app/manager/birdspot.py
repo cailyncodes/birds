@@ -4,6 +4,7 @@ import math
 from typing import Any
 
 from app.manager.ebird import EBirdManager
+from app.model.ebird_types import EBirdTaxon
 from minject import inject
 
 
@@ -17,7 +18,7 @@ class BirdSpotManager:
         self.ebird_manager = ebird_manager
 
     def get_missing_species(
-        self, possible_species: list[dict[str, Any]], species: list
+        self, possible_species: list[EBirdTaxon], species: list
     ) -> list:
         try:
             seen_species = set()

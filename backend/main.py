@@ -7,14 +7,30 @@ import dotenv
 if os.getenv("RAILWAY_ENVIRONMENT_NAME") != "production":
     dotenv.load_dotenv("./.env")
 
+from lib.logging_config import configure_logging
+
+if os.getenv("RAILWAY_ENVIRONMENT_NAME") == "production":
+    import logging
+    # Temporarily set to DEBUG for better visibility into production issues, will likely want to change this back to INFO or WARNING after some time
+    configure_logging(logging.DEBUG)
+else:
+    import logging
+
+    configure_logging(logging.DEBUG)
+
 import jwt as pyjwt
 from app.dal.auth.file import FileAuth
 from app.manager.birdspot import BirdSpotManager
 from app.manager.ebird import EBirdManager
 from app.manager.job import JobManager
 from app.manager.regions import RegionSearch
-from lib.auth import (Auth, AuthProvider, Credentials, JWTCredentials,
-                      PasswordCredentials)
+from lib.auth import (
+    Auth,
+    AuthProvider,
+    Credentials,
+    JWTCredentials,
+    PasswordCredentials,
+)
 from minject import Registry
 from sanic import Request, Sanic, response
 from sanic.views import HTTPMethodView
@@ -139,9 +155,7 @@ class BirdSpotHandler(HTTPMethodView):
             },
         )
         self.job_manager.start_job(job)
-        return response.json(
-            {"id": job.id, "state": job.state}
-        )
+        return response.json({"id": job.id, "state": job.state})
 
 
 class JobHandler(HTTPMethodView):
@@ -177,7 +191,21 @@ class UserJobsHandler(HTTPMethodView):
     async def get(self, credentials: Credentials, request: Request):
         # Return a list of job IDs owned by the authenticated user
         jobs = self.job_manager.get_jobs_for_owner(credentials.identifier)
-        return response.json([{"id": job.id, "state": job.state, "target_date": job.get_decoded_payload().get("target_date", None).strftime('%Y-%m-%dT%H:%M:%S.%fZ'), "region_code": job.get_decoded_payload().get("region_code", None), "life_list": job.get_decoded_payload().get("life_list", None), "response": job.response} for job in jobs])
+        return response.json(
+            [
+                {
+                    "id": job.id,
+                    "state": job.state,
+                    "target_date": job.get_decoded_payload()
+                    .get("target_date", None)
+                    .strftime("%Y-%m-%dT%H:%M:%S.%fZ"),
+                    "region_code": job.get_decoded_payload().get("region_code", None),
+                    "life_list": job.get_decoded_payload().get("life_list", None),
+                    "response": job.response,
+                }
+                for job in jobs
+            ]
+        )
 
 
 class UserHandler(HTTPMethodView):
@@ -295,6 +323,7 @@ app.add_route(UserHandler.as_view(auth_provider=registry[FileAuth]), "/api/users
 
 app.add_route(AuthHandler.as_view(auth_provider=registry[FileAuth]), "/api/login")
 
+
 def make_directories():
     if (auth_directory := os.getenv("BIRDSPOT_FILE_AUTH_DIRECTORY")) is not None:
         os.makedirs(auth_directory, exist_ok=True)
@@ -304,6 +333,7 @@ def make_directories():
 
     if (job_directory := os.getenv("BIRDSPOT_JOB_DIRECTORY")) is not None:
         os.makedirs(job_directory, exist_ok=True)
+
 
 make_directories()
 

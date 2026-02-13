@@ -1,15 +1,19 @@
+import logging
 import os
 from minject import inject
 from redis.asyncio import Redis, ConnectionPool
 from redis.typing import EncodableT as RedisEncodableT
 from lib.cache import CacheProvider, EncodableT
 
+
+logger = logging.getLogger(__name__)
+
+
 @inject.bind(
     host=os.getenv("REDISHOST"),
     port=os.getenv("REDISPORT"),
     username=os.getenv("REDISUSER") or "default",
     password=os.getenv("REDISPASSWORD"),
-
 )
 class RedisCache(CacheProvider):
     def __init__(self, host, port, username, password):
@@ -25,7 +29,9 @@ class RedisCache(CacheProvider):
             connection_pool=connection_pool,
             decode_responses=True,
         )
-        print(f"Attempting connection to {host}:{port} as user '{username}'...")
+        logger.info(
+            "Attempting connection to %s:%s as user '%s'...", host, port, username
+        )
 
     async def get(self, key: str, value: type | None = None) -> EncodableT | None:
         try:
@@ -37,4 +43,4 @@ class RedisCache(CacheProvider):
         if isinstance(value, (bytes | bytearray | memoryview | str | int | float)):
             await self.redis.set(key, value)
         else:
-            await self.redis.json().set(key, "$", value) # type: ignore - wrong b/c it doesn't know that we are using the async package
+            await self.redis.json().set(key, "$", value)  # type: ignore - wrong b/c it doesn't know that we are using the async package
