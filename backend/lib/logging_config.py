@@ -14,10 +14,16 @@ def configure_logging(log_level: int = logging.INFO) -> None:
     for handler in root_logger.handlers[:]:
         root_logger.removeHandler(handler)
 
-    stream_handler = logging.StreamHandler(sys.stdout)
-    stream_handler.setLevel(log_level)
-    stream_handler.setFormatter(formatter)
-    root_logger.addHandler(stream_handler)
+    stdout_handler = logging.StreamHandler(sys.stdout)
+    stdout_handler.setLevel(log_level)
+    stdout_handler.setFormatter(formatter)
+    stdout_handler.addFilter(lambda record: record.levelno < logging.ERROR)
+    root_logger.addHandler(stdout_handler)
+
+    stderr_handler = logging.StreamHandler(sys.stderr)
+    stderr_handler.setLevel(logging.ERROR)
+    stderr_handler.setFormatter(formatter)
+    root_logger.addHandler(stderr_handler)
 
     logging.info("Logging configured successfully")
 

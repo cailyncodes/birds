@@ -2,6 +2,7 @@ import asyncio
 import codecs
 import json
 import logging
+import traceback
 from collections.abc import Callable
 from concurrent import futures
 import os
@@ -21,8 +22,8 @@ class Job:
     id: str
     owner: str
     state: str
-    callable: str  # base64 encoded pickle
-    payload: str  # base64 encoded pickle
+    callable: str
+    payload: str
     response: Any
 
     @classmethod
@@ -77,6 +78,7 @@ class JobManager:
         with open(f"{self.directory}{job.id}.json", "w") as f:
             f.write(str(job))
 
+        logger.info("Job created: %s for owner: %s", job.id, owner)
         return job
 
     def get_job(self, job_id: str):
@@ -87,12 +89,6 @@ class JobManager:
             return None
 
     def get_jobs_for_owner(self, owner: str):
-        """Return a list of Job objects owned by the specified user.
-
-        The jobs are stored as JSON files in the job directory. This method
-        iterates over all files, deserialises each job, and filters by the
-        ``owner`` attribute.
-        """
         jobs = []
         try:
             for filename in os.listdir(self.directory):
@@ -104,30 +100,61 @@ class JobManager:
                     if job and job.owner == owner:
                         jobs.append(job)
                 except Exception:
-                    # Skip files that cannot be read or deserialized
                     continue
         except FileNotFoundError:
-            # Directory does not exist; return empty list
             pass
         return jobs
 
     def start_job(self, job: Job):
         with open(f"{self.directory}{job.id}.json", "w") as f:
             job.state = "running"
-            logger.info("Job saved: %s", job.id)
             f.write(str(job))
 
-        future = self.executor.submit(lambda: asyncio.run(job.start()))
+        logger.info("Job starting: %s", job.id)
+
+        def run_job():
+            try:
+                logger.info("Job executing in thread: %s", job.id)
+                result = asyncio.run(job.start())
+                logger.info("Job completed successfully: %s", job.id)
+                return result
+            except Exception as e:
+                logger.error("Job failed: %s - %s", job.id, str(e))
+                logger.error("Traceback: %s", traceback.format_exc())
+                raise
+
+        future = self.executor.submit(run_job)
         future.add_done_callback(self._job_completed_callback(job.id))
 
     def _job_completed_callback(self, job_id: str):
         def __inner(future: futures.Future):
-            job = self.get_job(job_id)
-            if job is None:
-                return
-            with open(f"{self.directory}{job.id}.json", "w") as f:
-                job.state = "completed"
-                job.response = future.result()
-                f.write(str(job))
+            try:
+                job = self.get_job(job_id)
+                if job is None:
+                    logger.error("Job not found in callback: %s", job_id)
+                    return
+
+                exception = future.exception()
+                if exception:
+                    logger.error(
+                        "Job callback received exception for %s: %s",
+                        job_id,
+                        str(exception),
+                    )
+                    job.state = "failed"
+                    job.response = {"error": str(exception)}
+                else:
+                    logger.info("Job callback saving completed state for: %s", job_id)
+                    job.state = "completed"
+                    job.response = future.result()
+
+                with open(f"{self.directory}{job.id}.json", "w") as f:
+                    f.write(str(job))
+
+            except Exception as e:
+                logger.error(
+                    "Error in job completion callback for %s: %s", job_id, str(e)
+                )
+                logger.error("Traceback: %s", traceback.format_exc())
 
         return __inner

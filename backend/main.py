@@ -1,3 +1,15 @@
+import logging
+import sys
+
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+    handlers=[
+        logging.StreamHandler(sys.stdout),
+    ],
+)
+
 import datetime
 import json
 import os
@@ -10,12 +22,8 @@ if os.getenv("RAILWAY_ENVIRONMENT_NAME") != "production":
 from lib.logging_config import configure_logging
 
 if os.getenv("RAILWAY_ENVIRONMENT_NAME") == "production":
-    import logging
-    # Temporarily set to DEBUG for better visibility into production issues, will likely want to change this back to INFO or WARNING after some time
     configure_logging(logging.DEBUG)
 else:
-    import logging
-
     configure_logging(logging.DEBUG)
 
 import jwt as pyjwt
@@ -189,7 +197,6 @@ class UserJobsHandler(HTTPMethodView):
         credentials_accessor=CREDENTIAL_ACCESSOR,
     )
     async def get(self, credentials: Credentials, request: Request):
-        # Return a list of job IDs owned by the authenticated user
         jobs = self.job_manager.get_jobs_for_owner(credentials.identifier)
         return response.json(
             [
