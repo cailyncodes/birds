@@ -37,7 +37,7 @@ class RedisCache(CacheProvider):
         try:
             return await self.redis.get(key)
         except Exception:
-            data = await self.redis.json().get(key, "$")  # type: ignore - wrong b/c it doesn't know that we are using the async package
+            data = await self.redis.json().get(key, ".")  # type: ignore - wrong b/c it doesn't know that we are using the async package
             logger.debug("Redis JSON get for key '%s' returned: %s", key, data)
             return data
 
