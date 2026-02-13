@@ -37,7 +37,9 @@ class RedisCache(CacheProvider):
         try:
             return await self.redis.get(key)
         except Exception:
-            return await self.redis.json().get(key, "$")  # type: ignore - wrong b/c it doesn't know that we are using the async package
+            data = await self.redis.json().get(key, "$")  # type: ignore - wrong b/c it doesn't know that we are using the async package
+            logger.debug("Redis JSON get for key '%s' returned: %s", key, data)
+            return data
 
     async def set(self, key: str, value: EncodableT):
         if isinstance(value, (bytes | bytearray | memoryview | str | int | float)):
