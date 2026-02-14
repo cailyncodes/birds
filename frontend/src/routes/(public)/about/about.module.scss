@@ -1,0 +1,265 @@
+@use "../../../styles/global.scss" as *;
+
+// ============================================
+// ABOUT PAGE STYLES
+// ============================================
+
+.about {
+  width: 100%;
+}
+
+.container {
+  @include container;
+  max-width: 900px;
+  padding: 0 $space-6;
+
+  @media screen and (max-width: 768px) {
+    padding: 0 $space-5;
+  }
+}
+
+// Hero Section
+.hero {
+  background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
+  padding: $space-16 $space-6;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 400px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -30%;
+    left: -5%;
+    width: 300px;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 50%;
+  }
+}
+
+.heroContent {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: $font-weight-bold;
+    color: $color-white;
+    margin-bottom: $space-6;
+    line-height: 1.2;
+    font-style: italic;
+  }
+}
+
+.lead {
+  font-size: clamp(1.125rem, 2.5vw, 1.375rem);
+  color: rgba(255, 255, 255, 0.95);
+  line-height: 1.7;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+// Standard Section
+.section {
+  padding: $space-16 0;
+
+  @media screen and (max-width: 768px) {
+    padding: $space-12 0;
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 4vw, 2.25rem);
+    color: $color-primary-1;
+    margin-bottom: $space-6;
+    font-weight: $font-weight-semibold;
+    position: relative;
+    padding-bottom: $space-3;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, $color-accent-3, $color-accent-2);
+      border-radius: 2px;
+    }
+  }
+
+  p {
+    color: $color-text-secondary;
+    line-height: 1.8;
+    font-size: 1.0625rem;
+    margin-bottom: $space-4;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    color: $color-tertiary;
+    text-decoration: none;
+    border-bottom: 2px solid $color-accent-3;
+    padding-bottom: 1px;
+    transition: all $transition-fast;
+    font-weight: $font-weight-medium;
+
+    &:hover {
+      color: $color-primary-1;
+      border-bottom-color: $color-primary-1;
+    }
+  }
+}
+
+// Alternate Section (Features)
+.sectionAlt {
+  padding: $space-16 0;
+  background: $color-bg-warm;
+
+  @media screen and (max-width: 768px) {
+    padding: $space-12 0;
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 4vw, 2.25rem);
+    color: $color-primary-1;
+    margin-bottom: $space-8;
+    font-weight: $font-weight-semibold;
+    text-align: center;
+    position: relative;
+    padding-bottom: $space-3;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, $color-accent-3, $color-accent-2);
+      border-radius: 2px;
+    }
+  }
+}
+
+// Features Grid
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: $space-8;
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: $space-6;
+  }
+}
+
+.feature {
+  background: $color-white;
+  padding: $space-8;
+  border-radius: $border-radius-xl;
+  box-shadow: $shadow-md;
+  transition: transform $transition-base, box-shadow $transition-base;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $shadow-lg;
+  }
+
+  @media screen and (max-width: 768px) {
+    padding: $space-6;
+  }
+}
+
+.featureIcon {
+  font-size: 2.5rem;
+  margin-bottom: $space-4;
+  display: inline-block;
+}
+
+.feature h3 {
+  font-size: 1.25rem;
+  color: $color-text-primary;
+  margin-bottom: $space-3;
+  font-weight: $font-weight-semibold;
+}
+
+.feature p {
+  color: $color-text-secondary;
+  line-height: 1.7;
+  margin: 0;
+  font-size: 1rem;
+}
+
+// CTA Section
+.cta {
+  padding: $space-16 0;
+  background: linear-gradient(135deg, rgba($color-primary-1, 0.05) 0%, rgba($color-primary-dark, 0.05) 100%);
+
+  @media screen and (max-width: 768px) {
+    padding: $space-12 0;
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 4vw, 2.25rem);
+    color: $color-primary-1;
+    margin-bottom: $space-6;
+    font-weight: $font-weight-semibold;
+    position: relative;
+    padding-bottom: $space-3;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 3px;
+      background: linear-gradient(90deg, $color-accent-3, $color-accent-2);
+      border-radius: 2px;
+    }
+  }
+
+  p {
+    color: $color-text-secondary;
+    line-height: 1.8;
+    font-size: 1.0625rem;
+    margin-bottom: $space-8;
+  }
+
+  a {
+    color: $color-tertiary;
+    text-decoration: none;
+    border-bottom: 2px solid $color-accent-3;
+    padding-bottom: 1px;
+    transition: all $transition-fast;
+    font-weight: $font-weight-medium;
+
+    &:hover {
+      color: $color-primary-1;
+      border-bottom-color: $color-primary-1;
+    }
+  }
+}
+
+.ctaButton {
+  display: flex;
+  justify-content: flex-start;
+}

@@ -2,36 +2,80 @@
 
 .container {
     // subtract header height
-    height: calc(100% - 85px);
+    min-height: calc(100vh - 85px);
+    @include flex(column, center, center);
+    padding: $space-8 $space-4;
+    background: linear-gradient(180deg, $color-bg-soft 0%, $color-bg-primary 100%);
 
     article {
-        @include container;
-        @include flex(column, center, center);
-        width: max-content;
-        max-width: 450px;
-        padding-top: 10rem;
+        @include card;
+        width: 100%;
+        max-width: 420px;
+        padding: $space-10;
         text-align: center;
+        background: $color-white;
+
+        h2 {
+            color: $color-text-primary;
+            font-size: 1.75rem;
+            margin-bottom: $space-2;
+        }
+        
+        > p {
+            color: $color-text-secondary;
+            font-size: 0.95rem;
+            margin-bottom: $space-8;
+            line-height: 1.6;
+        }
 
         div {
-            @include flex(column, space-between, start);
-
-            width: max-content;
-            margin: 0.25rem 0;
+            @include flex(column, flex-start, stretch);
+            width: 100%;
+            margin: 0 0 $space-5;
+            
+            label {
+                font-size: 0.9rem;
+                font-weight: $font-weight-medium;
+                color: $color-text-primary;
+                margin-bottom: $space-2;
+                text-align: left;
+            }
+            
+            input {
+                width: 100%;
+            }
         }
 
         .controls-wrapper {
             @include flex(column, center, center);
-            margin-top: 1rem;
+            margin-top: $space-6;
+            gap: $space-4;
+            
+            button {
+                width: 100%;
+                min-width: unset;
+            }
 
             a {
-                margin-top: 1rem;
-                border-bottom: solid $color-dark-grey 1px;
-                color: $color-dark-grey;
+                font-size: 0.9rem;
+                color: $color-text-secondary;
+                border-bottom: 1px solid transparent;
+                padding-bottom: 1px;
+                transition: all $transition-fast;
 
                 &:hover {
-                    border-bottom: dashed $color-dark-grey 1px;
+                    color: $color-tertiary;
+                    border-bottom-color: $color-accent-3;
                 }
             }
+        }
+    }
+    
+    @media screen and (max-width: 480px) {
+        padding: $space-6 $space-4;
+        
+        article {
+            padding: $space-8 $space-5;
         }
     }
 }

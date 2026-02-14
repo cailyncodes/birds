@@ -1,18 +1,82 @@
-.container {
+@use "../../../styles/global.scss" as *;
 
+.container {
     main {
         display: grid;
         grid-template-rows: auto 1fr;
+        gap: $space-8;
     }
 
     .lists {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-        gap: 2rem;
-        margin-bottom: 2rem;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: $space-6;
+        margin-bottom: $space-8;
+        
+        article {
+            @include card;
+            padding: $space-6;
+            background: $color-white;
+            display: flex;
+            flex-direction: column;
+            
+            .list-name {
+                font-size: 1.25rem;
+                font-weight: $font-weight-semibold;
+                color: $color-primary-1;
+                margin-bottom: $space-3;
+            }
+            
+            .list-type,
+            .list-count {
+                font-size: 0.9rem;
+                color: $color-text-secondary;
+                margin-bottom: $space-2;
+            }
+            
+            .button-wrapper {
+                margin-top: auto;
+                padding-top: $space-4;
+                
+                button {
+                    width: 100%;
+                    min-width: unset;
+                    padding: $space-2 $space-4;
+                    font-size: 0.875rem;
+                    background: linear-gradient(135deg, $color-accent-1 0%, color-mix(in srgb, $color-accent-1 85%, $color-tertiary) 100%);
+                }
+            }
+        }
     }
 
     .add-list {
         display: flex;
+        
+        article {
+            @include card;
+            padding: $space-6;
+            background: $color-white;
+            width: 100%;
+            max-width: 600px;
+            
+            h3 {
+                font-size: 1.375rem;
+                color: $color-text-primary;
+                margin-bottom: $space-4;
+            }
+        }
+    }
+    
+    @media screen and (max-width: 768px) {
+        .lists {
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: $space-4;
+        }
+    }
+    
+    @media screen and (max-width: 480px) {
+        .lists {
+            grid-template-columns: 1fr;
+        }
     }
 }

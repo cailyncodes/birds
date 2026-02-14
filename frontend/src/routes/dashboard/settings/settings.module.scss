@@ -3,13 +3,66 @@
 .settings {
     max-width: 800px;
 
+    h2 {
+        color: $color-text-primary;
+        font-size: 1.875rem;
+        margin-bottom: $space-2;
+    }
+    
+    > p {
+        color: $color-text-secondary;
+        font-size: 1.125rem;
+        margin-bottom: $space-8;
+    }
+
     section {
         display: flex;
         flex-direction: column;
-        gap: 1.5rem;
+        gap: $space-6;
 
-        article p {
-            padding: .5rem 0;
+        article {
+            @include card;
+            padding: $space-6;
+            background: $color-white;
+            
+            h3 {
+                font-size: 1.25rem;
+                color: $color-primary-1;
+                margin-bottom: $space-4;
+                font-weight: $font-weight-semibold;
+            }
+            
+            p {
+                color: $color-text-secondary;
+                padding: $space-2 0;
+                line-height: 1.7;
+            }
+            
+            form, div {
+                margin-top: $space-4;
+                
+                label {
+                    display: block;
+                    font-weight: $font-weight-medium;
+                    color: $color-text-primary;
+                    margin-bottom: $space-2;
+                    font-size: 0.95rem;
+                }
+                
+                input, select {
+                    margin-bottom: $space-4;
+                }
+                
+                button {
+                    margin-top: $space-2;
+                }
+            }
+        }
+    }
+    
+    @media screen and (max-width: 768px) {
+        section article {
+            padding: $space-5;
         }
     }
 }

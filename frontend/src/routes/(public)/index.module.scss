@@ -1,14 +1,31 @@
 @use "../../styles/global.scss" as *;
 
+// ============================================
+// HEADER & NAVIGATION
+// ============================================
+
 .header {
     display: grid;
     grid-template: "name navigation";
+    background: rgba(255, 253, 244, 0.95);
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: $shadow-sm;
 }
 
 .header-name {
     grid-area: name;
     @include flex(row, row-start, center);
-    margin-left: clamp(5px, 1rem, 25px)
+    margin-left: clamp(5px, 1rem, 25px);
+
+    a {
+        color: $color-text-primary;
+        font-weight: $font-weight-semibold;
+        font-size: 1.25rem;
+        letter-spacing: -0.5px;
+    }
 }
 
 nav {
@@ -16,30 +33,54 @@ nav {
     display: flex;
     justify-content: end;
     align-items: center;
-
     margin-right: clamp(10px, 2rem, 45px);
 
     ul {
         list-style: none;
         display: flex;
-        gap: 15px;
+        gap: $space-6;
         padding: 0;
 
         li {
             a {
                 text-decoration: none;
-                color: var(--black);
+                color: $color-text-secondary;
+                font-weight: $font-weight-medium;
+                padding: $space-2 0;
+                position: relative;
+                transition: color $transition-fast;
 
                 &[data-active] {
-                    border-bottom: 2px solid var(--accent-1);
+                    color: $color-accent-1;
+
+                    &::after {
+                        content: '';
+                        position: absolute;
+                        bottom: 0;
+                        left: 0;
+                        right: 0;
+                        height: 2px;
+                        background: linear-gradient(90deg, $color-accent-1, $color-accent-3);
+                        border-radius: 1px;
+                    }
+                }
+
+                &:hover {
+                    color: $color-text-primary;
                 }
             }
 
             &:hover {
-                a {
-                    border-bottom: 2px solid color-mix(in srgb, var(--accent-1) 50%, transparent);
+                a:not([data-active])::after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    height: 2px;
+                    background: color-mix(in srgb, $color-accent-3 50%, transparent);
+                    border-radius: 1px;
                 }
-
             }
         }
     }
@@ -56,16 +97,20 @@ nav {
             right: 0;
             top: 60px;
             margin: 0;
-            padding: 1rem;
-            background: $color-bg-primary;
+            padding: $space-4;
+            background: rgba(255, 253, 244, 0.98);
+            backdrop-filter: blur(10px);
+            border-radius: 0 0 $border-radius-lg $border-radius-lg;
+            box-shadow: $shadow-lg;
 
             ul {
                 flex-direction: column;
                 align-items: center;
-                padding: 1rem 0 0 0;
+                padding: $space-4 0 0 0;
+                gap: $space-4;
 
                 li {
-                    margin: 0.5rem 0;
+                    margin: 0;
                 }
             }
         }
@@ -79,9 +124,9 @@ nav {
     justify-content: space-around;
     justify-self: right;
     align-self: center;
-    width: 30px;
-    height: 25px;
-    margin-right: 1rem;
+    width: 28px;
+    height: 22px;
+    margin-right: $space-4;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -99,11 +144,16 @@ nav {
 
 .hamburger .bar {
     width: 100%;
-    height: 3px;
-    background: var(--black);
+    height: 2.5px;
+    background: $color-text-primary;
     border-radius: 2px;
+    transition: all $transition-fast;
 }
 
+
+// ============================================
+// HERO SECTION
+// ============================================
 
 .hero {
     @include flex(column, center, center);
@@ -111,7 +161,6 @@ nav {
     width: 100%;
     height: 725px;
     background: url(/hero.jpg) center calc(50% + 40px)/cover no-repeat;
-    // background-position-y: unset;
 
     @media screen and (max-width: 1545px) {
         background-position-y: calc(50% + 20px);
@@ -132,134 +181,243 @@ nav {
     &-overlay {
         position: absolute;
         inset: 0;
-        background: rgba(0, 0, 0, 0.2);
+        background: linear-gradient(135deg,
+                rgba(0, 0, 0, 0.65) 0%,
+                rgba(0, 0, 0, 0.4) 40%,
+                rgba(0, 0, 0, 0.5) 100%);
     }
 
     &-content {
         position: relative;
         top: -5rem;
-        left: 20%;
+        left: 22%;
+        max-width: 580px;
         text-align: left;
-        color: $color-text;
+        color: $color-white;
+        text-shadow:
+            0 2px 8px rgba(0, 0, 0, 0.6),
+            0 4px 16px rgba(0, 0, 0, 0.4),
+            0 0 40px rgba(0, 0, 0, 0.3);
+
+        @media screen and (max-width: 855px) {
+            top: -8rem;
+            left: 20%;
+            width: 50%;
+            max-width: 440px;
+        }
 
         @media screen and (max-width: 725px) {
-            top: -10rem;
+            top: -8rem;
             left: 20%;
-            width: 40%;
-            text-wrap-mode: wrap;
+            width: 50%;
+            max-width: 440px;
         }
 
         @media screen and (max-width: 545px) {
-            top: -5rem;
+            top: -3rem;
             left: unset;
-            width: unset;
+            width: 70%;
             text-align: center;
+            padding: 0 $space-4;
         }
 
-        h1 {
-            font-size: 3rem;
+        .headline {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: $font-weight-bold;
             margin: 0;
+            letter-spacing: -1px;
+            line-height: 1.1;
+            animation: fadeInUp 0.8s ease-out;
+            color: $color-white;
+            text-shadow:
+                0 2px 8px rgba(0, 0, 0, 0.7),
+                0 4px 20px rgba(0, 0, 0, 0.5);
         }
 
-        p {
-            font-size: 1.5rem;
-            margin-top: 0.5rem;
+        .subheadline {
+            font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+            margin-top: $space-4;
+            font-weight: $font-weight-normal;
+            opacity: 1;
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+            color: rgba(255, 255, 255, 0.95);
+            text-shadow:
+                0 2px 6px rgba(0, 0, 0, 0.6),
+                0 3px 12px rgba(0, 0, 0, 0.4);
+
+            em {
+                font-style: italic;
+                color: #FFD966;
+                font-weight: $font-weight-semibold;
+                text-shadow:
+                    0 2px 6px rgba(0, 0, 0, 0.7),
+                    0 0 10px rgba(255, 217, 102, 0.3);
+            }
         }
     }
 
     .photo-credits {
         position: absolute;
-        bottom: 10px;
-        right: 10px;
-        font-size: 0.8rem;
+        bottom: $space-4;
+        right: $space-4;
+        font-size: 0.75rem;
         color: rgba(255, 255, 255, 0.7);
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
 
         a {
+            color: rgba(255, 255, 255, 0.9);
             text-decoration: underline;
+            text-decoration-color: rgba(255, 255, 255, 0.5);
+            transition: all $transition-fast;
 
             &:hover {
-                color: rgba(255, 255, 255, 1);
+                color: $color-white;
+                text-decoration-color: $color-white;
             }
         }
 
         @media screen and (max-width: 545px) {
-            color: rgba(255, 255, 255, 1);
-            left: 10px;
+            left: $space-4;
             right: unset;
-            text-align: left;
         }
     }
 }
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+// ============================================
+// FEATURES BLOCKS SECTION
+// ============================================
 
 .blocks {
     @include container;
     width: fit-content;
     display: grid;
     grid-template-columns: repeat(2, minmax(auto, max-content));
-    gap: 1rem 3rem;
-    padding: 4rem 0;
+    gap: $space-8 $space-12;
+    padding: $space-16 0;
 
     @media screen and (max-width: 1080px) {
         grid-template-columns: minmax(auto, max-content);
-        gap: unset;
+        gap: $space-6;
+        padding: $space-12 $space-6;
     }
 
     .block {
-        padding: 1rem;
+        padding: $space-6;
         width: 500px;
+        background: rgba(255, 255, 255, 0.6);
+        border-radius: $border-radius-xl;
+        border: 1px solid rgba(224, 171, 129, 0.15);
+        transition: all $transition-base;
+
+        &:not(.block-empty):hover {
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: $shadow-lg;
+            transform: translateY(-4px);
+            border-color: rgba(224, 171, 129, 0.3);
+        }
 
         @media screen and (max-width: 1080px) {
-            padding: 0;
+            padding: $space-5;
+            width: 100%;
+            max-width: 500px;
         }
 
         @media screen and (max-width: 560px) {
-            padding: 1rem;
-            width: auto;
+            padding: $space-4;
+            width: 100%;
         }
 
         &-empty {
-            @media screen and (max-width: 560px) {
+            background: transparent;
+            border: none;
+
+            @media screen and (max-width: 1080px) {
                 display: none;
             }
         }
 
         h2 {
             margin-top: 0;
-            margin-bottom: 1rem;
-            font-size: 2.2rem;
+            margin-bottom: $space-3;
+            font-size: 1.875rem;
             color: $color-primary-1;
+            font-weight: $font-weight-semibold;
         }
 
         p {
             margin: 0;
-            font-size: 1.2rem;
-            color: $color-dark-grey;
+            font-size: 1.125rem;
+            line-height: 1.7;
+            color: $color-text-secondary;
 
             @media screen and (max-width: 1080px) {
-                margin-bottom: 2rem;
+                margin-bottom: 0;
             }
         }
     }
 }
 
+// ============================================
+// CALLOUT SECTION
+// ============================================
+
 .callout {
     @include flex(column, center, start);
-    height: 250px;
-    background: $color-primary-1;
-    color: $color-text;
+    min-height: 280px;
+    background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
+    color: $color-white;
     text-align: left;
-    padding: 1rem 20rem;
+    padding: $space-10 20rem;
+    position: relative;
+    overflow: hidden;
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        right: -10%;
+        width: 400px;
+        height: 400px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 50%;
+    }
+
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: -30%;
+        left: -5%;
+        width: 300px;
+        height: 300px;
+        background: rgba(255, 255, 255, 0.03);
+        border-radius: 50%;
+    }
 
     @media screen and (max-width: 1080px) {
-        padding: 1rem 3rem;
+        padding: $space-8 $space-6;
     }
 
     @media screen and (max-width: 384px) {
         height: auto;
-        padding: 2rem;
+        padding: $space-8 $space-5;
     }
 
     p {
+        position: relative;
+        z-index: 1;
+
         @media screen and (max-width: 1080px) {
             width: fit-content;
             margin: 0 auto;
@@ -268,33 +426,535 @@ nav {
     }
 
     &-header {
-        font-size: 50px;
+        font-size: clamp(2rem, 4vw, 3.5rem);
+        font-weight: $font-weight-bold;
+        margin-bottom: $space-3;
+        letter-spacing: -0.5px;
+        color: $color-white;
     }
 
     &-subtitle {
-        font-size: 20px;
-    }
+        font-size: clamp(1.125rem, 2vw, 1.5rem);
+        opacity: 1;
+        color: rgba(255, 255, 255, 0.98);
 
-    a {
-        border-bottom: solid $color-text 1px;
+        a {
+            color: #F8EFD1;
+            border-bottom: 2px solid rgba(248, 239, 209, 0.8);
+            padding-bottom: 2px;
+            transition: all $transition-fast;
+            font-weight: $font-weight-semibold;
 
-        &:hover {
-            border-bottom: dashed $color-text 1px;
+            &:hover {
+                color: #FFFFFF;
+                border-bottom-color: #FFFFFF;
+            }
         }
     }
 }
 
+// ============================================
+// ACTION/CTA SECTION
+// ============================================
+
 .action {
     @include container;
-    padding: 3rem;
+    padding: $space-40 $space-6;
     text-align: center;
-    font-size: 2rem;
 
-    a {
-        border-bottom: solid $color-accent-3 1px;
+    p {
+        font-size: clamp(1.5rem, 3vw, 2.25rem);
+        font-weight: $font-weight-semibold;
+        color: $color-text-secondary;
+        line-height: 1.4;
 
-        &:hover {
-            border-bottom: dashed $color-accent-3 1px;
+        a {
+            color: $color-primary-1;
+            border-bottom: 3px solid $color-accent-3;
+            padding-bottom: 4px;
+            transition: all $transition-fast;
+            font-weight: $font-weight-bold;
+
+            &:hover {
+                color: $color-primary-dark;
+                border-bottom-color: $color-primary-1;
+            }
         }
     }
+}
+
+// ============================================
+// PAGE WRAPPER & LAYOUT STRUCTURE
+// ============================================
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-main {
+    flex: 1 0 auto;
+}
+
+// ============================================
+// FOOTER
+// ============================================
+
+.footer {
+    flex-shrink: 0;
+    background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
+    color: $color-white;
+    padding: $space-8 $space-6;
+    margin-top: auto;
+
+    &-content {
+        @include container;
+        max-width: 800px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: $space-6;
+        text-align: center;
+    }
+
+    @media screen and (max-width: 480px) {
+        gap: $space-6;
+    }
+
+    &-copy {
+        font-size: 0.875rem;
+        color: rgba(255, 255, 255, 0.7);
+        margin: 0;
+    }
+}
+
+// ============================================
+// CONTENT PAGES (About, Donate)
+// ============================================
+
+.main {
+    @include container;
+    max-width: 800px;
+    padding: $space-16 $space-6;
+
+    h2 {
+        font-size: clamp(1.75rem, 4vw, 2.5rem);
+        color: $color-primary-1;
+        margin-bottom: $space-6;
+        font-weight: $font-weight-semibold;
+        line-height: 1.2;
+
+        em {
+            font-style: italic;
+            color: $color-tertiary;
+        }
+    }
+
+    h3 {
+        font-size: clamp(1.25rem, 3vw, 1.5rem);
+        color: $color-text-primary;
+        margin-top: $space-10;
+        margin-bottom: $space-4;
+        font-weight: $font-weight-semibold;
+        position: relative;
+        padding-bottom: $space-2;
+
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, $color-accent-3, $color-accent-2);
+            border-radius: 2px;
+        }
+    }
+
+    p {
+        color: $color-text-secondary;
+        margin-bottom: $space-5;
+        line-height: 1.8;
+        font-size: 1.0625rem;
+    }
+
+    ul {
+        margin: $space-6 0;
+        padding-left: 0;
+        list-style: none;
+
+        li {
+            margin-bottom: $space-4;
+            color: $color-text-secondary;
+            line-height: 1.7;
+            padding-left: $space-6;
+            position: relative;
+
+            &::before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0.6em;
+                width: 8px;
+                height: 8px;
+                background: linear-gradient(135deg, $color-accent-3, $color-accent-2);
+                border-radius: 50%;
+            }
+
+            strong {
+                color: $color-text-primary;
+                font-weight: $font-weight-semibold;
+            }
+
+            a {
+                color: $color-tertiary;
+                text-decoration: none;
+                border-bottom: 2px solid $color-accent-3;
+                padding-bottom: 1px;
+                transition: all $transition-fast;
+                font-weight: $font-weight-medium;
+
+                &:hover {
+                    color: $color-primary-1;
+                    border-bottom-color: $color-primary-1;
+                }
+            }
+        }
+    }
+
+    // Buy Me a Coffee button container
+    script[data-name="bmc-button"] {
+        display: block;
+        margin-top: $space-8;
+    }
+
+    // First paragraph styling (intro)
+    h2+p {
+        font-size: 1.125rem;
+        color: $color-text-primary;
+        font-weight: $font-weight-medium;
+    }
+
+    @media screen and (max-width: 768px) {
+        padding: $space-12 $space-5;
+    }
+}
+
+// ============================================
+// HERO CTA BUTTONS
+// ============================================
+
+.hero-cta {
+    display: flex;
+    gap: $space-4;
+    margin-top: $space-8;
+    flex-wrap: wrap;
+
+    @media screen and (max-width: 545px) {
+        justify-content: center;
+    }
+}
+
+.cta-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: $space-4 $space-8;
+    background: linear-gradient(135deg, $color-accent-2 0%, color-mix(in srgb, $color-accent-2 85%, $color-primary-1) 100%);
+    color: $color-white;
+    font-weight: $font-weight-semibold;
+    font-size: 1.125rem;
+    border-radius: $border-radius-md;
+    text-decoration: none;
+    transition: all $transition-base;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-2 90%, $color-white) 0%, $color-accent-2 100%);
+    }
+}
+
+.cta-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: $space-4 $space-6;
+    color: $color-white;
+    font-weight: $font-weight-medium;
+    font-size: 1.125rem;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+    transition: all $transition-fast;
+
+    &:hover {
+        border-bottom-color: $color-white;
+        color: $color-white;
+    }
+}
+
+// ============================================
+// SECTION HEADER
+// ============================================
+
+.section-header {
+    text-align: center;
+    margin-bottom: $space-12;
+
+    h2 {
+        font-size: clamp(1.75rem, 4vw, 2.5rem);
+        color: $color-primary-1;
+        margin-bottom: $space-4;
+        font-weight: $font-weight-semibold;
+    }
+
+    p {
+        font-size: 1.125rem;
+        color: $color-text-secondary;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+// ============================================
+// FEATURES SECTION
+// ============================================
+
+.features {
+    padding: $space-20 $space-6;
+    background: $color-bg-primary;
+
+    @media screen and (max-width: 768px) {
+        padding: $space-16 $space-5;
+    }
+}
+
+.features-grid {
+    @include container;
+    max-width: 1100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: $space-8;
+
+    @media screen and (max-width: 900px) {
+        grid-template-columns: 1fr;
+        max-width: 500px;
+    }
+}
+
+.feature {
+    background: $color-white;
+    padding: $space-8;
+    border-radius: $border-radius-xl;
+    box-shadow: $shadow-md;
+    text-align: center;
+    transition: transform $transition-base, box-shadow $transition-base;
+
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: $shadow-lg;
+    }
+
+    @media screen and (max-width: 768px) {
+        padding: $space-6;
+    }
+
+    h3 {
+        font-size: 1.375rem;
+        color: $color-text-primary;
+        margin: $space-4 0 $space-3;
+        font-weight: $font-weight-semibold;
+    }
+
+    p {
+        color: $color-text-secondary;
+        line-height: 1.7;
+        margin: 0;
+    }
+}
+
+.feature-icon {
+    font-size: 3.5rem;
+    line-height: 1;
+}
+
+// ============================================
+// STEPS SECTION
+// ============================================
+
+.steps {
+    padding: $space-20 $space-6;
+    background: $color-bg-warm;
+
+    @media screen and (max-width: 768px) {
+        padding: $space-16 $space-5;
+    }
+}
+
+.steps-grid {
+    @include container;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: $space-8;
+    position: relative;
+
+    @media screen and (max-width: 768px) {
+        grid-template-columns: 1fr;
+        max-width: 400px;
+    }
+
+    // Connecting line between steps
+    &::before {
+        content: '';
+        position: absolute;
+        top: 40px;
+        left: 20%;
+        right: 20%;
+        height: 3px;
+        background: linear-gradient(90deg, $color-accent-3, $color-accent-2);
+        opacity: 0.3;
+
+        @media screen and (max-width: 768px) {
+            display: none;
+        }
+    }
+}
+
+.step {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+
+    h3 {
+        font-size: 1.25rem;
+        color: $color-text-primary;
+        margin: $space-4 0 $space-3;
+        font-weight: $font-weight-semibold;
+    }
+
+    p {
+        color: $color-text-secondary;
+        line-height: 1.6;
+        margin: 0;
+    }
+}
+
+.step-number {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
+    color: $color-white;
+    font-size: 2rem;
+    font-weight: $font-weight-bold;
+    border-radius: 50%;
+    box-shadow: $shadow-lg;
+}
+
+// ============================================
+// STATS SECTION
+// ============================================
+
+.stats {
+    padding: $space-16 $space-6;
+    background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
+
+    @media screen and (max-width: 768px) {
+        padding: $space-12 $space-5;
+    }
+}
+
+.stats-grid {
+    @include container;
+    max-width: 900px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: $space-8;
+    text-align: center;
+
+    @media screen and (max-width: 600px) {
+        grid-template-columns: 1fr;
+        gap: $space-6;
+    }
+}
+
+.stat-number {
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-weight: $font-weight-bold;
+    color: $color-white;
+    line-height: 1.1;
+    margin-bottom: $space-2;
+}
+
+.stat-label {
+    font-size: 1.125rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: $font-weight-medium;
+}
+
+// ============================================
+// FINAL CTA SECTION
+// ============================================
+
+.final-cta {
+    padding: $space-20 $space-6;
+    background: $color-bg-primary;
+
+    @media screen and (max-width: 768px) {
+        padding: $space-16 $space-5;
+    }
+}
+
+.final-cta-content {
+    @include container;
+    max-width: 700px;
+    text-align: center;
+
+    h2 {
+        font-size: clamp(1.75rem, 4vw, 2.5rem);
+        color: $color-primary-1;
+        margin-bottom: $space-4;
+        font-weight: $font-weight-semibold;
+    }
+
+    p {
+        font-size: 1.125rem;
+        color: $color-text-secondary;
+        margin-bottom: $space-8;
+        line-height: 1.7;
+    }
+}
+
+.cta-button-large {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: $space-5 $space-10;
+    background: linear-gradient(135deg, $color-accent-2 0%, color-mix(in srgb, $color-accent-2 85%, $color-primary-1) 100%);
+    color: $color-white;
+    font-weight: $font-weight-semibold;
+    font-size: 1.25rem;
+    border-radius: $border-radius-lg;
+    text-decoration: none;
+    transition: all $transition-base;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+    margin-bottom: $space-4;
+
+    &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-2 90%, $color-white) 0%, $color-accent-2 100%);
+    }
+}
+
+.final-cta-sub {
+    font-size: 0.9375rem;
+    color: $color-text-muted;
+    margin: 0;
 }

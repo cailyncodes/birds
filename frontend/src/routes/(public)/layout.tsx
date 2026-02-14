@@ -3,26 +3,6 @@ import { component$, Slot, useSignal } from '@builder.io/qwik';
 import { Link, routeLoader$, useLocation } from '@builder.io/qwik-city';
 import styles from "./index.module.scss";
 
-// export const onGet: RequestHandler = async ({ cookie }) => {
-//     const jwt = cookie.get("jwt")?.value
-//     if (!jwt) {
-//         return;
-//     }
-
-//     // Attempt to sign in using the current jwt.
-//     // If not valid, delete the cookie to signal to downstream
-//     // routes that the user is not logged in.
-//     const response = await doSignIn({ jwt });
-//     if (response.status !== 200) {
-//         cookie.delete("jwt")
-//         return;
-//     }
-// }
-
-// export const UserContext = createContextId<User>("birdspot.user");
-// export const SettingsContext = createContextId<Record<string, Record<string, string | boolean>>>("birdspot.settings");
-// export const ListsContext = createContextId<{ lists: List[] }>("birdspot.lists");
-
 export const useIsLoggedIn = routeLoader$(async ({ cookie }) => {
     return !!cookie.get("jwt");
 })
@@ -30,36 +10,27 @@ export const useIsLoggedIn = routeLoader$(async ({ cookie }) => {
 export default component$(() => {
     const isLoggedIn = useIsLoggedIn();
     const location = useLocation();
-    // useContextProvider(SettingsContext, useStore({}));
-
-    // const listsBacking = useLocalstorage<List[]>({ key: "birdspot.lists", transform$: $((data: string | undefined) => data ? JSON.parse(data) : []) })
-    // // useContextProvider(ListsContext, useStore({ lists: listsBacking.value ?? [] }));
-    // const listContext = useContext(ListsContext);
-
-    // useVisibleTask$(({ track }) => {
-    //     track(() => listsBacking.value);
-    //     listContext.lists = listsBacking.value ?? [];
-    // })
 
     const isMenuOpen = useSignal(false);
 
     return (
-        <div id="root">
-            <div class={styles.header}>
+        <div class={styles["page-wrapper"]}>
+            <header class={styles.header}>
                 <div class={styles["header-name"]} onClick$={() => isMenuOpen.value = false}>
-                    <img src="/logo.png" width="85" height="85" />
+                    <img src="/logo.png" width="85" height="85" alt="BirdSpot logo" />
                     <h1><Link href="/">BirdSpot</Link></h1>
                 </div>
                 <button
                     class={styles.hamburger}
                     onClick$={() => isMenuOpen.value = !isMenuOpen.value}
                     aria-label="Toggle navigation"
+                    aria-expanded={isMenuOpen.value}
                 >
                     <span class={styles.bar}></span>
                     <span class={styles.bar}></span>
                     <span class={styles.bar}></span>
                 </button>
-                <nav class={isMenuOpen.value ? styles["mobile-nav-open"] : null}>
+                <nav class={isMenuOpen.value ? styles["mobile-nav-open"] : null} aria-label="Main navigation">
                     <ul>
                         <li><Link href="/" data-active={location.url.pathname == "/"}>Home</Link></li>
                         <li><Link href="/about/" data-active={location.url.pathname == "/about/"}>About</Link></li>
@@ -70,10 +41,15 @@ export default component$(() => {
                         }
                     </ul>
                 </nav>
-            </div>
-            <div onClick$={() => isMenuOpen.value = false}>
+            </header>
+            <main class={styles["content-main"]} onClick$={() => isMenuOpen.value = false}>
                 <Slot />
-            </div>
+            </main>
+            <footer class={styles.footer}>
+                <div class={styles["footer-content"]}>
+                    <p class={styles["footer-copy"]}>Made with love for birders everywhere.</p>
+                </div>
+            </footer>
         </div>
     );
 });
