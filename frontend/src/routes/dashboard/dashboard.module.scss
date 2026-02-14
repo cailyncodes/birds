@@ -203,11 +203,11 @@
     padding-bottom: $space-3;
     border-bottom: 1px solid rgba(224, 171, 129, 0.2);
 
-    &:last-child {
-      border-bottom: none;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
+    // &:last-child {
+    //   border-bottom: none;
+    //   margin-bottom: 0;
+    //   padding-bottom: 0;
+    // }
 
     p {
       margin: 0;
@@ -570,4 +570,148 @@ h2 {
   text-align: center;
   padding: $space-8;
   color: $color-text-secondary;
+}
+
+// Modal styles
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: fadeIn 0.2s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.modal-content {
+  background: $color-white;
+  border-radius: $border-radius-lg;
+  max-width: 500px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+  animation: slideUp 0.3s ease-out;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: $space-4;
+  
+  h3 {
+    margin: 0;
+  }
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  color: $color-text-secondary;
+  padding: $space-2;
+  line-height: 1;
+  
+  &:hover {
+    color: $color-text-primary;
+  }
+}
+
+// Toast styles
+:global(.toast-container) {
+  position: fixed;
+  top: 1.5rem;
+  right: 1.5rem;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 400px;
+}
+
+:global(.toast) {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: slideIn 0.3s ease-out;
+  font-size: 0.95rem;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+:global(.toast-success) {
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+  color: #155724;
+}
+
+:global(.toast-error) {
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+  color: #721c24;
+}
+
+:global(.toast-info) {
+  background: #d1ecf1;
+  border: 1px solid #bee5eb;
+  color: #0c5460;
+}
+
+:global(.toast-icon) {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+:global(.toast-message) {
+  flex: 1;
+  line-height: 1.4;
+}
+
+:global(.toast-close) {
+  background: none;
+  border: none;
+  padding: 0.25rem;
+  cursor: pointer;
+  opacity: 0.6;
+  font-size: 0.85rem;
+  line-height: 1;
+  color: inherit;
+  
+  &:hover {
+    opacity: 1;
+  }
 }
