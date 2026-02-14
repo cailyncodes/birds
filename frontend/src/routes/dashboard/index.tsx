@@ -5,6 +5,7 @@ import useLocalstorage from "~/hooks/use-localstorage";
 import styles from "./dashboard.module.scss";
 import { ListsContext } from "../layout";
 import type { List } from "~/lib/types";
+import RegionSelector from "~/components/region-selector/region-selector";
 
 interface Job {
   id: string;
@@ -121,7 +122,7 @@ export default component$(() => {
               {toast.type === "info" && "ℹ"}
             </span>
             <span class="toast-message">{toast.message}</span>
-            <button 
+            <button
               class="toast-close"
               onClick$={() => {
                 toasts.value = toasts.value.filter(t => t.id !== toast.id);
@@ -161,106 +162,96 @@ export default component$(() => {
           <>
             <>
               <section>
-                <article class={styles.article}>
+                {!showForm.value ? <article class={styles.article}>
                   <h3>Create reports</h3>
                   <p>Set up custom report to find birds more easily. Click "Add report" to get started.</p>
                   <div class={styles["button-wrapper"]}>
                     <button onClick$={() => showForm.value = true}>Add report</button>
                   </div>
-                </article>
+                </article> : null}
+                {showForm.value && (
+                  <div class="modal-overlay" onClick$={() => showForm.value = false}>
+                    <section class="modal-content" onClick$={(e) => e.stopPropagation()}>
+                      <article class={styles.article}>
+                        <div class="modal-header">
+                          <h3>Create New Report</h3>
+                        </div>
+                        <form
+                          action="#"
+                          onSubmit$={$(async (e) => {
+                            e.preventDefault();
+                            await handleSubmit();
+                            return false;
+                          })}
+                        >
+                          <div class={styles["form-group"]}>
+                            <label for="list-select">
+                              Life List<span class={styles.required}>*</span>
+                            </label>
+                            <select
+                              id="list-select"
+                              value={selectedList.value}
+                              onChange$={(e) => selectedList.value = (e.target as HTMLSelectElement).value}
+                              required
+                            >
+                              <option value="" disabled>Select a list</option>
+                              {lists.lists.map((list: List) => (
+                                <option key={list.name} value={list.name}>
+                                  {`${list.name} (${list.birds.length} species)`}
+                                </option>
+                              ))}
+                            </select>
+                            <span class={styles["help-text"]}>
+                              Choose a life list to find target species at nearby hotspots
+                            </span>
+                          </div>
+                          <div class={styles["form-group"]}>
+                            <RegionSelector selectedRegionCode={regionCode} required={true} />
+                            <span class={styles["help-text"]}>
+                              Search for a country and region to automatically fill the code
+                            </span>
+                          </div>
+                          <div class={styles["form-group"]}>
+                            <label for="target-date">
+                              Target Date<span class={styles.required}>*</span>
+                            </label>
+                            <input
+                              id="target-date"
+                              type="date"
+                              value={targetDate.value}
+                              onInput$={(e) => targetDate.value = (e.target as HTMLInputElement).value}
+                              required
+                            />
+                            <span class={styles["help-text"]}>
+                              The date you plan to go birding. Hotspots are scored based on recent sightings.
+                            </span>
+                          </div>
+                          <div class={styles["form-actions"]}>
+                            <button type="submit" disabled={isSubmitting.value}>
+                              {isSubmitting.value ? "Creating..." : "Create Report"}
+                            </button>
+                            <button
+                              type="button"
+                              class={styles["button-secondary"]}
+                              onClick$={() => {
+                                showForm.value = false;
+                                selectedList.value = "";
+                                regionCode.value = "";
+                                targetDate.value = "";
+                              }}
+                              disabled={isSubmitting.value}
+                            >
+                              Cancel
+                            </button>
+                          </div>
+                        </form>
+                      </article>
+                    </section>
+                  </div>
+                )}
               </section>
             </>
-            {showForm.value && (
-              <div class="modal-overlay" onClick$={() => showForm.value = false}>
-                <section class="modal-content" onClick$={(e) => e.stopPropagation()}>
-                  <article class={styles.article}>
-                    <div class="modal-header">
-                      <h3>Create New Report</h3>
-                      <button class="modal-close" onClick$={() => showForm.value = false}>✕</button>
-                    </div>
-                    <form
-                      action="#"
-                      onSubmit$={$(async (e) => {
-                        e.preventDefault();
-                        await handleSubmit();
-                        return false;
-                      })}
-                    >
-                      <div class={styles["form-group"]}>
-                        <label for="list-select">
-                          Life List<span class={styles.required}>*</span>
-                        </label>
-                        <select
-                          id="list-select"
-                          value={selectedList.value}
-                          onChange$={(e) => selectedList.value = (e.target as HTMLSelectElement).value}
-                          required
-                        >
-                          <option value="" disabled>Select a list</option>
-                          {lists.lists.map((list: List) => (
-                            <option key={list.name} value={list.name}>
-                              {`${list.name} (${list.birds.length} species)`}
-                            </option>
-                          ))}
-                        </select>
-                        <span class={styles["help-text"]}>
-                          Choose a life list to find target species at nearby hotspots
-                        </span>
-                      </div>
-                      <div class={styles["form-group"]}>
-                        <label for="region-code">
-                          Region Code<span class={styles.required}>*</span>
-                        </label>
-                        <input
-                          id="region-code"
-                          type="text"
-                          value={regionCode.value}
-                          onInput$={(e) => regionCode.value = (e.target as HTMLInputElement).value.toUpperCase()}
-                          placeholder="e.g., US-CA, L10"
-                          required
-                        />
-                        <span class={styles["help-text"]}>
-                          eBird region code. Use <a href="https://ebird.org/region" target="_blank" rel="noopener">ebird.org/region</a> to find codes (e.g., US-CA for California, L10 for life list)
-                        </span>
-                      </div>
-                      <div class={styles["form-group"]}>
-                        <label for="target-date">
-                          Target Date<span class={styles.required}>*</span>
-                        </label>
-                        <input
-                          id="target-date"
-                          type="date"
-                          value={targetDate.value}
-                          onInput$={(e) => targetDate.value = (e.target as HTMLInputElement).value}
-                          required
-                        />
-                        <span class={styles["help-text"]}>
-                          The date you plan to go birding. Hotspots are scored based on recent sightings.
-                        </span>
-                      </div>
-                      <div class={styles["form-actions"]}>
-                        <button type="submit" disabled={isSubmitting.value}>
-                          {isSubmitting.value ? "Creating..." : "Create Report"}
-                        </button>
-                        <button 
-                          type="button" 
-                          class={styles["button-secondary"]}
-                          onClick$={() => {
-                            showForm.value = false;
-                            selectedList.value = "";
-                            regionCode.value = "";
-                            targetDate.value = "";
-                          }}
-                          disabled={isSubmitting.value}
-                        >
-                          Cancel
-                        </button>
-                      </div>
-                    </form>
-                  </article>
-                </section>
-              </div>
-            )}
+
             <section>
               <article>
                 <h3>My Reports</h3>

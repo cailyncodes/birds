@@ -1,0 +1,134 @@
+.region-selector {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.dropdown-container {
+  position: relative;
+}
+
+.dropdown-select {
+  position: relative;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+  cursor: pointer;
+  user-select: none;
+  width: 100%;
+  height: auto;
+  padding: 0.75rem 1rem;
+  border: 2px solid rgba(224, 171, 129, 0.3);
+  border-radius: 0.375rem;
+  color: #333;
+  background-clip: padding-box;
+  background-color: #fff;
+  box-shadow: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+
+  &:hover {
+    border-color: rgba(224, 171, 129, 0.5);
+  }
+
+  &.open {
+    border-color: #5e81ac;
+    box-shadow: 0 0 0 3px rgba(94, 129, 172, 0.1);
+  }
+
+  &.disabled {
+    background-color: #f5f5f5;
+    color: #999;
+    cursor: not-allowed;
+    border-color: rgba(224, 171, 129, 0.2);
+  }
+}
+
+.dropdown-menu {
+  position: absolute;
+  display: block;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  margin-top: 0.25rem;
+  border-radius: 0.375rem;
+  background-color: #fff;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.dropdown-menu-search {
+  display: block;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+  width: 100%;
+  height: auto;
+  padding: 0.65rem 1rem;
+  border: none;
+  border-bottom: 1px solid rgba(224, 171, 129, 0.2);
+  outline: none;
+  color: #333;
+  background-clip: padding-box;
+  background-color: #fafafa;
+  border-radius: 0.375rem 0.375rem 0 0;
+
+  &:focus {
+    background-color: #fff;
+  }
+}
+
+.dropdown-menu-inner {
+  max-height: 14rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: auto;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 0.25rem;
+    background-color: #ccc;
+  }
+}
+
+.dropdown-menu-item {
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: normal;
+  line-height: inherit;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.65rem 1rem;
+  background-color: #fff;
+  transition: background-color 0.2s;
+
+  &:hover {
+    background-color: #f5f5f5;
+  }
+
+  &.disabled {
+    color: #999;
+    cursor: not-allowed;
+
+    &:hover {
+      background-color: #fff;
+    }
+  }
+}
+
+.selected-code {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #5e81ac;
+  font-weight: 500;
+}
+
+.required {
+  color: #dc3545;
+  margin-left: 0.25rem;
+}
