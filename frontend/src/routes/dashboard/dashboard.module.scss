@@ -1,6 +1,61 @@
 @use "../../styles/global.scss" as *;
 
 // ============================================
+// DASHBOARD HEADER (full width)
+// ============================================
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: $space-2 $space-4;
+  background: $color-bg-warm;
+  border-bottom: 1px solid rgba(224, 171, 129, 0.15);
+
+  &Brand {
+    display: flex;
+    align-items: center;
+    gap: $space-3;
+
+    img {
+      width: 70px;
+      height: 70px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.5rem;
+      color: $color-dark-grey;
+      font-weight: $font-weight-semibold;
+    }
+  }
+
+  .header-title {
+    margin-left: $space-8;
+
+    h2 {
+      margin: 0;
+      font-size: 1.25rem;
+      color: $color-text-primary;
+      font-weight: $font-weight-medium;
+    }
+  }
+
+  .header-actions {
+    margin-left: auto;
+  }
+
+  @media screen and (max-width: $breakpoint-mobile) {
+    padding: $space-3 $space-4;
+    flex-wrap: wrap;
+    gap: $space-3;
+
+    .header-title {
+      margin-left: 0;
+    }
+  }
+}
+
+// ============================================
 // DASHBOARD CONTAINER
 // ============================================
 
@@ -72,6 +127,16 @@
         display: block;
         width: 100%;
       }
+    }
+
+    .separator {
+      height: 1px;
+      background: rgba(224, 171, 129, 0.25);
+      margin: $space-4 $space-6;
+    }
+
+    .external-links {
+      margin-top: auto;
     }
   }
 
