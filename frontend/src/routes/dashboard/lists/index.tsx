@@ -58,7 +58,6 @@ export default component$(() => {
                 ) : (
                     <section class={styles.lists}>
                         {listsContext.lists.map((list) => {
-                            const uniqueLocations = new Set(list.birds.map(b => b.Location).filter(Boolean)).size;
                             return (
                                 <article class={styles.listCard} key={list.name}>
                                     <div class={styles.cardHeader}>
@@ -71,10 +70,6 @@ export default component$(() => {
                                         <div class={styles.stat}>
                                             <span class={styles.statValue}>{list.birds.length}</span>
                                             <span class={styles.statLabel}>Birds</span>
-                                        </div>
-                                        <div class={styles.stat}>
-                                            <span class={styles.statValue}>{uniqueLocations}</span>
-                                            <span class={styles.statLabel}>Locations</span>
                                         </div>
                                     </div>
                                     <div class={styles.cardActions}>

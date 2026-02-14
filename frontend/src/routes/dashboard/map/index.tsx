@@ -1,6 +1,6 @@
-import { $, component$, useSignal, useVisibleTask$ } from "@builder.io/qwik";
+import { component$, useSignal, useVisibleTask$ } from "@builder.io/qwik";
 import { DocumentHead } from "@builder.io/qwik-city";
-import Map, { type Source } from "~/components/map/map";
+import { type Source } from "~/components/map/map";
 
 const convertToGeoJSON = (hotspots: Array<unknown>): { source: Source, layer: unknown } => {
     const source: Source = {
@@ -63,15 +63,23 @@ export default component$(() => {
         layers.value = [geoJson.layer]
     })
 
-    return (
-        <div style={{padding: 0}}>
-            <Map
-                sources={sources.value}
-                layers={layers.value}
-                onLocationChange$={$((location?: string) => searchText.value = location ?? '')}
-            />
-        </div>
-    )
+    return <div>
+        <h2>Map</h2>
+            <p>Coming soon - a better map for finding hotspots.</p>
+        {/* <article>
+            
+        </article> */}
+    </div>
+
+    // return (
+    //     <div style={{padding: 0}}>
+    //         <Map
+    //             sources={sources.value}
+    //             layers={layers.value}
+    //             onLocationChange$={$((location?: string) => searchText.value = location ?? '')}
+    //         />
+    //     </div>
+    // )
 });
 
 export const head: DocumentHead = {

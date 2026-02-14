@@ -63,29 +63,63 @@
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    position: relative;
+    
+    // Subtle decorative corner accent
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 60px;
+        height: 60px;
+        background: linear-gradient(135deg, transparent 50%, rgba($color-accent-3, 0.3) 50%);
+        z-index: 1;
+    }
     
     .cardHeader {
         padding: $space-5;
-        background: linear-gradient(135deg, $color-bg-soft 0%, $color-white 100%);
-        border-bottom: 1px solid $color-light-grey;
+        padding-right: $space-8;
+        background: linear-gradient(135deg, $color-primary-1 0%, color-mix(in srgb, $color-primary-1 80%, $color-primary-dark) 100%);
+        border-bottom: none;
+        position: relative;
+        overflow: hidden;
+        
+        // Subtle pattern overlay
+        &::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: radial-gradient(circle at 20% 80%, rgba($color-white, 0.1) 0%, transparent 50%),
+                              radial-gradient(circle at 80% 20%, rgba($color-white, 0.08) 0%, transparent 40%);
+            pointer-events: none;
+        }
     }
 
     .listInfo {
         display: flex;
         flex-direction: column;
         gap: $space-2;
+        position: relative;
+        z-index: 1;
     }
     
     .listName {
-        font-size: 1.25rem;
-        font-weight: $font-weight-semibold;
-        color: $color-primary-1;
+        font-size: 1.35rem;
+        font-weight: $font-weight-bold;
+        color: $color-white;
         margin: 0;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+        letter-spacing: -0.3px;
     }
     
     .listType {
         display: inline-flex;
         align-items: center;
+        gap: $space-1;
         background: linear-gradient(135deg, $color-accent-2 0%, $color-accent-3 100%);
         color: $color-white;
         padding: $space-1 $space-3;
@@ -109,30 +143,40 @@
         flex-direction: column;
         align-items: center;
         flex: 1;
-        padding: $space-3;
-        background: $color-bg-warm;
+        padding: $space-4 $space-3;
+        background: linear-gradient(180deg, $color-bg-warm 0%, darken($color-bg-warm, 2%) 100%);
         border-radius: $border-radius-md;
+        border: 1px solid rgba($color-light-grey, 0.5);
+        transition: transform $transition-base, box-shadow $transition-base;
+        
+        &:hover {
+            transform: translateY(-2px);
+            box-shadow: $shadow-sm;
+        }
     }
 
     .statValue {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
         font-weight: $font-weight-bold;
         color: $color-primary-1;
+        line-height: 1;
+        margin-bottom: $space-1;
     }
 
     .statLabel {
-        font-size: 0.75rem;
+        font-size: 0.7rem;
         text-transform: uppercase;
-        letter-spacing: 0.5px;
+        letter-spacing: 0.8px;
         color: $color-text-muted;
+        font-weight: $font-weight-medium;
     }
     
     .cardActions {
         display: flex;
-        gap: $space-2;
+        gap: $space-3;
         padding: $space-4 $space-5;
-        background: $color-bg-warm;
-        border-top: 1px solid $color-light-grey;
+        background: $color-white;
+        border-top: 1px solid rgba($color-light-grey, 0.5);
     }
 
     .viewBtn {
@@ -143,23 +187,45 @@
         gap: $space-2;
         background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
         min-width: unset;
+        padding: $space-3 $space-5;
+        font-weight: $font-weight-medium;
+        font-size: 0.9rem;
+        border-radius: $border-radius-md;
+        box-shadow: 0 2px 4px rgba($color-primary-1, 0.3);
+        transition: all $transition-base;
 
         &:hover {
-            background: linear-gradient(135deg, $color-primary-dark 0%, $color-primary-1 100%);
+            background: linear-gradient(135deg, $color-primary-dark 0%, darken($color-primary-1, 5%) 100%);
+            box-shadow: 0 4px 8px rgba($color-primary-1, 0.4);
+            transform: translateY(-1px);
+        }
+        
+        &:active {
+            transform: translateY(0);
+            box-shadow: 0 1px 2px rgba($color-primary-1, 0.3);
         }
     }
 
     .deleteBtn {
         background: transparent;
-        border: 1px solid $color-light-grey;
+        border: 1px solid rgba($color-light-grey, 0.8);
         color: $color-medium-grey;
         min-width: 44px;
-        padding: $space-2;
+        padding: $space-3;
+        border-radius: $border-radius-md;
+        transition: all $transition-base;
+        display: flex;
+        align-items: center;
+        justify-content: center;
 
         &:hover {
-            background: rgba($color-accent-1, 0.1);
+            background: rgba($color-accent-1, 0.08);
             border-color: $color-accent-1;
             color: $color-accent-1;
+        }
+        
+        &:active {
+            transform: scale(0.96);
         }
     }
 }

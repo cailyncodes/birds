@@ -99,7 +99,16 @@ export default component$(() => {
       isSubmitting.value = false;
     }
   });
-  // Fetch user jobs on component mount
+  const sortedJobs = jobs.value.slice().sort((a, b) => {
+    const dateA = new Date(a.target_date).getTime();
+    const dateB = new Date(b.target_date).getTime();
+    if (dateB !== dateA) {
+      return dateB - dateA;
+    }
+    const regionA = (a.region_name || a.region_code).toLowerCase();
+    const regionB = (b.region_name || b.region_code).toLowerCase();
+    return regionA.localeCompare(regionB);
+  });
   useVisibleTask$(async () => {
     const jwt = (await window.cookieStore.get("jwt"))?.value || "";
     const res = await fetch(`${import.meta.env.PUBLIC_API_URL}/api/jobs`, {
@@ -258,20 +267,20 @@ export default component$(() => {
             <section>
               <article>
                 <h3>My Reports</h3>
-                {jobs.value.length > 0 ?
-                  jobs.value.map((job) => (
+                {sortedJobs.length > 0 ?
+                  sortedJobs.map((job) => (
                     <article key={job.id} class={styles.article}>
                       {job.state === "running" ? (
                         <div class={styles["job-loading"]}>
                           <span class={`${styles["status-badge"]} ${styles["status-running"]}`}>Running</span>
-                          <span>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</span>
+                          <span>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date) + 86400000).toLocaleDateString()}</span>
                           <p>Report is being generated...</p>
                         </div>
                       ) : null}
                       {job.state === "completed" && job.response ? (
                         <div>
                           <div class={styles["job-header"]}>
-                            <h4>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
+                            <h4>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date) + 86400000).toLocaleDateString()}</h4>
                             <span class={`${styles["status-badge"]} ${styles["status-completed"]}`}>Completed</span>
                           </div>
                           {job.response.length === 0 || job.response[0].birdspot_score === 0 ? (
