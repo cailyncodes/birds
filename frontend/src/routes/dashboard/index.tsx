@@ -30,6 +30,7 @@ interface Toast {
 
 export default component$(() => {
   const onboardingComplete = useLocalstorage({ key: "birdspot.onboarding" });
+  const defaultRegion = useLocalstorage<string>({ key: "birdspot.defaults.region" });
   const lists = useContext(ListsContext)
   const showForm = useSignal(false);
   const jobs = useSignal<Job[]>([]);
@@ -45,6 +46,13 @@ export default component$(() => {
     setTimeout(() => {
       toasts.value = toasts.value.filter(t => t.id !== id);
     }, 4000);
+  });
+
+  useVisibleTask$(({ track }) => {
+    track(() => showForm.value);
+    if (showForm.value && !regionCode.value && defaultRegion.value) {
+      regionCode.value = defaultRegion.value;
+    }
   });
 
   const handleSubmit = $(async () => {

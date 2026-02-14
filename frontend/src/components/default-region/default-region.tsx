@@ -9,7 +9,13 @@ export default component$(() => {
     const settings = useContext(SettingsContext);
     const defaultRegion = useLocalstorage<string>({ key: "birdspot.defaults.region" });
     const editRegionDisplay = useSignal<boolean>(false);
-    const regionCodeSignal = useSignal<string>(defaultRegion.value ?? "");
+    const regionCodeSignal = useSignal<string>("");
+
+    useVisibleTask$(() => {
+        if (defaultRegion.value) {
+            regionCodeSignal.value = defaultRegion.value;
+        }
+    });
 
     useVisibleTask$(({ track }) => {
         track(() => regionCodeSignal.value);
