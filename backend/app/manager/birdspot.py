@@ -62,7 +62,7 @@ class BirdSpotManager:
         return result
 
     async def get_scores_for_region(
-        self, region_code: str, life_list: list, target_date: datetime.date, auth: str
+        self, region_code: str, life_list: list, life_list_name: str, target_date: datetime.date, auth: str
     ):
         possible_species = await self.ebird_manager.get_species_by_region(
             region_code, auth
