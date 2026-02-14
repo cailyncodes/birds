@@ -1,5 +1,5 @@
 import { $, component$, Slot, useContext, useContextProvider, useStore, useVisibleTask$ } from '@builder.io/qwik';
-import { RequestHandler, routeLoader$, useLocation } from '@builder.io/qwik-city';
+import { RequestHandler, routeLoader$ } from '@builder.io/qwik-city';
 
 import NavLink from '~/components/nav-link/nav-link';
 
@@ -33,23 +33,10 @@ export default component$(() => {
     useContextProvider(ListsContext, useStore({ lists: listsBacking.value ?? [] }));
     const listContext = useContext(ListsContext);
 
-    const location = useLocation();
-
     useVisibleTask$(({ track }) => {
         track(() => listsBacking.value);
         listContext.lists = listsBacking.value ?? [];
-    })
-
-    const getPageTitle = () => {
-        const path = location.url.pathname;
-        if (path === '/dashboard/' || path === '/dashboard') return 'Overview';
-        if (path.includes('/lists')) return 'Lists';
-        if (path.includes('/map')) return 'Map';
-        if (path.includes('/trips')) return 'Trips';
-        if (path.includes('/alerts')) return 'Alerts';
-        if (path.includes('/settings')) return 'Settings';
-        return 'Dashboard';
-    };
+    });
 
     return (
         <div id="root">

@@ -11,6 +11,7 @@ REGIONS_DIRECTORY = "data/regions/"
 REGIONS_LIST_PATH = "data/regions/all_regions_flat.json"
 REGIONS_PICKLE_PATH = "data/regions/all_regions_flat.pkl"
 
+
 @minject.define()
 class RegionSearch:
     """
@@ -31,14 +32,13 @@ class RegionSearch:
         if list_exists := os.path.exists(REGIONS_LIST_PATH):
             with open(REGIONS_LIST_PATH, "r") as f:
                 self.regions = json.load(f)
-        
+
         # Then check if the pickle file exists
         if pickle_exists := os.path.exists(REGIONS_PICKLE_PATH):
             with open(REGIONS_PICKLE_PATH, "rb") as pf:
                 regions_search: Trie = pickle.load(pf)
                 self.regions_search = regions_search
             return self
-
 
         # If pickle doesn't exist and the list does, build the Trie
         if list_exists and not pickle_exists:
@@ -48,28 +48,50 @@ class RegionSearch:
             for region_name in regions_map.keys():
                 self.regions_search.insert(region_name)
             return self
-            
+
         raise FileNotFoundError("Region data files not found.")
 
-    def search_by_name(self, name: str, max_results: Optional[int] = None) -> tuple[list[dict[str, str]], int]:
+    def search_by_name(
+        self, name: str, max_results: Optional[int] = None
+    ) -> tuple[list[dict[str, str]], int]:
         """
         Search for regions by name.
         """
-        max_results = min(max_results or len(self.regions.keys()), len(self.regions.keys()))
+        max_results = min(
+            max_results or len(self.regions.keys()), len(self.regions.keys())
+        )
         results = self.regions_search.search(name)
         results.sort(key=lambda r: self._match_score(r, name))
-        hydrated_results = [{"name": r, "code": self.regions[r]} for r in results[:max_results] if self.regions.get(r) is not None]
-        
+        hydrated_results = [
+            {"name": r, "code": self.regions[r]}
+            for r in results[:max_results]
+            if self.regions.get(r) is not None
+        ]
+
         return hydrated_results, len(results)
-    
-    def get_regions_for_country(self, country_code: str) -> dict[str, str]:
-        """
-        Get all regions for a given country code.
-        """
-        with open(os.path.join(REGIONS_DIRECTORY, f"country_{country_code}_regions.json"), "r") as f:
-            regions = json.load(f)
+
+    def get_regions_for_country(self, country_code: str) -> list[dict[str, str]]:
+        with open(
+            os.path.join(REGIONS_DIRECTORY, f"country_{country_code}_regions.json"), "r"
+        ) as f:
+            regions: list[dict[str, str]] = json.load(f)
         return regions
-    
+
+    def get_region_by_code(self, region_code: str) -> Optional[dict[str, str]]:
+        country_code = region_code.split("-")[0] if "-" in region_code else None
+        if not country_code:
+            return None
+
+        try:
+            regions = self.get_regions_for_country(country_code)
+            for region in regions:
+                if region.get("code") == region_code:
+                    return region
+        except FileNotFoundError:
+            pass
+
+        return None
+
     def _match_score(self, region: str, query: str) -> tuple[int, int, int, str]:
         """
         Sorting key for a region string.
@@ -85,10 +107,10 @@ class RegionSearch:
         - region_lower: for alphabetical fallback
         """
         q = query.strip().lower()
-        parts = [p.strip().lower() + ',' for p in region.split(',')]
+        parts = [p.strip().lower() + "," for p in region.split(",")]
 
-        best_index = 10**9      # "no match" sentinel; big so matches sort first
-        best_exact_flag = 2     # 0 = exact, 1 = partial, 2 = no match
+        best_index = 10**9  # "no match" sentinel; big so matches sort first
+        best_exact_flag = 2  # 0 = exact, 1 = partial, 2 = no match
         best_prefix_len = 0
 
         for idx, part in enumerate(parts):
@@ -98,9 +120,13 @@ class RegionSearch:
                 exact_flag = 0 if len(part) == len(q) else 1
 
                 if (
-                    idx < best_index or
-                    (idx == best_index and exact_flag < best_exact_flag) or
-                    (idx == best_index and exact_flag == best_exact_flag and prefix_len > best_prefix_len)
+                    idx < best_index
+                    or (idx == best_index and exact_flag < best_exact_flag)
+                    or (
+                        idx == best_index
+                        and exact_flag == best_exact_flag
+                        and prefix_len > best_prefix_len
+                    )
                 ):
                     best_index = idx
                     best_exact_flag = exact_flag
@@ -112,4 +138,3 @@ class RegionSearch:
             -best_prefix_len,
             region.lower(),  # alphabetical fallback
         )
-

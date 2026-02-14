@@ -152,12 +152,14 @@ class BirdSpotHandler(HTTPMethodView):
                 {"error": "life_list must be specified in request body"}, status=400
             )
 
+        life_list_name = body.get("life_list_name", "Life List")
         job = self.job_manager.create_job(
             credentials.identifier,
             self.birdspot_manager.get_scores_for_region,
             payload={
                 "region_code": region_code,
                 "life_list": life_list.get("birds", []),
+                "life_list_name": life_list_name,
                 "target_date": target_date,
                 "auth": ebird_api_key,
             },
@@ -188,8 +190,14 @@ class JobHandler(HTTPMethodView):
 
 
 class UserJobsHandler(HTTPMethodView):
-    def __init__(self, job_manager: JobManager, auth_provider: AuthProvider):
+    def __init__(
+        self,
+        job_manager: JobManager,
+        region_search: RegionSearch,
+        auth_provider: AuthProvider,
+    ):
         self.job_manager = job_manager
+        self.region_search = region_search
         self.auth = Auth(auth_provider)
 
     @Auth.requires_auth(
@@ -198,21 +206,26 @@ class UserJobsHandler(HTTPMethodView):
     )
     async def get(self, credentials: Credentials, request: Request):
         jobs = self.job_manager.get_jobs_for_owner(credentials.identifier)
-        return response.json(
-            [
-                {
-                    "id": job.id,
-                    "state": job.state,
-                    "target_date": job.get_decoded_payload()
-                    .get("target_date", None)
-                    .strftime("%Y-%m-%dT%H:%M:%S.%fZ"),
-                    "region_code": job.get_decoded_payload().get("region_code", None),
-                    "life_list": job.get_decoded_payload().get("life_list", None),
-                    "response": job.response,
-                }
-                for job in jobs
-            ]
+        return response.json([self._job_to_dict(job) for job in jobs])
+
+    def _job_to_dict(self, job):
+        payload = job.get_decoded_payload()
+        region_code = payload.get("region_code", None)
+        region_info = (
+            self.region_search.get_region_by_code(region_code) if region_code else None
         )
+        return {
+            "id": job.id,
+            "state": job.state,
+            "target_date": payload.get("target_date", None).strftime(
+                "%Y-%m-%dT%H:%M:%S.%fZ"
+            ),
+            "region_code": region_code,
+            "region_name": region_info.get("name") if region_info else None,
+            "life_list": payload.get("life_list", None),
+            "life_list_name": payload.get("life_list_name", None),
+            "response": job.response,
+        }
 
 
 class UserHandler(HTTPMethodView):
@@ -320,6 +333,7 @@ app.add_route(
 app.add_route(
     UserJobsHandler.as_view(
         job_manager=registry[JobManager],
+        region_search=registry[RegionSearch],
         auth_provider=registry[FileAuth],
     ),
     "/api/jobs",

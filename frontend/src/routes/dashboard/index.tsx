@@ -11,8 +11,10 @@ interface Job {
   id: string;
   state: "running" | "completed" | "failed";
   region_code: string;
+  region_name: string | null;
   target_date: string;
   life_list: string[];
+  life_list_name: string | null;
   response?: {
     birdspot_score: number;
     location: { locId: string; locName: string };
@@ -63,6 +65,7 @@ export default component$(() => {
         },
         body: JSON.stringify({
           life_list: lifeList,
+          life_list_name: selectedList.value,
           target_date: targetDate.value,
         }),
       });
@@ -261,14 +264,14 @@ export default component$(() => {
                       {job.state === "running" ? (
                         <div class={styles["job-loading"]}>
                           <span class={`${styles["status-badge"]} ${styles["status-running"]}`}>Running</span>
-                          <span>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</span>
+                          <span>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</span>
                           <p>Report is being generated...</p>
                         </div>
                       ) : null}
                       {job.state === "completed" && job.response ? (
                         <div>
                           <div class={styles["job-header"]}>
-                            <h4>{job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
+                            <h4>{job.region_name || job.region_code} on {new Date(Date.parse(job.target_date)).toLocaleDateString()}</h4>
                             <span class={`${styles["status-badge"]} ${styles["status-completed"]}`}>Completed</span>
                           </div>
                           {job.response.length === 0 || job.response[0].birdspot_score === 0 ? (
@@ -295,7 +298,7 @@ export default component$(() => {
                               ))}
                             </ul>
                           )}
-                          <p class={styles["list-info"]}>Used list size: {job.life_list.length} species</p>
+                          <p class={styles["list-info"]}>Used list: {job.life_list_name || "Life List"} ({job.life_list.length} species)</p>
                         </div>
                       ) : null}
                       {job.state === "failed" ? (
