@@ -17,6 +17,14 @@ class BirdSpotManager:
     def __init__(self, ebird_manager: EBirdManager):
         self.ebird_manager = ebird_manager
 
+    def _normalize_taxon_order(self, value) -> str | None:
+        if value is None:
+            return None
+        try:
+            return str(int(float(value)))
+        except (ValueError, TypeError):
+            return None
+
     def get_missing_species(
         self, possible_species: list[EBirdTaxon], species: list
     ) -> list:
@@ -24,11 +32,16 @@ class BirdSpotManager:
             seen_species = set()
             for s in species:
                 if isinstance(s, dict):
-                    seen_species.add(s.get("Taxon Order"))
+                    normalized = self._normalize_taxon_order(s.get("Taxon Order"))
+                    if normalized:
+                        seen_species.add(normalized)
                 elif isinstance(s, list):
                     if len(s) > 0 and isinstance(s[0], dict):
-                        seen_species.add(s[0].get("Taxon Order"))
-            seen_species.discard(None)
+                        normalized = self._normalize_taxon_order(
+                            s[0].get("Taxon Order")
+                        )
+                        if normalized:
+                            seen_species.add(normalized)
         except Exception:
             seen_species = set()
 
