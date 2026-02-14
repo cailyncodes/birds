@@ -157,6 +157,8 @@
 
 .methodLink {
   display: inline-block;
+  margin: 0 auto;
+  width: fit-content;
   color: $color-primary-1;
   font-weight: $font-weight-semibold;
   text-decoration: none;

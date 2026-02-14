@@ -661,7 +661,7 @@ nav {
     align-items: center;
     justify-content: center;
     padding: $space-4 $space-8;
-    background: linear-gradient(135deg, $color-accent-2 0%, color-mix(in srgb, $color-accent-2 85%, $color-primary-1) 100%);
+    background: linear-gradient(135deg, $color-accent-1 0%, color-mix(in srgb, $color-accent-1 85%, $color-primary-1) 100%);
     color: $color-white;
     font-weight: $font-weight-semibold;
     font-size: 1.125rem;
@@ -673,7 +673,8 @@ nav {
     &:hover {
         transform: translateY(-2px);
         box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-2 90%, $color-white) 0%, $color-accent-2 100%);
+        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-1 95%, $color-black) 0%, color-mix(in srgb, $color-accent-1 85%, $color-primary-dark) 100%);
+        color: $color-white;
     }
 }
 
@@ -686,12 +687,10 @@ nav {
     font-weight: $font-weight-medium;
     font-size: 1.125rem;
     text-decoration: none;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
     transition: all $transition-fast;
 
     &:hover {
-        border-bottom-color: $color-white;
-        color: $color-white;
+        color: $color-light-grey;
     }
 }
 
@@ -936,7 +935,7 @@ nav {
     align-items: center;
     justify-content: center;
     padding: $space-5 $space-10;
-    background: linear-gradient(135deg, $color-accent-2 0%, color-mix(in srgb, $color-accent-2 85%, $color-primary-1) 100%);
+    background: linear-gradient(135deg, $color-accent-1 0%, color-mix(in srgb, $color-accent-1 85%, $color-primary-1) 100%);
     color: $color-white;
     font-weight: $font-weight-semibold;
     font-size: 1.25rem;
@@ -949,7 +948,8 @@ nav {
     &:hover {
         transform: translateY(-2px);
         box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-2 90%, $color-white) 0%, $color-accent-2 100%);
+        background: linear-gradient(135deg, color-mix(in srgb, $color-accent-1 95%, $color-black) 0%, color-mix(in srgb, $color-accent-1 85%, $color-primary-dark) 100%);
+        color: $color-white;
     }
 }
 
