@@ -1,6 +1,6 @@
 import { $, component$, useSignal, type Signal } from "@builder.io/qwik";
 
-import "./region-selector.css";
+import styles from "./region-selector.module.scss";
 
 interface RegionSelectorProps {
   selectedRegionCode: Signal<string>;
@@ -274,14 +274,14 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
   );
 
   return (
-    <div class="region-selector">
+    <div class={styles.regionSelector}>
       <div class="form-group">
         <label for="country-select">
-          Country{required && <span class="required">*</span>}
+          Country{required && <span class={styles.required}>*</span>}
         </label>
-        <div class="dropdown-container">
+        <div class={styles.dropdownContainer}>
           <div
-            class={`dropdown-select ${countryDropdownOpen.value ? "open" : ""}`}
+            class={`${styles.dropdownSelect} ${countryDropdownOpen.value ? styles.open : ""}`}
             onClick$={() => {
               countryDropdownOpen.value = !countryDropdownOpen.value;
               if (!countryDropdownOpen.value) {
@@ -292,9 +292,9 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
             {countryCode.value ? getCountryByCode(countryCode.value) : "Select a country"}
           </div>
           {countryDropdownOpen.value && (
-            <div class="dropdown-menu">
+            <div class={styles.dropdownMenu}>
               <input
-                class="dropdown-menu-search"
+                class={styles.dropdownMenuSearch}
                 placeholder="Search countries..."
                 type="text"
                 value={countryTextFilter.value}
@@ -303,11 +303,11 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
                 }}
                 onClick$={(e) => e.stopPropagation()}
               />
-              <div class="dropdown-menu-inner">
+              <div class={styles.dropdownMenuInner}>
                 {filteredCountries.map((country) => (
                   <div
                     key={country.value}
-                    class="dropdown-menu-item"
+                    class={styles.dropdownMenuItem}
                     data-value={country.value}
                     onClick$={(e) => {
                       const target = e.target as HTMLDivElement;
@@ -331,11 +331,11 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
 
       <div class="form-group">
         <label for="region-select">
-          Region{required && <span class="required">*</span>}
+          Region{required && <span class={styles.required}>*</span>}
         </label>
-        <div class="dropdown-container">
+        <div class={styles.dropdownContainer}>
           <div
-            class={`dropdown-select ${regionDropdownOpen.value ? "open" : ""} ${!countryCode.value ? "disabled" : ""}`}
+            class={`${styles.dropdownSelect} ${regionDropdownOpen.value ? styles.open : ""} ${!countryCode.value ? styles.disabled : ""}`}
             onClick$={() => {
               if (!countryCode.value) return;
               regionDropdownOpen.value = !regionDropdownOpen.value;
@@ -351,9 +351,9 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
                 : "Select a country first"}
           </div>
           {regionDropdownOpen.value && countryCode.value && (
-            <div class="dropdown-menu">
+            <div class={styles.dropdownMenu}>
               <input
-                class="dropdown-menu-search"
+                class={styles.dropdownMenuSearch}
                 placeholder="Search regions..."
                 type="text"
                 value={regionTextFilter.value}
@@ -362,12 +362,12 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
                 }}
                 onClick$={(e) => e.stopPropagation()}
               />
-              <div class="dropdown-menu-inner">
+              <div class={styles.dropdownMenuInner}>
                 {filteredRegions.length > 0 ? (
                   filteredRegions.map((region) => (
                     <div
                       key={region.code}
-                      class="dropdown-menu-item"
+                      class={styles.dropdownMenuItem}
                       data-value={region.code}
                       onClick$={(e) => {
                         const target = e.target as HTMLDivElement;
@@ -381,14 +381,14 @@ export default component$<RegionSelectorProps>(({ selectedRegionCode, required =
                     </div>
                   ))
                 ) : (
-                  <div class="dropdown-menu-item disabled">No regions found</div>
+                  <div class={`${styles.dropdownMenuItem} ${styles.disabled}`}>No regions found</div>
                 )}
               </div>
             </div>
           )}
         </div>
         {selectedRegionCode.value && (
-          <span class="selected-code">Code: {selectedRegionCode.value}</span>
+          <span class={styles.selectedCode}>Code: {selectedRegionCode.value}</span>
         )}
       </div>
     </div>

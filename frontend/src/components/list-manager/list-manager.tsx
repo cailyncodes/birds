@@ -3,7 +3,7 @@ import { csvToJson } from "~/lib/csv";
 import { FileUpload } from "../file-upload/file-upload";
 
 import { Bird, List } from "~/lib/types";
-import "./list-manager.css";
+import styles from "./list-manager.module.scss";
 
 interface ListManagerProps {
     onListAdd$: QRL<(list: List) => void>;
@@ -32,7 +32,7 @@ export default component$(({ onListAdd$ }: ListManagerProps) => {
     return (
         <div class='list-manager-wrapper'>
             <section class="list-actions">
-                <div class="list-add">
+                <div class={styles.listAdd}>
                     <form>
                         <label for="list-add-name">List Name: </label>
                         <input id="list-add-name" name="name" onInput$={(e) => newList.name = (e.target as HTMLInputElement).value}></input>

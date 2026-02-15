@@ -1,0 +1,15 @@
+.listAdd {
+    label {
+        display: block;
+        margin: 0.5rem 0 0.2rem 0;
+
+        &:first-of-type {
+            margin-top: 1rem;
+        }
+    }
+
+    input {
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+}

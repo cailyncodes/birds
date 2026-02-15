@@ -20,7 +20,7 @@ export default component$(() => {
                     <img src="/logo.png" width="85" height="85" alt="BirdSpot logo" />
                     <h1><Link href="/">BirdSpot</Link></h1>
                 </div>
-                <button
+                <div
                     class={styles.hamburger}
                     onClick$={() => isMenuOpen.value = !isMenuOpen.value}
                     aria-label="Toggle navigation"
@@ -29,15 +29,15 @@ export default component$(() => {
                     <span class={styles.bar}></span>
                     <span class={styles.bar}></span>
                     <span class={styles.bar}></span>
-                </button>
+                </div>
                 <nav class={isMenuOpen.value ? styles["mobile-nav-open"] : null} aria-label="Main navigation">
                     <ul>
-                        <li><Link href="/" data-active={location.url.pathname == "/"}>Home</Link></li>
-                        <li><Link href="/about/" data-active={location.url.pathname == "/about/"}>About</Link></li>
-                        <li><Link href="/donate/" prefetch={false} data-active={location.url.pathname == "/donate/"}>Donate</Link></li>
+                        <li><Link href="/" data-active={location.url.pathname == "/"} onClick$={() => isMenuOpen.value = false}>Home</Link></li>
+                        <li><Link href="/about/" data-active={location.url.pathname == "/about/"} onClick$={() => isMenuOpen.value = false}>About</Link></li>
+                        <li><Link href="/donate/" prefetch={false} data-active={location.url.pathname == "/donate/"} onClick$={() => isMenuOpen.value = false}>Donate</Link></li>
                         {isLoggedIn.value ?
-                            <li><Link href="/dashboard/" data-active={location.url.pathname == "/dashboard/"}>Dashboard</Link></li> :
-                            <li><Link href="/signin/" data-active={location.url.pathname == "/signin/"}>Sign In</Link></li>
+                            <li><Link href="/dashboard/" data-active={location.url.pathname == "/dashboard/"} onClick$={() => isMenuOpen.value = false}>Dashboard</Link></li> :
+                            <li><Link href="/signin/" data-active={location.url.pathname == "/signin/"} onClick$={() => isMenuOpen.value = false}>Sign In</Link></li>
                         }
                     </ul>
                 </nav>
@@ -45,11 +45,6 @@ export default component$(() => {
             <main class={styles["content-main"]} onClick$={() => isMenuOpen.value = false}>
                 <Slot />
             </main>
-            <footer class={styles.footer}>
-                <div class={styles["footer-content"]}>
-                    <p class={styles["footer-copy"]}>Made with love for birders everywhere.</p>
-                </div>
-            </footer>
         </div>
     );
 });

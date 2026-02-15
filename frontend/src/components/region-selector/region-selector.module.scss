@@ -1,14 +1,14 @@
-.region-selector {
+.regionSelector {
   display: flex;
   flex-direction: column;
   gap: 1rem;
 }
 
-.dropdown-container {
+.dropdownContainer {
   position: relative;
 }
 
-.dropdown-select {
+.dropdownSelect {
   position: relative;
   font-family: inherit;
   font-size: 0.95rem;
@@ -44,7 +44,7 @@
   }
 }
 
-.dropdown-menu {
+.dropdownMenu {
   position: absolute;
   display: block;
   top: 100%;
@@ -57,7 +57,7 @@
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
-.dropdown-menu-search {
+.dropdownMenuSearch {
   display: block;
   font-family: inherit;
   font-size: 0.95rem;
@@ -79,7 +79,7 @@
   }
 }
 
-.dropdown-menu-inner {
+.dropdownMenuInner {
   max-height: 14rem;
   overflow-y: scroll;
   overflow-x: hidden;
@@ -95,7 +95,7 @@
   }
 }
 
-.dropdown-menu-item {
+.dropdownMenuItem {
   font-family: inherit;
   font-size: 0.95rem;
   font-weight: normal;
@@ -120,7 +120,7 @@
   }
 }
 
-.selected-code {
+.selectedCode {
   display: inline-block;
   margin-top: 0.5rem;
   font-size: 0.85rem;

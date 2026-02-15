@@ -4,7 +4,7 @@ import mapboxgl, { GeoJSONSourceSpecification, RasterArraySourceSpecification, S
 
 import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
 import 'mapbox-gl/dist/mapbox-gl.css';
-import "./map.css";
+import styles from "./map.module.scss";
 
 const BIRDSPOT_DEFAULT = "mapbox://styles/cailyncodes/cmig9prkg008s01qthpjt4y1g";
 const BIRDSPOT_SATELLITE = "mapbox://styles/cailyncodes/cmigatj9b00mj01s4a3woat6e";
@@ -58,7 +58,6 @@ export default component$(({ sources, layers, onLocationChange$ }: MapProps) => 
         if (!mapContainerRef.value) return;
 
         // TODO(cailyn): Read from config
-        mapboxgl.accessToken = "pk.eyJ1IjoiY2FpbHluY29kZXMiLCJhIjoiY21pZzhtcHEwMDQycjNmcHZkYjBjejhjeCJ9.Yq15jupSJy5JDiOI_9IKpg";
         mapRef.value = new mapboxgl.Map({
             container: mapContainerRef.value,
             center: [-74.0242, 40.6941],
@@ -67,7 +66,6 @@ export default component$(({ sources, layers, onLocationChange$ }: MapProps) => 
         });
 
         maxboxGeocoder.value = new MapboxGeocoder({
-            accessToken: "pk.eyJ1IjoiY2FpbHluY29kZXMiLCJhIjoiY21pZzhtcHEwMDQycjNmcHZkYjBjejhjeCJ9.Yq15jupSJy5JDiOI_9IKpg",
             useBrowserFocus: true,
             enableGeolocation: true,
             addressAccuracy: 'place',
@@ -112,12 +110,12 @@ export default component$(({ sources, layers, onLocationChange$ }: MapProps) => 
     })
 
     return (
-        <div class='map-wrapper'>
-            <div class='map-style-controls'>
+        <div class={styles.mapWrapper}>
+            <div class={styles.mapStyleControls}>
                 <button onClick$={() => mapStyle.value = BIRDSPOT_DEFAULT}>Default</button>
                 <button onClick$={() => mapStyle.value = BIRDSPOT_SATELLITE}>Satellite</button>
             </div>
-            <div class='map-container' ref={mapContainerRef}/>
+            <div class={styles.mapContainer} ref={mapContainerRef}/>
         </div>
     )
 })

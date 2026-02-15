@@ -65,21 +65,22 @@ nav {
                     }
                 }
 
+                @media (hover: none) and (max-width: 540px) {
+                    &:hover {
+                        color: inherit;
+                    }
+                }
+
                 &:hover {
                     color: $color-text-primary;
                 }
             }
 
-            &:hover {
-                a:not([data-active])::after {
-                    content: '';
-                    position: absolute;
-                    bottom: 0;
-                    left: 0;
-                    right: 0;
-                    height: 2px;
-                    background: color-mix(in srgb, $color-accent-3 50%, transparent);
-                    border-radius: 1px;
+            @media (hover: none) and (max-width: 540px) {
+                &:hover {
+                    a:not([data-active])::after {
+                        display: none;
+                    }
                 }
             }
         }
@@ -107,10 +108,29 @@ nav {
                 flex-direction: column;
                 align-items: center;
                 padding: $space-4 0 0 0;
-                gap: $space-4;
+                gap: $space-2;
 
                 li {
                     margin: 0;
+                    width: 100%;
+
+                    a {
+                        display: block;
+                        padding: $space-3 $space-4;
+                        min-height: 44px;
+                        text-align: center;
+                        border-radius: $border-radius-md;
+                        -webkit-tap-highlight-color: transparent;
+
+                        &:hover {
+                            color: inherit;
+                            background: transparent;
+                        }
+
+                        &:active {
+                            background: rgba(0, 0, 0, 0.05);
+                        }
+                    }
                 }
             }
         }
@@ -124,9 +144,9 @@ nav {
     justify-content: space-around;
     justify-self: right;
     align-self: center;
-    width: 28px;
-    height: 22px;
-    margin-right: $space-4;
+    width: 30px;
+    height: 18px;
+    margin-right: $space-8;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -137,6 +157,12 @@ nav {
         display: flex;
     }
 
+    @media (hover: none) and (max-width: 540px) {
+        &:hover {
+            background-color: transparent;
+        }
+    }
+
     &:hover {
         background-color: unset;
     }
@@ -144,7 +170,7 @@ nav {
 
 .hamburger .bar {
     width: 100%;
-    height: 2.5px;
+    height: 2px;
     background: $color-text-primary;
     border-radius: 2px;
     transition: all $transition-fast;
@@ -495,38 +521,6 @@ nav {
 
 .content-main {
     flex: 1 0 auto;
-}
-
-// ============================================
-// FOOTER
-// ============================================
-
-.footer {
-    flex-shrink: 0;
-    background: linear-gradient(135deg, $color-primary-1 0%, $color-primary-dark 100%);
-    color: $color-white;
-    padding: $space-8 $space-6;
-    margin-top: auto;
-
-    &-content {
-        @include container;
-        max-width: 800px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: $space-6;
-        text-align: center;
-    }
-
-    @media screen and (max-width: 480px) {
-        gap: $space-6;
-    }
-
-    &-copy {
-        font-size: 0.875rem;
-        color: rgba(255, 255, 255, 0.7);
-        margin: 0;
-    }
 }
 
 // ============================================

@@ -1,0 +1,36 @@
+:root {
+    --button-bg-color: #fdfdfd;
+    --button-color: #121212;
+}
+
+.mapWrapper {
+    display: grid;
+}
+
+.mapStyleControls {
+    position: relative;
+    height: 0px;
+    z-index: 1;
+    left: 10px;
+    top: 10px;
+
+    button {
+        display: block;
+        width: 100px;
+        height: 35px;
+        margin: 2px;
+        
+        background-color: var(--button-bg-color);
+        color: var(--button-color);
+        border: none;
+        border-radius: 2px;
+
+        &:hover {
+            --button-bg-color: #d1d1d1e2;
+        }
+    }
+}
+
+.mapContainer {
+    min-height: calc(max(50vh, 600px));
+}
